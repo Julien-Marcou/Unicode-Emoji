@@ -1,0 +1,25 @@
+{
+  "name": "unicode-emoji",
+  "version": "1.0.0",
+  "description": "Raw data for Unicode Emoji 🙂",
+  "homepage": "https://github.com/julien-marcou/unicode-emoji#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/julien-marcou/unicode-emoji"
+  },
+  "keywords": [
+    "unicode",
+    "emoji",
+    "smiley",
+    "emoticon",
+    "emojis",
+    "smileys",
+    "emoticons",
+    "data",
+    "json"
+  ],
+  "main": "index.js",
+  "devDependencies": {
+    "htmlparser2": "^4.1.0"
+  }
+}
