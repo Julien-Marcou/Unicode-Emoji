@@ -1,4 +1,4 @@
-const UNICODE_EMOJI = require('./unicode-emoji.min.json');
+const UNICODE_EMOJI = require('./unicode-emoji.js');
 
 function groupEmojis(emojis, groupBy) {
   const groupedEmojis = {};

@@ -83,7 +83,7 @@ const annotationsInput = `https://raw.githubusercontent.com/unicode-org/cldr/rel
 const derivedAnnotationsInput = `https://raw.githubusercontent.com/unicode-org/cldr/release-${unicodeCldrVersion}/common/annotationsDerived/${unicodeCldrLocale}.xml`;
 const csvOutput = `${__dirname}/unicode-emoji.csv`;
 const jsonOutput = `${__dirname}/unicode-emoji.json`;
-const minifiedJsonOutput = `${__dirname}/unicode-emoji.min.json`;
+const jsOutput = `${__dirname}/unicode-emoji.js`;
 
 // Config to parse emojis file
 const commentPrefix = '#';
@@ -330,10 +330,10 @@ function saveResults() {
   }
   fs.writeFileSync(csvOutput, csvResult);
 
-  // Save non-minified JSON
+  // Save JSON
   fs.writeFileSync(jsonOutput, JSON.stringify(results, null, 2));
 
-  // Save minified JSON (also removed not very useful fields)
+  // Save JS
   for (const componentGroup in results.components) {
     results.components[componentGroup].forEach((component) => {
       delete component.codePoint;
@@ -350,7 +350,7 @@ function saveResults() {
       })
     }
   });
-  fs.writeFileSync(minifiedJsonOutput, JSON.stringify(results));
+  fs.writeFileSync(jsOutput, `module.exports = ${JSON.stringify(results)};`);
 }
 
 // Retrieve emojis online
