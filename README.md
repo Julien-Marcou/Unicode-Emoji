@@ -4,11 +4,13 @@ Raw data for Unicode Emoji 🙂
 
 The data are generated using the `Unicode Emoji, Version 13.0` from [Unicode](https://home.unicode.org/emoji/about-emoji/)  
 
-You can learn more about emojis at [Emojipedia](https://emojipedia.org/)
+You can learn more about emojis at [Emojipedia](https://emojipedia.org/) or find some implementation details and trivia on the [Wiki](https://github.com/Julien-Marcou/Unicode-Emoji/wiki)
 
 ## 👉 Demo
 
-[Here](http://emoji.julien-marcou.fr/) is an example of what you can achieve using this package
+Check the generated [CSV file](https://github.com/Julien-Marcou/Unicode-Emoji/blob/master/unicode-emoji.csv)
+
+Or just [take a look](https://emoji.julien-marcou.fr/) of what you can achieve using this package
 
 
 ## 🔌 Installation
@@ -21,14 +23,10 @@ npm install unicode-emoji
 
 ### Import
 
-```typescript
-// With Typescript
-import * as unicodeEmoji from 'unicode-emoji';
-```
+This NPM package uses the ES6 import syntax (you'll need Node.js v14+ if you are not using TypeScript)
 
 ```javascript
-// With Node.js
-const unicodeEmoji = require('unicode-emoji');
+import * as unicodeEmoji from 'unicode-emoji';
 ```
 
 ### Retrieve emojis
@@ -36,10 +34,11 @@ const unicodeEmoji = require('unicode-emoji');
 ```javascript
 unicodeEmoji.getEmojis();
 ```
-```json
+
+```javascript
 [
     {
-        "emoji": "😀",
+        "emoji": "😀", // Emoji without skin tone variation
         "description": "grinning face",
         "version": "1.0",
         "keywords": ["face", "grin", "grinning face"],
@@ -48,7 +47,7 @@ unicodeEmoji.getEmojis();
         "subgroup": "face-smiling"
     },
     {
-        "emoji": "👋",
+        "emoji": "👋", // Emoji with skin tone variation
         "description": "waving hand",
         "version": "0.6",
         "keywords": ["hand", "wave", "waving"],
@@ -62,13 +61,14 @@ unicodeEmoji.getEmojis();
                 "version": "1.0"
             },
             {
-                ...
-            }
+                "emoji": "👋🏼",
+                "description": "waving hand: medium-light skin tone",
+                "version": "1.0"
+            },
+            // ...
         ]
     },
-    {
-        ...
-    }
+    // ...
 ]
 ```
 
@@ -78,7 +78,7 @@ unicodeEmoji.getEmojis();
 unicodeEmoji.getComponents();
 ```
 
-```json
+```javascript
 {
     "skin-tone": [
         {
@@ -87,8 +87,11 @@ unicodeEmoji.getComponents();
             "version": "1.0"
         },
         {
-            ...
-        }
+            "emoji": "🏼",
+            "description": "medium-light skin tone",
+            "version": "1.0"
+        },
+        // ...
     ],
     "hair-style": [
         {
@@ -97,8 +100,11 @@ unicodeEmoji.getComponents();
             "version": "11.0"
         },
         {
-            ...
-        }
+            "emoji": "🦱",
+            "description": "curly hair",
+            "version": "11.0"
+        },
+        // ...
     ]
 }
 ```
@@ -130,4 +136,4 @@ While complete data are available on GitHub :
  - `unicode-emoji.csv` provides complete flat data
  - `unicode-emoji.json` provides complete hierarchical data
 
-Only the stripped-down `unicode-emoji.min.json` file is bundled within this NPM package to greatly reduce its size
+Only the stripped-down `unicode-emoji.js` file is bundled within this NPM package to greatly reduce its size
