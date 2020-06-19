@@ -20,6 +20,7 @@
   ],
   "main": "index.js",
   "type": "module",
+  "license": "UNLICENSED",
   "devDependencies": {
     "htmlparser2": "^4.1.0"
   }
