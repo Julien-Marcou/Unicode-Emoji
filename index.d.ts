@@ -18,11 +18,6 @@ export interface EmojiComponent extends Emoji {
 export interface EmojiVariation extends Emoji {
 }
 
-export declare const UNICODE_EMOJI: {
-  components: Record<string, EmojiComponent[]>;
-  emojis: BaseEmoji[];
-};
-
 export type GroupEmojiBy = 'category'|'group'|'subgroup'|'version'
 export type OmitEmojiWhere = Partial<Record<'category'|'group'|'subgroup'|'version', string[]>>;
 

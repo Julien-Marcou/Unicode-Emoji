@@ -1,4 +1,4 @@
-const UNICODE_EMOJI = require('./unicode-emoji.js');
+import UNICODE_EMOJI from './unicode-emoji.js';
 
 function groupEmojis(emojis, groupBy) {
   const groupedEmojis = {};
@@ -60,21 +60,19 @@ function safeCheckOmitBy(omitWhere) {
   }
 }
 
-exports.UNICODE_EMOJI = UNICODE_EMOJI;
-
-exports.getComponents = function() {
+export function getComponents() {
   return UNICODE_EMOJI.components;
-};
+}
 
-exports.getEmojis = function(omitWhere) {
+export function getEmojis(omitWhere) {
   if (omitWhere) {
     safeCheckOmitBy(omitWhere);
     return filterEmojis(UNICODE_EMOJI.emojis, omitWhere);
   }
   return UNICODE_EMOJI.emojis;
-};
+}
 
-exports.getEmojisGroupedBy = function(groupBy, omitWhere) {
+export function getEmojisGroupedBy(groupBy, omitWhere) {
   let emojis = UNICODE_EMOJI.emojis;
   if (omitWhere) {
     safeCheckOmitBy(omitWhere);
@@ -82,4 +80,4 @@ exports.getEmojisGroupedBy = function(groupBy, omitWhere) {
   }
   safeCheckGroupBy(groupBy);
   return groupEmojis(emojis, groupBy);
-};
+}

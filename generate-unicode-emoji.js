@@ -350,7 +350,7 @@ function saveResults() {
       })
     }
   });
-  fs.writeFileSync(jsOutput, `module.exports = ${JSON.stringify(results)};`);
+  fs.writeFileSync(jsOutput, `export default ${JSON.stringify(results)};`);
 }
 
 // Retrieve emojis online

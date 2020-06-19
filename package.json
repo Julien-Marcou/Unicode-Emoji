@@ -19,6 +19,7 @@
     "json"
   ],
   "main": "index.js",
+  "type": "module",
   "devDependencies": {
     "htmlparser2": "^4.1.0"
   }
