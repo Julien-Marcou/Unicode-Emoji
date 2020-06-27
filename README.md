@@ -111,7 +111,7 @@ unicodeEmoji.getComponents();
 
 ### Grouping & filtering
 
-You can group & filter emojis  by category, group, subgroup or version
+You can group & filter emojis by category, group, subgroup or version
 
 Here is an example :
  - grouped by category
@@ -123,10 +123,10 @@ const groupBy = 'category';
 const omitWhere = { category: ['flags'], version: ['12.1', '13.0'] };
 
 // Only omitting
-unicodeEmoji.getUnicodeEmojis(omitWhere)
+unicodeEmoji.getEmojis(omitWhere)
 
 // Grouping and omitting
-unicodeEmoji.getUnicodeEmojisGroupedBy(groupBy, omitWhere);
+unicodeEmoji.getEmojisGroupedBy(groupBy, omitWhere);
 ```
 
 
