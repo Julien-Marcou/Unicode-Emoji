@@ -1,5 +1,7 @@
 import UNICODE_EMOJI from './unicode-emoji.js';
 
+const emojiVariations = new Map();
+
 function groupEmojis(emojis, groupBy) {
   const groupedEmojis = {};
   for (const emoji of emojis) {
@@ -24,14 +26,19 @@ function filterEmojis(emojis, omitWhere) {
     if (omit) {
       continue;
     }
-    if (emoji.variations && omitWhere.version) {
-      const filteredVariations = [];
-      for (const variation of emoji.variations) {
-        if (!omitWhere.version.includes(variation.version)) {
-          filteredVariations.push(variation);
-        }
+    if (omitWhere.version) {
+      if (!emojiVariations.has(emoji) && emoji.variations) {
+        emojiVariations.set(emoji, emoji.variations);
       }
-      emoji.variations = filteredVariations;
+      if (emojiVariations.has(emoji)) {
+        const filteredVariations = [];
+        for (const variation of emojiVariations.get(emoji)) {
+          if (!omitWhere.version.includes(variation.version)) {
+            filteredVariations.push(variation);
+          }
+        }
+        emoji.variations = filteredVariations.length ? filteredVariations : undefined;
+      }
     }
     filteredEmojis.push(emoji);
   }
