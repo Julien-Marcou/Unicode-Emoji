@@ -20,7 +20,7 @@
   ],
   "main": "index.js",
   "type": "module",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "devDependencies": {
     "htmlparser2": "^6.0.0"
   }
