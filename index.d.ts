@@ -1,23 +1,19 @@
-export interface Emoji {
+export type Emoji = {
   emoji: string;
   description: string;
   version: string;
-}
+};
 
-export interface BaseEmoji extends Emoji {
+export type BaseEmoji = Emoji & {
   keywords: string[];
   category: string;
   group: string;
   subgroup: string;
   variations?: EmojiVariation[],
-}
+};
 
-export interface EmojiComponent extends Emoji {
-}
-
-export interface EmojiVariation extends Emoji {
-}
-
+export type EmojiComponent = Emoji;
+export type EmojiVariation = Emoji;
 export type GroupEmojiBy = 'category'|'group'|'subgroup'|'version'
 export type OmitEmojiWhere = Partial<Record<'category'|'group'|'subgroup'|'version', string[]>>;
 
