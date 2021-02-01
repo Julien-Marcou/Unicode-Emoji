@@ -2,7 +2,7 @@
 
 Raw data for Unicode Emoji 🙂
 
-The data are generated using the `Unicode Emoji, Version 13.0` from [Unicode](https://home.unicode.org/emoji/about-emoji/)  
+The data are generated using the `Unicode Emoji, Version 13.1` from [Unicode](https://home.unicode.org/emoji/about-emoji/)
 
 You can learn more about emojis at [Emojipedia](https://emojipedia.org/) or find some implementation details and trivia on the [Wiki](https://github.com/Julien-Marcou/Unicode-Emoji/wiki)
 
@@ -116,11 +116,11 @@ You can group & filter emojis by category, group, subgroup or version
 Here is an example :
  - grouped by category
  - without the emojis from the flags category
- - without the emojis from the 12.1 & 13.0 versions
+ - without the emojis from the 12.1, 13.0 & 13.1 versions
 
 ```javascript
 const groupBy = 'category';
-const omitWhere = { category: ['flags'], version: ['12.1', '13.0'] };
+const omitWhere = { category: ['flags'], version: ['12.1', '13.0', '13.1'] };
 
 // Only omitting
 unicodeEmoji.getEmojis(omitWhere)

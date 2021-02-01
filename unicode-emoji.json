@@ -226,8 +226,10 @@
         "face",
         "floor",
         "laugh",
+        "rofl",
         "rolling",
-        "rolling on the floor laughing"
+        "rolling on the floor laughing",
+        "rotfl"
       ],
       "codePoints": [
         "1F923"
@@ -756,6 +758,26 @@
       "subgroup": "face-neutral-skeptical"
     },
     {
+      "emoji": "😶‍🌫️",
+      "description": "face in clouds",
+      "version": "13.1",
+      "keywords": [
+        "absentminded",
+        "face in clouds",
+        "face in the fog",
+        "head in clouds"
+      ],
+      "codePoints": [
+        "1F636",
+        "200D",
+        "1F32B",
+        "FE0F"
+      ],
+      "category": "face-emotion",
+      "group": "smileys-emotion",
+      "subgroup": "face-neutral-skeptical"
+    },
+    {
       "emoji": "😏",
       "description": "smirking face",
       "version": "0.6",
@@ -816,6 +838,28 @@
       ],
       "codePoints": [
         "1F62C"
+      ],
+      "category": "face-emotion",
+      "group": "smileys-emotion",
+      "subgroup": "face-neutral-skeptical"
+    },
+    {
+      "emoji": "😮‍💨",
+      "description": "face exhaling",
+      "version": "13.1",
+      "keywords": [
+        "exhale",
+        "face exhaling",
+        "gasp",
+        "groan",
+        "relief",
+        "whisper",
+        "whistle"
+      ],
+      "codePoints": [
+        "1F62E",
+        "200D",
+        "1F4A8"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -995,7 +1039,8 @@
       "keywords": [
         "face vomiting",
         "sick",
-        "vomit"
+        "vomit",
+        "puke"
       ],
       "codePoints": [
         "1F92E"
@@ -1080,14 +1125,37 @@
     },
     {
       "emoji": "😵",
-      "description": "dizzy face",
+      "description": "knocked-out face",
       "version": "0.6",
       "keywords": [
-        "dizzy",
-        "face"
+        "dead",
+        "face",
+        "knocked out",
+        "knocked-out face"
       ],
       "codePoints": [
         "1F635"
+      ],
+      "category": "face-emotion",
+      "group": "smileys-emotion",
+      "subgroup": "face-unwell"
+    },
+    {
+      "emoji": "😵‍💫",
+      "description": "face with spiral eyes",
+      "version": "13.1",
+      "keywords": [
+        "dizzy",
+        "face with spiral eyes",
+        "hypnotized",
+        "spiral",
+        "trouble",
+        "whoa"
+      ],
+      "codePoints": [
+        "1F635",
+        "200D",
+        "1F4AB"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1659,7 +1727,8 @@
       "keywords": [
         "angry",
         "face",
-        "mad"
+        "mad",
+        "anger"
       ],
       "codePoints": [
         "1F620"
@@ -2317,6 +2386,51 @@
       ],
       "codePoints": [
         "1F494"
+      ],
+      "category": "face-emotion",
+      "group": "smileys-emotion",
+      "subgroup": "emotion"
+    },
+    {
+      "emoji": "❤️‍🔥",
+      "description": "heart on fire",
+      "version": "13.1",
+      "keywords": [
+        "burn",
+        "heart",
+        "heart on fire",
+        "love",
+        "lust",
+        "sacred heart"
+      ],
+      "codePoints": [
+        "2764",
+        "FE0F",
+        "200D",
+        "1F525"
+      ],
+      "category": "face-emotion",
+      "group": "smileys-emotion",
+      "subgroup": "emotion"
+    },
+    {
+      "emoji": "❤️‍🩹",
+      "description": "mending heart",
+      "version": "13.1",
+      "keywords": [
+        "healthier",
+        "improving",
+        "mending",
+        "mending heart",
+        "recovering",
+        "recuperating",
+        "well"
+      ],
+      "codePoints": [
+        "2764",
+        "FE0F",
+        "200D",
+        "1FA79"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -3036,6 +3150,8 @@
       "version": "0.6",
       "keywords": [
         "hand",
+        "high 5",
+        "high five",
         "raised hand"
       ],
       "codePoints": [
@@ -3051,6 +3167,8 @@
           "version": "1.0",
           "keywords": [
             "hand",
+            "high 5",
+            "high five",
             "light skin tone",
             "raised hand"
           ],
@@ -3068,6 +3186,8 @@
           "version": "1.0",
           "keywords": [
             "hand",
+            "high 5",
+            "high five",
             "medium-light skin tone",
             "raised hand"
           ],
@@ -3085,6 +3205,8 @@
           "version": "1.0",
           "keywords": [
             "hand",
+            "high 5",
+            "high five",
             "medium skin tone",
             "raised hand"
           ],
@@ -3102,6 +3224,8 @@
           "version": "1.0",
           "keywords": [
             "hand",
+            "high 5",
+            "high five",
             "medium-dark skin tone",
             "raised hand"
           ],
@@ -3120,6 +3244,8 @@
           "keywords": [
             "dark skin tone",
             "hand",
+            "high 5",
+            "high five",
             "raised hand"
           ],
           "codePoints": [
@@ -6148,6 +6274,8 @@
         "ask",
         "folded hands",
         "hand",
+        "high 5",
+        "high five",
         "please",
         "pray",
         "thanks"
@@ -6167,6 +6295,8 @@
             "ask",
             "folded hands",
             "hand",
+            "high 5",
+            "high five",
             "light skin tone",
             "please",
             "pray",
@@ -6188,6 +6318,8 @@
             "ask",
             "folded hands",
             "hand",
+            "high 5",
+            "high five",
             "medium-light skin tone",
             "please",
             "pray",
@@ -6209,6 +6341,8 @@
             "ask",
             "folded hands",
             "hand",
+            "high 5",
+            "high five",
             "medium skin tone",
             "please",
             "pray",
@@ -6230,6 +6364,8 @@
             "ask",
             "folded hands",
             "hand",
+            "high 5",
+            "high five",
             "medium-dark skin tone",
             "please",
             "pray",
@@ -6252,6 +6388,8 @@
             "dark skin tone",
             "folded hands",
             "hand",
+            "high 5",
+            "high five",
             "please",
             "pray",
             "thanks"
@@ -8081,6 +8219,109 @@
           ]
         },
         {
+          "emoji": "🧔",
+          "description": "person: beard",
+          "version": "5.0",
+          "keywords": [
+            "beard",
+            "person",
+            "person: beard"
+          ],
+          "codePoints": [
+            "1F9D4"
+          ]
+        },
+        {
+          "emoji": "🧔🏻",
+          "description": "person: light skin tone, beard",
+          "version": "5.0",
+          "keywords": [
+            "beard",
+            "light skin tone",
+            "person",
+            "person: beard"
+          ],
+          "codePoints": [
+            "1F9D4",
+            "1F3FB"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🧔🏼",
+          "description": "person: medium-light skin tone, beard",
+          "version": "5.0",
+          "keywords": [
+            "beard",
+            "medium-light skin tone",
+            "person",
+            "person: beard"
+          ],
+          "codePoints": [
+            "1F9D4",
+            "1F3FC"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🧔🏽",
+          "description": "person: medium skin tone, beard",
+          "version": "5.0",
+          "keywords": [
+            "beard",
+            "medium skin tone",
+            "person",
+            "person: beard"
+          ],
+          "codePoints": [
+            "1F9D4",
+            "1F3FD"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🧔🏾",
+          "description": "person: medium-dark skin tone, beard",
+          "version": "5.0",
+          "keywords": [
+            "beard",
+            "medium-dark skin tone",
+            "person",
+            "person: beard"
+          ],
+          "codePoints": [
+            "1F9D4",
+            "1F3FE"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🧔🏿",
+          "description": "person: dark skin tone, beard",
+          "version": "5.0",
+          "keywords": [
+            "beard",
+            "dark skin tone",
+            "person",
+            "person: beard"
+          ],
+          "codePoints": [
+            "1F9D4",
+            "1F3FF"
+          ],
+          "components": [
+            "🏿"
+          ]
+        },
+        {
           "emoji": "🧑‍🦰",
           "description": "person: red hair",
           "version": "12.1",
@@ -8723,109 +8964,121 @@
           ]
         },
         {
-          "emoji": "🧔",
+          "emoji": "🧔‍♂️",
           "description": "man: beard",
-          "version": "5.0",
+          "version": "13.1",
           "keywords": [
             "beard",
             "man",
-            "man: beard",
-            "person"
+            "man: beard"
           ],
           "codePoints": [
-            "1F9D4"
+            "1F9D4",
+            "200D",
+            "2642",
+            "FE0F"
           ]
         },
         {
-          "emoji": "🧔🏻",
+          "emoji": "🧔🏻‍♂️",
           "description": "man: light skin tone, beard",
-          "version": "5.0",
+          "version": "13.1",
           "keywords": [
             "beard",
             "light skin tone",
             "man",
-            "man: beard",
-            "person"
+            "man: beard"
           ],
           "codePoints": [
             "1F9D4",
-            "1F3FB"
+            "1F3FB",
+            "200D",
+            "2642",
+            "FE0F"
           ],
           "components": [
             "🏻"
           ]
         },
         {
-          "emoji": "🧔🏼",
+          "emoji": "🧔🏼‍♂️",
           "description": "man: medium-light skin tone, beard",
-          "version": "5.0",
+          "version": "13.1",
           "keywords": [
             "beard",
             "man",
             "man: beard",
-            "medium-light skin tone",
-            "person"
+            "medium-light skin tone"
           ],
           "codePoints": [
             "1F9D4",
-            "1F3FC"
+            "1F3FC",
+            "200D",
+            "2642",
+            "FE0F"
           ],
           "components": [
             "🏼"
           ]
         },
         {
-          "emoji": "🧔🏽",
+          "emoji": "🧔🏽‍♂️",
           "description": "man: medium skin tone, beard",
-          "version": "5.0",
+          "version": "13.1",
           "keywords": [
             "beard",
             "man",
             "man: beard",
-            "medium skin tone",
-            "person"
+            "medium skin tone"
           ],
           "codePoints": [
             "1F9D4",
-            "1F3FD"
+            "1F3FD",
+            "200D",
+            "2642",
+            "FE0F"
           ],
           "components": [
             "🏽"
           ]
         },
         {
-          "emoji": "🧔🏾",
+          "emoji": "🧔🏾‍♂️",
           "description": "man: medium-dark skin tone, beard",
-          "version": "5.0",
+          "version": "13.1",
           "keywords": [
             "beard",
             "man",
             "man: beard",
-            "medium-dark skin tone",
-            "person"
+            "medium-dark skin tone"
           ],
           "codePoints": [
             "1F9D4",
-            "1F3FE"
+            "1F3FE",
+            "200D",
+            "2642",
+            "FE0F"
           ],
           "components": [
             "🏾"
           ]
         },
         {
-          "emoji": "🧔🏿",
+          "emoji": "🧔🏿‍♂️",
           "description": "man: dark skin tone, beard",
-          "version": "5.0",
+          "version": "13.1",
           "keywords": [
             "beard",
             "dark skin tone",
             "man",
-            "man: beard",
-            "person"
+            "man: beard"
           ],
           "codePoints": [
             "1F9D4",
-            "1F3FF"
+            "1F3FF",
+            "200D",
+            "2642",
+            "FE0F"
           ],
           "components": [
             "🏿"
@@ -9457,6 +9710,130 @@
           ]
         }
       ]
+    },
+    {
+      "emoji": "🧔‍♀️",
+      "description": "woman: beard",
+      "version": "13.1",
+      "keywords": [
+        "beard",
+        "woman",
+        "woman: beard"
+      ],
+      "codePoints": [
+        "1F9D4",
+        "200D",
+        "2640",
+        "FE0F"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person"
+    },
+    {
+      "emoji": "🧔🏻‍♀️",
+      "description": "woman: light skin tone, beard",
+      "version": "13.1",
+      "keywords": [
+        "beard",
+        "light skin tone",
+        "woman",
+        "woman: beard"
+      ],
+      "codePoints": [
+        "1F9D4",
+        "1F3FB",
+        "200D",
+        "2640",
+        "FE0F"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person"
+    },
+    {
+      "emoji": "🧔🏼‍♀️",
+      "description": "woman: medium-light skin tone, beard",
+      "version": "13.1",
+      "keywords": [
+        "beard",
+        "medium-light skin tone",
+        "woman",
+        "woman: beard"
+      ],
+      "codePoints": [
+        "1F9D4",
+        "1F3FC",
+        "200D",
+        "2640",
+        "FE0F"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person"
+    },
+    {
+      "emoji": "🧔🏽‍♀️",
+      "description": "woman: medium skin tone, beard",
+      "version": "13.1",
+      "keywords": [
+        "beard",
+        "medium skin tone",
+        "woman",
+        "woman: beard"
+      ],
+      "codePoints": [
+        "1F9D4",
+        "1F3FD",
+        "200D",
+        "2640",
+        "FE0F"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person"
+    },
+    {
+      "emoji": "🧔🏾‍♀️",
+      "description": "woman: medium-dark skin tone, beard",
+      "version": "13.1",
+      "keywords": [
+        "beard",
+        "medium-dark skin tone",
+        "woman",
+        "woman: beard"
+      ],
+      "codePoints": [
+        "1F9D4",
+        "1F3FE",
+        "200D",
+        "2640",
+        "FE0F"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person"
+    },
+    {
+      "emoji": "🧔🏿‍♀️",
+      "description": "woman: dark skin tone, beard",
+      "version": "13.1",
+      "keywords": [
+        "beard",
+        "dark skin tone",
+        "woman",
+        "woman: beard"
+      ],
+      "codePoints": [
+        "1F9D4",
+        "1F3FF",
+        "200D",
+        "2640",
+        "FE0F"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person"
     },
     {
       "emoji": "👩",
@@ -15548,6 +15925,7 @@
       "version": "12.1",
       "keywords": [
         "judge",
+        "justice",
         "scales"
       ],
       "codePoints": [
@@ -15566,6 +15944,7 @@
           "version": "12.1",
           "keywords": [
             "judge",
+            "justice",
             "light skin tone",
             "scales"
           ],
@@ -15586,6 +15965,7 @@
           "version": "12.1",
           "keywords": [
             "judge",
+            "justice",
             "medium-light skin tone",
             "scales"
           ],
@@ -15606,6 +15986,7 @@
           "version": "12.1",
           "keywords": [
             "judge",
+            "justice",
             "medium skin tone",
             "scales"
           ],
@@ -15626,6 +16007,7 @@
           "version": "12.1",
           "keywords": [
             "judge",
+            "justice",
             "medium-dark skin tone",
             "scales"
           ],
@@ -15647,6 +16029,7 @@
           "keywords": [
             "dark skin tone",
             "judge",
+            "justice",
             "scales"
           ],
           "codePoints": [
@@ -15667,9 +16050,9 @@
       "description": "man judge",
       "version": "4.0",
       "keywords": [
+        "judge",
         "justice",
         "man",
-        "man judge",
         "scales"
       ],
       "codePoints": [
@@ -15687,10 +16070,10 @@
           "description": "man judge: light skin tone",
           "version": "4.0",
           "keywords": [
+            "judge",
             "justice",
             "light skin tone",
             "man",
-            "man judge",
             "scales"
           ],
           "codePoints": [
@@ -15709,9 +16092,9 @@
           "description": "man judge: medium-light skin tone",
           "version": "4.0",
           "keywords": [
+            "judge",
             "justice",
             "man",
-            "man judge",
             "medium-light skin tone",
             "scales"
           ],
@@ -15731,9 +16114,9 @@
           "description": "man judge: medium skin tone",
           "version": "4.0",
           "keywords": [
+            "judge",
             "justice",
             "man",
-            "man judge",
             "medium skin tone",
             "scales"
           ],
@@ -15753,9 +16136,9 @@
           "description": "man judge: medium-dark skin tone",
           "version": "4.0",
           "keywords": [
+            "judge",
             "justice",
             "man",
-            "man judge",
             "medium-dark skin tone",
             "scales"
           ],
@@ -15776,9 +16159,9 @@
           "version": "4.0",
           "keywords": [
             "dark skin tone",
+            "judge",
             "justice",
             "man",
-            "man judge",
             "scales"
           ],
           "codePoints": [
@@ -15800,6 +16183,7 @@
       "version": "4.0",
       "keywords": [
         "judge",
+        "justice",
         "scales",
         "woman"
       ],
@@ -15819,6 +16203,7 @@
           "version": "4.0",
           "keywords": [
             "judge",
+            "justice",
             "light skin tone",
             "scales",
             "woman"
@@ -15840,6 +16225,7 @@
           "version": "4.0",
           "keywords": [
             "judge",
+            "justice",
             "medium-light skin tone",
             "scales",
             "woman"
@@ -15861,6 +16247,7 @@
           "version": "4.0",
           "keywords": [
             "judge",
+            "justice",
             "medium skin tone",
             "scales",
             "woman"
@@ -15882,6 +16269,7 @@
           "version": "4.0",
           "keywords": [
             "judge",
+            "justice",
             "medium-dark skin tone",
             "scales",
             "woman"
@@ -15904,6 +16292,7 @@
           "keywords": [
             "dark skin tone",
             "judge",
+            "justice",
             "scales",
             "woman"
           ],
@@ -30691,6 +31080,7 @@
       "description": "woman dancing",
       "version": "0.6",
       "keywords": [
+        "dance",
         "dancing",
         "woman"
       ],
@@ -30706,6 +31096,7 @@
           "description": "woman dancing: light skin tone",
           "version": "1.0",
           "keywords": [
+            "dance",
             "dancing",
             "light skin tone",
             "woman"
@@ -30723,6 +31114,7 @@
           "description": "woman dancing: medium-light skin tone",
           "version": "1.0",
           "keywords": [
+            "dance",
             "dancing",
             "medium-light skin tone",
             "woman"
@@ -30740,6 +31132,7 @@
           "description": "woman dancing: medium skin tone",
           "version": "1.0",
           "keywords": [
+            "dance",
             "dancing",
             "medium skin tone",
             "woman"
@@ -30757,6 +31150,7 @@
           "description": "woman dancing: medium-dark skin tone",
           "version": "1.0",
           "keywords": [
+            "dance",
             "dancing",
             "medium-dark skin tone",
             "woman"
@@ -30774,6 +31168,7 @@
           "description": "woman dancing: dark skin tone",
           "version": "1.0",
           "keywords": [
+            "dance",
             "dancing",
             "dark skin tone",
             "woman"
@@ -30794,8 +31189,8 @@
       "version": "3.0",
       "keywords": [
         "dance",
-        "man",
-        "man dancing"
+        "dancing",
+        "man"
       ],
       "codePoints": [
         "1F57A"
@@ -30810,9 +31205,9 @@
           "version": "3.0",
           "keywords": [
             "dance",
+            "dancing",
             "light skin tone",
-            "man",
-            "man dancing"
+            "man"
           ],
           "codePoints": [
             "1F57A",
@@ -30828,8 +31223,8 @@
           "version": "3.0",
           "keywords": [
             "dance",
+            "dancing",
             "man",
-            "man dancing",
             "medium-light skin tone"
           ],
           "codePoints": [
@@ -30846,8 +31241,8 @@
           "version": "3.0",
           "keywords": [
             "dance",
+            "dancing",
             "man",
-            "man dancing",
             "medium skin tone"
           ],
           "codePoints": [
@@ -30864,8 +31259,8 @@
           "version": "3.0",
           "keywords": [
             "dance",
+            "dancing",
             "man",
-            "man dancing",
             "medium-dark skin tone"
           ],
           "codePoints": [
@@ -30882,9 +31277,9 @@
           "version": "3.0",
           "keywords": [
             "dance",
+            "dancing",
             "dark skin tone",
-            "man",
-            "man dancing"
+            "man"
           ],
           "codePoints": [
             "1F57A",
@@ -39912,6 +40307,651 @@
       "subgroup": "family",
       "variations": [
         {
+          "emoji": "💏🏻",
+          "description": "kiss: light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "light skin tone"
+          ],
+          "codePoints": [
+            "1F48F",
+            "1F3FB"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "💏🏼",
+          "description": "kiss: medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "medium-light skin tone"
+          ],
+          "codePoints": [
+            "1F48F",
+            "1F3FC"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "💏🏽",
+          "description": "kiss: medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "medium skin tone"
+          ],
+          "codePoints": [
+            "1F48F",
+            "1F3FD"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "💏🏾",
+          "description": "kiss: medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "medium-dark skin tone"
+          ],
+          "codePoints": [
+            "1F48F",
+            "1F3FE"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "💏🏿",
+          "description": "kiss: dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss"
+          ],
+          "codePoints": [
+            "1F48F",
+            "1F3FF"
+          ],
+          "components": [
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "🧑🏻‍❤️‍💋‍🧑🏼",
+          "description": "kiss: person, person, light skin tone, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "light skin tone",
+            "medium-light skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F9D1",
+            "1F3FC"
+          ],
+          "components": [
+            "🏻",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🧑🏻‍❤️‍💋‍🧑🏽",
+          "description": "kiss: person, person, light skin tone, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "light skin tone",
+            "medium skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F9D1",
+            "1F3FD"
+          ],
+          "components": [
+            "🏻",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🧑🏻‍❤️‍💋‍🧑🏾",
+          "description": "kiss: person, person, light skin tone, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "light skin tone",
+            "medium-dark skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F9D1",
+            "1F3FE"
+          ],
+          "components": [
+            "🏻",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🧑🏻‍❤️‍💋‍🧑🏿",
+          "description": "kiss: person, person, light skin tone, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "light skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F9D1",
+            "1F3FF"
+          ],
+          "components": [
+            "🏻",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "🧑🏼‍❤️‍💋‍🧑🏻",
+          "description": "kiss: person, person, medium-light skin tone, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "light skin tone",
+            "medium-light skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F9D1",
+            "1F3FB"
+          ],
+          "components": [
+            "🏼",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🧑🏼‍❤️‍💋‍🧑🏽",
+          "description": "kiss: person, person, medium-light skin tone, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "medium skin tone",
+            "medium-light skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F9D1",
+            "1F3FD"
+          ],
+          "components": [
+            "🏼",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🧑🏼‍❤️‍💋‍🧑🏾",
+          "description": "kiss: person, person, medium-light skin tone, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "medium-dark skin tone",
+            "medium-light skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F9D1",
+            "1F3FE"
+          ],
+          "components": [
+            "🏼",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🧑🏼‍❤️‍💋‍🧑🏿",
+          "description": "kiss: person, person, medium-light skin tone, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "medium-light skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F9D1",
+            "1F3FF"
+          ],
+          "components": [
+            "🏼",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "🧑🏽‍❤️‍💋‍🧑🏻",
+          "description": "kiss: person, person, medium skin tone, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "light skin tone",
+            "medium skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F9D1",
+            "1F3FB"
+          ],
+          "components": [
+            "🏽",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🧑🏽‍❤️‍💋‍🧑🏼",
+          "description": "kiss: person, person, medium skin tone, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "medium skin tone",
+            "medium-light skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F9D1",
+            "1F3FC"
+          ],
+          "components": [
+            "🏽",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🧑🏽‍❤️‍💋‍🧑🏾",
+          "description": "kiss: person, person, medium skin tone, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "medium skin tone",
+            "medium-dark skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F9D1",
+            "1F3FE"
+          ],
+          "components": [
+            "🏽",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🧑🏽‍❤️‍💋‍🧑🏿",
+          "description": "kiss: person, person, medium skin tone, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "medium skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F9D1",
+            "1F3FF"
+          ],
+          "components": [
+            "🏽",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "🧑🏾‍❤️‍💋‍🧑🏻",
+          "description": "kiss: person, person, medium-dark skin tone, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "light skin tone",
+            "medium-dark skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F9D1",
+            "1F3FB"
+          ],
+          "components": [
+            "🏾",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🧑🏾‍❤️‍💋‍🧑🏼",
+          "description": "kiss: person, person, medium-dark skin tone, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "medium-dark skin tone",
+            "medium-light skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F9D1",
+            "1F3FC"
+          ],
+          "components": [
+            "🏾",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🧑🏾‍❤️‍💋‍🧑🏽",
+          "description": "kiss: person, person, medium-dark skin tone, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "medium skin tone",
+            "medium-dark skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F9D1",
+            "1F3FD"
+          ],
+          "components": [
+            "🏾",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🧑🏾‍❤️‍💋‍🧑🏿",
+          "description": "kiss: person, person, medium-dark skin tone, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "medium-dark skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F9D1",
+            "1F3FF"
+          ],
+          "components": [
+            "🏾",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "🧑🏿‍❤️‍💋‍🧑🏻",
+          "description": "kiss: person, person, dark skin tone, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "light skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F9D1",
+            "1F3FB"
+          ],
+          "components": [
+            "🏿",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🧑🏿‍❤️‍💋‍🧑🏼",
+          "description": "kiss: person, person, dark skin tone, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "medium-light skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F9D1",
+            "1F3FC"
+          ],
+          "components": [
+            "🏿",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🧑🏿‍❤️‍💋‍🧑🏽",
+          "description": "kiss: person, person, dark skin tone, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "medium skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F9D1",
+            "1F3FD"
+          ],
+          "components": [
+            "🏿",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🧑🏿‍❤️‍💋‍🧑🏾",
+          "description": "kiss: person, person, dark skin tone, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "medium-dark skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F9D1",
+            "1F3FE"
+          ],
+          "components": [
+            "🏿",
+            "🏾"
+          ]
+        },
+        {
           "emoji": "👩‍❤️‍💋‍👨",
           "description": "kiss: woman, man",
           "version": "2.0",
@@ -39930,6 +40970,721 @@
             "1F48B",
             "200D",
             "1F468"
+          ]
+        },
+        {
+          "emoji": "👩🏻‍❤️‍💋‍👨🏻",
+          "description": "kiss: woman, man, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "light skin tone",
+            "man",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FB"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👩🏻‍❤️‍💋‍👨🏼",
+          "description": "kiss: woman, man, light skin tone, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "light skin tone",
+            "man",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FC"
+          ],
+          "components": [
+            "🏻",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👩🏻‍❤️‍💋‍👨🏽",
+          "description": "kiss: woman, man, light skin tone, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "light skin tone",
+            "man",
+            "medium skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FD"
+          ],
+          "components": [
+            "🏻",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👩🏻‍❤️‍💋‍👨🏾",
+          "description": "kiss: woman, man, light skin tone, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "light skin tone",
+            "man",
+            "medium-dark skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FE"
+          ],
+          "components": [
+            "🏻",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👩🏻‍❤️‍💋‍👨🏿",
+          "description": "kiss: woman, man, light skin tone, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "light skin tone",
+            "man",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FF"
+          ],
+          "components": [
+            "🏻",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👩🏼‍❤️‍💋‍👨🏻",
+          "description": "kiss: woman, man, medium-light skin tone, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "light skin tone",
+            "man",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FB"
+          ],
+          "components": [
+            "🏼",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👩🏼‍❤️‍💋‍👨🏼",
+          "description": "kiss: woman, man, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "man",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FC"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👩🏼‍❤️‍💋‍👨🏽",
+          "description": "kiss: woman, man, medium-light skin tone, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "man",
+            "medium skin tone",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FD"
+          ],
+          "components": [
+            "🏼",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👩🏼‍❤️‍💋‍👨🏾",
+          "description": "kiss: woman, man, medium-light skin tone, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "man",
+            "medium-dark skin tone",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FE"
+          ],
+          "components": [
+            "🏼",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👩🏼‍❤️‍💋‍👨🏿",
+          "description": "kiss: woman, man, medium-light skin tone, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "man",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FF"
+          ],
+          "components": [
+            "🏼",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👩🏽‍❤️‍💋‍👨🏻",
+          "description": "kiss: woman, man, medium skin tone, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "light skin tone",
+            "man",
+            "medium skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FB"
+          ],
+          "components": [
+            "🏽",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👩🏽‍❤️‍💋‍👨🏼",
+          "description": "kiss: woman, man, medium skin tone, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "man",
+            "medium skin tone",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FC"
+          ],
+          "components": [
+            "🏽",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👩🏽‍❤️‍💋‍👨🏽",
+          "description": "kiss: woman, man, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "man",
+            "medium skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FD"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👩🏽‍❤️‍💋‍👨🏾",
+          "description": "kiss: woman, man, medium skin tone, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "man",
+            "medium skin tone",
+            "medium-dark skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FE"
+          ],
+          "components": [
+            "🏽",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👩🏽‍❤️‍💋‍👨🏿",
+          "description": "kiss: woman, man, medium skin tone, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "man",
+            "medium skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FF"
+          ],
+          "components": [
+            "🏽",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👩🏾‍❤️‍💋‍👨🏻",
+          "description": "kiss: woman, man, medium-dark skin tone, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "light skin tone",
+            "man",
+            "medium-dark skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FB"
+          ],
+          "components": [
+            "🏾",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👩🏾‍❤️‍💋‍👨🏼",
+          "description": "kiss: woman, man, medium-dark skin tone, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "man",
+            "medium-dark skin tone",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FC"
+          ],
+          "components": [
+            "🏾",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👩🏾‍❤️‍💋‍👨🏽",
+          "description": "kiss: woman, man, medium-dark skin tone, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "man",
+            "medium skin tone",
+            "medium-dark skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FD"
+          ],
+          "components": [
+            "🏾",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👩🏾‍❤️‍💋‍👨🏾",
+          "description": "kiss: woman, man, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "man",
+            "medium-dark skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FE"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👩🏾‍❤️‍💋‍👨🏿",
+          "description": "kiss: woman, man, medium-dark skin tone, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "man",
+            "medium-dark skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FF"
+          ],
+          "components": [
+            "🏾",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👩🏿‍❤️‍💋‍👨🏻",
+          "description": "kiss: woman, man, dark skin tone, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "light skin tone",
+            "man",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FB"
+          ],
+          "components": [
+            "🏿",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👩🏿‍❤️‍💋‍👨🏼",
+          "description": "kiss: woman, man, dark skin tone, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "man",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FC"
+          ],
+          "components": [
+            "🏿",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👩🏿‍❤️‍💋‍👨🏽",
+          "description": "kiss: woman, man, dark skin tone, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "man",
+            "medium skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FD"
+          ],
+          "components": [
+            "🏿",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👩🏿‍❤️‍💋‍👨🏾",
+          "description": "kiss: woman, man, dark skin tone, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "man",
+            "medium-dark skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FE"
+          ],
+          "components": [
+            "🏿",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👩🏿‍❤️‍💋‍👨🏿",
+          "description": "kiss: woman, man, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "man",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FF"
+          ],
+          "components": [
+            "🏿"
           ]
         },
         {
@@ -39953,6 +41708,696 @@
           ]
         },
         {
+          "emoji": "👨🏻‍❤️‍💋‍👨🏻",
+          "description": "kiss: man, man, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "light skin tone",
+            "man"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FB"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👨🏻‍❤️‍💋‍👨🏼",
+          "description": "kiss: man, man, light skin tone, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "light skin tone",
+            "man",
+            "medium-light skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FC"
+          ],
+          "components": [
+            "🏻",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👨🏻‍❤️‍💋‍👨🏽",
+          "description": "kiss: man, man, light skin tone, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "light skin tone",
+            "man",
+            "medium skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FD"
+          ],
+          "components": [
+            "🏻",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👨🏻‍❤️‍💋‍👨🏾",
+          "description": "kiss: man, man, light skin tone, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "light skin tone",
+            "man",
+            "medium-dark skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FE"
+          ],
+          "components": [
+            "🏻",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👨🏻‍❤️‍💋‍👨🏿",
+          "description": "kiss: man, man, light skin tone, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "light skin tone",
+            "man"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FF"
+          ],
+          "components": [
+            "🏻",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👨🏼‍❤️‍💋‍👨🏻",
+          "description": "kiss: man, man, medium-light skin tone, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "light skin tone",
+            "man",
+            "medium-light skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FB"
+          ],
+          "components": [
+            "🏼",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👨🏼‍❤️‍💋‍👨🏼",
+          "description": "kiss: man, man, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "man",
+            "medium-light skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FC"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👨🏼‍❤️‍💋‍👨🏽",
+          "description": "kiss: man, man, medium-light skin tone, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "man",
+            "medium skin tone",
+            "medium-light skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FD"
+          ],
+          "components": [
+            "🏼",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👨🏼‍❤️‍💋‍👨🏾",
+          "description": "kiss: man, man, medium-light skin tone, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "man",
+            "medium-dark skin tone",
+            "medium-light skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FE"
+          ],
+          "components": [
+            "🏼",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👨🏼‍❤️‍💋‍👨🏿",
+          "description": "kiss: man, man, medium-light skin tone, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "man",
+            "medium-light skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FF"
+          ],
+          "components": [
+            "🏼",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👨🏽‍❤️‍💋‍👨🏻",
+          "description": "kiss: man, man, medium skin tone, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "light skin tone",
+            "man",
+            "medium skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FB"
+          ],
+          "components": [
+            "🏽",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👨🏽‍❤️‍💋‍👨🏼",
+          "description": "kiss: man, man, medium skin tone, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "man",
+            "medium skin tone",
+            "medium-light skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FC"
+          ],
+          "components": [
+            "🏽",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👨🏽‍❤️‍💋‍👨🏽",
+          "description": "kiss: man, man, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "man",
+            "medium skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FD"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👨🏽‍❤️‍💋‍👨🏾",
+          "description": "kiss: man, man, medium skin tone, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "man",
+            "medium skin tone",
+            "medium-dark skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FE"
+          ],
+          "components": [
+            "🏽",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👨🏽‍❤️‍💋‍👨🏿",
+          "description": "kiss: man, man, medium skin tone, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "man",
+            "medium skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FF"
+          ],
+          "components": [
+            "🏽",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👨🏾‍❤️‍💋‍👨🏻",
+          "description": "kiss: man, man, medium-dark skin tone, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "light skin tone",
+            "man",
+            "medium-dark skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FB"
+          ],
+          "components": [
+            "🏾",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👨🏾‍❤️‍💋‍👨🏼",
+          "description": "kiss: man, man, medium-dark skin tone, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "man",
+            "medium-dark skin tone",
+            "medium-light skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FC"
+          ],
+          "components": [
+            "🏾",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👨🏾‍❤️‍💋‍👨🏽",
+          "description": "kiss: man, man, medium-dark skin tone, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "man",
+            "medium skin tone",
+            "medium-dark skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FD"
+          ],
+          "components": [
+            "🏾",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👨🏾‍❤️‍💋‍👨🏾",
+          "description": "kiss: man, man, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "man",
+            "medium-dark skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FE"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👨🏾‍❤️‍💋‍👨🏿",
+          "description": "kiss: man, man, medium-dark skin tone, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "man",
+            "medium-dark skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FF"
+          ],
+          "components": [
+            "🏾",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👨🏿‍❤️‍💋‍👨🏻",
+          "description": "kiss: man, man, dark skin tone, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "light skin tone",
+            "man"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FB"
+          ],
+          "components": [
+            "🏿",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👨🏿‍❤️‍💋‍👨🏼",
+          "description": "kiss: man, man, dark skin tone, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "man",
+            "medium-light skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FC"
+          ],
+          "components": [
+            "🏿",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👨🏿‍❤️‍💋‍👨🏽",
+          "description": "kiss: man, man, dark skin tone, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "man",
+            "medium skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FD"
+          ],
+          "components": [
+            "🏿",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👨🏿‍❤️‍💋‍👨🏾",
+          "description": "kiss: man, man, dark skin tone, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "man",
+            "medium-dark skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FE"
+          ],
+          "components": [
+            "🏿",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👨🏿‍❤️‍💋‍👨🏿",
+          "description": "kiss: man, man, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "man"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F468",
+            "1F3FF"
+          ],
+          "components": [
+            "🏿"
+          ]
+        },
+        {
           "emoji": "👩‍❤️‍💋‍👩",
           "description": "kiss: woman, woman",
           "version": "2.0",
@@ -39970,6 +42415,696 @@
             "1F48B",
             "200D",
             "1F469"
+          ]
+        },
+        {
+          "emoji": "👩🏻‍❤️‍💋‍👩🏻",
+          "description": "kiss: woman, woman, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F469",
+            "1F3FB"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👩🏻‍❤️‍💋‍👩🏼",
+          "description": "kiss: woman, woman, light skin tone, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "light skin tone",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F469",
+            "1F3FC"
+          ],
+          "components": [
+            "🏻",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👩🏻‍❤️‍💋‍👩🏽",
+          "description": "kiss: woman, woman, light skin tone, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "light skin tone",
+            "medium skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F469",
+            "1F3FD"
+          ],
+          "components": [
+            "🏻",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👩🏻‍❤️‍💋‍👩🏾",
+          "description": "kiss: woman, woman, light skin tone, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "light skin tone",
+            "medium-dark skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F469",
+            "1F3FE"
+          ],
+          "components": [
+            "🏻",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👩🏻‍❤️‍💋‍👩🏿",
+          "description": "kiss: woman, woman, light skin tone, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F469",
+            "1F3FF"
+          ],
+          "components": [
+            "🏻",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👩🏼‍❤️‍💋‍👩🏻",
+          "description": "kiss: woman, woman, medium-light skin tone, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "light skin tone",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F469",
+            "1F3FB"
+          ],
+          "components": [
+            "🏼",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👩🏼‍❤️‍💋‍👩🏼",
+          "description": "kiss: woman, woman, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F469",
+            "1F3FC"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👩🏼‍❤️‍💋‍👩🏽",
+          "description": "kiss: woman, woman, medium-light skin tone, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "medium skin tone",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F469",
+            "1F3FD"
+          ],
+          "components": [
+            "🏼",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👩🏼‍❤️‍💋‍👩🏾",
+          "description": "kiss: woman, woman, medium-light skin tone, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "medium-dark skin tone",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F469",
+            "1F3FE"
+          ],
+          "components": [
+            "🏼",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👩🏼‍❤️‍💋‍👩🏿",
+          "description": "kiss: woman, woman, medium-light skin tone, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F469",
+            "1F3FF"
+          ],
+          "components": [
+            "🏼",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👩🏽‍❤️‍💋‍👩🏻",
+          "description": "kiss: woman, woman, medium skin tone, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "light skin tone",
+            "medium skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F469",
+            "1F3FB"
+          ],
+          "components": [
+            "🏽",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👩🏽‍❤️‍💋‍👩🏼",
+          "description": "kiss: woman, woman, medium skin tone, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "medium skin tone",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F469",
+            "1F3FC"
+          ],
+          "components": [
+            "🏽",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👩🏽‍❤️‍💋‍👩🏽",
+          "description": "kiss: woman, woman, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "medium skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F469",
+            "1F3FD"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👩🏽‍❤️‍💋‍👩🏾",
+          "description": "kiss: woman, woman, medium skin tone, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "medium skin tone",
+            "medium-dark skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F469",
+            "1F3FE"
+          ],
+          "components": [
+            "🏽",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👩🏽‍❤️‍💋‍👩🏿",
+          "description": "kiss: woman, woman, medium skin tone, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "medium skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F469",
+            "1F3FF"
+          ],
+          "components": [
+            "🏽",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👩🏾‍❤️‍💋‍👩🏻",
+          "description": "kiss: woman, woman, medium-dark skin tone, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "light skin tone",
+            "medium-dark skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F469",
+            "1F3FB"
+          ],
+          "components": [
+            "🏾",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👩🏾‍❤️‍💋‍👩🏼",
+          "description": "kiss: woman, woman, medium-dark skin tone, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "medium-dark skin tone",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F469",
+            "1F3FC"
+          ],
+          "components": [
+            "🏾",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👩🏾‍❤️‍💋‍👩🏽",
+          "description": "kiss: woman, woman, medium-dark skin tone, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "medium skin tone",
+            "medium-dark skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F469",
+            "1F3FD"
+          ],
+          "components": [
+            "🏾",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👩🏾‍❤️‍💋‍👩🏾",
+          "description": "kiss: woman, woman, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "kiss",
+            "medium-dark skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F469",
+            "1F3FE"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👩🏾‍❤️‍💋‍👩🏿",
+          "description": "kiss: woman, woman, medium-dark skin tone, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "medium-dark skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F469",
+            "1F3FF"
+          ],
+          "components": [
+            "🏾",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👩🏿‍❤️‍💋‍👩🏻",
+          "description": "kiss: woman, woman, dark skin tone, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F469",
+            "1F3FB"
+          ],
+          "components": [
+            "🏿",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👩🏿‍❤️‍💋‍👩🏼",
+          "description": "kiss: woman, woman, dark skin tone, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F469",
+            "1F3FC"
+          ],
+          "components": [
+            "🏿",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👩🏿‍❤️‍💋‍👩🏽",
+          "description": "kiss: woman, woman, dark skin tone, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "medium skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F469",
+            "1F3FD"
+          ],
+          "components": [
+            "🏿",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👩🏿‍❤️‍💋‍👩🏾",
+          "description": "kiss: woman, woman, dark skin tone, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "medium-dark skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F469",
+            "1F3FE"
+          ],
+          "components": [
+            "🏿",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👩🏿‍❤️‍💋‍👩🏿",
+          "description": "kiss: woman, woman, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "dark skin tone",
+            "kiss",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F48B",
+            "200D",
+            "1F469",
+            "1F3FF"
+          ],
+          "components": [
+            "🏿"
           ]
         }
       ]
@@ -39991,6 +43126,636 @@
       "subgroup": "family",
       "variations": [
         {
+          "emoji": "💑🏻",
+          "description": "couple with heart: light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "light skin tone",
+            "love"
+          ],
+          "codePoints": [
+            "1F491",
+            "1F3FB"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "💑🏼",
+          "description": "couple with heart: medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "medium-light skin tone"
+          ],
+          "codePoints": [
+            "1F491",
+            "1F3FC"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "💑🏽",
+          "description": "couple with heart: medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "medium skin tone"
+          ],
+          "codePoints": [
+            "1F491",
+            "1F3FD"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "💑🏾",
+          "description": "couple with heart: medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "medium-dark skin tone"
+          ],
+          "codePoints": [
+            "1F491",
+            "1F3FE"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "💑🏿",
+          "description": "couple with heart: dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "love"
+          ],
+          "codePoints": [
+            "1F491",
+            "1F3FF"
+          ],
+          "components": [
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "🧑🏻‍❤️‍🧑🏼",
+          "description": "couple with heart: person, person, light skin tone, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "light skin tone",
+            "love",
+            "medium-light skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F9D1",
+            "1F3FC"
+          ],
+          "components": [
+            "🏻",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🧑🏻‍❤️‍🧑🏽",
+          "description": "couple with heart: person, person, light skin tone, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "light skin tone",
+            "love",
+            "medium skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F9D1",
+            "1F3FD"
+          ],
+          "components": [
+            "🏻",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🧑🏻‍❤️‍🧑🏾",
+          "description": "couple with heart: person, person, light skin tone, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "light skin tone",
+            "love",
+            "medium-dark skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F9D1",
+            "1F3FE"
+          ],
+          "components": [
+            "🏻",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🧑🏻‍❤️‍🧑🏿",
+          "description": "couple with heart: person, person, light skin tone, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "light skin tone",
+            "love",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F9D1",
+            "1F3FF"
+          ],
+          "components": [
+            "🏻",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "🧑🏼‍❤️‍🧑🏻",
+          "description": "couple with heart: person, person, medium-light skin tone, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "light skin tone",
+            "love",
+            "medium-light skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F9D1",
+            "1F3FB"
+          ],
+          "components": [
+            "🏼",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🧑🏼‍❤️‍🧑🏽",
+          "description": "couple with heart: person, person, medium-light skin tone, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "medium skin tone",
+            "medium-light skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F9D1",
+            "1F3FD"
+          ],
+          "components": [
+            "🏼",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🧑🏼‍❤️‍🧑🏾",
+          "description": "couple with heart: person, person, medium-light skin tone, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "medium-dark skin tone",
+            "medium-light skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F9D1",
+            "1F3FE"
+          ],
+          "components": [
+            "🏼",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🧑🏼‍❤️‍🧑🏿",
+          "description": "couple with heart: person, person, medium-light skin tone, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "love",
+            "medium-light skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F9D1",
+            "1F3FF"
+          ],
+          "components": [
+            "🏼",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "🧑🏽‍❤️‍🧑🏻",
+          "description": "couple with heart: person, person, medium skin tone, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "light skin tone",
+            "love",
+            "medium skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F9D1",
+            "1F3FB"
+          ],
+          "components": [
+            "🏽",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🧑🏽‍❤️‍🧑🏼",
+          "description": "couple with heart: person, person, medium skin tone, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "medium skin tone",
+            "medium-light skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F9D1",
+            "1F3FC"
+          ],
+          "components": [
+            "🏽",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🧑🏽‍❤️‍🧑🏾",
+          "description": "couple with heart: person, person, medium skin tone, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "medium skin tone",
+            "medium-dark skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F9D1",
+            "1F3FE"
+          ],
+          "components": [
+            "🏽",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🧑🏽‍❤️‍🧑🏿",
+          "description": "couple with heart: person, person, medium skin tone, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "love",
+            "medium skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F9D1",
+            "1F3FF"
+          ],
+          "components": [
+            "🏽",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "🧑🏾‍❤️‍🧑🏻",
+          "description": "couple with heart: person, person, medium-dark skin tone, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "light skin tone",
+            "love",
+            "medium-dark skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F9D1",
+            "1F3FB"
+          ],
+          "components": [
+            "🏾",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🧑🏾‍❤️‍🧑🏼",
+          "description": "couple with heart: person, person, medium-dark skin tone, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "medium-dark skin tone",
+            "medium-light skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F9D1",
+            "1F3FC"
+          ],
+          "components": [
+            "🏾",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🧑🏾‍❤️‍🧑🏽",
+          "description": "couple with heart: person, person, medium-dark skin tone, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "medium skin tone",
+            "medium-dark skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F9D1",
+            "1F3FD"
+          ],
+          "components": [
+            "🏾",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🧑🏾‍❤️‍🧑🏿",
+          "description": "couple with heart: person, person, medium-dark skin tone, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "love",
+            "medium-dark skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F9D1",
+            "1F3FF"
+          ],
+          "components": [
+            "🏾",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "🧑🏿‍❤️‍🧑🏻",
+          "description": "couple with heart: person, person, dark skin tone, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "light skin tone",
+            "love",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F9D1",
+            "1F3FB"
+          ],
+          "components": [
+            "🏿",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🧑🏿‍❤️‍🧑🏼",
+          "description": "couple with heart: person, person, dark skin tone, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "love",
+            "medium-light skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F9D1",
+            "1F3FC"
+          ],
+          "components": [
+            "🏿",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🧑🏿‍❤️‍🧑🏽",
+          "description": "couple with heart: person, person, dark skin tone, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "love",
+            "medium skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F9D1",
+            "1F3FD"
+          ],
+          "components": [
+            "🏿",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🧑🏿‍❤️‍🧑🏾",
+          "description": "couple with heart: person, person, dark skin tone, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "love",
+            "medium-dark skin tone",
+            "person"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F9D1",
+            "1F3FE"
+          ],
+          "components": [
+            "🏿",
+            "🏾"
+          ]
+        },
+        {
           "emoji": "👩‍❤️‍👨",
           "description": "couple with heart: woman, man",
           "version": "2.0",
@@ -40008,6 +43773,696 @@
             "FE0F",
             "200D",
             "1F468"
+          ]
+        },
+        {
+          "emoji": "👩🏻‍❤️‍👨🏻",
+          "description": "couple with heart: woman, man, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "light skin tone",
+            "love",
+            "man",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FB"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👩🏻‍❤️‍👨🏼",
+          "description": "couple with heart: woman, man, light skin tone, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "light skin tone",
+            "love",
+            "man",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FC"
+          ],
+          "components": [
+            "🏻",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👩🏻‍❤️‍👨🏽",
+          "description": "couple with heart: woman, man, light skin tone, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "light skin tone",
+            "love",
+            "man",
+            "medium skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FD"
+          ],
+          "components": [
+            "🏻",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👩🏻‍❤️‍👨🏾",
+          "description": "couple with heart: woman, man, light skin tone, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "light skin tone",
+            "love",
+            "man",
+            "medium-dark skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FE"
+          ],
+          "components": [
+            "🏻",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👩🏻‍❤️‍👨🏿",
+          "description": "couple with heart: woman, man, light skin tone, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "light skin tone",
+            "love",
+            "man",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FF"
+          ],
+          "components": [
+            "🏻",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👩🏼‍❤️‍👨🏻",
+          "description": "couple with heart: woman, man, medium-light skin tone, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "light skin tone",
+            "love",
+            "man",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FB"
+          ],
+          "components": [
+            "🏼",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👩🏼‍❤️‍👨🏼",
+          "description": "couple with heart: woman, man, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "man",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FC"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👩🏼‍❤️‍👨🏽",
+          "description": "couple with heart: woman, man, medium-light skin tone, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "man",
+            "medium skin tone",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FD"
+          ],
+          "components": [
+            "🏼",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👩🏼‍❤️‍👨🏾",
+          "description": "couple with heart: woman, man, medium-light skin tone, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "man",
+            "medium-dark skin tone",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FE"
+          ],
+          "components": [
+            "🏼",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👩🏼‍❤️‍👨🏿",
+          "description": "couple with heart: woman, man, medium-light skin tone, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "love",
+            "man",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FF"
+          ],
+          "components": [
+            "🏼",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👩🏽‍❤️‍👨🏻",
+          "description": "couple with heart: woman, man, medium skin tone, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "light skin tone",
+            "love",
+            "man",
+            "medium skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FB"
+          ],
+          "components": [
+            "🏽",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👩🏽‍❤️‍👨🏼",
+          "description": "couple with heart: woman, man, medium skin tone, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "man",
+            "medium skin tone",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FC"
+          ],
+          "components": [
+            "🏽",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👩🏽‍❤️‍👨🏽",
+          "description": "couple with heart: woman, man, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "man",
+            "medium skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FD"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👩🏽‍❤️‍👨🏾",
+          "description": "couple with heart: woman, man, medium skin tone, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "man",
+            "medium skin tone",
+            "medium-dark skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FE"
+          ],
+          "components": [
+            "🏽",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👩🏽‍❤️‍👨🏿",
+          "description": "couple with heart: woman, man, medium skin tone, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "love",
+            "man",
+            "medium skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FF"
+          ],
+          "components": [
+            "🏽",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👩🏾‍❤️‍👨🏻",
+          "description": "couple with heart: woman, man, medium-dark skin tone, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "light skin tone",
+            "love",
+            "man",
+            "medium-dark skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FB"
+          ],
+          "components": [
+            "🏾",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👩🏾‍❤️‍👨🏼",
+          "description": "couple with heart: woman, man, medium-dark skin tone, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "man",
+            "medium-dark skin tone",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FC"
+          ],
+          "components": [
+            "🏾",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👩🏾‍❤️‍👨🏽",
+          "description": "couple with heart: woman, man, medium-dark skin tone, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "man",
+            "medium skin tone",
+            "medium-dark skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FD"
+          ],
+          "components": [
+            "🏾",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👩🏾‍❤️‍👨🏾",
+          "description": "couple with heart: woman, man, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "man",
+            "medium-dark skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FE"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👩🏾‍❤️‍👨🏿",
+          "description": "couple with heart: woman, man, medium-dark skin tone, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "love",
+            "man",
+            "medium-dark skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FF"
+          ],
+          "components": [
+            "🏾",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👩🏿‍❤️‍👨🏻",
+          "description": "couple with heart: woman, man, dark skin tone, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "light skin tone",
+            "love",
+            "man",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FB"
+          ],
+          "components": [
+            "🏿",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👩🏿‍❤️‍👨🏼",
+          "description": "couple with heart: woman, man, dark skin tone, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "love",
+            "man",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FC"
+          ],
+          "components": [
+            "🏿",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👩🏿‍❤️‍👨🏽",
+          "description": "couple with heart: woman, man, dark skin tone, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "love",
+            "man",
+            "medium skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FD"
+          ],
+          "components": [
+            "🏿",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👩🏿‍❤️‍👨🏾",
+          "description": "couple with heart: woman, man, dark skin tone, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "love",
+            "man",
+            "medium-dark skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FE"
+          ],
+          "components": [
+            "🏿",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👩🏿‍❤️‍👨🏿",
+          "description": "couple with heart: woman, man, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "love",
+            "man",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FF"
+          ],
+          "components": [
+            "🏿"
           ]
         },
         {
@@ -40030,6 +44485,671 @@
           ]
         },
         {
+          "emoji": "👨🏻‍❤️‍👨🏻",
+          "description": "couple with heart: man, man, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "light skin tone",
+            "love",
+            "man"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FB"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👨🏻‍❤️‍👨🏼",
+          "description": "couple with heart: man, man, light skin tone, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "light skin tone",
+            "love",
+            "man",
+            "medium-light skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FC"
+          ],
+          "components": [
+            "🏻",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👨🏻‍❤️‍👨🏽",
+          "description": "couple with heart: man, man, light skin tone, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "light skin tone",
+            "love",
+            "man",
+            "medium skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FD"
+          ],
+          "components": [
+            "🏻",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👨🏻‍❤️‍👨🏾",
+          "description": "couple with heart: man, man, light skin tone, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "light skin tone",
+            "love",
+            "man",
+            "medium-dark skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FE"
+          ],
+          "components": [
+            "🏻",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👨🏻‍❤️‍👨🏿",
+          "description": "couple with heart: man, man, light skin tone, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "light skin tone",
+            "love",
+            "man"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FF"
+          ],
+          "components": [
+            "🏻",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👨🏼‍❤️‍👨🏻",
+          "description": "couple with heart: man, man, medium-light skin tone, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "light skin tone",
+            "love",
+            "man",
+            "medium-light skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FB"
+          ],
+          "components": [
+            "🏼",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👨🏼‍❤️‍👨🏼",
+          "description": "couple with heart: man, man, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "man",
+            "medium-light skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FC"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👨🏼‍❤️‍👨🏽",
+          "description": "couple with heart: man, man, medium-light skin tone, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "man",
+            "medium skin tone",
+            "medium-light skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FD"
+          ],
+          "components": [
+            "🏼",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👨🏼‍❤️‍👨🏾",
+          "description": "couple with heart: man, man, medium-light skin tone, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "man",
+            "medium-dark skin tone",
+            "medium-light skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FE"
+          ],
+          "components": [
+            "🏼",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👨🏼‍❤️‍👨🏿",
+          "description": "couple with heart: man, man, medium-light skin tone, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "love",
+            "man",
+            "medium-light skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FF"
+          ],
+          "components": [
+            "🏼",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👨🏽‍❤️‍👨🏻",
+          "description": "couple with heart: man, man, medium skin tone, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "light skin tone",
+            "love",
+            "man",
+            "medium skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FB"
+          ],
+          "components": [
+            "🏽",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👨🏽‍❤️‍👨🏼",
+          "description": "couple with heart: man, man, medium skin tone, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "man",
+            "medium skin tone",
+            "medium-light skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FC"
+          ],
+          "components": [
+            "🏽",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👨🏽‍❤️‍👨🏽",
+          "description": "couple with heart: man, man, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "man",
+            "medium skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FD"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👨🏽‍❤️‍👨🏾",
+          "description": "couple with heart: man, man, medium skin tone, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "man",
+            "medium skin tone",
+            "medium-dark skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FE"
+          ],
+          "components": [
+            "🏽",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👨🏽‍❤️‍👨🏿",
+          "description": "couple with heart: man, man, medium skin tone, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "love",
+            "man",
+            "medium skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FF"
+          ],
+          "components": [
+            "🏽",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👨🏾‍❤️‍👨🏻",
+          "description": "couple with heart: man, man, medium-dark skin tone, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "light skin tone",
+            "love",
+            "man",
+            "medium-dark skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FB"
+          ],
+          "components": [
+            "🏾",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👨🏾‍❤️‍👨🏼",
+          "description": "couple with heart: man, man, medium-dark skin tone, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "man",
+            "medium-dark skin tone",
+            "medium-light skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FC"
+          ],
+          "components": [
+            "🏾",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👨🏾‍❤️‍👨🏽",
+          "description": "couple with heart: man, man, medium-dark skin tone, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "man",
+            "medium skin tone",
+            "medium-dark skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FD"
+          ],
+          "components": [
+            "🏾",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👨🏾‍❤️‍👨🏾",
+          "description": "couple with heart: man, man, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "man",
+            "medium-dark skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FE"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👨🏾‍❤️‍👨🏿",
+          "description": "couple with heart: man, man, medium-dark skin tone, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "love",
+            "man",
+            "medium-dark skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FF"
+          ],
+          "components": [
+            "🏾",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👨🏿‍❤️‍👨🏻",
+          "description": "couple with heart: man, man, dark skin tone, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "light skin tone",
+            "love",
+            "man"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FB"
+          ],
+          "components": [
+            "🏿",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👨🏿‍❤️‍👨🏼",
+          "description": "couple with heart: man, man, dark skin tone, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "love",
+            "man",
+            "medium-light skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FC"
+          ],
+          "components": [
+            "🏿",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👨🏿‍❤️‍👨🏽",
+          "description": "couple with heart: man, man, dark skin tone, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "love",
+            "man",
+            "medium skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FD"
+          ],
+          "components": [
+            "🏿",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👨🏿‍❤️‍👨🏾",
+          "description": "couple with heart: man, man, dark skin tone, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "love",
+            "man",
+            "medium-dark skin tone"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FE"
+          ],
+          "components": [
+            "🏿",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👨🏿‍❤️‍👨🏿",
+          "description": "couple with heart: man, man, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "love",
+            "man"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F468",
+            "1F3FF"
+          ],
+          "components": [
+            "🏿"
+          ]
+        },
+        {
           "emoji": "👩‍❤️‍👩",
           "description": "couple with heart: woman, woman",
           "version": "2.0",
@@ -40046,6 +45166,671 @@
             "FE0F",
             "200D",
             "1F469"
+          ]
+        },
+        {
+          "emoji": "👩🏻‍❤️‍👩🏻",
+          "description": "couple with heart: woman, woman, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "light skin tone",
+            "love",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F469",
+            "1F3FB"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👩🏻‍❤️‍👩🏼",
+          "description": "couple with heart: woman, woman, light skin tone, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "light skin tone",
+            "love",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F469",
+            "1F3FC"
+          ],
+          "components": [
+            "🏻",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👩🏻‍❤️‍👩🏽",
+          "description": "couple with heart: woman, woman, light skin tone, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "light skin tone",
+            "love",
+            "medium skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F469",
+            "1F3FD"
+          ],
+          "components": [
+            "🏻",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👩🏻‍❤️‍👩🏾",
+          "description": "couple with heart: woman, woman, light skin tone, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "light skin tone",
+            "love",
+            "medium-dark skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F469",
+            "1F3FE"
+          ],
+          "components": [
+            "🏻",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👩🏻‍❤️‍👩🏿",
+          "description": "couple with heart: woman, woman, light skin tone, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "light skin tone",
+            "love",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FB",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F469",
+            "1F3FF"
+          ],
+          "components": [
+            "🏻",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👩🏼‍❤️‍👩🏻",
+          "description": "couple with heart: woman, woman, medium-light skin tone, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "light skin tone",
+            "love",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F469",
+            "1F3FB"
+          ],
+          "components": [
+            "🏼",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👩🏼‍❤️‍👩🏼",
+          "description": "couple with heart: woman, woman, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F469",
+            "1F3FC"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👩🏼‍❤️‍👩🏽",
+          "description": "couple with heart: woman, woman, medium-light skin tone, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "medium skin tone",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F469",
+            "1F3FD"
+          ],
+          "components": [
+            "🏼",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👩🏼‍❤️‍👩🏾",
+          "description": "couple with heart: woman, woman, medium-light skin tone, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "medium-dark skin tone",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F469",
+            "1F3FE"
+          ],
+          "components": [
+            "🏼",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👩🏼‍❤️‍👩🏿",
+          "description": "couple with heart: woman, woman, medium-light skin tone, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "love",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FC",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F469",
+            "1F3FF"
+          ],
+          "components": [
+            "🏼",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👩🏽‍❤️‍👩🏻",
+          "description": "couple with heart: woman, woman, medium skin tone, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "light skin tone",
+            "love",
+            "medium skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F469",
+            "1F3FB"
+          ],
+          "components": [
+            "🏽",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👩🏽‍❤️‍👩🏼",
+          "description": "couple with heart: woman, woman, medium skin tone, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "medium skin tone",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F469",
+            "1F3FC"
+          ],
+          "components": [
+            "🏽",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👩🏽‍❤️‍👩🏽",
+          "description": "couple with heart: woman, woman, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "medium skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F469",
+            "1F3FD"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👩🏽‍❤️‍👩🏾",
+          "description": "couple with heart: woman, woman, medium skin tone, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "medium skin tone",
+            "medium-dark skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F469",
+            "1F3FE"
+          ],
+          "components": [
+            "🏽",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👩🏽‍❤️‍👩🏿",
+          "description": "couple with heart: woman, woman, medium skin tone, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "love",
+            "medium skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FD",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F469",
+            "1F3FF"
+          ],
+          "components": [
+            "🏽",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👩🏾‍❤️‍👩🏻",
+          "description": "couple with heart: woman, woman, medium-dark skin tone, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "light skin tone",
+            "love",
+            "medium-dark skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F469",
+            "1F3FB"
+          ],
+          "components": [
+            "🏾",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👩🏾‍❤️‍👩🏼",
+          "description": "couple with heart: woman, woman, medium-dark skin tone, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "medium-dark skin tone",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F469",
+            "1F3FC"
+          ],
+          "components": [
+            "🏾",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👩🏾‍❤️‍👩🏽",
+          "description": "couple with heart: woman, woman, medium-dark skin tone, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "medium skin tone",
+            "medium-dark skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F469",
+            "1F3FD"
+          ],
+          "components": [
+            "🏾",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👩🏾‍❤️‍👩🏾",
+          "description": "couple with heart: woman, woman, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "love",
+            "medium-dark skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F469",
+            "1F3FE"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👩🏾‍❤️‍👩🏿",
+          "description": "couple with heart: woman, woman, medium-dark skin tone, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "love",
+            "medium-dark skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FE",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F469",
+            "1F3FF"
+          ],
+          "components": [
+            "🏾",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👩🏿‍❤️‍👩🏻",
+          "description": "couple with heart: woman, woman, dark skin tone, light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "light skin tone",
+            "love",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F469",
+            "1F3FB"
+          ],
+          "components": [
+            "🏿",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👩🏿‍❤️‍👩🏼",
+          "description": "couple with heart: woman, woman, dark skin tone, medium-light skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "love",
+            "medium-light skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F469",
+            "1F3FC"
+          ],
+          "components": [
+            "🏿",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👩🏿‍❤️‍👩🏽",
+          "description": "couple with heart: woman, woman, dark skin tone, medium skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "love",
+            "medium skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F469",
+            "1F3FD"
+          ],
+          "components": [
+            "🏿",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👩🏿‍❤️‍👩🏾",
+          "description": "couple with heart: woman, woman, dark skin tone, medium-dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "love",
+            "medium-dark skin tone",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F469",
+            "1F3FE"
+          ],
+          "components": [
+            "🏿",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👩🏿‍❤️‍👩🏿",
+          "description": "couple with heart: woman, woman, dark skin tone",
+          "version": "13.1",
+          "keywords": [
+            "couple",
+            "couple with heart",
+            "dark skin tone",
+            "love",
+            "woman"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FF",
+            "200D",
+            "2764",
+            "FE0F",
+            "200D",
+            "1F469",
+            "1F3FF"
+          ],
+          "components": [
+            "🏿"
           ]
         }
       ]
@@ -49408,7 +55193,7 @@
     },
     {
       "emoji": "🎯",
-      "description": "direct hit",
+      "description": "bullseye",
       "version": "0.6",
       "keywords": [
         "bullseye",
@@ -53100,7 +58885,7 @@
     },
     {
       "emoji": "🔫",
-      "description": "pistol",
+      "description": "water pistol",
       "version": "0.6",
       "keywords": [
         "gun",
@@ -53108,6 +58893,7 @@
         "pistol",
         "revolver",
         "tool",
+        "water",
         "weapon"
       ],
       "codePoints": [
@@ -55962,13 +61748,14 @@
     },
     {
       "emoji": "❓",
-      "description": "question mark",
+      "description": "red question mark",
       "version": "0.6",
       "keywords": [
         "?",
         "mark",
         "punctuation",
-        "question"
+        "question",
+        "red question mark"
       ],
       "codePoints": [
         "2753"
@@ -56017,13 +61804,14 @@
     },
     {
       "emoji": "❗",
-      "description": "exclamation mark",
+      "description": "red exclamation mark",
       "version": "0.6",
       "keywords": [
         "!",
         "exclamation",
         "mark",
-        "punctuation"
+        "punctuation",
+        "red exclamation mark"
       ],
       "codePoints": [
         "2757"

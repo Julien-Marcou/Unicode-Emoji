@@ -5,8 +5,8 @@ const htmlparser2 = require('htmlparser2');
 
 /* ------------- PARAMETERS ------------- */
 
-const unicodeEmojiVersion = '13.0';
-const unicodeCldrVersion = '37';
+const unicodeEmojiVersion = '13.1';
+const unicodeCldrVersion = '38-1';
 const unicodeCldrLocale = 'en';
 
 
@@ -236,7 +236,7 @@ function processEmojiLine(line) {
         if (!baseEmoji.variations) {
           baseEmoji.variations = [];
         }
-        baseEmoji.variations.push(emoji);1
+        baseEmoji.variations.push(emoji);
       }
       // Base emoji
       else {
