@@ -46,11 +46,14 @@ const categoriesMapping = {
     default: 'flags',
   },
 };
-const overrideCategoriesForEmojis = {
+const overrideCategoryForEmojis = {
   'activities-events': ['🎥', '🎞️', '📽️', '🎬', '📺', '📷', '📸', '📹', '📼', '🔨', '🪓', '⛏️', '⚒️', '🛠️', '🗡️', '⚔️', '🔫', '🪃', '🏹', '🛡️', '🪚', '🔧', '🪛'],
   'animals-nature': ['🦀', '🦞', '🦐', '🦑', '🦪'],
   'objects': ['🧿', '🌂', '☂️', '💣'],
   'symbols': ['♠️', '♥️', '♦️', '♣️', '🕳️', '💬', '👁️‍🗨️', '🗨️', '🗯️', '💭', '🕛', '🕧', '🕐', '🕜', '🕑', '🕝', '🕒', '🕞', '🕓', '🕟', '🕔', '🕠', '🕕', '🕡', '🕖', '🕢', '🕗', '🕣', '🕘', '🕤', '🕙', '🕥', '🕚', '🕦', '🔇', '🔈', '🔉', '🔊', '🔕', '💹'],
+};
+const missingVariationsForBaseEmojis = {
+  '👩': ['🧔‍♀️', '🧔🏻‍♀️', '🧔🏼‍♀️', '🧔🏽‍♀️', '🧔🏾‍♀️', '🧔🏿‍♀️'],
 };
 const missingEmojis = [
   '# group: People & Body',
@@ -223,8 +226,8 @@ function processEmojiLine(line) {
           break;
         }
       }
-      for (const overrideCategory in overrideCategoriesForEmojis) {
-        if (overrideCategoriesForEmojis[overrideCategory].includes(renderedEmoji)) {
+      for (const overrideCategory in overrideCategoryForEmojis) {
+        if (overrideCategoryForEmojis[overrideCategory].includes(renderedEmoji)) {
           category = overrideCategory;
         }
       }
@@ -246,6 +249,18 @@ function processEmojiLine(line) {
         results.emojis.push(emoji);
         baseEmojis.set(description, emoji);
       }
+    }
+  }
+}
+
+function addMissingVariationsForBaseEmojis() {
+  for (const renderedBaseEmoji in missingVariationsForBaseEmojis) {
+    const baseEmoji = emojis.get(renderedBaseEmoji);
+    for (const renderedVariationEmoji of missingVariationsForBaseEmojis[renderedBaseEmoji]) {
+      const variationEmoji = emojis.get(renderedVariationEmoji);
+      baseEmojis.delete(variationEmoji.description)
+      baseEmoji.variations.push(variationEmoji);
+      results.emojis.splice(results.emojis.indexOf(variationEmoji), 1);
     }
   }
 }
@@ -367,10 +382,13 @@ https.get(emojisInput, (emojisResponse) => {
     });
     process.stdout.write('\n');
 
-    // Data consolidation for emoji variations
+    // Fix emoji variations not being linked to their base emoji
+    addMissingVariationsForBaseEmojis();
+
+    // Data consolidation (skin tone & hair style) for emoji variations
     addComponentsToEmojiVariations();
 
-    // Retrieve annotations online
+    // Retrieve annotations (text-to-speech & keywords) online
     process.stdout.write(`Retrieving "Common Local Data Repository, Version ${unicodeCldrVersion}" for local "${unicodeCldrLocale}"\n`);
     https.get(annotationsInput, (annotationResponse) => {
       annotationResponse.setEncoding('utf8');
@@ -379,7 +397,7 @@ https.get(emojisInput, (emojisResponse) => {
       });
       annotationResponse.on('end', () => {
 
-        // Retrieve derived annotations online
+        // Retrieve derived (emoji variations) annotations online
         https.get(derivedAnnotationsInput, (derivedAnnotationResponse) => {
           derivedAnnotationResponse.setEncoding('utf8');
           derivedAnnotationResponse.on('data', (data) => {

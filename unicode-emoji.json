@@ -9712,130 +9712,6 @@
       ]
     },
     {
-      "emoji": "🧔‍♀️",
-      "description": "woman: beard",
-      "version": "13.1",
-      "keywords": [
-        "beard",
-        "woman",
-        "woman: beard"
-      ],
-      "codePoints": [
-        "1F9D4",
-        "200D",
-        "2640",
-        "FE0F"
-      ],
-      "category": "person-people",
-      "group": "people-body",
-      "subgroup": "person"
-    },
-    {
-      "emoji": "🧔🏻‍♀️",
-      "description": "woman: light skin tone, beard",
-      "version": "13.1",
-      "keywords": [
-        "beard",
-        "light skin tone",
-        "woman",
-        "woman: beard"
-      ],
-      "codePoints": [
-        "1F9D4",
-        "1F3FB",
-        "200D",
-        "2640",
-        "FE0F"
-      ],
-      "category": "person-people",
-      "group": "people-body",
-      "subgroup": "person"
-    },
-    {
-      "emoji": "🧔🏼‍♀️",
-      "description": "woman: medium-light skin tone, beard",
-      "version": "13.1",
-      "keywords": [
-        "beard",
-        "medium-light skin tone",
-        "woman",
-        "woman: beard"
-      ],
-      "codePoints": [
-        "1F9D4",
-        "1F3FC",
-        "200D",
-        "2640",
-        "FE0F"
-      ],
-      "category": "person-people",
-      "group": "people-body",
-      "subgroup": "person"
-    },
-    {
-      "emoji": "🧔🏽‍♀️",
-      "description": "woman: medium skin tone, beard",
-      "version": "13.1",
-      "keywords": [
-        "beard",
-        "medium skin tone",
-        "woman",
-        "woman: beard"
-      ],
-      "codePoints": [
-        "1F9D4",
-        "1F3FD",
-        "200D",
-        "2640",
-        "FE0F"
-      ],
-      "category": "person-people",
-      "group": "people-body",
-      "subgroup": "person"
-    },
-    {
-      "emoji": "🧔🏾‍♀️",
-      "description": "woman: medium-dark skin tone, beard",
-      "version": "13.1",
-      "keywords": [
-        "beard",
-        "medium-dark skin tone",
-        "woman",
-        "woman: beard"
-      ],
-      "codePoints": [
-        "1F9D4",
-        "1F3FE",
-        "200D",
-        "2640",
-        "FE0F"
-      ],
-      "category": "person-people",
-      "group": "people-body",
-      "subgroup": "person"
-    },
-    {
-      "emoji": "🧔🏿‍♀️",
-      "description": "woman: dark skin tone, beard",
-      "version": "13.1",
-      "keywords": [
-        "beard",
-        "dark skin tone",
-        "woman",
-        "woman: beard"
-      ],
-      "codePoints": [
-        "1F9D4",
-        "1F3FF",
-        "200D",
-        "2640",
-        "FE0F"
-      ],
-      "category": "person-people",
-      "group": "people-body",
-      "subgroup": "person"
-    },
-    {
       "emoji": "👩",
       "description": "woman",
       "version": "0.6",
@@ -10561,6 +10437,145 @@
             "2640",
             "FE0F"
           ],
+          "components": [
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "🧔‍♀️",
+          "description": "woman: beard",
+          "version": "13.1",
+          "keywords": [
+            "beard",
+            "woman",
+            "woman: beard"
+          ],
+          "codePoints": [
+            "1F9D4",
+            "200D",
+            "2640",
+            "FE0F"
+          ],
+          "category": "person-people",
+          "group": "people-body",
+          "subgroup": "person"
+        },
+        {
+          "emoji": "🧔🏻‍♀️",
+          "description": "woman: light skin tone, beard",
+          "version": "13.1",
+          "keywords": [
+            "beard",
+            "light skin tone",
+            "woman",
+            "woman: beard"
+          ],
+          "codePoints": [
+            "1F9D4",
+            "1F3FB",
+            "200D",
+            "2640",
+            "FE0F"
+          ],
+          "category": "person-people",
+          "group": "people-body",
+          "subgroup": "person",
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🧔🏼‍♀️",
+          "description": "woman: medium-light skin tone, beard",
+          "version": "13.1",
+          "keywords": [
+            "beard",
+            "medium-light skin tone",
+            "woman",
+            "woman: beard"
+          ],
+          "codePoints": [
+            "1F9D4",
+            "1F3FC",
+            "200D",
+            "2640",
+            "FE0F"
+          ],
+          "category": "person-people",
+          "group": "people-body",
+          "subgroup": "person",
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🧔🏽‍♀️",
+          "description": "woman: medium skin tone, beard",
+          "version": "13.1",
+          "keywords": [
+            "beard",
+            "medium skin tone",
+            "woman",
+            "woman: beard"
+          ],
+          "codePoints": [
+            "1F9D4",
+            "1F3FD",
+            "200D",
+            "2640",
+            "FE0F"
+          ],
+          "category": "person-people",
+          "group": "people-body",
+          "subgroup": "person",
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🧔🏾‍♀️",
+          "description": "woman: medium-dark skin tone, beard",
+          "version": "13.1",
+          "keywords": [
+            "beard",
+            "medium-dark skin tone",
+            "woman",
+            "woman: beard"
+          ],
+          "codePoints": [
+            "1F9D4",
+            "1F3FE",
+            "200D",
+            "2640",
+            "FE0F"
+          ],
+          "category": "person-people",
+          "group": "people-body",
+          "subgroup": "person",
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🧔🏿‍♀️",
+          "description": "woman: dark skin tone, beard",
+          "version": "13.1",
+          "keywords": [
+            "beard",
+            "dark skin tone",
+            "woman",
+            "woman: beard"
+          ],
+          "codePoints": [
+            "1F9D4",
+            "1F3FF",
+            "200D",
+            "2640",
+            "FE0F"
+          ],
+          "category": "person-people",
+          "group": "people-body",
+          "subgroup": "person",
           "components": [
             "🏿"
           ]
