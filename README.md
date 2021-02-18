@@ -10,7 +10,7 @@ You can learn more about emojis at [Emojipedia](https://emojipedia.org/) or find
 
 Check the generated [CSV file](https://github.com/Julien-Marcou/Unicode-Emoji/blob/master/unicode-emoji.csv)
 
-Or just [take a look](https://emoji.julien-marcou.fr/) of what you can achieve using this package
+Or just [take a look](https://emoji.julien-marcou.fr/) at what you can achieve using this package
 
 
 ## 🔌 Installation
@@ -47,7 +47,7 @@ unicodeEmoji.getEmojis();
         "subgroup": "face-smiling"
     },
     {
-        "emoji": "👋", // Emoji with skin tone variation
+        "emoji": "👋", // Emoji with skin tone variations
         "description": "waving hand",
         "version": "0.6",
         "keywords": ["hand", "wave", "waving"],
