@@ -1,10 +1,21 @@
 # Unicode Emoji
 
+[![NPM Package](https://img.shields.io/npm/v/unicode-emoji?label=release&color=%23cd2620&logo=npm)](https://www.npmjs.com/package/unicode-emoji)
+[![Unicode Emoji v13.1](https://img.shields.io/badge/emoji-v13.1-yellow?logo=unicode&logoColor=yellow)](https://unicode.org/Public/emoji/13.1/)
+[![GitHub Repository](https://img.shields.io/github/forks/Julien-Marcou/Unicode-Emoji?color=%23f5f5f5&logo=github)](https://github.com/Julien-Marcou/Unicode-Emoji)
+
+![Downloads per Month](https://img.shields.io/npm/dm/unicode-emoji)
+![Repository Size](https://img.shields.io/github/repo-size/Julien-Marcou/Unicode-Emoji?color=%23063a8d)
+![Gzip Size](https://img.shields.io/bundlephobia/minzip/unicode-emoji?label=gzip%20size)
+![No Dependency](https://img.shields.io/badge/dependencies-none-%23872a84)
+![MIT License](https://img.shields.io/npm/l/unicode-emoji)
+
 Raw data for Unicode Emoji 🙂
 
 The data are generated using the `Unicode Emoji, Version 13.1` from [Unicode](https://home.unicode.org/emoji/about-emoji/)
 
 You can learn more about emojis at [Emojipedia](https://emojipedia.org/) or find some implementation details and trivia on the [Wiki](https://github.com/Julien-Marcou/Unicode-Emoji/wiki)
+
 
 ## 👉 Demo
 
@@ -18,6 +29,7 @@ Or just [take a look](https://emoji.julien-marcou.fr/) at what you can achieve u
 ```shell
 npm install unicode-emoji
 ```
+
 
 ## 🧰 Usage
 
@@ -136,4 +148,4 @@ While complete data are available on GitHub :
  - `unicode-emoji.csv` provides complete flat data
  - `unicode-emoji.json` provides complete hierarchical data
 
-Only the stripped-down `unicode-emoji.js` file is bundled within this NPM package to greatly reduce its size
+Only the stripped-down `unicode-emoji.js` file is bundled within the NPM package to greatly reduce its size
