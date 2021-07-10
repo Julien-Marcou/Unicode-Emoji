@@ -25,6 +25,7 @@ export type OmitEmojiWhere = {
   group?: Group[],
   subgroup?: Subgroup[],
   version?: Version[],
+  versionAbove?: Version,
 };
 
 export declare function getComponents(): Record<Component, EmojiComponent[]>;

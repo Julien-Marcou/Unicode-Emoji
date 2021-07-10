@@ -185,12 +185,13 @@ You can group & filter emojis by category, group, subgroup or version
 
 Here is an example :
  - grouped by category
- - without the emojis from the flags category
- - without the emojis from the 12.1, 13.0 & 13.1 versions
+ - without emojis from the flags category
+ - without emojis from the 0.6 & 0.7 versions
+ - without emojis from all versions above version 12.0
 
 ```javascript
 const groupBy = 'category';
-const omitWhere = { category: ['flags'], version: ['12.1', '13.0', '13.1'] };
+const omitWhere = { versionAbove: '12.0', category: ['flags'], version: ['0.6', '0.7'] };
 
 // Only omitting
 unicodeEmoji.getEmojis(omitWhere)
@@ -201,6 +202,22 @@ unicodeEmoji.getEmojisGroupedBy(groupBy);
 // Grouping and omitting
 unicodeEmoji.getEmojisGroupedBy(groupBy, omitWhere);
 ```
+
+Keep in mind that :
+
+```javascript
+const omitWhere = { versionAbove: '12.0' };
+```
+
+Is equivalent to :
+
+```javascript
+const omitWhere = { version: ['12.1', '13.0', '13.1'] };
+```
+
+But you should always use the first one, as it will be future-proof for when new versions of `unicode-emoji` are released.
+
+So that updating your dependencies will not opt you into newer emojis that are not yet supported on every platforms.
 
 
 ## 📋 Details

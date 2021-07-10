@@ -1,5 +1,7 @@
 import UNICODE_EMOJI from './unicode-emoji.js';
 
+const UNICODE_EMOJI_VERSIONS = ['0.6', '0.7', '1.0', '2.0', '3.0', '4.0', '5.0', '11.0', '12.0', '12.1', '13.0', '13.1'];
+
 const emojiVariations = new Map();
 
 function groupEmojis(emojis, groupBy) {
@@ -45,6 +47,12 @@ function filterEmojis(emojis, omitWhere) {
   return filteredEmojis;
 }
 
+function getVersionsAbove(maxVersion) {
+  return UNICODE_EMOJI_VERSIONS.filter(version => {
+    return parseFloat(version) > parseFloat(maxVersion);
+  });
+}
+
 function safeCheckGroupBy(groupBy) {
   const allowedFields = ['category', 'group', 'subgroup', 'version'];
   if (!groupBy || typeof groupBy !== 'string' || !allowedFields.includes(groupBy)) {
@@ -53,13 +61,21 @@ function safeCheckGroupBy(groupBy) {
 }
 
 function safeCheckOmitBy(omitWhere) {
+  if (omitWhere.versionAbove) {
+    if (!omitWhere.version) {
+      omitWhere.version = [];
+    }
+    omitWhere.version = omitWhere.version.concat(getVersionsAbove(omitWhere.versionAbove));
+    delete omitWhere.versionAbove;
+  }
+
   const allowedFields = ['category', 'group', 'subgroup', 'version'];
   if (!omitWhere || typeof omitWhere !== 'object') {
     throw new Error("You can't filter emojis with \"" + omitWhere + "\" - Use an object, like \"{category: ['flags', 'symbols']}\" instead")
   }
   for (const omitField in omitWhere) {
     if (!allowedFields.includes(omitField)) {
-      throw new Error("You can't filter emojis with key \"" + omitField + "\" - Try \"category\", \"group\", \"subgroup\" or \"version\" instead");
+      throw new Error("You can't filter emojis with key \"" + omitField + "\" - Try \"category\", \"group\", \"subgroup\", \"version\", or \"versionAbove\" instead");
     }
     else if (!(omitWhere[omitField] instanceof Array)) {
       throw new Error("You can't filter emojis with value \"" + omitWhere[omitField] + "\" for key \"" + omitField + "\" - Use an array, like \"['flags', 'symbols']\" instead");
