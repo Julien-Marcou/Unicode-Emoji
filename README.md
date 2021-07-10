@@ -2,7 +2,7 @@
 
 [![NPM Package](https://img.shields.io/npm/v/unicode-emoji?label=release&color=%23cd2620&logo=npm)](https://www.npmjs.com/package/unicode-emoji)
 [![Unicode Emoji v13.1](https://img.shields.io/badge/emoji-v13.1-yellow?logo=unicode&logoColor=yellow)](https://unicode.org/Public/emoji/13.1/)
-[![GitHub Repository](https://img.shields.io/github/forks/Julien-Marcou/Unicode-Emoji?color=%23f5f5f5&logo=github)](https://github.com/Julien-Marcou/Unicode-Emoji)
+[![GitHub Repository](https://img.shields.io/github/stars/Julien-Marcou/Unicode-Emoji?color=%23f5f5f5&logo=github)](https://github.com/Julien-Marcou/Unicode-Emoji)
 
 ![Downloads per Month](https://img.shields.io/npm/dm/unicode-emoji)
 ![Repository Size](https://img.shields.io/github/repo-size/Julien-Marcou/Unicode-Emoji?color=%23063a8d)
@@ -12,16 +12,16 @@
 
 Raw data for Unicode Emoji 🙂
 
-The data are generated using the `Unicode Emoji, Version 13.1` from [Unicode](https://home.unicode.org/emoji/about-emoji/)
+The data are generated using the `Unicode Emoji, Version 13.1` from [Unicode](https://home.unicode.org/emoji/about-emoji/).
 
-You can learn more about emojis at [Emojipedia](https://emojipedia.org/) or find some implementation details and trivia on the [Wiki](https://github.com/Julien-Marcou/Unicode-Emoji/wiki)
+You can learn more about emojis at [Emojipedia](https://emojipedia.org/) or find some implementation details and trivia on the [Wiki](https://github.com/Julien-Marcou/Unicode-Emoji/wiki).
 
 
 ## 👉 Demo
 
-Check the generated [CSV file](https://github.com/Julien-Marcou/Unicode-Emoji/blob/master/unicode-emoji.csv)
+Check the generated [CSV file](https://github.com/Julien-Marcou/Unicode-Emoji/blob/master/unicode-emoji.csv).
 
-Or just [take a look](https://emoji.julien-marcou.fr/) at what you can achieve using this package
+Or just [take a look](https://emoji.julien-marcou.fr/) at what you can achieve using this package.
 
 
 ## 🔌 Installation
@@ -33,13 +33,71 @@ npm install unicode-emoji
 
 ## 🧰 Usage
 
-### Import
+This NPM package uses the ECMAScript Modules system, so the easiest way to use it, is with a Bundler (like WebPack), so you don't have to worry about how to make it available and import it.
 
-This NPM package uses the ES6 import syntax (you'll need Node.js v14+ if you are not using TypeScript)
+### With a Bundler
+
+You can simply import it wherever you need it :
 
 ```javascript
 import * as unicodeEmoji from 'unicode-emoji';
 ```
+
+### With Node.js
+
+ES Modules are only supported since Node.js v14.
+
+#### Targeting CommonJS
+
+When targeting CommonJS, you don't have access to static import, so you'll have to use dynamic import :
+
+```javascript
+const unicodeEmoji = await import('unicode-emoji');
+```
+
+Also, you'll need to import it inside an async function, as top-level await is not supported for CommonJS.
+
+### Targeting ES Module
+
+When setting `"type": "module"` inside your `package.json` or when importing it from a `.mjs` file, you can simply use the ES6 import syntax :
+
+```javascript
+import * as unicodeEmoji from 'unicode-emoji';
+```
+
+### From a web browser
+
+If you are not using a bundler, you'll have to expose the `unicode-emoji/index.js` file so it is accessible from the web.
+
+#### Using the full path
+
+```html
+<script type="module">
+  import * as unicodeEmoji from '/node_modules/unicode-emoji/index.js';
+</script>
+```
+#### Using Import Maps
+
+[Import Maps](https://wicg.github.io/import-maps/) can be very useful when you have several dependencies between different modules, as it allows you to import modules using their names instead of their full path.
+
+But they are not implemented in any browser yet, so you'll have to use a polyfill :
+
+```html
+<script async src="https://unpkg.com/es-module-shims@0.12.1/dist/es-module-shims.js"></script>
+<script type="importmap-shim">
+  {
+    "imports": {
+      "unicode-emoji": "/node_modules/unicode-emoji/index.js"
+    }
+  }
+</script>
+<script type="module-shim">
+  import * as unicodeEmoji from 'unicode-emoji';
+</script>
+```
+
+
+## 📚 Documentation
 
 ### Retrieve emojis
 
@@ -49,38 +107,38 @@ unicodeEmoji.getEmojis();
 
 ```javascript
 [
-    {
-        "emoji": "😀", // Emoji without skin tone variation
-        "description": "grinning face",
-        "version": "1.0",
-        "keywords": ["face", "grin", "grinning face"],
-        "category": "face-emotion",
-        "group": "smileys-emotion",
-        "subgroup": "face-smiling"
-    },
-    {
-        "emoji": "👋", // Emoji with skin tone variations
-        "description": "waving hand",
-        "version": "0.6",
-        "keywords": ["hand", "wave", "waving"],
-        "category": "face-emotion",
-        "group": "people-body",
-        "subgroup": "hand-fingers-open",
-        "variations": [
-            {
-                "emoji": "👋🏻",
-                "description": "waving hand: light skin tone",
-                "version": "1.0"
-            },
-            {
-                "emoji": "👋🏼",
-                "description": "waving hand: medium-light skin tone",
-                "version": "1.0"
-            },
-            // ...
-        ]
-    },
-    // ...
+  {
+    "emoji": "😀", // Emoji without skin tone variation
+    "description": "grinning face",
+    "version": "1.0",
+    "keywords": ["face", "grin", "grinning face"],
+    "category": "face-emotion",
+    "group": "smileys-emotion",
+    "subgroup": "face-smiling"
+  },
+  {
+    "emoji": "👋", // Emoji with skin tone variations
+    "description": "waving hand",
+    "version": "0.6",
+    "keywords": ["hand", "wave", "waving"],
+    "category": "face-emotion",
+    "group": "people-body",
+    "subgroup": "hand-fingers-open",
+    "variations": [
+      {
+        "emoji": "👋🏻",
+        "description": "waving hand: light skin tone",
+        "version": "1.0"
+      },
+      {
+        "emoji": "👋🏼",
+        "description": "waving hand: medium-light skin tone",
+        "version": "1.0"
+      },
+      // ...
+    ]
+  },
+  // ...
 ]
 ```
 
@@ -92,32 +150,32 @@ unicodeEmoji.getComponents();
 
 ```javascript
 {
-    "skin-tone": [
-        {
-            "emoji": "🏻",
-            "description": "light skin tone",
-            "version": "1.0"
-        },
-        {
-            "emoji": "🏼",
-            "description": "medium-light skin tone",
-            "version": "1.0"
-        },
-        // ...
-    ],
-    "hair-style": [
-        {
-            "emoji": "🦰",
-            "description": "red hair",
-            "version": "11.0"
-        },
-        {
-            "emoji": "🦱",
-            "description": "curly hair",
-            "version": "11.0"
-        },
-        // ...
-    ]
+  "skin-tone": [
+    {
+      "emoji": "🏻",
+      "description": "light skin tone",
+      "version": "1.0"
+    },
+    {
+      "emoji": "🏼",
+      "description": "medium-light skin tone",
+      "version": "1.0"
+    },
+    // ...
+  ],
+  "hair-style": [
+    {
+      "emoji": "🦰",
+      "description": "red hair",
+      "version": "11.0"
+    },
+    {
+      "emoji": "🦱",
+      "description": "curly hair",
+      "version": "11.0"
+    },
+    // ...
+  ]
 }
 ```
 
@@ -136,6 +194,9 @@ const omitWhere = { category: ['flags'], version: ['12.1', '13.0', '13.1'] };
 
 // Only omitting
 unicodeEmoji.getEmojis(omitWhere)
+
+// Only grouping
+unicodeEmoji.getEmojisGroupedBy(groupBy);
 
 // Grouping and omitting
 unicodeEmoji.getEmojisGroupedBy(groupBy, omitWhere);
