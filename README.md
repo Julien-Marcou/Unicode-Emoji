@@ -194,7 +194,7 @@ const groupBy = 'category';
 const omitWhere = { versionAbove: '12.0', category: ['flags'], version: ['0.6', '0.7'] };
 
 // Only omitting
-unicodeEmoji.getEmojis(omitWhere)
+unicodeEmoji.getEmojis(omitWhere);
 
 // Only grouping
 unicodeEmoji.getEmojisGroupedBy(groupBy);
