@@ -23,6 +23,6 @@
   "type": "module",
   "license": "MIT",
   "devDependencies": {
-    "htmlparser2": "^6.0.0"
+    "htmlparser2": "^6.1.0"
   }
 }
