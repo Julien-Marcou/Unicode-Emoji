@@ -19,6 +19,9 @@
     "dataset",
     "json"
   ],
+  "scripts": {
+    "build": "node generate-unicode-emoji.cjs"
+  },
   "main": "index.js",
   "type": "module",
   "license": "MIT",
