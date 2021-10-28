@@ -18,6 +18,7 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 😂,"face with tears of joy",0.6,face|face with tears of joy|joy|laugh|tear,face-emotion,smileys-emotion,face-smiling,,
 🙂,"slightly smiling face",1.0,face|slightly smiling face|smile,face-emotion,smileys-emotion,face-smiling,,
 🙃,"upside-down face",1.0,face|upside-down,face-emotion,smileys-emotion,face-smiling,,
+🫠,"melting face",14.0,disappear|dissolve|liquid|melt|melting face,face-emotion,smileys-emotion,face-smiling,,
 😉,"winking face",0.6,face|wink|winking face,face-emotion,smileys-emotion,face-smiling,,
 😊,"smiling face with smiling eyes",0.6,blush|eye|face|smile|smiling face with smiling eyes,face-emotion,smileys-emotion,face-smiling,,
 😇,"smiling face with halo",1.0,angel|face|fantasy|halo|innocent|smiling face with halo,face-emotion,smileys-emotion,face-smiling,,
@@ -36,15 +37,19 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🤪,"zany face",5.0,eye|goofy|large|small|zany face,face-emotion,smileys-emotion,face-tongue,,
 😝,"squinting face with tongue",0.6,eye|face|horrible|squinting face with tongue|taste|tongue,face-emotion,smileys-emotion,face-tongue,,
 🤑,"money-mouth face",1.0,face|money|money-mouth face|mouth,face-emotion,smileys-emotion,face-tongue,,
-🤗,"hugging face",1.0,face|hug|hugging,face-emotion,smileys-emotion,face-hand,,
+🤗,"smiling face with open hands",1.0,face|hug|hugging|open hands|smiling face|smiling face with open hands,face-emotion,smileys-emotion,face-hand,,
 🤭,"face with hand over mouth",5.0,face with hand over mouth|whoops,face-emotion,smileys-emotion,face-hand,,
+🫢,"face with open eyes and hand over mouth",14.0,amazement|awe|disbelief|embarrass|face with open eyes and hand over mouth|scared|surprise,face-emotion,smileys-emotion,face-hand,,
+🫣,"face with peeking eye",14.0,captivated|face with peeking eye|peep|stare,face-emotion,smileys-emotion,face-hand,,
 🤫,"shushing face",5.0,quiet|shush|shushing face,face-emotion,smileys-emotion,face-hand,,
 🤔,"thinking face",1.0,face|thinking,face-emotion,smileys-emotion,face-hand,,
+🫡,"saluting face",14.0,OK|salute|saluting face|sunny|troops|yes,face-emotion,smileys-emotion,face-hand,,
 🤐,"zipper-mouth face",1.0,face|mouth|zipper|zipper-mouth face,face-emotion,smileys-emotion,face-neutral-skeptical,,
 🤨,"face with raised eyebrow",5.0,distrust|face with raised eyebrow|skeptic,face-emotion,smileys-emotion,face-neutral-skeptical,,
 😐,"neutral face",0.7,deadpan|face|meh|neutral,face-emotion,smileys-emotion,face-neutral-skeptical,,
 😑,"expressionless face",1.0,expressionless|face|inexpressive|meh|unexpressive,face-emotion,smileys-emotion,face-neutral-skeptical,,
 😶,"face without mouth",1.0,face|face without mouth|mouth|quiet|silent,face-emotion,smileys-emotion,face-neutral-skeptical,,
+🫥,"dotted line face",14.0,depressed|disappear|dotted line face|hide|introvert|invisible,face-emotion,smileys-emotion,face-neutral-skeptical,,
 😶‍🌫️,"face in clouds",13.1,absentminded|face in clouds|face in the fog|head in clouds,face-emotion,smileys-emotion,face-neutral-skeptical,,
 😏,"smirking face",0.6,face|smirk|smirking face,face-emotion,smileys-emotion,face-neutral-skeptical,,
 😒,"unamused face",0.6,face|unamused|unhappy,face-emotion,smileys-emotion,face-neutral-skeptical,,
@@ -54,19 +59,19 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🤥,"lying face",3.0,face|lie|lying face|pinocchio,face-emotion,smileys-emotion,face-neutral-skeptical,,
 😌,"relieved face",0.6,face|relieved,face-emotion,smileys-emotion,face-sleepy,,
 😔,"pensive face",0.6,dejected|face|pensive,face-emotion,smileys-emotion,face-sleepy,,
-😪,"sleepy face",0.6,face|sleep|sleepy face,face-emotion,smileys-emotion,face-sleepy,,
+😪,"sleepy face",0.6,face|good night|sleep|sleepy face,face-emotion,smileys-emotion,face-sleepy,,
 🤤,"drooling face",3.0,drooling|face,face-emotion,smileys-emotion,face-sleepy,,
-😴,"sleeping face",1.0,face|sleep|sleeping face|zzz,face-emotion,smileys-emotion,face-sleepy,,
+😴,"sleeping face",1.0,face|good night|sleep|sleeping face|ZZZ,face-emotion,smileys-emotion,face-sleepy,,
 😷,"face with medical mask",0.6,cold|doctor|face|face with medical mask|mask|sick,face-emotion,smileys-emotion,face-unwell,,
 🤒,"face with thermometer",1.0,face|face with thermometer|ill|sick|thermometer,face-emotion,smileys-emotion,face-unwell,,
 🤕,"face with head-bandage",1.0,bandage|face|face with head-bandage|hurt|injury,face-emotion,smileys-emotion,face-unwell,,
 🤢,"nauseated face",3.0,face|nauseated|vomit,face-emotion,smileys-emotion,face-unwell,,
-🤮,"face vomiting",5.0,face vomiting|sick|vomit|puke,face-emotion,smileys-emotion,face-unwell,,
+🤮,"face vomiting",5.0,face vomiting|puke|sick|vomit,face-emotion,smileys-emotion,face-unwell,,
 🤧,"sneezing face",3.0,face|gesundheit|sneeze|sneezing face,face-emotion,smileys-emotion,face-unwell,,
 🥵,"hot face",11.0,feverish|heat stroke|hot|hot face|red-faced|sweating,face-emotion,smileys-emotion,face-unwell,,
 🥶,"cold face",11.0,blue-faced|cold|cold face|freezing|frostbite|icicles,face-emotion,smileys-emotion,face-unwell,,
 🥴,"woozy face",11.0,dizzy|intoxicated|tipsy|uneven eyes|wavy mouth|woozy face,face-emotion,smileys-emotion,face-unwell,,
-😵,"knocked-out face",0.6,dead|face|knocked out|knocked-out face,face-emotion,smileys-emotion,face-unwell,,
+😵,"face with crossed-out eyes",0.6,crossed-out eyes|dead|face|face with crossed-out eyes|knocked out,face-emotion,smileys-emotion,face-unwell,,
 😵‍💫,"face with spiral eyes",13.1,dizzy|face with spiral eyes|hypnotized|spiral|trouble|whoa,face-emotion,smileys-emotion,face-unwell,,
 🤯,"exploding head",5.0,exploding head|mind blown|shocked,face-emotion,smileys-emotion,face-unwell,,
 🤠,"cowboy hat face",3.0,cowboy|cowgirl|face|hat,face-emotion,smileys-emotion,face-hat,,
@@ -74,8 +79,9 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🥸,"disguised face",13.0,disguise|disguised face|face|glasses|incognito|nose,face-emotion,smileys-emotion,face-hat,,
 😎,"smiling face with sunglasses",1.0,bright|cool|face|smiling face with sunglasses|sun|sunglasses,face-emotion,smileys-emotion,face-glasses,,
 🤓,"nerd face",1.0,face|geek|nerd,face-emotion,smileys-emotion,face-glasses,,
-🧐,"face with monocle",5.0,face with monocle|stuffy,face-emotion,smileys-emotion,face-glasses,,
+🧐,"face with monocle",5.0,face|face with monocle|monocle|stuffy,face-emotion,smileys-emotion,face-glasses,,
 😕,"confused face",1.0,confused|face|meh,face-emotion,smileys-emotion,face-concerned,,
+🫤,"face with diagonal mouth",14.0,disappointed|face with diagonal mouth|meh|skeptical|unsure,face-emotion,smileys-emotion,face-concerned,,
 😟,"worried face",1.0,face|worried,face-emotion,smileys-emotion,face-concerned,,
 🙁,"slightly frowning face",1.0,face|frown|slightly frowning face,face-emotion,smileys-emotion,face-concerned,,
 ☹️,"frowning face",0.7,face|frown|frowning face,face-emotion,smileys-emotion,face-concerned,,
@@ -84,6 +90,7 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 😲,"astonished face",0.6,astonished|face|shocked|totally,face-emotion,smileys-emotion,face-concerned,,
 😳,"flushed face",0.6,dazed|face|flushed,face-emotion,smileys-emotion,face-concerned,,
 🥺,"pleading face",11.0,begging|mercy|pleading face|puppy eyes,face-emotion,smileys-emotion,face-concerned,,
+🥹,"face holding back tears",14.0,angry|cry|face holding back tears|proud|resist|sad,face-emotion,smileys-emotion,face-concerned,,
 😦,"frowning face with open mouth",1.0,face|frown|frowning face with open mouth|mouth|open,face-emotion,smileys-emotion,face-concerned,,
 😧,"anguished face",1.0,anguished|face,face-emotion,smileys-emotion,face-concerned,,
 😨,"fearful face",0.6,face|fear|fearful|scared,face-emotion,smileys-emotion,face-concerned,,
@@ -100,8 +107,8 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 😫,"tired face",0.6,face|tired,face-emotion,smileys-emotion,face-concerned,,
 🥱,"yawning face",12.0,bored|tired|yawn|yawning face,face-emotion,smileys-emotion,face-concerned,,
 😤,"face with steam from nose",0.6,face|face with steam from nose|triumph|won,face-emotion,smileys-emotion,face-negative,,
-😡,"pouting face",0.6,angry|face|mad|pouting|rage|red,face-emotion,smileys-emotion,face-negative,,
-😠,"angry face",0.6,angry|face|mad|anger,face-emotion,smileys-emotion,face-negative,,
+😡,"enraged face",0.6,angry|enraged|face|mad|pouting|rage|red,face-emotion,smileys-emotion,face-negative,,
+😠,"angry face",0.6,anger|angry|face|mad,face-emotion,smileys-emotion,face-negative,,
 🤬,"face with symbols on mouth",5.0,face with symbols on mouth|swearing,face-emotion,smileys-emotion,face-negative,,
 😈,"smiling face with horns",1.0,face|fairy tale|fantasy|horns|smile|smiling face with horns,face-emotion,smileys-emotion,face-negative,,
 👿,"angry face with horns",0.6,angry face with horns|demon|devil|face|fantasy|imp,face-emotion,smileys-emotion,face-negative,,
@@ -159,11 +166,11 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🕳️,"hole",0.7,hole,symbols,smileys-emotion,emotion,,
 💣,"bomb",0.6,bomb|comic,objects,smileys-emotion,emotion,,
 💬,"speech balloon",0.6,balloon|bubble|comic|dialog|speech,symbols,smileys-emotion,emotion,,
-👁️‍🗨️,"eye in speech bubble",2.0,eye|eye in speech bubble|speech bubble|witness,symbols,smileys-emotion,emotion,,
-🗨️,"left speech bubble",2.0,dialog|left speech bubble|speech,symbols,smileys-emotion,emotion,,
+👁️‍🗨️,"eye in speech bubble",2.0,balloon|bubble|eye|eye in speech bubble|speech|witness,symbols,smileys-emotion,emotion,,
+🗨️,"left speech bubble",2.0,balloon|bubble|dialog|left speech bubble|speech,symbols,smileys-emotion,emotion,,
 🗯️,"right anger bubble",0.7,angry|balloon|bubble|mad|right anger bubble,symbols,smileys-emotion,emotion,,
 💭,"thought balloon",1.0,balloon|bubble|comic|thought,symbols,smileys-emotion,emotion,,
-💤,"zzz",0.6,comic|sleep|zzz,face-emotion,smileys-emotion,emotion,,
+💤,"ZZZ",0.6,comic|good night|sleep|ZZZ,face-emotion,smileys-emotion,emotion,,
 👋,"waving hand",0.6,hand|wave|waving,face-emotion,people-body,hand-fingers-open,,
 👋🏻,"waving hand: light skin tone",1.0,hand|light skin tone|wave|waving,face-emotion,people-body,hand-fingers-open,👋,🏻
 👋🏼,"waving hand: medium-light skin tone",1.0,hand|medium-light skin tone|wave|waving,face-emotion,people-body,hand-fingers-open,👋,🏼
@@ -194,6 +201,30 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🖖🏽,"vulcan salute: medium skin tone",1.0,finger|hand|medium skin tone|spock|vulcan|vulcan salute,face-emotion,people-body,hand-fingers-open,🖖,🏽
 🖖🏾,"vulcan salute: medium-dark skin tone",1.0,finger|hand|medium-dark skin tone|spock|vulcan|vulcan salute,face-emotion,people-body,hand-fingers-open,🖖,🏾
 🖖🏿,"vulcan salute: dark skin tone",1.0,dark skin tone|finger|hand|spock|vulcan|vulcan salute,face-emotion,people-body,hand-fingers-open,🖖,🏿
+🫱,"rightwards hand",14.0,hand|right|rightward|rightwards hand,face-emotion,people-body,hand-fingers-open,,
+🫱🏻,"rightwards hand: light skin tone",14.0,hand|light skin tone|right|rightward|rightwards hand,face-emotion,people-body,hand-fingers-open,🫱,🏻
+🫱🏼,"rightwards hand: medium-light skin tone",14.0,hand|medium-light skin tone|right|rightward|rightwards hand,face-emotion,people-body,hand-fingers-open,🫱,🏼
+🫱🏽,"rightwards hand: medium skin tone",14.0,hand|medium skin tone|right|rightward|rightwards hand,face-emotion,people-body,hand-fingers-open,🫱,🏽
+🫱🏾,"rightwards hand: medium-dark skin tone",14.0,hand|medium-dark skin tone|right|rightward|rightwards hand,face-emotion,people-body,hand-fingers-open,🫱,🏾
+🫱🏿,"rightwards hand: dark skin tone",14.0,dark skin tone|hand|right|rightward|rightwards hand,face-emotion,people-body,hand-fingers-open,🫱,🏿
+🫲,"leftwards hand",14.0,hand|left|leftward|leftwards hand,face-emotion,people-body,hand-fingers-open,,
+🫲🏻,"leftwards hand: light skin tone",14.0,hand|left|leftward|leftwards hand|light skin tone,face-emotion,people-body,hand-fingers-open,🫲,🏻
+🫲🏼,"leftwards hand: medium-light skin tone",14.0,hand|left|leftward|leftwards hand|medium-light skin tone,face-emotion,people-body,hand-fingers-open,🫲,🏼
+🫲🏽,"leftwards hand: medium skin tone",14.0,hand|left|leftward|leftwards hand|medium skin tone,face-emotion,people-body,hand-fingers-open,🫲,🏽
+🫲🏾,"leftwards hand: medium-dark skin tone",14.0,hand|left|leftward|leftwards hand|medium-dark skin tone,face-emotion,people-body,hand-fingers-open,🫲,🏾
+🫲🏿,"leftwards hand: dark skin tone",14.0,dark skin tone|hand|left|leftward|leftwards hand,face-emotion,people-body,hand-fingers-open,🫲,🏿
+🫳,"palm down hand",14.0,dismiss|drop|palm down hand|shoo,face-emotion,people-body,hand-fingers-open,,
+🫳🏻,"palm down hand: light skin tone",14.0,dismiss|drop|light skin tone|palm down hand|shoo,face-emotion,people-body,hand-fingers-open,🫳,🏻
+🫳🏼,"palm down hand: medium-light skin tone",14.0,dismiss|drop|medium-light skin tone|palm down hand|shoo,face-emotion,people-body,hand-fingers-open,🫳,🏼
+🫳🏽,"palm down hand: medium skin tone",14.0,dismiss|drop|medium skin tone|palm down hand|shoo,face-emotion,people-body,hand-fingers-open,🫳,🏽
+🫳🏾,"palm down hand: medium-dark skin tone",14.0,dismiss|drop|medium-dark skin tone|palm down hand|shoo,face-emotion,people-body,hand-fingers-open,🫳,🏾
+🫳🏿,"palm down hand: dark skin tone",14.0,dark skin tone|dismiss|drop|palm down hand|shoo,face-emotion,people-body,hand-fingers-open,🫳,🏿
+🫴,"palm up hand",14.0,beckon|catch|come|offer|palm up hand,face-emotion,people-body,hand-fingers-open,,
+🫴🏻,"palm up hand: light skin tone",14.0,beckon|catch|come|light skin tone|offer|palm up hand,face-emotion,people-body,hand-fingers-open,🫴,🏻
+🫴🏼,"palm up hand: medium-light skin tone",14.0,beckon|catch|come|medium-light skin tone|offer|palm up hand,face-emotion,people-body,hand-fingers-open,🫴,🏼
+🫴🏽,"palm up hand: medium skin tone",14.0,beckon|catch|come|medium skin tone|offer|palm up hand,face-emotion,people-body,hand-fingers-open,🫴,🏽
+🫴🏾,"palm up hand: medium-dark skin tone",14.0,beckon|catch|come|medium-dark skin tone|offer|palm up hand,face-emotion,people-body,hand-fingers-open,🫴,🏾
+🫴🏿,"palm up hand: dark skin tone",14.0,beckon|catch|come|dark skin tone|offer|palm up hand,face-emotion,people-body,hand-fingers-open,🫴,🏿
 👌,"OK hand",0.6,hand|OK,face-emotion,people-body,hand-fingers-partial,,
 👌🏻,"OK hand: light skin tone",1.0,hand|light skin tone|OK,face-emotion,people-body,hand-fingers-partial,👌,🏻
 👌🏼,"OK hand: medium-light skin tone",1.0,hand|medium-light skin tone|OK,face-emotion,people-body,hand-fingers-partial,👌,🏼
@@ -224,6 +255,12 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🤞🏽,"crossed fingers: medium skin tone",3.0,cross|crossed fingers|finger|hand|luck|medium skin tone,face-emotion,people-body,hand-fingers-partial,🤞,🏽
 🤞🏾,"crossed fingers: medium-dark skin tone",3.0,cross|crossed fingers|finger|hand|luck|medium-dark skin tone,face-emotion,people-body,hand-fingers-partial,🤞,🏾
 🤞🏿,"crossed fingers: dark skin tone",3.0,cross|crossed fingers|dark skin tone|finger|hand|luck,face-emotion,people-body,hand-fingers-partial,🤞,🏿
+🫰,"hand with index finger and thumb crossed",14.0,expensive|hand with index finger and thumb crossed|heart|love|money|snap,face-emotion,people-body,hand-fingers-partial,,
+🫰🏻,"hand with index finger and thumb crossed: light skin tone",14.0,expensive|hand with index finger and thumb crossed|heart|light skin tone|love|money|snap,face-emotion,people-body,hand-fingers-partial,🫰,🏻
+🫰🏼,"hand with index finger and thumb crossed: medium-light skin tone",14.0,expensive|hand with index finger and thumb crossed|heart|love|medium-light skin tone|money|snap,face-emotion,people-body,hand-fingers-partial,🫰,🏼
+🫰🏽,"hand with index finger and thumb crossed: medium skin tone",14.0,expensive|hand with index finger and thumb crossed|heart|love|medium skin tone|money|snap,face-emotion,people-body,hand-fingers-partial,🫰,🏽
+🫰🏾,"hand with index finger and thumb crossed: medium-dark skin tone",14.0,expensive|hand with index finger and thumb crossed|heart|love|medium-dark skin tone|money|snap,face-emotion,people-body,hand-fingers-partial,🫰,🏾
+🫰🏿,"hand with index finger and thumb crossed: dark skin tone",14.0,dark skin tone|expensive|hand with index finger and thumb crossed|heart|love|money|snap,face-emotion,people-body,hand-fingers-partial,🫰,🏿
 🤟,"love-you gesture",5.0,hand|ILY|love-you gesture,face-emotion,people-body,hand-fingers-partial,,
 🤟🏻,"love-you gesture: light skin tone",5.0,hand|ILY|light skin tone|love-you gesture,face-emotion,people-body,hand-fingers-partial,🤟,🏻
 🤟🏼,"love-you gesture: medium-light skin tone",5.0,hand|ILY|love-you gesture|medium-light skin tone,face-emotion,people-body,hand-fingers-partial,🤟,🏼
@@ -236,12 +273,12 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🤘🏽,"sign of the horns: medium skin tone",1.0,finger|hand|horns|medium skin tone|rock-on|sign of the horns,face-emotion,people-body,hand-fingers-partial,🤘,🏽
 🤘🏾,"sign of the horns: medium-dark skin tone",1.0,finger|hand|horns|medium-dark skin tone|rock-on|sign of the horns,face-emotion,people-body,hand-fingers-partial,🤘,🏾
 🤘🏿,"sign of the horns: dark skin tone",1.0,dark skin tone|finger|hand|horns|rock-on|sign of the horns,face-emotion,people-body,hand-fingers-partial,🤘,🏿
-🤙,"call me hand",3.0,call|call me hand|hand,face-emotion,people-body,hand-fingers-partial,,
-🤙🏻,"call me hand: light skin tone",3.0,call|call me hand|hand|light skin tone,face-emotion,people-body,hand-fingers-partial,🤙,🏻
-🤙🏼,"call me hand: medium-light skin tone",3.0,call|call me hand|hand|medium-light skin tone,face-emotion,people-body,hand-fingers-partial,🤙,🏼
-🤙🏽,"call me hand: medium skin tone",3.0,call|call me hand|hand|medium skin tone,face-emotion,people-body,hand-fingers-partial,🤙,🏽
-🤙🏾,"call me hand: medium-dark skin tone",3.0,call|call me hand|hand|medium-dark skin tone,face-emotion,people-body,hand-fingers-partial,🤙,🏾
-🤙🏿,"call me hand: dark skin tone",3.0,call|call me hand|dark skin tone|hand,face-emotion,people-body,hand-fingers-partial,🤙,🏿
+🤙,"call me hand",3.0,call|call me hand|hand|hang loose|Shaka,face-emotion,people-body,hand-fingers-partial,,
+🤙🏻,"call me hand: light skin tone",3.0,call|call me hand|hand|hang loose|light skin tone|Shaka,face-emotion,people-body,hand-fingers-partial,🤙,🏻
+🤙🏼,"call me hand: medium-light skin tone",3.0,call|call me hand|hand|hang loose|medium-light skin tone|Shaka,face-emotion,people-body,hand-fingers-partial,🤙,🏼
+🤙🏽,"call me hand: medium skin tone",3.0,call|call me hand|hand|hang loose|medium skin tone|Shaka,face-emotion,people-body,hand-fingers-partial,🤙,🏽
+🤙🏾,"call me hand: medium-dark skin tone",3.0,call|call me hand|hand|hang loose|medium-dark skin tone|Shaka,face-emotion,people-body,hand-fingers-partial,🤙,🏾
+🤙🏿,"call me hand: dark skin tone",3.0,call|call me hand|dark skin tone|hand|hang loose|Shaka,face-emotion,people-body,hand-fingers-partial,🤙,🏿
 👈,"backhand index pointing left",0.6,backhand|backhand index pointing left|finger|hand|index|point,face-emotion,people-body,hand-single-finger,,
 👈🏻,"backhand index pointing left: light skin tone",1.0,backhand|backhand index pointing left|finger|hand|index|light skin tone|point,face-emotion,people-body,hand-single-finger,👈,🏻
 👈🏼,"backhand index pointing left: medium-light skin tone",1.0,backhand|backhand index pointing left|finger|hand|index|medium-light skin tone|point,face-emotion,people-body,hand-single-finger,👈,🏼
@@ -278,6 +315,12 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 ☝🏽,"index pointing up: medium skin tone",1.0,finger|hand|index|index pointing up|medium skin tone|point|up,face-emotion,people-body,hand-single-finger,☝️,🏽
 ☝🏾,"index pointing up: medium-dark skin tone",1.0,finger|hand|index|index pointing up|medium-dark skin tone|point|up,face-emotion,people-body,hand-single-finger,☝️,🏾
 ☝🏿,"index pointing up: dark skin tone",1.0,dark skin tone|finger|hand|index|index pointing up|point|up,face-emotion,people-body,hand-single-finger,☝️,🏿
+🫵,"index pointing at the viewer",14.0,index pointing at the viewer|point|you,face-emotion,people-body,hand-single-finger,,
+🫵🏻,"index pointing at the viewer: light skin tone",14.0,index pointing at the viewer|light skin tone|point|you,face-emotion,people-body,hand-single-finger,🫵,🏻
+🫵🏼,"index pointing at the viewer: medium-light skin tone",14.0,index pointing at the viewer|medium-light skin tone|point|you,face-emotion,people-body,hand-single-finger,🫵,🏼
+🫵🏽,"index pointing at the viewer: medium skin tone",14.0,index pointing at the viewer|medium skin tone|point|you,face-emotion,people-body,hand-single-finger,🫵,🏽
+🫵🏾,"index pointing at the viewer: medium-dark skin tone",14.0,index pointing at the viewer|medium-dark skin tone|point|you,face-emotion,people-body,hand-single-finger,🫵,🏾
+🫵🏿,"index pointing at the viewer: dark skin tone",14.0,dark skin tone|index pointing at the viewer|point|you,face-emotion,people-body,hand-single-finger,🫵,🏿
 👍,"thumbs up",0.6,+1|hand|thumb|thumbs up|up,face-emotion,people-body,hand-fingers-closed,,
 👍🏻,"thumbs up: light skin tone",1.0,+1|hand|light skin tone|thumb|thumbs up|up,face-emotion,people-body,hand-fingers-closed,👍,🏻
 👍🏼,"thumbs up: medium-light skin tone",1.0,+1|hand|medium-light skin tone|thumb|thumbs up|up,face-emotion,people-body,hand-fingers-closed,👍,🏼
@@ -326,6 +369,12 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🙌🏽,"raising hands: medium skin tone",1.0,celebration|gesture|hand|hooray|medium skin tone|raised|raising hands,face-emotion,people-body,hands,🙌,🏽
 🙌🏾,"raising hands: medium-dark skin tone",1.0,celebration|gesture|hand|hooray|medium-dark skin tone|raised|raising hands,face-emotion,people-body,hands,🙌,🏾
 🙌🏿,"raising hands: dark skin tone",1.0,celebration|dark skin tone|gesture|hand|hooray|raised|raising hands,face-emotion,people-body,hands,🙌,🏿
+🫶,"heart hands",14.0,heart hands|love,face-emotion,people-body,hands,,
+🫶🏻,"heart hands: light skin tone",14.0,heart hands|light skin tone|love,face-emotion,people-body,hands,🫶,🏻
+🫶🏼,"heart hands: medium-light skin tone",14.0,heart hands|love|medium-light skin tone,face-emotion,people-body,hands,🫶,🏼
+🫶🏽,"heart hands: medium skin tone",14.0,heart hands|love|medium skin tone,face-emotion,people-body,hands,🫶,🏽
+🫶🏾,"heart hands: medium-dark skin tone",14.0,heart hands|love|medium-dark skin tone,face-emotion,people-body,hands,🫶,🏾
+🫶🏿,"heart hands: dark skin tone",14.0,dark skin tone|heart hands|love,face-emotion,people-body,hands,🫶,🏿
 👐,"open hands",0.6,hand|open|open hands,face-emotion,people-body,hands,,
 👐🏻,"open hands: light skin tone",1.0,hand|light skin tone|open|open hands,face-emotion,people-body,hands,👐,🏻
 👐🏼,"open hands: medium-light skin tone",1.0,hand|medium-light skin tone|open|open hands,face-emotion,people-body,hands,👐,🏼
@@ -342,8 +391,28 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🤝🏻,"handshake: light skin tone",3.0,agreement|hand|handshake|light skin tone|meeting|shake,face-emotion,people-body,hands,🤝,🏻
 🤝🏼,"handshake: medium-light skin tone",3.0,agreement|hand|handshake|medium-light skin tone|meeting|shake,face-emotion,people-body,hands,🤝,🏼
 🤝🏽,"handshake: medium skin tone",3.0,agreement|hand|handshake|medium skin tone|meeting|shake,face-emotion,people-body,hands,🤝,🏽
-🤝🏾,"handshake: medium-dark skin tone",3.0,agreement|hand|handshake|medium-dark skin|meeting|shake,face-emotion,people-body,hands,🤝,🏾
+🤝🏾,"handshake: medium-dark skin tone",3.0,agreement|hand|handshake|medium-dark skin tone|meeting|shake,face-emotion,people-body,hands,🤝,🏾
 🤝🏿,"handshake: dark skin tone",3.0,agreement|dark skin tone|hand|handshake|meeting|shake,face-emotion,people-body,hands,🤝,🏿
+🫱🏻‍🫲🏼,"handshake: light skin tone, medium-light skin tone",14.0,agreement|hand|handshake|light skin tone|medium-light skin tone|meeting|shake,face-emotion,people-body,hands,🤝,🏻|🏼
+🫱🏻‍🫲🏽,"handshake: light skin tone, medium skin tone",14.0,agreement|hand|handshake|light skin tone|medium skin tone|meeting|shake,face-emotion,people-body,hands,🤝,🏻|🏽
+🫱🏻‍🫲🏾,"handshake: light skin tone, medium-dark skin tone",14.0,agreement|hand|handshake|light skin tone|medium-dark skin tone|meeting|shake,face-emotion,people-body,hands,🤝,🏻|🏾
+🫱🏻‍🫲🏿,"handshake: light skin tone, dark skin tone",14.0,agreement|dark skin tone|hand|handshake|light skin tone|meeting|shake,face-emotion,people-body,hands,🤝,🏻|🏿
+🫱🏼‍🫲🏻,"handshake: medium-light skin tone, light skin tone",14.0,agreement|hand|handshake|light skin tone|medium-light skin tone|meeting|shake,face-emotion,people-body,hands,🤝,🏼|🏻
+🫱🏼‍🫲🏽,"handshake: medium-light skin tone, medium skin tone",14.0,agreement|hand|handshake|medium skin tone|medium-light skin tone|meeting|shake,face-emotion,people-body,hands,🤝,🏼|🏽
+🫱🏼‍🫲🏾,"handshake: medium-light skin tone, medium-dark skin tone",14.0,agreement|hand|handshake|medium-dark skin tone|medium-light skin tone|meeting|shake,face-emotion,people-body,hands,🤝,🏼|🏾
+🫱🏼‍🫲🏿,"handshake: medium-light skin tone, dark skin tone",14.0,agreement|dark skin tone|hand|handshake|medium-light skin tone|meeting|shake,face-emotion,people-body,hands,🤝,🏼|🏿
+🫱🏽‍🫲🏻,"handshake: medium skin tone, light skin tone",14.0,agreement|hand|handshake|light skin tone|medium skin tone|meeting|shake,face-emotion,people-body,hands,🤝,🏽|🏻
+🫱🏽‍🫲🏼,"handshake: medium skin tone, medium-light skin tone",14.0,agreement|hand|handshake|medium skin tone|medium-light skin tone|meeting|shake,face-emotion,people-body,hands,🤝,🏽|🏼
+🫱🏽‍🫲🏾,"handshake: medium skin tone, medium-dark skin tone",14.0,agreement|hand|handshake|medium skin tone|medium-dark skin tone|meeting|shake,face-emotion,people-body,hands,🤝,🏽|🏾
+🫱🏽‍🫲🏿,"handshake: medium skin tone, dark skin tone",14.0,agreement|dark skin tone|hand|handshake|medium skin tone|meeting|shake,face-emotion,people-body,hands,🤝,🏽|🏿
+🫱🏾‍🫲🏻,"handshake: medium-dark skin tone, light skin tone",14.0,agreement|hand|handshake|light skin tone|medium-dark skin tone|meeting|shake,face-emotion,people-body,hands,🤝,🏾|🏻
+🫱🏾‍🫲🏼,"handshake: medium-dark skin tone, medium-light skin tone",14.0,agreement|hand|handshake|medium-dark skin tone|medium-light skin tone|meeting|shake,face-emotion,people-body,hands,🤝,🏾|🏼
+🫱🏾‍🫲🏽,"handshake: medium-dark skin tone, medium skin tone",14.0,agreement|hand|handshake|medium skin tone|medium-dark skin tone|meeting|shake,face-emotion,people-body,hands,🤝,🏾|🏽
+🫱🏾‍🫲🏿,"handshake: medium-dark skin tone, dark skin tone",14.0,agreement|dark skin tone|hand|handshake|medium-dark skin tone|meeting|shake,face-emotion,people-body,hands,🤝,🏾|🏿
+🫱🏿‍🫲🏻,"handshake: dark skin tone, light skin tone",14.0,agreement|dark skin tone|hand|handshake|light skin tone|meeting|shake,face-emotion,people-body,hands,🤝,🏿|🏻
+🫱🏿‍🫲🏼,"handshake: dark skin tone, medium-light skin tone",14.0,agreement|dark skin tone|hand|handshake|medium-light skin tone|meeting|shake,face-emotion,people-body,hands,🤝,🏿|🏼
+🫱🏿‍🫲🏽,"handshake: dark skin tone, medium skin tone",14.0,agreement|dark skin tone|hand|handshake|medium skin tone|meeting|shake,face-emotion,people-body,hands,🤝,🏿|🏽
+🫱🏿‍🫲🏾,"handshake: dark skin tone, medium-dark skin tone",14.0,agreement|dark skin tone|hand|handshake|medium-dark skin tone|meeting|shake,face-emotion,people-body,hands,🤝,🏿|🏾
 🙏,"folded hands",0.6,ask|folded hands|hand|high 5|high five|please|pray|thanks,face-emotion,people-body,hands,,
 🙏🏻,"folded hands: light skin tone",1.0,ask|folded hands|hand|high 5|high five|light skin tone|please|pray|thanks,face-emotion,people-body,hands,🙏,🏻
 🙏🏼,"folded hands: medium-light skin tone",1.0,ask|folded hands|hand|high 5|high five|medium-light skin tone|please|pray|thanks,face-emotion,people-body,hands,🙏,🏼
@@ -415,6 +484,7 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 👁️,"eye",0.7,body|eye,face-emotion,people-body,body-parts,,
 👅,"tongue",0.6,body|tongue,face-emotion,people-body,body-parts,,
 👄,"mouth",0.6,lips|mouth,face-emotion,people-body,body-parts,,
+🫦,"biting lip",14.0,anxious|biting lip|fear|flirting|nervous|uncomfortable|worried,face-emotion,people-body,body-parts,,
 👶,"baby",0.6,baby|young,person-people,people-body,person,,
 👶🏻,"baby: light skin tone",1.0,baby|light skin tone|young,person-people,people-body,person,👶,🏻
 👶🏼,"baby: medium-light skin tone",1.0,baby|medium-light skin tone|young,person-people,people-body,person,👶,🏼
@@ -1129,6 +1199,12 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 👷🏽‍♀️,"woman construction worker: medium skin tone",4.0,construction|medium skin tone|woman|worker,person-people,people-body,person-role,👷‍♀️,🏽
 👷🏾‍♀️,"woman construction worker: medium-dark skin tone",4.0,construction|medium-dark skin tone|woman|worker,person-people,people-body,person-role,👷‍♀️,🏾
 👷🏿‍♀️,"woman construction worker: dark skin tone",4.0,construction|dark skin tone|woman|worker,person-people,people-body,person-role,👷‍♀️,🏿
+🫅,"person with crown",14.0,monarch|noble|person with crown|regal|royalty,person-people,people-body,person-role,,
+🫅🏻,"person with crown: light skin tone",14.0,light skin tone|monarch|noble|person with crown|regal|royalty,person-people,people-body,person-role,🫅,🏻
+🫅🏼,"person with crown: medium-light skin tone",14.0,medium-light skin tone|monarch|noble|person with crown|regal|royalty,person-people,people-body,person-role,🫅,🏼
+🫅🏽,"person with crown: medium skin tone",14.0,medium skin tone|monarch|noble|person with crown|regal|royalty,person-people,people-body,person-role,🫅,🏽
+🫅🏾,"person with crown: medium-dark skin tone",14.0,medium-dark skin tone|monarch|noble|person with crown|regal|royalty,person-people,people-body,person-role,🫅,🏾
+🫅🏿,"person with crown: dark skin tone",14.0,dark skin tone|monarch|noble|person with crown|regal|royalty,person-people,people-body,person-role,🫅,🏿
 🤴,"prince",3.0,prince,person-people,people-body,person-role,,
 🤴🏻,"prince: light skin tone",3.0,light skin tone|prince,person-people,people-body,person-role,🤴,🏻
 🤴🏼,"prince: medium-light skin tone",3.0,medium-light skin tone|prince,person-people,people-body,person-role,🤴,🏼
@@ -1213,6 +1289,18 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🤰🏽,"pregnant woman: medium skin tone",3.0,medium skin tone|pregnant|woman,person-people,people-body,person-role,🤰,🏽
 🤰🏾,"pregnant woman: medium-dark skin tone",3.0,medium-dark skin tone|pregnant|woman,person-people,people-body,person-role,🤰,🏾
 🤰🏿,"pregnant woman: dark skin tone",3.0,dark skin tone|pregnant|woman,person-people,people-body,person-role,🤰,🏿
+🫃,"pregnant man",14.0,belly|bloated|full|pregnant|pregnant man,person-people,people-body,person-role,,
+🫃🏻,"pregnant man: light skin tone",14.0,belly|bloated|full|light skin tone|pregnant|pregnant man,person-people,people-body,person-role,🫃,🏻
+🫃🏼,"pregnant man: medium-light skin tone",14.0,belly|bloated|full|medium-light skin tone|pregnant|pregnant man,person-people,people-body,person-role,🫃,🏼
+🫃🏽,"pregnant man: medium skin tone",14.0,belly|bloated|full|medium skin tone|pregnant|pregnant man,person-people,people-body,person-role,🫃,🏽
+🫃🏾,"pregnant man: medium-dark skin tone",14.0,belly|bloated|full|medium-dark skin tone|pregnant|pregnant man,person-people,people-body,person-role,🫃,🏾
+🫃🏿,"pregnant man: dark skin tone",14.0,belly|bloated|dark skin tone|full|pregnant|pregnant man,person-people,people-body,person-role,🫃,🏿
+🫄,"pregnant person",14.0,belly|bloated|full|pregnant|pregnant person,person-people,people-body,person-role,,
+🫄🏻,"pregnant person: light skin tone",14.0,belly|bloated|full|light skin tone|pregnant|pregnant person,person-people,people-body,person-role,🫄,🏻
+🫄🏼,"pregnant person: medium-light skin tone",14.0,belly|bloated|full|medium-light skin tone|pregnant|pregnant person,person-people,people-body,person-role,🫄,🏼
+🫄🏽,"pregnant person: medium skin tone",14.0,belly|bloated|full|medium skin tone|pregnant|pregnant person,person-people,people-body,person-role,🫄,🏽
+🫄🏾,"pregnant person: medium-dark skin tone",14.0,belly|bloated|full|medium-dark skin tone|pregnant|pregnant person,person-people,people-body,person-role,🫄,🏾
+🫄🏿,"pregnant person: dark skin tone",14.0,belly|bloated|dark skin tone|full|pregnant|pregnant person,person-people,people-body,person-role,🫄,🏿
 🤱,"breast-feeding",5.0,baby|breast|breast-feeding|nursing,person-people,people-body,person-role,,
 🤱🏻,"breast-feeding: light skin tone",5.0,baby|breast|breast-feeding|light skin tone|nursing,person-people,people-body,person-role,🤱,🏻
 🤱🏼,"breast-feeding: medium-light skin tone",5.0,baby|breast|breast-feeding|medium-light skin tone|nursing,person-people,people-body,person-role,🤱,🏼
@@ -1393,6 +1481,7 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🧟,"zombie",5.0,undead|walking dead|zombie,person-people,people-body,person-fantasy,,
 🧟‍♂️,"man zombie",5.0,man zombie|undead|walking dead,person-people,people-body,person-fantasy,,
 🧟‍♀️,"woman zombie",5.0,undead|walking dead|woman zombie,person-people,people-body,person-fantasy,,
+🧌,"troll",14.0,fairy tale|fantasy|monster|troll,person-people,people-body,person-fantasy,,
 💆,"person getting massage",0.6,face|massage|person getting massage|salon,person-people,people-body,person-activity,,
 💆🏻,"person getting massage: light skin tone",1.0,face|light skin tone|massage|person getting massage|salon,person-people,people-body,person-activity,💆,🏻
 💆🏼,"person getting massage: medium-light skin tone",1.0,face|massage|medium-light skin tone|person getting massage|salon,person-people,people-body,person-activity,💆,🏼
@@ -1869,12 +1958,12 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🛀🏽,"person taking bath: medium skin tone",1.0,bath|bathtub|medium skin tone|person taking bath,person-people,people-body,person-resting,🛀,🏽
 🛀🏾,"person taking bath: medium-dark skin tone",1.0,bath|bathtub|medium-dark skin tone|person taking bath,person-people,people-body,person-resting,🛀,🏾
 🛀🏿,"person taking bath: dark skin tone",1.0,bath|bathtub|dark skin tone|person taking bath,person-people,people-body,person-resting,🛀,🏿
-🛌,"person in bed",1.0,hotel|person in bed|sleep,person-people,people-body,person-resting,,
-🛌🏻,"person in bed: light skin tone",4.0,hotel|light skin tone|person in bed|sleep,person-people,people-body,person-resting,🛌,🏻
-🛌🏼,"person in bed: medium-light skin tone",4.0,hotel|medium-light skin tone|person in bed|sleep,person-people,people-body,person-resting,🛌,🏼
-🛌🏽,"person in bed: medium skin tone",4.0,hotel|medium skin tone|person in bed|sleep,person-people,people-body,person-resting,🛌,🏽
-🛌🏾,"person in bed: medium-dark skin tone",4.0,hotel|medium-dark skin tone|person in bed|sleep,person-people,people-body,person-resting,🛌,🏾
-🛌🏿,"person in bed: dark skin tone",4.0,dark skin tone|hotel|person in bed|sleep,person-people,people-body,person-resting,🛌,🏿
+🛌,"person in bed",1.0,good night|hotel|person in bed|sleep,person-people,people-body,person-resting,,
+🛌🏻,"person in bed: light skin tone",4.0,good night|hotel|light skin tone|person in bed|sleep,person-people,people-body,person-resting,🛌,🏻
+🛌🏼,"person in bed: medium-light skin tone",4.0,good night|hotel|medium-light skin tone|person in bed|sleep,person-people,people-body,person-resting,🛌,🏼
+🛌🏽,"person in bed: medium skin tone",4.0,good night|hotel|medium skin tone|person in bed|sleep,person-people,people-body,person-resting,🛌,🏽
+🛌🏾,"person in bed: medium-dark skin tone",4.0,good night|hotel|medium-dark skin tone|person in bed|sleep,person-people,people-body,person-resting,🛌,🏾
+🛌🏿,"person in bed: dark skin tone",4.0,dark skin tone|good night|hotel|person in bed|sleep,person-people,people-body,person-resting,🛌,🏿
 🧑‍🤝‍🧑,"people holding hands",12.0,couple|hand|hold|holding hands|people holding hands|person,person-people,people-body,family,,
 🧑🏻‍🤝‍🧑🏻,"people holding hands: light skin tone",12.0,couple|hand|hold|holding hands|light skin tone|people holding hands|person,person-people,people-body,family,🧑‍🤝‍🧑,🏻
 🧑🏻‍🤝‍🧑🏼,"people holding hands: light skin tone, medium-light skin tone",12.1,couple|hand|hold|holding hands|light skin tone|medium-light skin tone|people holding hands|person,person-people,people-body,family,🧑‍🤝‍🧑,🏻|🏼
@@ -2274,7 +2363,7 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🦇,"bat",3.0,bat|vampire,animals-nature,animals-nature,animal-mammal,,
 🐻,"bear",0.6,bear|face,animals-nature,animals-nature,animal-mammal,,
 🐻‍❄️,"polar bear",13.0,arctic|bear|polar bear|white,animals-nature,animals-nature,animal-mammal,,
-🐨,"koala",0.6,bear|koala,animals-nature,animals-nature,animal-mammal,,
+🐨,"koala",0.6,face|koala|marsupial,animals-nature,animals-nature,animal-mammal,,
 🐼,"panda",0.6,face|panda,animals-nature,animals-nature,animal-mammal,,
 🦥,"sloth",12.0,lazy|sloth|slow,animals-nature,animals-nature,animal-mammal,,
 🦦,"otter",12.0,fishing|otter|playful,animals-nature,animals-nature,animal-mammal,,
@@ -2312,13 +2401,14 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🐳,"spouting whale",0.6,face|spouting|whale,animals-nature,animals-nature,animal-marine,,
 🐋,"whale",1.0,whale,animals-nature,animals-nature,animal-marine,,
 🐬,"dolphin",0.6,dolphin|flipper,animals-nature,animals-nature,animal-marine,,
-🦭,"seal",13.0,sea Lion|seal,animals-nature,animals-nature,animal-marine,,
+🦭,"seal",13.0,sea lion|seal,animals-nature,animals-nature,animal-marine,,
 🐟,"fish",0.6,fish|Pisces|zodiac,animals-nature,animals-nature,animal-marine,,
 🐠,"tropical fish",0.6,fish|tropical,animals-nature,animals-nature,animal-marine,,
 🐡,"blowfish",0.6,blowfish|fish,animals-nature,animals-nature,animal-marine,,
 🦈,"shark",3.0,fish|shark,animals-nature,animals-nature,animal-marine,,
 🐙,"octopus",0.6,octopus,animals-nature,animals-nature,animal-marine,,
 🐚,"spiral shell",0.6,shell|spiral,animals-nature,animals-nature,animal-marine,,
+🪸,"coral",14.0,coral|ocean|reef,animals-nature,animals-nature,animal-marine,,
 🐌,"snail",0.6,snail,animals-nature,animals-nature,animal-bug,,
 🦋,"butterfly",3.0,butterfly|insect|pretty,animals-nature,animals-nature,animal-bug,,
 🐛,"bug",0.6,bug|insect,animals-nature,animals-nature,animal-bug,,
@@ -2338,6 +2428,7 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 💐,"bouquet",0.6,bouquet|flower,animals-nature,animals-nature,plant-flower,,
 🌸,"cherry blossom",0.6,blossom|cherry|flower,animals-nature,animals-nature,plant-flower,,
 💮,"white flower",0.6,flower|white flower,animals-nature,animals-nature,plant-flower,,
+🪷,"lotus",14.0,Buddhism|flower|Hinduism|India|lotus|purity|Vietnam,animals-nature,animals-nature,plant-flower,,
 🏵️,"rosette",0.7,plant|rosette,animals-nature,animals-nature,plant-flower,,
 🌹,"rose",0.6,flower|rose,animals-nature,animals-nature,plant-flower,,
 🥀,"wilted flower",3.0,flower|wilted,animals-nature,animals-nature,plant-flower,,
@@ -2358,6 +2449,8 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🍁,"maple leaf",0.6,falling|leaf|maple,animals-nature,animals-nature,plant-other,,
 🍂,"fallen leaf",0.6,fallen leaf|falling|leaf,animals-nature,animals-nature,plant-other,,
 🍃,"leaf fluttering in wind",0.6,blow|flutter|leaf|leaf fluttering in wind|wind,animals-nature,animals-nature,plant-other,,
+🪹,"empty nest",14.0,empty nest|nesting,animals-nature,animals-nature,plant-other,,
+🪺,"nest with eggs",14.0,nest with eggs|nesting,animals-nature,animals-nature,plant-other,,
 🍇,"grapes",0.6,fruit|grape|grapes,food-drink,food-drink,food-fruit,,
 🍈,"melon",0.6,fruit|melon,food-drink,food-drink,food-fruit,,
 🍉,"watermelon",0.6,fruit|watermelon,food-drink,food-drink,food-fruit,,
@@ -2391,6 +2484,7 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🧅,"onion",12.0,flavoring|onion,food-drink,food-drink,food-vegetable,,
 🍄,"mushroom",0.6,mushroom|toadstool,food-drink,food-drink,food-vegetable,,
 🥜,"peanuts",3.0,food|nut|peanut|peanuts|vegetable,food-drink,food-drink,food-vegetable,,
+🫘,"beans",14.0,beans|food|kidney|legume,food-drink,food-drink,food-vegetable,,
 🌰,"chestnut",0.6,chestnut|plant,food-drink,food-drink,food-vegetable,,
 🍞,"bread",0.6,bread|loaf,food-drink,food-drink,food-prepared,,
 🥐,"croissant",3.0,bread|breakfast|croissant|food|french|roll,food-drink,food-drink,food-prepared,,
@@ -2476,6 +2570,7 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🍻,"clinking beer mugs",0.6,bar|beer|clink|clinking beer mugs|drink|mug,food-drink,food-drink,drink,,
 🥂,"clinking glasses",3.0,celebrate|clink|clinking glasses|drink|glass,food-drink,food-drink,drink,,
 🥃,"tumbler glass",3.0,glass|liquor|shot|tumbler|whisky,food-drink,food-drink,drink,,
+🫗,"pouring liquid",14.0,drink|empty|glass|pouring liquid|spill,food-drink,food-drink,drink,,
 🥤,"cup with straw",5.0,cup with straw|juice|soda,food-drink,food-drink,drink,,
 🧋,"bubble tea",13.0,bubble|milk|pearl|tea,food-drink,food-drink,drink,,
 🧃,"beverage box",12.0,beverage|box|juice|straw|sweet,food-drink,food-drink,drink,,
@@ -2486,6 +2581,7 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🍴,"fork and knife",0.6,cooking|cutlery|fork|fork and knife|knife,food-drink,food-drink,dishware,,
 🥄,"spoon",3.0,spoon|tableware,food-drink,food-drink,dishware,,
 🔪,"kitchen knife",0.6,cooking|hocho|kitchen knife|knife|tool|weapon,food-drink,food-drink,dishware,,
+🫙,"jar",14.0,condiment|container|empty|jar|sauce|store,food-drink,food-drink,dishware,,
 🏺,"amphora",1.0,amphora|Aquarius|cooking|drink|jug|zodiac,food-drink,food-drink,dishware,,
 🌍,"globe showing Europe-Africa",0.7,Africa|earth|Europe|globe|globe showing Europe-Africa|world,travel-places,travel-places,place-map,,
 🌎,"globe showing Americas",0.7,Americas|earth|globe|globe showing Americas|world,travel-places,travel-places,place-map,,
@@ -2548,6 +2644,7 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🌉,"bridge at night",0.6,bridge|bridge at night|night,travel-places,travel-places,place-other,,
 ♨️,"hot springs",0.6,hot|hotsprings|springs|steaming,travel-places,travel-places,place-other,,
 🎠,"carousel horse",0.6,carousel|horse,travel-places,travel-places,place-other,,
+🛝,"playground slide",14.0,amusement park|play|playground slide,travel-places,travel-places,place-other,,
 🎡,"ferris wheel",0.6,amusement park|ferris|wheel,travel-places,travel-places,place-other,,
 🎢,"roller coaster",0.6,amusement park|coaster|roller,travel-places,travel-places,place-other,,
 💈,"barber pole",0.6,barber|haircut|pole,travel-places,travel-places,place-other,,
@@ -2591,17 +2688,19 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🛴,"kick scooter",3.0,kick|scooter,travel-places,travel-places,transport-ground,,
 🛹,"skateboard",11.0,board|skateboard,travel-places,travel-places,transport-ground,,
 🛼,"roller skate",13.0,roller|skate,travel-places,travel-places,transport-ground,,
-🚏,"bus stop",0.6,bus|busstop|stop,travel-places,travel-places,transport-ground,,
+🚏,"bus stop",0.6,bus|stop,travel-places,travel-places,transport-ground,,
 🛣️,"motorway",0.7,highway|motorway|road,travel-places,travel-places,transport-ground,,
 🛤️,"railway track",0.7,railway|railway track|train,travel-places,travel-places,transport-ground,,
 🛢️,"oil drum",0.7,drum|oil,travel-places,travel-places,transport-ground,,
 ⛽,"fuel pump",0.6,diesel|fuel|fuelpump|gas|pump|station,travel-places,travel-places,transport-ground,,
+🛞,"wheel",14.0,circle|tire|turn|wheel,travel-places,travel-places,transport-ground,,
 🚨,"police car light",0.6,beacon|car|light|police|revolving,travel-places,travel-places,transport-ground,,
 🚥,"horizontal traffic light",0.6,horizontal traffic light|light|signal|traffic,travel-places,travel-places,transport-ground,,
 🚦,"vertical traffic light",1.0,light|signal|traffic|vertical traffic light,travel-places,travel-places,transport-ground,,
 🛑,"stop sign",3.0,octagonal|sign|stop,travel-places,travel-places,transport-ground,,
 🚧,"construction",0.6,barrier|construction,travel-places,travel-places,transport-ground,,
 ⚓,"anchor",0.6,anchor|ship|tool,travel-places,travel-places,transport-water,,
+🛟,"ring buoy",14.0,float|life preserver|life saver|rescue|ring buoy|safety,travel-places,travel-places,transport-water,,
 ⛵,"sailboat",0.6,boat|resort|sailboat|sea|yacht,travel-places,travel-places,transport-water,,
 🛶,"canoe",3.0,boat|canoe,travel-places,travel-places,transport-water,,
 🚤,"speedboat",0.6,boat|speedboat,travel-places,travel-places,transport-water,,
@@ -2763,6 +2862,7 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🔮,"crystal ball",0.6,ball|crystal|fairy tale|fantasy|fortune|tool,activities-events,activities,game,,
 🪄,"magic wand",13.0,magic|magic wand|witch|wizard,activities-events,activities,game,,
 🧿,"nazar amulet",11.0,bead|charm|evil-eye|nazar|nazar amulet|talisman,objects,activities,game,,
+🪬,"hamsa",14.0,amulet|Fatima|hamsa|hand|Mary|Miriam|protection,activities-events,activities,game,,
 🎮,"video game",0.6,controller|game|video game,activities-events,activities,game,,
 🕹️,"joystick",0.7,game|joystick|video game,activities-events,activities,game,,
 🎰,"slot machine",0.6,game|slot|slot machine,activities-events,activities,game,,
@@ -2770,6 +2870,7 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🧩,"puzzle piece",11.0,clue|interlocking|jigsaw|piece|puzzle,activities-events,activities,game,,
 🧸,"teddy bear",11.0,plaything|plush|stuffed|teddy bear|toy,activities-events,activities,game,,
 🪅,"piñata",13.0,celebration|party|piñata,activities-events,activities,game,,
+🪩,"mirror ball",14.0,dance|disco|glitter|mirror ball|party,activities-events,activities,game,,
 🪆,"nesting dolls",13.0,doll|nesting|nesting dolls|russia,activities-events,activities,game,,
 ♠️,"spade suit",0.6,card|game|spade suit,symbols,activities,game,,
 ♥️,"heart suit",0.6,card|game|heart suit,symbols,activities,game,,
@@ -2850,7 +2951,7 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🎧,"headphone",0.6,earbud|headphone,activities-events,objects,music,,
 📻,"radio",0.6,radio|video,activities-events,objects,music,,
 🎷,"saxophone",0.6,instrument|music|sax|saxophone,activities-events,objects,musical-instrument,,
-🪗,"accordion",13.0,accordian|accordion|concertina|squeeze box,activities-events,objects,musical-instrument,,
+🪗,"accordion",13.0,accordion|concertina|squeeze box,activities-events,objects,musical-instrument,,
 🎸,"guitar",0.6,guitar|instrument|music,activities-events,objects,musical-instrument,,
 🎹,"musical keyboard",0.6,instrument|keyboard|music|musical keyboard|piano,activities-events,objects,musical-instrument,,
 🎺,"trumpet",0.6,instrument|music|trumpet,activities-events,objects,musical-instrument,,
@@ -2865,6 +2966,7 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 📟,"pager",0.6,pager,objects,objects,phone,,
 📠,"fax machine",0.6,fax|fax machine,objects,objects,phone,,
 🔋,"battery",0.6,battery,objects,objects,computer,,
+🪫,"low battery",14.0,electronic|low battery|low energy,objects,objects,computer,,
 🔌,"electric plug",0.6,electric|electricity|plug,objects,objects,computer,,
 💻,"laptop",0.6,computer|laptop|pc|personal,objects,objects,computer,,
 🖥️,"desktop computer",0.7,computer|desktop,objects,objects,computer,,
@@ -2874,8 +2976,8 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🖲️,"trackball",0.7,computer|trackball,objects,objects,computer,,
 💽,"computer disk",0.6,computer|disk|minidisk|optical,objects,objects,computer,,
 💾,"floppy disk",0.6,computer|disk|floppy,objects,objects,computer,,
-💿,"optical disk",0.6,cd|computer|disk|optical,objects,objects,computer,,
-📀,"dvd",0.6,blu-ray|computer|disk|dvd|optical,objects,objects,computer,,
+💿,"optical disk",0.6,CD|computer|disk|optical,objects,objects,computer,,
+📀,"dvd",0.6,Blu-ray|computer|disk|dvd|DVD|optical,objects,objects,computer,,
 🧮,"abacus",11.0,abacus|calculation,objects,objects,computer,,
 🎥,"movie camera",0.6,camera|cinema|movie,activities-events,objects,light-video,,
 🎞️,"film frames",0.7,cinema|film|frames|movie,activities-events,objects,light-video,,
@@ -3005,7 +3107,9 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🩸,"drop of blood",12.0,bleed|blood donation|drop of blood|injury|medicine|menstruation,objects,objects,medical,,
 💊,"pill",0.6,doctor|medicine|pill|sick,objects,objects,medical,,
 🩹,"adhesive bandage",12.0,adhesive bandage|bandage,objects,objects,medical,,
+🩼,"crutch",14.0,cane|crutch|disability|hurt|mobility aid|stick,objects,objects,medical,,
 🩺,"stethoscope",12.0,doctor|heart|medicine|stethoscope,objects,objects,medical,,
+🩻,"x-ray",14.0,bones|doctor|medical|skeleton|x-ray,objects,objects,medical,,
 🚪,"door",0.6,door,objects,objects,household,,
 🛗,"elevator",13.0,accessibility|elevator|hoist|lift,objects,objects,household,,
 🪞,"mirror",13.0,mirror|reflection|reflector|speculum,objects,objects,household,,
@@ -3026,6 +3130,7 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🧻,"roll of paper",11.0,paper towels|roll of paper|toilet paper,objects,objects,household,,
 🪣,"bucket",13.0,bucket|cask|pail|vat,objects,objects,household,,
 🧼,"soap",11.0,bar|bathing|cleaning|lather|soap|soapdish,objects,objects,household,,
+🫧,"bubbles",14.0,bubbles|burp|clean|soap|underwater,objects,objects,household,,
 🪥,"toothbrush",13.0,bathroom|brush|clean|dental|hygiene|teeth|toothbrush,objects,objects,household,,
 🧽,"sponge",11.0,absorbing|cleaning|porous|sponge,objects,objects,household,,
 🧯,"fire extinguisher",11.0,extinguish|fire|fire extinguisher|quench,objects,objects,household,,
@@ -3036,15 +3141,16 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 ⚱️,"funeral urn",1.0,ashes|death|funeral|urn,objects,objects,other-object,,
 🗿,"moai",0.6,face|moai|moyai|statue,objects,objects,other-object,,
 🪧,"placard",13.0,demonstration|picket|placard|protest|sign,objects,objects,other-object,,
-🏧,"ATM sign",0.6,atm|ATM sign|automated|bank|teller,symbols,symbols,transport-sign,,
+🪪,"identification card",14.0,credentials|ID|identification card|license|security,objects,objects,other-object,,
+🏧,"ATM sign",0.6,ATM|ATM sign|automated|bank|teller,symbols,symbols,transport-sign,,
 🚮,"litter in bin sign",1.0,litter|litter bin|litter in bin sign,symbols,symbols,transport-sign,,
 🚰,"potable water",1.0,drinking|potable|water,symbols,symbols,transport-sign,,
 ♿,"wheelchair symbol",0.6,access|wheelchair symbol,symbols,symbols,transport-sign,,
-🚹,"men’s room",0.6,lavatory|man|men’s room|restroom|wc,symbols,symbols,transport-sign,,
-🚺,"women’s room",0.6,lavatory|restroom|wc|woman|women’s room,symbols,symbols,transport-sign,,
-🚻,"restroom",0.6,lavatory|restroom|WC,symbols,symbols,transport-sign,,
+🚹,"men’s room",0.6,bathroom|lavatory|man|men’s room|restroom|toilet|WC,symbols,symbols,transport-sign,,
+🚺,"women’s room",0.6,bathroom|lavatory|restroom|toilet|WC|woman|women’s room,symbols,symbols,transport-sign,,
+🚻,"restroom",0.6,bathroom|lavatory|restroom|toilet|WC,symbols,symbols,transport-sign,,
 🚼,"baby symbol",0.6,baby|baby symbol|changing,symbols,symbols,transport-sign,,
-🚾,"water closet",0.6,closet|lavatory|restroom|water|wc,symbols,symbols,transport-sign,,
+🚾,"water closet",0.6,bathroom|closet|lavatory|restroom|toilet|water|WC,symbols,symbols,transport-sign,,
 🛂,"passport control",1.0,control|passport,symbols,symbols,transport-sign,,
 🛃,"customs",1.0,customs,symbols,symbols,transport-sign,,
 🛄,"baggage claim",1.0,baggage|claim,symbols,symbols,transport-sign,,
@@ -3078,11 +3184,11 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 ⤵️,"right arrow curving down",0.6,arrow|down|right arrow curving down,symbols,symbols,arrow,,
 🔃,"clockwise vertical arrows",0.6,arrow|clockwise|clockwise vertical arrows|reload,symbols,symbols,arrow,,
 🔄,"counterclockwise arrows button",1.0,anticlockwise|arrow|counterclockwise|counterclockwise arrows button|withershins,symbols,symbols,arrow,,
-🔙,"BACK arrow",0.6,arrow|back|BACK arrow,symbols,symbols,arrow,,
-🔚,"END arrow",0.6,arrow|end|END arrow,symbols,symbols,arrow,,
-🔛,"ON! arrow",0.6,arrow|mark|on|ON! arrow,symbols,symbols,arrow,,
-🔜,"SOON arrow",0.6,arrow|soon|SOON arrow,symbols,symbols,arrow,,
-🔝,"TOP arrow",0.6,arrow|top|TOP arrow|up,symbols,symbols,arrow,,
+🔙,"BACK arrow",0.6,arrow|BACK,symbols,symbols,arrow,,
+🔚,"END arrow",0.6,arrow|END,symbols,symbols,arrow,,
+🔛,"ON! arrow",0.6,arrow|mark|ON|ON!,symbols,symbols,arrow,,
+🔜,"SOON arrow",0.6,arrow|SOON,symbols,symbols,arrow,,
+🔝,"TOP arrow",0.6,arrow|TOP|up,symbols,symbols,arrow,,
 🛐,"place of worship",1.0,place of worship|religion|worship,symbols,symbols,religion,,
 ⚛️,"atom symbol",1.0,atheist|atom|atom symbol,symbols,symbols,religion,,
 🕉️,"om",0.7,Hindu|om|religion,symbols,symbols,religion,,
@@ -3139,6 +3245,7 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 ➕,"plus",0.6,+|math|plus|sign,symbols,symbols,math,,
 ➖,"minus",0.6,-|−|math|minus|sign,symbols,symbols,math,,
 ➗,"divide",0.6,÷|divide|division|math|sign,symbols,symbols,math,,
+🟰,"heavy equals sign",14.0,equality|heavy equals sign|math,symbols,symbols,math,,
 ♾️,"infinity",11.0,forever|infinity|unbounded|universal,symbols,symbols,math,,
 ‼️,"double exclamation mark",0.6,!|!!|bangbang|double exclamation mark|exclamation|mark,symbols,symbols,punctuation,,
 ⁉️,"exclamation question mark",0.6,!|!?|?|exclamation|interrobang|mark|punctuation|question,symbols,symbols,punctuation,,
@@ -3167,9 +3274,9 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 ✳️,"eight-spoked asterisk",0.6,*|asterisk|eight-spoked asterisk,symbols,symbols,other-symbol,,
 ✴️,"eight-pointed star",0.6,*|eight-pointed star|star,symbols,symbols,other-symbol,,
 ❇️,"sparkle",0.6,*|sparkle,symbols,symbols,other-symbol,,
-©️,"copyright",0.6,c|copyright,symbols,symbols,other-symbol,,
-®️,"registered",0.6,r|registered,symbols,symbols,other-symbol,,
-™️,"trade mark",0.6,mark|tm|trade mark|trademark,symbols,symbols,other-symbol,,
+©️,"copyright",0.6,C|copyright,symbols,symbols,other-symbol,,
+®️,"registered",0.6,R|registered,symbols,symbols,other-symbol,,
+™️,"trade mark",0.6,mark|TM|trade mark|trademark,symbols,symbols,other-symbol,,
 #️⃣,"keycap: #",0.6,keycap,symbols,symbols,keycap,,
 *️⃣,"keycap: *",2.0,keycap,symbols,symbols,keycap,,
 0️⃣,"keycap: 0",0.6,keycap,symbols,symbols,keycap,,
@@ -3188,23 +3295,23 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🔢,"input numbers",0.6,1234|input|numbers,symbols,symbols,alphanum,,
 🔣,"input symbols",0.6,〒♪&%|input|input symbols,symbols,symbols,alphanum,,
 🔤,"input latin letters",0.6,abc|alphabet|input|latin|letters,symbols,symbols,alphanum,,
-🅰️,"A button (blood type)",0.6,a|A button (blood type)|blood type,symbols,symbols,alphanum,,
-🆎,"AB button (blood type)",0.6,ab|AB button (blood type)|blood type,symbols,symbols,alphanum,,
-🅱️,"B button (blood type)",0.6,b|B button (blood type)|blood type,symbols,symbols,alphanum,,
-🆑,"CL button",0.6,cl|CL button,symbols,symbols,alphanum,,
-🆒,"COOL button",0.6,cool|COOL button,symbols,symbols,alphanum,,
-🆓,"FREE button",0.6,free|FREE button,symbols,symbols,alphanum,,
+🅰️,"A button (blood type)",0.6,A|A button (blood type)|blood type,symbols,symbols,alphanum,,
+🆎,"AB button (blood type)",0.6,AB|AB button (blood type)|blood type,symbols,symbols,alphanum,,
+🅱️,"B button (blood type)",0.6,B|B button (blood type)|blood type,symbols,symbols,alphanum,,
+🆑,"CL button",0.6,CL|CL button,symbols,symbols,alphanum,,
+🆒,"COOL button",0.6,COOL|COOL button,symbols,symbols,alphanum,,
+🆓,"FREE button",0.6,FREE|FREE button,symbols,symbols,alphanum,,
 ℹ️,"information",0.6,i|information,symbols,symbols,alphanum,,
-🆔,"ID button",0.6,id|ID button|identity,symbols,symbols,alphanum,,
-Ⓜ️,"circled M",0.6,circle|circled M|m,symbols,symbols,alphanum,,
-🆕,"NEW button",0.6,new|NEW button,symbols,symbols,alphanum,,
-🆖,"NG button",0.6,ng|NG button,symbols,symbols,alphanum,,
-🅾️,"O button (blood type)",0.6,blood type|o|O button (blood type),symbols,symbols,alphanum,,
+🆔,"ID button",0.6,ID|ID button|identity,symbols,symbols,alphanum,,
+Ⓜ️,"circled M",0.6,circle|circled M|M,symbols,symbols,alphanum,,
+🆕,"NEW button",0.6,NEW|NEW button,symbols,symbols,alphanum,,
+🆖,"NG button",0.6,NG|NG button,symbols,symbols,alphanum,,
+🅾️,"O button (blood type)",0.6,blood type|O|O button (blood type),symbols,symbols,alphanum,,
 🆗,"OK button",0.6,OK|OK button,symbols,symbols,alphanum,,
-🅿️,"P button",0.6,P button|parking,symbols,symbols,alphanum,,
-🆘,"SOS button",0.6,help|sos|SOS button,symbols,symbols,alphanum,,
-🆙,"UP! button",0.6,mark|up|UP! button,symbols,symbols,alphanum,,
-🆚,"VS button",0.6,versus|vs|VS button,symbols,symbols,alphanum,,
+🅿️,"P button",0.6,P|P button|parking,symbols,symbols,alphanum,,
+🆘,"SOS button",0.6,help|SOS|SOS button,symbols,symbols,alphanum,,
+🆙,"UP! button",0.6,mark|UP|UP!|UP! button,symbols,symbols,alphanum,,
+🆚,"VS button",0.6,versus|VS|VS button,symbols,symbols,alphanum,,
 🈁,"Japanese “here” button",0.6,“here”|Japanese|Japanese “here” button|katakana|ココ,symbols,symbols,alphanum,,
 🈂️,"Japanese “service charge” button",0.6,“service charge”|Japanese|Japanese “service charge” button|katakana|サ,symbols,symbols,alphanum,,
 🈷️,"Japanese “monthly amount” button",0.6,“monthly amount”|ideograph|Japanese|Japanese “monthly amount” button|月,symbols,symbols,alphanum,,

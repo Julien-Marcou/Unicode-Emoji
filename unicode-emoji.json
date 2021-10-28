@@ -288,6 +288,24 @@
       "subgroup": "face-smiling"
     },
     {
+      "emoji": "🫠",
+      "description": "melting face",
+      "version": "14.0",
+      "keywords": [
+        "disappear",
+        "dissolve",
+        "liquid",
+        "melt",
+        "melting face"
+      ],
+      "codePoints": [
+        "1FAE0"
+      ],
+      "category": "face-emotion",
+      "group": "smileys-emotion",
+      "subgroup": "face-smiling"
+    },
+    {
       "emoji": "😉",
       "description": "winking face",
       "version": "0.6",
@@ -611,12 +629,15 @@
     },
     {
       "emoji": "🤗",
-      "description": "hugging face",
+      "description": "smiling face with open hands",
       "version": "1.0",
       "keywords": [
         "face",
         "hug",
-        "hugging"
+        "hugging",
+        "open hands",
+        "smiling face",
+        "smiling face with open hands"
       ],
       "codePoints": [
         "1F917"
@@ -635,6 +656,43 @@
       ],
       "codePoints": [
         "1F92D"
+      ],
+      "category": "face-emotion",
+      "group": "smileys-emotion",
+      "subgroup": "face-hand"
+    },
+    {
+      "emoji": "🫢",
+      "description": "face with open eyes and hand over mouth",
+      "version": "14.0",
+      "keywords": [
+        "amazement",
+        "awe",
+        "disbelief",
+        "embarrass",
+        "face with open eyes and hand over mouth",
+        "scared",
+        "surprise"
+      ],
+      "codePoints": [
+        "1FAE2"
+      ],
+      "category": "face-emotion",
+      "group": "smileys-emotion",
+      "subgroup": "face-hand"
+    },
+    {
+      "emoji": "🫣",
+      "description": "face with peeking eye",
+      "version": "14.0",
+      "keywords": [
+        "captivated",
+        "face with peeking eye",
+        "peep",
+        "stare"
+      ],
+      "codePoints": [
+        "1FAE3"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -666,6 +724,25 @@
       ],
       "codePoints": [
         "1F914"
+      ],
+      "category": "face-emotion",
+      "group": "smileys-emotion",
+      "subgroup": "face-hand"
+    },
+    {
+      "emoji": "🫡",
+      "description": "saluting face",
+      "version": "14.0",
+      "keywords": [
+        "OK",
+        "salute",
+        "saluting face",
+        "sunny",
+        "troops",
+        "yes"
+      ],
+      "codePoints": [
+        "1FAE1"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -752,6 +829,25 @@
       ],
       "codePoints": [
         "1F636"
+      ],
+      "category": "face-emotion",
+      "group": "smileys-emotion",
+      "subgroup": "face-neutral-skeptical"
+    },
+    {
+      "emoji": "🫥",
+      "description": "dotted line face",
+      "version": "14.0",
+      "keywords": [
+        "depressed",
+        "disappear",
+        "dotted line face",
+        "hide",
+        "introvert",
+        "invisible"
+      ],
+      "codePoints": [
+        "1FAE5"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -919,6 +1015,7 @@
       "version": "0.6",
       "keywords": [
         "face",
+        "good night",
         "sleep",
         "sleepy face"
       ],
@@ -950,9 +1047,10 @@
       "version": "1.0",
       "keywords": [
         "face",
+        "good night",
         "sleep",
         "sleeping face",
-        "zzz"
+        "ZZZ"
       ],
       "codePoints": [
         "1F634"
@@ -1038,9 +1136,9 @@
       "version": "5.0",
       "keywords": [
         "face vomiting",
+        "puke",
         "sick",
-        "vomit",
-        "puke"
+        "vomit"
       ],
       "codePoints": [
         "1F92E"
@@ -1125,13 +1223,14 @@
     },
     {
       "emoji": "😵",
-      "description": "knocked-out face",
+      "description": "face with crossed-out eyes",
       "version": "0.6",
       "keywords": [
+        "crossed-out eyes",
         "dead",
         "face",
-        "knocked out",
-        "knocked-out face"
+        "face with crossed-out eyes",
+        "knocked out"
       ],
       "codePoints": [
         "1F635"
@@ -1271,7 +1370,9 @@
       "description": "face with monocle",
       "version": "5.0",
       "keywords": [
+        "face",
         "face with monocle",
+        "monocle",
         "stuffy"
       ],
       "codePoints": [
@@ -1292,6 +1393,24 @@
       ],
       "codePoints": [
         "1F615"
+      ],
+      "category": "face-emotion",
+      "group": "smileys-emotion",
+      "subgroup": "face-concerned"
+    },
+    {
+      "emoji": "🫤",
+      "description": "face with diagonal mouth",
+      "version": "14.0",
+      "keywords": [
+        "disappointed",
+        "face with diagonal mouth",
+        "meh",
+        "skeptical",
+        "unsure"
+      ],
+      "codePoints": [
+        "1FAE4"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1425,6 +1544,25 @@
       ],
       "codePoints": [
         "1F97A"
+      ],
+      "category": "face-emotion",
+      "group": "smileys-emotion",
+      "subgroup": "face-concerned"
+    },
+    {
+      "emoji": "🥹",
+      "description": "face holding back tears",
+      "version": "14.0",
+      "keywords": [
+        "angry",
+        "cry",
+        "face holding back tears",
+        "proud",
+        "resist",
+        "sad"
+      ],
+      "codePoints": [
+        "1F979"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1703,10 +1841,11 @@
     },
     {
       "emoji": "😡",
-      "description": "pouting face",
+      "description": "enraged face",
       "version": "0.6",
       "keywords": [
         "angry",
+        "enraged",
         "face",
         "mad",
         "pouting",
@@ -1725,10 +1864,10 @@
       "description": "angry face",
       "version": "0.6",
       "keywords": [
+        "anger",
         "angry",
         "face",
-        "mad",
-        "anger"
+        "mad"
       ],
       "codePoints": [
         "1F620"
@@ -2728,9 +2867,11 @@
       "description": "eye in speech bubble",
       "version": "2.0",
       "keywords": [
+        "balloon",
+        "bubble",
         "eye",
         "eye in speech bubble",
-        "speech bubble",
+        "speech",
         "witness"
       ],
       "codePoints": [
@@ -2749,6 +2890,8 @@
       "description": "left speech bubble",
       "version": "2.0",
       "keywords": [
+        "balloon",
+        "bubble",
         "dialog",
         "left speech bubble",
         "speech"
@@ -2799,12 +2942,13 @@
     },
     {
       "emoji": "💤",
-      "description": "zzz",
+      "description": "ZZZ",
       "version": "0.6",
       "keywords": [
         "comic",
+        "good night",
         "sleep",
-        "zzz"
+        "ZZZ"
       ],
       "codePoints": [
         "1F4A4"
@@ -3379,6 +3523,468 @@
       ]
     },
     {
+      "emoji": "🫱",
+      "description": "rightwards hand",
+      "version": "14.0",
+      "keywords": [
+        "hand",
+        "right",
+        "rightward",
+        "rightwards hand"
+      ],
+      "codePoints": [
+        "1FAF1"
+      ],
+      "category": "face-emotion",
+      "group": "people-body",
+      "subgroup": "hand-fingers-open",
+      "variations": [
+        {
+          "emoji": "🫱🏻",
+          "description": "rightwards hand: light skin tone",
+          "version": "14.0",
+          "keywords": [
+            "hand",
+            "light skin tone",
+            "right",
+            "rightward",
+            "rightwards hand"
+          ],
+          "codePoints": [
+            "1FAF1",
+            "1F3FB"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🫱🏼",
+          "description": "rightwards hand: medium-light skin tone",
+          "version": "14.0",
+          "keywords": [
+            "hand",
+            "medium-light skin tone",
+            "right",
+            "rightward",
+            "rightwards hand"
+          ],
+          "codePoints": [
+            "1FAF1",
+            "1F3FC"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🫱🏽",
+          "description": "rightwards hand: medium skin tone",
+          "version": "14.0",
+          "keywords": [
+            "hand",
+            "medium skin tone",
+            "right",
+            "rightward",
+            "rightwards hand"
+          ],
+          "codePoints": [
+            "1FAF1",
+            "1F3FD"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🫱🏾",
+          "description": "rightwards hand: medium-dark skin tone",
+          "version": "14.0",
+          "keywords": [
+            "hand",
+            "medium-dark skin tone",
+            "right",
+            "rightward",
+            "rightwards hand"
+          ],
+          "codePoints": [
+            "1FAF1",
+            "1F3FE"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🫱🏿",
+          "description": "rightwards hand: dark skin tone",
+          "version": "14.0",
+          "keywords": [
+            "dark skin tone",
+            "hand",
+            "right",
+            "rightward",
+            "rightwards hand"
+          ],
+          "codePoints": [
+            "1FAF1",
+            "1F3FF"
+          ],
+          "components": [
+            "🏿"
+          ]
+        }
+      ]
+    },
+    {
+      "emoji": "🫲",
+      "description": "leftwards hand",
+      "version": "14.0",
+      "keywords": [
+        "hand",
+        "left",
+        "leftward",
+        "leftwards hand"
+      ],
+      "codePoints": [
+        "1FAF2"
+      ],
+      "category": "face-emotion",
+      "group": "people-body",
+      "subgroup": "hand-fingers-open",
+      "variations": [
+        {
+          "emoji": "🫲🏻",
+          "description": "leftwards hand: light skin tone",
+          "version": "14.0",
+          "keywords": [
+            "hand",
+            "left",
+            "leftward",
+            "leftwards hand",
+            "light skin tone"
+          ],
+          "codePoints": [
+            "1FAF2",
+            "1F3FB"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🫲🏼",
+          "description": "leftwards hand: medium-light skin tone",
+          "version": "14.0",
+          "keywords": [
+            "hand",
+            "left",
+            "leftward",
+            "leftwards hand",
+            "medium-light skin tone"
+          ],
+          "codePoints": [
+            "1FAF2",
+            "1F3FC"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🫲🏽",
+          "description": "leftwards hand: medium skin tone",
+          "version": "14.0",
+          "keywords": [
+            "hand",
+            "left",
+            "leftward",
+            "leftwards hand",
+            "medium skin tone"
+          ],
+          "codePoints": [
+            "1FAF2",
+            "1F3FD"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🫲🏾",
+          "description": "leftwards hand: medium-dark skin tone",
+          "version": "14.0",
+          "keywords": [
+            "hand",
+            "left",
+            "leftward",
+            "leftwards hand",
+            "medium-dark skin tone"
+          ],
+          "codePoints": [
+            "1FAF2",
+            "1F3FE"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🫲🏿",
+          "description": "leftwards hand: dark skin tone",
+          "version": "14.0",
+          "keywords": [
+            "dark skin tone",
+            "hand",
+            "left",
+            "leftward",
+            "leftwards hand"
+          ],
+          "codePoints": [
+            "1FAF2",
+            "1F3FF"
+          ],
+          "components": [
+            "🏿"
+          ]
+        }
+      ]
+    },
+    {
+      "emoji": "🫳",
+      "description": "palm down hand",
+      "version": "14.0",
+      "keywords": [
+        "dismiss",
+        "drop",
+        "palm down hand",
+        "shoo"
+      ],
+      "codePoints": [
+        "1FAF3"
+      ],
+      "category": "face-emotion",
+      "group": "people-body",
+      "subgroup": "hand-fingers-open",
+      "variations": [
+        {
+          "emoji": "🫳🏻",
+          "description": "palm down hand: light skin tone",
+          "version": "14.0",
+          "keywords": [
+            "dismiss",
+            "drop",
+            "light skin tone",
+            "palm down hand",
+            "shoo"
+          ],
+          "codePoints": [
+            "1FAF3",
+            "1F3FB"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🫳🏼",
+          "description": "palm down hand: medium-light skin tone",
+          "version": "14.0",
+          "keywords": [
+            "dismiss",
+            "drop",
+            "medium-light skin tone",
+            "palm down hand",
+            "shoo"
+          ],
+          "codePoints": [
+            "1FAF3",
+            "1F3FC"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🫳🏽",
+          "description": "palm down hand: medium skin tone",
+          "version": "14.0",
+          "keywords": [
+            "dismiss",
+            "drop",
+            "medium skin tone",
+            "palm down hand",
+            "shoo"
+          ],
+          "codePoints": [
+            "1FAF3",
+            "1F3FD"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🫳🏾",
+          "description": "palm down hand: medium-dark skin tone",
+          "version": "14.0",
+          "keywords": [
+            "dismiss",
+            "drop",
+            "medium-dark skin tone",
+            "palm down hand",
+            "shoo"
+          ],
+          "codePoints": [
+            "1FAF3",
+            "1F3FE"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🫳🏿",
+          "description": "palm down hand: dark skin tone",
+          "version": "14.0",
+          "keywords": [
+            "dark skin tone",
+            "dismiss",
+            "drop",
+            "palm down hand",
+            "shoo"
+          ],
+          "codePoints": [
+            "1FAF3",
+            "1F3FF"
+          ],
+          "components": [
+            "🏿"
+          ]
+        }
+      ]
+    },
+    {
+      "emoji": "🫴",
+      "description": "palm up hand",
+      "version": "14.0",
+      "keywords": [
+        "beckon",
+        "catch",
+        "come",
+        "offer",
+        "palm up hand"
+      ],
+      "codePoints": [
+        "1FAF4"
+      ],
+      "category": "face-emotion",
+      "group": "people-body",
+      "subgroup": "hand-fingers-open",
+      "variations": [
+        {
+          "emoji": "🫴🏻",
+          "description": "palm up hand: light skin tone",
+          "version": "14.0",
+          "keywords": [
+            "beckon",
+            "catch",
+            "come",
+            "light skin tone",
+            "offer",
+            "palm up hand"
+          ],
+          "codePoints": [
+            "1FAF4",
+            "1F3FB"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🫴🏼",
+          "description": "palm up hand: medium-light skin tone",
+          "version": "14.0",
+          "keywords": [
+            "beckon",
+            "catch",
+            "come",
+            "medium-light skin tone",
+            "offer",
+            "palm up hand"
+          ],
+          "codePoints": [
+            "1FAF4",
+            "1F3FC"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🫴🏽",
+          "description": "palm up hand: medium skin tone",
+          "version": "14.0",
+          "keywords": [
+            "beckon",
+            "catch",
+            "come",
+            "medium skin tone",
+            "offer",
+            "palm up hand"
+          ],
+          "codePoints": [
+            "1FAF4",
+            "1F3FD"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🫴🏾",
+          "description": "palm up hand: medium-dark skin tone",
+          "version": "14.0",
+          "keywords": [
+            "beckon",
+            "catch",
+            "come",
+            "medium-dark skin tone",
+            "offer",
+            "palm up hand"
+          ],
+          "codePoints": [
+            "1FAF4",
+            "1F3FE"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🫴🏿",
+          "description": "palm up hand: dark skin tone",
+          "version": "14.0",
+          "keywords": [
+            "beckon",
+            "catch",
+            "come",
+            "dark skin tone",
+            "offer",
+            "palm up hand"
+          ],
+          "codePoints": [
+            "1FAF4",
+            "1F3FF"
+          ],
+          "components": [
+            "🏿"
+          ]
+        }
+      ]
+    },
+    {
       "emoji": "👌",
       "description": "OK hand",
       "version": "0.6",
@@ -3932,6 +4538,132 @@
       ]
     },
     {
+      "emoji": "🫰",
+      "description": "hand with index finger and thumb crossed",
+      "version": "14.0",
+      "keywords": [
+        "expensive",
+        "hand with index finger and thumb crossed",
+        "heart",
+        "love",
+        "money",
+        "snap"
+      ],
+      "codePoints": [
+        "1FAF0"
+      ],
+      "category": "face-emotion",
+      "group": "people-body",
+      "subgroup": "hand-fingers-partial",
+      "variations": [
+        {
+          "emoji": "🫰🏻",
+          "description": "hand with index finger and thumb crossed: light skin tone",
+          "version": "14.0",
+          "keywords": [
+            "expensive",
+            "hand with index finger and thumb crossed",
+            "heart",
+            "light skin tone",
+            "love",
+            "money",
+            "snap"
+          ],
+          "codePoints": [
+            "1FAF0",
+            "1F3FB"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🫰🏼",
+          "description": "hand with index finger and thumb crossed: medium-light skin tone",
+          "version": "14.0",
+          "keywords": [
+            "expensive",
+            "hand with index finger and thumb crossed",
+            "heart",
+            "love",
+            "medium-light skin tone",
+            "money",
+            "snap"
+          ],
+          "codePoints": [
+            "1FAF0",
+            "1F3FC"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🫰🏽",
+          "description": "hand with index finger and thumb crossed: medium skin tone",
+          "version": "14.0",
+          "keywords": [
+            "expensive",
+            "hand with index finger and thumb crossed",
+            "heart",
+            "love",
+            "medium skin tone",
+            "money",
+            "snap"
+          ],
+          "codePoints": [
+            "1FAF0",
+            "1F3FD"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🫰🏾",
+          "description": "hand with index finger and thumb crossed: medium-dark skin tone",
+          "version": "14.0",
+          "keywords": [
+            "expensive",
+            "hand with index finger and thumb crossed",
+            "heart",
+            "love",
+            "medium-dark skin tone",
+            "money",
+            "snap"
+          ],
+          "codePoints": [
+            "1FAF0",
+            "1F3FE"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🫰🏿",
+          "description": "hand with index finger and thumb crossed: dark skin tone",
+          "version": "14.0",
+          "keywords": [
+            "dark skin tone",
+            "expensive",
+            "hand with index finger and thumb crossed",
+            "heart",
+            "love",
+            "money",
+            "snap"
+          ],
+          "codePoints": [
+            "1FAF0",
+            "1F3FF"
+          ],
+          "components": [
+            "🏿"
+          ]
+        }
+      ]
+    },
+    {
       "emoji": "🤟",
       "description": "love-you gesture",
       "version": "5.0",
@@ -4166,7 +4898,9 @@
       "keywords": [
         "call",
         "call me hand",
-        "hand"
+        "hand",
+        "hang loose",
+        "Shaka"
       ],
       "codePoints": [
         "1F919"
@@ -4183,7 +4917,9 @@
             "call",
             "call me hand",
             "hand",
-            "light skin tone"
+            "hang loose",
+            "light skin tone",
+            "Shaka"
           ],
           "codePoints": [
             "1F919",
@@ -4201,7 +4937,9 @@
             "call",
             "call me hand",
             "hand",
-            "medium-light skin tone"
+            "hang loose",
+            "medium-light skin tone",
+            "Shaka"
           ],
           "codePoints": [
             "1F919",
@@ -4219,7 +4957,9 @@
             "call",
             "call me hand",
             "hand",
-            "medium skin tone"
+            "hang loose",
+            "medium skin tone",
+            "Shaka"
           ],
           "codePoints": [
             "1F919",
@@ -4237,7 +4977,9 @@
             "call",
             "call me hand",
             "hand",
-            "medium-dark skin tone"
+            "hang loose",
+            "medium-dark skin tone",
+            "Shaka"
           ],
           "codePoints": [
             "1F919",
@@ -4255,7 +4997,9 @@
             "call",
             "call me hand",
             "dark skin tone",
-            "hand"
+            "hand",
+            "hang loose",
+            "Shaka"
           ],
           "codePoints": [
             "1F919",
@@ -4998,6 +5742,114 @@
           ],
           "codePoints": [
             "261D",
+            "1F3FF"
+          ],
+          "components": [
+            "🏿"
+          ]
+        }
+      ]
+    },
+    {
+      "emoji": "🫵",
+      "description": "index pointing at the viewer",
+      "version": "14.0",
+      "keywords": [
+        "index pointing at the viewer",
+        "point",
+        "you"
+      ],
+      "codePoints": [
+        "1FAF5"
+      ],
+      "category": "face-emotion",
+      "group": "people-body",
+      "subgroup": "hand-single-finger",
+      "variations": [
+        {
+          "emoji": "🫵🏻",
+          "description": "index pointing at the viewer: light skin tone",
+          "version": "14.0",
+          "keywords": [
+            "index pointing at the viewer",
+            "light skin tone",
+            "point",
+            "you"
+          ],
+          "codePoints": [
+            "1FAF5",
+            "1F3FB"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🫵🏼",
+          "description": "index pointing at the viewer: medium-light skin tone",
+          "version": "14.0",
+          "keywords": [
+            "index pointing at the viewer",
+            "medium-light skin tone",
+            "point",
+            "you"
+          ],
+          "codePoints": [
+            "1FAF5",
+            "1F3FC"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🫵🏽",
+          "description": "index pointing at the viewer: medium skin tone",
+          "version": "14.0",
+          "keywords": [
+            "index pointing at the viewer",
+            "medium skin tone",
+            "point",
+            "you"
+          ],
+          "codePoints": [
+            "1FAF5",
+            "1F3FD"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🫵🏾",
+          "description": "index pointing at the viewer: medium-dark skin tone",
+          "version": "14.0",
+          "keywords": [
+            "index pointing at the viewer",
+            "medium-dark skin tone",
+            "point",
+            "you"
+          ],
+          "codePoints": [
+            "1FAF5",
+            "1F3FE"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🫵🏿",
+          "description": "index pointing at the viewer: dark skin tone",
+          "version": "14.0",
+          "keywords": [
+            "dark skin tone",
+            "index pointing at the viewer",
+            "point",
+            "you"
+          ],
+          "codePoints": [
+            "1FAF5",
             "1F3FF"
           ],
           "components": [
@@ -5937,6 +6789,108 @@
       ]
     },
     {
+      "emoji": "🫶",
+      "description": "heart hands",
+      "version": "14.0",
+      "keywords": [
+        "heart hands",
+        "love"
+      ],
+      "codePoints": [
+        "1FAF6"
+      ],
+      "category": "face-emotion",
+      "group": "people-body",
+      "subgroup": "hands",
+      "variations": [
+        {
+          "emoji": "🫶🏻",
+          "description": "heart hands: light skin tone",
+          "version": "14.0",
+          "keywords": [
+            "heart hands",
+            "light skin tone",
+            "love"
+          ],
+          "codePoints": [
+            "1FAF6",
+            "1F3FB"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🫶🏼",
+          "description": "heart hands: medium-light skin tone",
+          "version": "14.0",
+          "keywords": [
+            "heart hands",
+            "love",
+            "medium-light skin tone"
+          ],
+          "codePoints": [
+            "1FAF6",
+            "1F3FC"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🫶🏽",
+          "description": "heart hands: medium skin tone",
+          "version": "14.0",
+          "keywords": [
+            "heart hands",
+            "love",
+            "medium skin tone"
+          ],
+          "codePoints": [
+            "1FAF6",
+            "1F3FD"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🫶🏾",
+          "description": "heart hands: medium-dark skin tone",
+          "version": "14.0",
+          "keywords": [
+            "heart hands",
+            "love",
+            "medium-dark skin tone"
+          ],
+          "codePoints": [
+            "1FAF6",
+            "1F3FE"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🫶🏿",
+          "description": "heart hands: dark skin tone",
+          "version": "14.0",
+          "keywords": [
+            "dark skin tone",
+            "heart hands",
+            "love"
+          ],
+          "codePoints": [
+            "1FAF6",
+            "1F3FF"
+          ],
+          "components": [
+            "🏿"
+          ]
+        }
+      ]
+    },
+    {
       "emoji": "👐",
       "description": "open hands",
       "version": "0.6",
@@ -6232,7 +7186,7 @@
             "agreement",
             "hand",
             "handshake",
-            "medium-dark skin",
+            "medium-dark skin tone",
             "meeting",
             "shake"
           ],
@@ -6262,6 +7216,506 @@
           ],
           "components": [
             "🏿"
+          ]
+        },
+        {
+          "emoji": "🫱🏻‍🫲🏼",
+          "description": "handshake: light skin tone, medium-light skin tone",
+          "version": "14.0",
+          "keywords": [
+            "agreement",
+            "hand",
+            "handshake",
+            "light skin tone",
+            "medium-light skin tone",
+            "meeting",
+            "shake"
+          ],
+          "codePoints": [
+            "1FAF1",
+            "1F3FB",
+            "200D",
+            "1FAF2",
+            "1F3FC"
+          ],
+          "components": [
+            "🏻",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🫱🏻‍🫲🏽",
+          "description": "handshake: light skin tone, medium skin tone",
+          "version": "14.0",
+          "keywords": [
+            "agreement",
+            "hand",
+            "handshake",
+            "light skin tone",
+            "medium skin tone",
+            "meeting",
+            "shake"
+          ],
+          "codePoints": [
+            "1FAF1",
+            "1F3FB",
+            "200D",
+            "1FAF2",
+            "1F3FD"
+          ],
+          "components": [
+            "🏻",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🫱🏻‍🫲🏾",
+          "description": "handshake: light skin tone, medium-dark skin tone",
+          "version": "14.0",
+          "keywords": [
+            "agreement",
+            "hand",
+            "handshake",
+            "light skin tone",
+            "medium-dark skin tone",
+            "meeting",
+            "shake"
+          ],
+          "codePoints": [
+            "1FAF1",
+            "1F3FB",
+            "200D",
+            "1FAF2",
+            "1F3FE"
+          ],
+          "components": [
+            "🏻",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🫱🏻‍🫲🏿",
+          "description": "handshake: light skin tone, dark skin tone",
+          "version": "14.0",
+          "keywords": [
+            "agreement",
+            "dark skin tone",
+            "hand",
+            "handshake",
+            "light skin tone",
+            "meeting",
+            "shake"
+          ],
+          "codePoints": [
+            "1FAF1",
+            "1F3FB",
+            "200D",
+            "1FAF2",
+            "1F3FF"
+          ],
+          "components": [
+            "🏻",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "🫱🏼‍🫲🏻",
+          "description": "handshake: medium-light skin tone, light skin tone",
+          "version": "14.0",
+          "keywords": [
+            "agreement",
+            "hand",
+            "handshake",
+            "light skin tone",
+            "medium-light skin tone",
+            "meeting",
+            "shake"
+          ],
+          "codePoints": [
+            "1FAF1",
+            "1F3FC",
+            "200D",
+            "1FAF2",
+            "1F3FB"
+          ],
+          "components": [
+            "🏼",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🫱🏼‍🫲🏽",
+          "description": "handshake: medium-light skin tone, medium skin tone",
+          "version": "14.0",
+          "keywords": [
+            "agreement",
+            "hand",
+            "handshake",
+            "medium skin tone",
+            "medium-light skin tone",
+            "meeting",
+            "shake"
+          ],
+          "codePoints": [
+            "1FAF1",
+            "1F3FC",
+            "200D",
+            "1FAF2",
+            "1F3FD"
+          ],
+          "components": [
+            "🏼",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🫱🏼‍🫲🏾",
+          "description": "handshake: medium-light skin tone, medium-dark skin tone",
+          "version": "14.0",
+          "keywords": [
+            "agreement",
+            "hand",
+            "handshake",
+            "medium-dark skin tone",
+            "medium-light skin tone",
+            "meeting",
+            "shake"
+          ],
+          "codePoints": [
+            "1FAF1",
+            "1F3FC",
+            "200D",
+            "1FAF2",
+            "1F3FE"
+          ],
+          "components": [
+            "🏼",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🫱🏼‍🫲🏿",
+          "description": "handshake: medium-light skin tone, dark skin tone",
+          "version": "14.0",
+          "keywords": [
+            "agreement",
+            "dark skin tone",
+            "hand",
+            "handshake",
+            "medium-light skin tone",
+            "meeting",
+            "shake"
+          ],
+          "codePoints": [
+            "1FAF1",
+            "1F3FC",
+            "200D",
+            "1FAF2",
+            "1F3FF"
+          ],
+          "components": [
+            "🏼",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "🫱🏽‍🫲🏻",
+          "description": "handshake: medium skin tone, light skin tone",
+          "version": "14.0",
+          "keywords": [
+            "agreement",
+            "hand",
+            "handshake",
+            "light skin tone",
+            "medium skin tone",
+            "meeting",
+            "shake"
+          ],
+          "codePoints": [
+            "1FAF1",
+            "1F3FD",
+            "200D",
+            "1FAF2",
+            "1F3FB"
+          ],
+          "components": [
+            "🏽",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🫱🏽‍🫲🏼",
+          "description": "handshake: medium skin tone, medium-light skin tone",
+          "version": "14.0",
+          "keywords": [
+            "agreement",
+            "hand",
+            "handshake",
+            "medium skin tone",
+            "medium-light skin tone",
+            "meeting",
+            "shake"
+          ],
+          "codePoints": [
+            "1FAF1",
+            "1F3FD",
+            "200D",
+            "1FAF2",
+            "1F3FC"
+          ],
+          "components": [
+            "🏽",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🫱🏽‍🫲🏾",
+          "description": "handshake: medium skin tone, medium-dark skin tone",
+          "version": "14.0",
+          "keywords": [
+            "agreement",
+            "hand",
+            "handshake",
+            "medium skin tone",
+            "medium-dark skin tone",
+            "meeting",
+            "shake"
+          ],
+          "codePoints": [
+            "1FAF1",
+            "1F3FD",
+            "200D",
+            "1FAF2",
+            "1F3FE"
+          ],
+          "components": [
+            "🏽",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🫱🏽‍🫲🏿",
+          "description": "handshake: medium skin tone, dark skin tone",
+          "version": "14.0",
+          "keywords": [
+            "agreement",
+            "dark skin tone",
+            "hand",
+            "handshake",
+            "medium skin tone",
+            "meeting",
+            "shake"
+          ],
+          "codePoints": [
+            "1FAF1",
+            "1F3FD",
+            "200D",
+            "1FAF2",
+            "1F3FF"
+          ],
+          "components": [
+            "🏽",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "🫱🏾‍🫲🏻",
+          "description": "handshake: medium-dark skin tone, light skin tone",
+          "version": "14.0",
+          "keywords": [
+            "agreement",
+            "hand",
+            "handshake",
+            "light skin tone",
+            "medium-dark skin tone",
+            "meeting",
+            "shake"
+          ],
+          "codePoints": [
+            "1FAF1",
+            "1F3FE",
+            "200D",
+            "1FAF2",
+            "1F3FB"
+          ],
+          "components": [
+            "🏾",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🫱🏾‍🫲🏼",
+          "description": "handshake: medium-dark skin tone, medium-light skin tone",
+          "version": "14.0",
+          "keywords": [
+            "agreement",
+            "hand",
+            "handshake",
+            "medium-dark skin tone",
+            "medium-light skin tone",
+            "meeting",
+            "shake"
+          ],
+          "codePoints": [
+            "1FAF1",
+            "1F3FE",
+            "200D",
+            "1FAF2",
+            "1F3FC"
+          ],
+          "components": [
+            "🏾",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🫱🏾‍🫲🏽",
+          "description": "handshake: medium-dark skin tone, medium skin tone",
+          "version": "14.0",
+          "keywords": [
+            "agreement",
+            "hand",
+            "handshake",
+            "medium skin tone",
+            "medium-dark skin tone",
+            "meeting",
+            "shake"
+          ],
+          "codePoints": [
+            "1FAF1",
+            "1F3FE",
+            "200D",
+            "1FAF2",
+            "1F3FD"
+          ],
+          "components": [
+            "🏾",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🫱🏾‍🫲🏿",
+          "description": "handshake: medium-dark skin tone, dark skin tone",
+          "version": "14.0",
+          "keywords": [
+            "agreement",
+            "dark skin tone",
+            "hand",
+            "handshake",
+            "medium-dark skin tone",
+            "meeting",
+            "shake"
+          ],
+          "codePoints": [
+            "1FAF1",
+            "1F3FE",
+            "200D",
+            "1FAF2",
+            "1F3FF"
+          ],
+          "components": [
+            "🏾",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "🫱🏿‍🫲🏻",
+          "description": "handshake: dark skin tone, light skin tone",
+          "version": "14.0",
+          "keywords": [
+            "agreement",
+            "dark skin tone",
+            "hand",
+            "handshake",
+            "light skin tone",
+            "meeting",
+            "shake"
+          ],
+          "codePoints": [
+            "1FAF1",
+            "1F3FF",
+            "200D",
+            "1FAF2",
+            "1F3FB"
+          ],
+          "components": [
+            "🏿",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🫱🏿‍🫲🏼",
+          "description": "handshake: dark skin tone, medium-light skin tone",
+          "version": "14.0",
+          "keywords": [
+            "agreement",
+            "dark skin tone",
+            "hand",
+            "handshake",
+            "medium-light skin tone",
+            "meeting",
+            "shake"
+          ],
+          "codePoints": [
+            "1FAF1",
+            "1F3FF",
+            "200D",
+            "1FAF2",
+            "1F3FC"
+          ],
+          "components": [
+            "🏿",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🫱🏿‍🫲🏽",
+          "description": "handshake: dark skin tone, medium skin tone",
+          "version": "14.0",
+          "keywords": [
+            "agreement",
+            "dark skin tone",
+            "hand",
+            "handshake",
+            "medium skin tone",
+            "meeting",
+            "shake"
+          ],
+          "codePoints": [
+            "1FAF1",
+            "1F3FF",
+            "200D",
+            "1FAF2",
+            "1F3FD"
+          ],
+          "components": [
+            "🏿",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🫱🏿‍🫲🏾",
+          "description": "handshake: dark skin tone, medium-dark skin tone",
+          "version": "14.0",
+          "keywords": [
+            "agreement",
+            "dark skin tone",
+            "hand",
+            "handshake",
+            "medium-dark skin tone",
+            "meeting",
+            "shake"
+          ],
+          "codePoints": [
+            "1FAF1",
+            "1F3FF",
+            "200D",
+            "1FAF2",
+            "1F3FE"
+          ],
+          "components": [
+            "🏿",
+            "🏾"
           ]
         }
       ]
@@ -7560,6 +9014,26 @@
       ],
       "codePoints": [
         "1F444"
+      ],
+      "category": "face-emotion",
+      "group": "people-body",
+      "subgroup": "body-parts"
+    },
+    {
+      "emoji": "🫦",
+      "description": "biting lip",
+      "version": "14.0",
+      "keywords": [
+        "anxious",
+        "biting lip",
+        "fear",
+        "flirting",
+        "nervous",
+        "uncomfortable",
+        "worried"
+      ],
+      "codePoints": [
+        "1FAE6"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -22454,6 +23928,126 @@
       ]
     },
     {
+      "emoji": "🫅",
+      "description": "person with crown",
+      "version": "14.0",
+      "keywords": [
+        "monarch",
+        "noble",
+        "person with crown",
+        "regal",
+        "royalty"
+      ],
+      "codePoints": [
+        "1FAC5"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-role",
+      "variations": [
+        {
+          "emoji": "🫅🏻",
+          "description": "person with crown: light skin tone",
+          "version": "14.0",
+          "keywords": [
+            "light skin tone",
+            "monarch",
+            "noble",
+            "person with crown",
+            "regal",
+            "royalty"
+          ],
+          "codePoints": [
+            "1FAC5",
+            "1F3FB"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🫅🏼",
+          "description": "person with crown: medium-light skin tone",
+          "version": "14.0",
+          "keywords": [
+            "medium-light skin tone",
+            "monarch",
+            "noble",
+            "person with crown",
+            "regal",
+            "royalty"
+          ],
+          "codePoints": [
+            "1FAC5",
+            "1F3FC"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🫅🏽",
+          "description": "person with crown: medium skin tone",
+          "version": "14.0",
+          "keywords": [
+            "medium skin tone",
+            "monarch",
+            "noble",
+            "person with crown",
+            "regal",
+            "royalty"
+          ],
+          "codePoints": [
+            "1FAC5",
+            "1F3FD"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🫅🏾",
+          "description": "person with crown: medium-dark skin tone",
+          "version": "14.0",
+          "keywords": [
+            "medium-dark skin tone",
+            "monarch",
+            "noble",
+            "person with crown",
+            "regal",
+            "royalty"
+          ],
+          "codePoints": [
+            "1FAC5",
+            "1F3FE"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🫅🏿",
+          "description": "person with crown: dark skin tone",
+          "version": "14.0",
+          "keywords": [
+            "dark skin tone",
+            "monarch",
+            "noble",
+            "person with crown",
+            "regal",
+            "royalty"
+          ],
+          "codePoints": [
+            "1FAC5",
+            "1F3FF"
+          ],
+          "components": [
+            "🏿"
+          ]
+        }
+      ]
+    },
+    {
       "emoji": "🤴",
       "description": "prince",
       "version": "3.0",
@@ -24089,6 +25683,246 @@
           ],
           "codePoints": [
             "1F930",
+            "1F3FF"
+          ],
+          "components": [
+            "🏿"
+          ]
+        }
+      ]
+    },
+    {
+      "emoji": "🫃",
+      "description": "pregnant man",
+      "version": "14.0",
+      "keywords": [
+        "belly",
+        "bloated",
+        "full",
+        "pregnant",
+        "pregnant man"
+      ],
+      "codePoints": [
+        "1FAC3"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-role",
+      "variations": [
+        {
+          "emoji": "🫃🏻",
+          "description": "pregnant man: light skin tone",
+          "version": "14.0",
+          "keywords": [
+            "belly",
+            "bloated",
+            "full",
+            "light skin tone",
+            "pregnant",
+            "pregnant man"
+          ],
+          "codePoints": [
+            "1FAC3",
+            "1F3FB"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🫃🏼",
+          "description": "pregnant man: medium-light skin tone",
+          "version": "14.0",
+          "keywords": [
+            "belly",
+            "bloated",
+            "full",
+            "medium-light skin tone",
+            "pregnant",
+            "pregnant man"
+          ],
+          "codePoints": [
+            "1FAC3",
+            "1F3FC"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🫃🏽",
+          "description": "pregnant man: medium skin tone",
+          "version": "14.0",
+          "keywords": [
+            "belly",
+            "bloated",
+            "full",
+            "medium skin tone",
+            "pregnant",
+            "pregnant man"
+          ],
+          "codePoints": [
+            "1FAC3",
+            "1F3FD"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🫃🏾",
+          "description": "pregnant man: medium-dark skin tone",
+          "version": "14.0",
+          "keywords": [
+            "belly",
+            "bloated",
+            "full",
+            "medium-dark skin tone",
+            "pregnant",
+            "pregnant man"
+          ],
+          "codePoints": [
+            "1FAC3",
+            "1F3FE"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🫃🏿",
+          "description": "pregnant man: dark skin tone",
+          "version": "14.0",
+          "keywords": [
+            "belly",
+            "bloated",
+            "dark skin tone",
+            "full",
+            "pregnant",
+            "pregnant man"
+          ],
+          "codePoints": [
+            "1FAC3",
+            "1F3FF"
+          ],
+          "components": [
+            "🏿"
+          ]
+        }
+      ]
+    },
+    {
+      "emoji": "🫄",
+      "description": "pregnant person",
+      "version": "14.0",
+      "keywords": [
+        "belly",
+        "bloated",
+        "full",
+        "pregnant",
+        "pregnant person"
+      ],
+      "codePoints": [
+        "1FAC4"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-role",
+      "variations": [
+        {
+          "emoji": "🫄🏻",
+          "description": "pregnant person: light skin tone",
+          "version": "14.0",
+          "keywords": [
+            "belly",
+            "bloated",
+            "full",
+            "light skin tone",
+            "pregnant",
+            "pregnant person"
+          ],
+          "codePoints": [
+            "1FAC4",
+            "1F3FB"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🫄🏼",
+          "description": "pregnant person: medium-light skin tone",
+          "version": "14.0",
+          "keywords": [
+            "belly",
+            "bloated",
+            "full",
+            "medium-light skin tone",
+            "pregnant",
+            "pregnant person"
+          ],
+          "codePoints": [
+            "1FAC4",
+            "1F3FC"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🫄🏽",
+          "description": "pregnant person: medium skin tone",
+          "version": "14.0",
+          "keywords": [
+            "belly",
+            "bloated",
+            "full",
+            "medium skin tone",
+            "pregnant",
+            "pregnant person"
+          ],
+          "codePoints": [
+            "1FAC4",
+            "1F3FD"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🫄🏾",
+          "description": "pregnant person: medium-dark skin tone",
+          "version": "14.0",
+          "keywords": [
+            "belly",
+            "bloated",
+            "full",
+            "medium-dark skin tone",
+            "pregnant",
+            "pregnant person"
+          ],
+          "codePoints": [
+            "1FAC4",
+            "1F3FE"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🫄🏿",
+          "description": "pregnant person: dark skin tone",
+          "version": "14.0",
+          "keywords": [
+            "belly",
+            "bloated",
+            "dark skin tone",
+            "full",
+            "pregnant",
+            "pregnant person"
+          ],
+          "codePoints": [
+            "1FAC4",
             "1F3FF"
           ],
           "components": [
@@ -27773,6 +29607,23 @@
         "200D",
         "2640",
         "FE0F"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-fantasy"
+    },
+    {
+      "emoji": "🧌",
+      "description": "troll",
+      "version": "14.0",
+      "keywords": [
+        "fairy tale",
+        "fantasy",
+        "monster",
+        "troll"
+      ],
+      "codePoints": [
+        "1F9CC"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -37378,6 +39229,7 @@
       "description": "person in bed",
       "version": "1.0",
       "keywords": [
+        "good night",
         "hotel",
         "person in bed",
         "sleep"
@@ -37394,6 +39246,7 @@
           "description": "person in bed: light skin tone",
           "version": "4.0",
           "keywords": [
+            "good night",
             "hotel",
             "light skin tone",
             "person in bed",
@@ -37412,6 +39265,7 @@
           "description": "person in bed: medium-light skin tone",
           "version": "4.0",
           "keywords": [
+            "good night",
             "hotel",
             "medium-light skin tone",
             "person in bed",
@@ -37430,6 +39284,7 @@
           "description": "person in bed: medium skin tone",
           "version": "4.0",
           "keywords": [
+            "good night",
             "hotel",
             "medium skin tone",
             "person in bed",
@@ -37448,6 +39303,7 @@
           "description": "person in bed: medium-dark skin tone",
           "version": "4.0",
           "keywords": [
+            "good night",
             "hotel",
             "medium-dark skin tone",
             "person in bed",
@@ -37467,6 +39323,7 @@
           "version": "4.0",
           "keywords": [
             "dark skin tone",
+            "good night",
             "hotel",
             "person in bed",
             "sleep"
@@ -47277,8 +49134,9 @@
       "description": "koala",
       "version": "0.6",
       "keywords": [
-        "bear",
-        "koala"
+        "face",
+        "koala",
+        "marsupial"
       ],
       "codePoints": [
         "1F428"
@@ -47882,7 +49740,7 @@
       "description": "seal",
       "version": "13.0",
       "keywords": [
-        "sea Lion",
+        "sea lion",
         "seal"
       ],
       "codePoints": [
@@ -47977,6 +49835,22 @@
       ],
       "codePoints": [
         "1F41A"
+      ],
+      "category": "animals-nature",
+      "group": "animals-nature",
+      "subgroup": "animal-marine"
+    },
+    {
+      "emoji": "🪸",
+      "description": "coral",
+      "version": "14.0",
+      "keywords": [
+        "coral",
+        "ocean",
+        "reef"
+      ],
+      "codePoints": [
+        "1FAB8"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -48285,6 +50159,26 @@
       ],
       "codePoints": [
         "1F4AE"
+      ],
+      "category": "animals-nature",
+      "group": "animals-nature",
+      "subgroup": "plant-flower"
+    },
+    {
+      "emoji": "🪷",
+      "description": "lotus",
+      "version": "14.0",
+      "keywords": [
+        "Buddhism",
+        "flower",
+        "Hinduism",
+        "India",
+        "lotus",
+        "purity",
+        "Vietnam"
+      ],
+      "codePoints": [
+        "1FAB7"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -48604,6 +50498,36 @@
       ],
       "codePoints": [
         "1F343"
+      ],
+      "category": "animals-nature",
+      "group": "animals-nature",
+      "subgroup": "plant-other"
+    },
+    {
+      "emoji": "🪹",
+      "description": "empty nest",
+      "version": "14.0",
+      "keywords": [
+        "empty nest",
+        "nesting"
+      ],
+      "codePoints": [
+        "1FAB9"
+      ],
+      "category": "animals-nature",
+      "group": "animals-nature",
+      "subgroup": "plant-other"
+    },
+    {
+      "emoji": "🪺",
+      "description": "nest with eggs",
+      "version": "14.0",
+      "keywords": [
+        "nest with eggs",
+        "nesting"
+      ],
+      "codePoints": [
+        "1FABA"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -49133,6 +51057,23 @@
       ],
       "codePoints": [
         "1F95C"
+      ],
+      "category": "food-drink",
+      "group": "food-drink",
+      "subgroup": "food-vegetable"
+    },
+    {
+      "emoji": "🫘",
+      "description": "beans",
+      "version": "14.0",
+      "keywords": [
+        "beans",
+        "food",
+        "kidney",
+        "legume"
+      ],
+      "codePoints": [
+        "1FAD8"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -50565,6 +52506,24 @@
       "subgroup": "drink"
     },
     {
+      "emoji": "🫗",
+      "description": "pouring liquid",
+      "version": "14.0",
+      "keywords": [
+        "drink",
+        "empty",
+        "glass",
+        "pouring liquid",
+        "spill"
+      ],
+      "codePoints": [
+        "1FAD7"
+      ],
+      "category": "food-drink",
+      "group": "food-drink",
+      "subgroup": "drink"
+    },
+    {
       "emoji": "🥤",
       "description": "cup with straw",
       "version": "5.0",
@@ -50728,6 +52687,25 @@
       ],
       "codePoints": [
         "1F52A"
+      ],
+      "category": "food-drink",
+      "group": "food-drink",
+      "subgroup": "dishware"
+    },
+    {
+      "emoji": "🫙",
+      "description": "jar",
+      "version": "14.0",
+      "keywords": [
+        "condiment",
+        "container",
+        "empty",
+        "jar",
+        "sauce",
+        "store"
+      ],
+      "codePoints": [
+        "1FAD9"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -51740,6 +53718,22 @@
       "subgroup": "place-other"
     },
     {
+      "emoji": "🛝",
+      "description": "playground slide",
+      "version": "14.0",
+      "keywords": [
+        "amusement park",
+        "play",
+        "playground slide"
+      ],
+      "codePoints": [
+        "1F6DD"
+      ],
+      "category": "travel-places",
+      "group": "travel-places",
+      "subgroup": "place-other"
+    },
+    {
       "emoji": "🎡",
       "description": "ferris wheel",
       "version": "0.6",
@@ -52421,7 +54415,6 @@
       "version": "0.6",
       "keywords": [
         "bus",
-        "busstop",
         "stop"
       ],
       "codePoints": [
@@ -52495,6 +54488,23 @@
       ],
       "codePoints": [
         "26FD"
+      ],
+      "category": "travel-places",
+      "group": "travel-places",
+      "subgroup": "transport-ground"
+    },
+    {
+      "emoji": "🛞",
+      "description": "wheel",
+      "version": "14.0",
+      "keywords": [
+        "circle",
+        "tire",
+        "turn",
+        "wheel"
+      ],
+      "codePoints": [
+        "1F6DE"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -52594,6 +54604,25 @@
       ],
       "codePoints": [
         "2693"
+      ],
+      "category": "travel-places",
+      "group": "travel-places",
+      "subgroup": "transport-water"
+    },
+    {
+      "emoji": "🛟",
+      "description": "ring buoy",
+      "version": "14.0",
+      "keywords": [
+        "float",
+        "life preserver",
+        "life saver",
+        "rescue",
+        "ring buoy",
+        "safety"
+      ],
+      "codePoints": [
+        "1F6DF"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -55332,6 +57361,26 @@
       "subgroup": "game"
     },
     {
+      "emoji": "🪬",
+      "description": "hamsa",
+      "version": "14.0",
+      "keywords": [
+        "amulet",
+        "Fatima",
+        "hamsa",
+        "hand",
+        "Mary",
+        "Miriam",
+        "protection"
+      ],
+      "codePoints": [
+        "1FAAC"
+      ],
+      "category": "activities-events",
+      "group": "activities",
+      "subgroup": "game"
+    },
+    {
       "emoji": "🎮",
       "description": "video game",
       "version": "0.6",
@@ -55443,6 +57492,24 @@
       ],
       "codePoints": [
         "1FA85"
+      ],
+      "category": "activities-events",
+      "group": "activities",
+      "subgroup": "game"
+    },
+    {
+      "emoji": "🪩",
+      "description": "mirror ball",
+      "version": "14.0",
+      "keywords": [
+        "dance",
+        "disco",
+        "glitter",
+        "mirror ball",
+        "party"
+      ],
+      "codePoints": [
+        "1FAA9"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -56803,7 +58870,6 @@
       "description": "accordion",
       "version": "13.0",
       "keywords": [
-        "accordian",
         "accordion",
         "concertina",
         "squeeze box"
@@ -57043,6 +59109,22 @@
       "subgroup": "computer"
     },
     {
+      "emoji": "🪫",
+      "description": "low battery",
+      "version": "14.0",
+      "keywords": [
+        "electronic",
+        "low battery",
+        "low energy"
+      ],
+      "codePoints": [
+        "1FAAB"
+      ],
+      "category": "objects",
+      "group": "objects",
+      "subgroup": "computer"
+    },
+    {
       "emoji": "🔌",
       "description": "electric plug",
       "version": "0.6",
@@ -57193,7 +59275,7 @@
       "description": "optical disk",
       "version": "0.6",
       "keywords": [
-        "cd",
+        "CD",
         "computer",
         "disk",
         "optical"
@@ -57210,10 +59292,11 @@
       "description": "dvd",
       "version": "0.6",
       "keywords": [
-        "blu-ray",
+        "Blu-ray",
         "computer",
         "disk",
         "dvd",
+        "DVD",
         "optical"
       ],
       "codePoints": [
@@ -59400,6 +61483,25 @@
       "subgroup": "medical"
     },
     {
+      "emoji": "🩼",
+      "description": "crutch",
+      "version": "14.0",
+      "keywords": [
+        "cane",
+        "crutch",
+        "disability",
+        "hurt",
+        "mobility aid",
+        "stick"
+      ],
+      "codePoints": [
+        "1FA7C"
+      ],
+      "category": "objects",
+      "group": "objects",
+      "subgroup": "medical"
+    },
+    {
       "emoji": "🩺",
       "description": "stethoscope",
       "version": "12.0",
@@ -59411,6 +61513,24 @@
       ],
       "codePoints": [
         "1FA7A"
+      ],
+      "category": "objects",
+      "group": "objects",
+      "subgroup": "medical"
+    },
+    {
+      "emoji": "🩻",
+      "description": "x-ray",
+      "version": "14.0",
+      "keywords": [
+        "bones",
+        "doctor",
+        "medical",
+        "skeleton",
+        "x-ray"
+      ],
+      "codePoints": [
+        "1FA7B"
       ],
       "category": "objects",
       "group": "objects",
@@ -59751,6 +61871,24 @@
       "subgroup": "household"
     },
     {
+      "emoji": "🫧",
+      "description": "bubbles",
+      "version": "14.0",
+      "keywords": [
+        "bubbles",
+        "burp",
+        "clean",
+        "soap",
+        "underwater"
+      ],
+      "codePoints": [
+        "1FAE7"
+      ],
+      "category": "objects",
+      "group": "objects",
+      "subgroup": "household"
+    },
+    {
       "emoji": "🪥",
       "description": "toothbrush",
       "version": "13.0",
@@ -59923,11 +62061,29 @@
       "subgroup": "other-object"
     },
     {
+      "emoji": "🪪",
+      "description": "identification card",
+      "version": "14.0",
+      "keywords": [
+        "credentials",
+        "ID",
+        "identification card",
+        "license",
+        "security"
+      ],
+      "codePoints": [
+        "1FAAA"
+      ],
+      "category": "objects",
+      "group": "objects",
+      "subgroup": "other-object"
+    },
+    {
       "emoji": "🏧",
       "description": "ATM sign",
       "version": "0.6",
       "keywords": [
-        "atm",
+        "ATM",
         "ATM sign",
         "automated",
         "bank",
@@ -59992,11 +62148,13 @@
       "description": "men’s room",
       "version": "0.6",
       "keywords": [
+        "bathroom",
         "lavatory",
         "man",
         "men’s room",
         "restroom",
-        "wc"
+        "toilet",
+        "WC"
       ],
       "codePoints": [
         "1F6B9"
@@ -60010,9 +62168,11 @@
       "description": "women’s room",
       "version": "0.6",
       "keywords": [
+        "bathroom",
         "lavatory",
         "restroom",
-        "wc",
+        "toilet",
+        "WC",
         "woman",
         "women’s room"
       ],
@@ -60028,8 +62188,10 @@
       "description": "restroom",
       "version": "0.6",
       "keywords": [
+        "bathroom",
         "lavatory",
         "restroom",
+        "toilet",
         "WC"
       ],
       "codePoints": [
@@ -60060,11 +62222,13 @@
       "description": "water closet",
       "version": "0.6",
       "keywords": [
+        "bathroom",
         "closet",
         "lavatory",
         "restroom",
+        "toilet",
         "water",
-        "wc"
+        "WC"
       ],
       "codePoints": [
         "1F6BE"
@@ -60655,8 +62819,7 @@
       "version": "0.6",
       "keywords": [
         "arrow",
-        "back",
-        "BACK arrow"
+        "BACK"
       ],
       "codePoints": [
         "1F519"
@@ -60671,8 +62834,7 @@
       "version": "0.6",
       "keywords": [
         "arrow",
-        "end",
-        "END arrow"
+        "END"
       ],
       "codePoints": [
         "1F51A"
@@ -60688,8 +62850,8 @@
       "keywords": [
         "arrow",
         "mark",
-        "on",
-        "ON! arrow"
+        "ON",
+        "ON!"
       ],
       "codePoints": [
         "1F51B"
@@ -60704,8 +62866,7 @@
       "version": "0.6",
       "keywords": [
         "arrow",
-        "soon",
-        "SOON arrow"
+        "SOON"
       ],
       "codePoints": [
         "1F51C"
@@ -60720,8 +62881,7 @@
       "version": "0.6",
       "keywords": [
         "arrow",
-        "top",
-        "TOP arrow",
+        "TOP",
         "up"
       ],
       "codePoints": [
@@ -61702,6 +63862,22 @@
       "subgroup": "math"
     },
     {
+      "emoji": "🟰",
+      "description": "heavy equals sign",
+      "version": "14.0",
+      "keywords": [
+        "equality",
+        "heavy equals sign",
+        "math"
+      ],
+      "codePoints": [
+        "1F7F0"
+      ],
+      "category": "symbols",
+      "group": "symbols",
+      "subgroup": "math"
+    },
+    {
       "emoji": "♾️",
       "description": "infinity",
       "version": "11.0",
@@ -62199,7 +64375,7 @@
       "description": "copyright",
       "version": "0.6",
       "keywords": [
-        "c",
+        "C",
         "copyright"
       ],
       "codePoints": [
@@ -62215,7 +64391,7 @@
       "description": "registered",
       "version": "0.6",
       "keywords": [
-        "r",
+        "R",
         "registered"
       ],
       "codePoints": [
@@ -62232,7 +64408,7 @@
       "version": "0.6",
       "keywords": [
         "mark",
-        "tm",
+        "TM",
         "trade mark",
         "trademark"
       ],
@@ -62541,7 +64717,7 @@
       "description": "A button (blood type)",
       "version": "0.6",
       "keywords": [
-        "a",
+        "A",
         "A button (blood type)",
         "blood type"
       ],
@@ -62558,7 +64734,7 @@
       "description": "AB button (blood type)",
       "version": "0.6",
       "keywords": [
-        "ab",
+        "AB",
         "AB button (blood type)",
         "blood type"
       ],
@@ -62574,7 +64750,7 @@
       "description": "B button (blood type)",
       "version": "0.6",
       "keywords": [
-        "b",
+        "B",
         "B button (blood type)",
         "blood type"
       ],
@@ -62591,7 +64767,7 @@
       "description": "CL button",
       "version": "0.6",
       "keywords": [
-        "cl",
+        "CL",
         "CL button"
       ],
       "codePoints": [
@@ -62606,7 +64782,7 @@
       "description": "COOL button",
       "version": "0.6",
       "keywords": [
-        "cool",
+        "COOL",
         "COOL button"
       ],
       "codePoints": [
@@ -62621,7 +64797,7 @@
       "description": "FREE button",
       "version": "0.6",
       "keywords": [
-        "free",
+        "FREE",
         "FREE button"
       ],
       "codePoints": [
@@ -62652,7 +64828,7 @@
       "description": "ID button",
       "version": "0.6",
       "keywords": [
-        "id",
+        "ID",
         "ID button",
         "identity"
       ],
@@ -62670,7 +64846,7 @@
       "keywords": [
         "circle",
         "circled M",
-        "m"
+        "M"
       ],
       "codePoints": [
         "24C2",
@@ -62685,7 +64861,7 @@
       "description": "NEW button",
       "version": "0.6",
       "keywords": [
-        "new",
+        "NEW",
         "NEW button"
       ],
       "codePoints": [
@@ -62700,7 +64876,7 @@
       "description": "NG button",
       "version": "0.6",
       "keywords": [
-        "ng",
+        "NG",
         "NG button"
       ],
       "codePoints": [
@@ -62716,7 +64892,7 @@
       "version": "0.6",
       "keywords": [
         "blood type",
-        "o",
+        "O",
         "O button (blood type)"
       ],
       "codePoints": [
@@ -62747,6 +64923,7 @@
       "description": "P button",
       "version": "0.6",
       "keywords": [
+        "P",
         "P button",
         "parking"
       ],
@@ -62764,7 +64941,7 @@
       "version": "0.6",
       "keywords": [
         "help",
-        "sos",
+        "SOS",
         "SOS button"
       ],
       "codePoints": [
@@ -62780,7 +64957,8 @@
       "version": "0.6",
       "keywords": [
         "mark",
-        "up",
+        "UP",
+        "UP!",
         "UP! button"
       ],
       "codePoints": [
@@ -62796,7 +64974,7 @@
       "version": "0.6",
       "keywords": [
         "versus",
-        "vs",
+        "VS",
         "VS button"
       ],
       "codePoints": [

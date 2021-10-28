@@ -5,8 +5,8 @@ const htmlparser2 = require('htmlparser2');
 
 /* ------------- PARAMETERS ------------- */
 
-const unicodeEmojiVersion = '13.1';
-const unicodeCldrVersion = '38-1';
+const unicodeEmojiVersion = '14.0';
+const unicodeCldrVersion = '40';
 const unicodeCldrLocale = 'en';
 
 
@@ -55,27 +55,6 @@ const overrideCategoryForEmojis = {
 const missingVariationsForBaseEmojis = {
   '👩': ['🧔‍♀️', '🧔🏻‍♀️', '🧔🏼‍♀️', '🧔🏽‍♀️', '🧔🏾‍♀️', '🧔🏿‍♀️'],
 };
-const missingEmojis = [
-  '# group: People & Body',
-  '# subgroup: hands',
-  '1F91D 1F3FB ; fully-qualified # 🤝🏻 E3.0 handshake: light skin tone',
-  '1F91D 1F3FC ; fully-qualified # 🤝🏼 E3.0 handshake: medium-light skin tone',
-  '1F91D 1F3FD ; fully-qualified # 🤝🏽 E3.0 handshake: medium skin tone',
-  '1F91D 1F3FE ; fully-qualified # 🤝🏾 E3.0 handshake: medium-dark skin tone',
-  '1F91D 1F3FF ; fully-qualified # 🤝🏿 E3.0 handshake: dark skin tone',
-];
-const missingAnnotations = [
-  '<annotation cp="🤝🏻">agreement | hand | handshake | light skin tone | meeting | shake</annotation>',
-  '<annotation cp="🤝🏻" type="tts">handshake: light skin tone</annotation>',
-  '<annotation cp="🤝🏼">agreement | hand | handshake | medium-light skin tone | meeting | shake</annotation>',
-  '<annotation cp="🤝🏼" type="tts">handshake: medium-light skin tone</annotation>',
-  '<annotation cp="🤝🏽">agreement | hand | handshake | medium skin tone | meeting | shake</annotation>',
-  '<annotation cp="🤝🏽" type="tts">handshake: medium skin tone</annotation>',
-  '<annotation cp="🤝🏾">agreement | hand | handshake | medium-dark skin | meeting | shake</annotation>',
-  '<annotation cp="🤝🏾" type="tts">handshake: medium-dark skin tone</annotation>',
-  '<annotation cp="🤝🏿">agreement | dark skin tone | hand | handshake | meeting | shake</annotation>',
-  '<annotation cp="🤝🏿" type="tts">handshake: dark skin tone</annotation>',
-];
 
 
 /* ------------- FILES CONFIG ------------- */
@@ -375,11 +354,6 @@ https.get(emojisInput, (emojisResponse) => {
   readline.createInterface(emojisResponse).on('line', (line) => {
     processEmojiLine(line);
   }).on('close', () => {
-
-    // Add missing emojis
-    missingEmojis.forEach((line) => {
-      processEmojiLine(line);
-    });
     process.stdout.write('\n');
 
     // Fix emoji variations not being linked to their base emoji
@@ -404,15 +378,8 @@ https.get(emojisInput, (emojisResponse) => {
             annotationsParser.write(data);
           });
           derivedAnnotationResponse.on('end', () => {
-
-            // Add missing annotations
-            for (const missingAnnotation of missingAnnotations) {
-              annotationsParser.write(missingAnnotation);
-            }
-            annotationsParser.end();
-            process.stdout.write('\n');
-
             // End of process
+            process.stdout.write('\n');
             saveResults();
           });
         });
