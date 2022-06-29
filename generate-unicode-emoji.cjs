@@ -135,7 +135,7 @@ function processEmojiLine(line) {
   if (line.charAt(0) === commentPrefix) {
     if (line.startsWith(groupPrefix)) {
       emojiGroup = line
-        .substr(groupPrefix.length)
+        .substring(groupPrefix.length)
         .trim()
         .replace(/[^A-Za-z0-9\s-]/g, '')
         .replace(/\s+/g, '-')
@@ -143,7 +143,7 @@ function processEmojiLine(line) {
     }
     else if (line.startsWith(subgroupPrefix)) {
       emojiSubgroup = line
-        .substr(subgroupPrefix.length)
+        .substring(subgroupPrefix.length)
         .trim()
         .replace(/[^A-Za-z0-9\s-]/g, '')
         .replace(/\s+/g, '-')
