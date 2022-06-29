@@ -309,11 +309,14 @@ function saveResults() {
       `${baseEmoji.subgroup},,\n`;
     if (baseEmoji.variations) {
       for (const emojiVariation of baseEmoji.variations) {
+        if (!emojiVariation.description || !emojiVariation.keywords) {
+          process.stdout.write(`Missing annotations for emoji ${emojiVariation.emoji}\n`);
+        }
         csvResult +=
           `${emojiVariation.emoji},` +
-          `"${emojiVariation.description.replace(/"/g, '""')}",` +
+          `"${emojiVariation.description?.replace(/"/g, '""')}",` +
           `${emojiVariation.version},` +
-          `${emojiVariation.keywords.join('|')},` +
+          `${emojiVariation.keywords?.join('|')},` +
           `${baseEmoji.category},` +
           `${baseEmoji.group},` +
           `${baseEmoji.subgroup},` +
@@ -350,6 +353,10 @@ function saveResults() {
 // Retrieve emojis online
 process.stdout.write(`Retrieving "Unicode Emoji, Version ${unicodeEmojiVersion}"\n`);
 https.get(emojisInput, (emojisResponse) => {
+  if (emojisResponse.statusCode !== 200) {
+    process.stdout.write(`HTTP error ${emojisResponse.statusCode} occurred while retrieving the emojis\n`);
+    return;
+  }
   emojisResponse.setEncoding('utf8');
   readline.createInterface(emojisResponse).on('line', (line) => {
     processEmojiLine(line);
@@ -365,6 +372,10 @@ https.get(emojisInput, (emojisResponse) => {
     // Retrieve annotations (text-to-speech & keywords) online
     process.stdout.write(`Retrieving "Common Local Data Repository, Version ${unicodeCldrVersion}" for local "${unicodeCldrLocale}"\n`);
     https.get(annotationsInput, (annotationResponse) => {
+      if (annotationResponse.statusCode !== 200) {
+        process.stdout.write(`HTTP error ${annotationResponse.statusCode} occurred while retrieving the annotations\n`);
+        return;
+      }
       annotationResponse.setEncoding('utf8');
       annotationResponse.on('data', (data) => {
         annotationsParser.write(data);
