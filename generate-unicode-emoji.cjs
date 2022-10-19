@@ -5,8 +5,8 @@ const htmlparser2 = require('htmlparser2');
 
 /* ------------- PARAMETERS ------------- */
 
-const unicodeEmojiVersion = '14.0';
-const unicodeCldrVersion = '40';
+const unicodeEmojiVersion = '15.0';
+const unicodeCldrVersion = '42';
 const unicodeCldrLocale = 'en';
 
 
