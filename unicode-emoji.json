@@ -979,6 +979,24 @@
       "subgroup": "face-neutral-skeptical"
     },
     {
+      "emoji": "🫨",
+      "description": "shaking face",
+      "version": "15.0",
+      "keywords": [
+        "earthquake",
+        "face",
+        "shaking",
+        "shock",
+        "vibrate"
+      ],
+      "codePoints": [
+        "1FAE8"
+      ],
+      "category": "face-emotion",
+      "group": "smileys-emotion",
+      "subgroup": "face-neutral-skeptical"
+    },
+    {
       "emoji": "😌",
       "description": "relieved face",
       "version": "0.6",
@@ -2336,22 +2354,6 @@
       "subgroup": "monkey-face"
     },
     {
-      "emoji": "💋",
-      "description": "kiss mark",
-      "version": "0.6",
-      "keywords": [
-        "kiss",
-        "kiss mark",
-        "lips"
-      ],
-      "codePoints": [
-        "1F48B"
-      ],
-      "category": "face-emotion",
-      "group": "smileys-emotion",
-      "subgroup": "emotion"
-    },
-    {
       "emoji": "💌",
       "description": "love letter",
       "version": "0.6",
@@ -2366,7 +2368,7 @@
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
-      "subgroup": "emotion"
+      "subgroup": "heart"
     },
     {
       "emoji": "💘",
@@ -2382,7 +2384,7 @@
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
-      "subgroup": "emotion"
+      "subgroup": "heart"
     },
     {
       "emoji": "💝",
@@ -2398,7 +2400,7 @@
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
-      "subgroup": "emotion"
+      "subgroup": "heart"
     },
     {
       "emoji": "💖",
@@ -2414,7 +2416,7 @@
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
-      "subgroup": "emotion"
+      "subgroup": "heart"
     },
     {
       "emoji": "💗",
@@ -2432,7 +2434,7 @@
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
-      "subgroup": "emotion"
+      "subgroup": "heart"
     },
     {
       "emoji": "💓",
@@ -2449,7 +2451,7 @@
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
-      "subgroup": "emotion"
+      "subgroup": "heart"
     },
     {
       "emoji": "💞",
@@ -2464,7 +2466,7 @@
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
-      "subgroup": "emotion"
+      "subgroup": "heart"
     },
     {
       "emoji": "💕",
@@ -2479,7 +2481,7 @@
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
-      "subgroup": "emotion"
+      "subgroup": "heart"
     },
     {
       "emoji": "💟",
@@ -2494,7 +2496,7 @@
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
-      "subgroup": "emotion"
+      "subgroup": "heart"
     },
     {
       "emoji": "❣️",
@@ -2512,7 +2514,7 @@
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
-      "subgroup": "emotion"
+      "subgroup": "heart"
     },
     {
       "emoji": "💔",
@@ -2528,7 +2530,7 @@
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
-      "subgroup": "emotion"
+      "subgroup": "heart"
     },
     {
       "emoji": "❤️‍🔥",
@@ -2550,7 +2552,7 @@
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
-      "subgroup": "emotion"
+      "subgroup": "heart"
     },
     {
       "emoji": "❤️‍🩹",
@@ -2573,7 +2575,7 @@
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
-      "subgroup": "emotion"
+      "subgroup": "heart"
     },
     {
       "emoji": "❤️",
@@ -2589,7 +2591,25 @@
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
-      "subgroup": "emotion"
+      "subgroup": "heart"
+    },
+    {
+      "emoji": "🩷",
+      "description": "pink heart",
+      "version": "15.0",
+      "keywords": [
+        "cute",
+        "heart",
+        "like",
+        "love",
+        "pink"
+      ],
+      "codePoints": [
+        "1FA77"
+      ],
+      "category": "face-emotion",
+      "group": "smileys-emotion",
+      "subgroup": "heart"
     },
     {
       "emoji": "🧡",
@@ -2604,7 +2624,7 @@
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
-      "subgroup": "emotion"
+      "subgroup": "heart"
     },
     {
       "emoji": "💛",
@@ -2619,7 +2639,7 @@
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
-      "subgroup": "emotion"
+      "subgroup": "heart"
     },
     {
       "emoji": "💚",
@@ -2634,7 +2654,7 @@
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
-      "subgroup": "emotion"
+      "subgroup": "heart"
     },
     {
       "emoji": "💙",
@@ -2649,7 +2669,25 @@
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
-      "subgroup": "emotion"
+      "subgroup": "heart"
+    },
+    {
+      "emoji": "🩵",
+      "description": "light blue heart",
+      "version": "15.0",
+      "keywords": [
+        "cyan",
+        "heart",
+        "light blue",
+        "light blue heart",
+        "teal"
+      ],
+      "codePoints": [
+        "1FA75"
+      ],
+      "category": "face-emotion",
+      "group": "smileys-emotion",
+      "subgroup": "heart"
     },
     {
       "emoji": "💜",
@@ -2664,7 +2702,7 @@
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
-      "subgroup": "emotion"
+      "subgroup": "heart"
     },
     {
       "emoji": "🤎",
@@ -2679,7 +2717,7 @@
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
-      "subgroup": "emotion"
+      "subgroup": "heart"
     },
     {
       "emoji": "🖤",
@@ -2696,7 +2734,25 @@
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
-      "subgroup": "emotion"
+      "subgroup": "heart"
+    },
+    {
+      "emoji": "🩶",
+      "description": "grey heart",
+      "version": "15.0",
+      "keywords": [
+        "gray",
+        "grey heart",
+        "heart",
+        "silver",
+        "slate"
+      ],
+      "codePoints": [
+        "1FA76"
+      ],
+      "category": "face-emotion",
+      "group": "smileys-emotion",
+      "subgroup": "heart"
     },
     {
       "emoji": "🤍",
@@ -2708,6 +2764,22 @@
       ],
       "codePoints": [
         "1F90D"
+      ],
+      "category": "face-emotion",
+      "group": "smileys-emotion",
+      "subgroup": "heart"
+    },
+    {
+      "emoji": "💋",
+      "description": "kiss mark",
+      "version": "0.6",
+      "keywords": [
+        "kiss",
+        "kiss mark",
+        "lips"
+      ],
+      "codePoints": [
+        "1F48B"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -2826,21 +2898,6 @@
         "FE0F"
       ],
       "category": "symbols",
-      "group": "smileys-emotion",
-      "subgroup": "emotion"
-    },
-    {
-      "emoji": "💣",
-      "description": "bomb",
-      "version": "0.6",
-      "keywords": [
-        "bomb",
-        "comic"
-      ],
-      "codePoints": [
-        "1F4A3"
-      ],
-      "category": "objects",
       "group": "smileys-emotion",
       "subgroup": "emotion"
     },
@@ -3976,6 +4033,270 @@
           ],
           "codePoints": [
             "1FAF4",
+            "1F3FF"
+          ],
+          "components": [
+            "🏿"
+          ]
+        }
+      ]
+    },
+    {
+      "emoji": "🫷",
+      "description": "leftwards pushing hand",
+      "version": "15.0",
+      "keywords": [
+        "high five",
+        "leftward",
+        "leftwards pushing hand",
+        "push",
+        "refuse",
+        "stop",
+        "wait"
+      ],
+      "codePoints": [
+        "1FAF7"
+      ],
+      "category": "face-emotion",
+      "group": "people-body",
+      "subgroup": "hand-fingers-open",
+      "variations": [
+        {
+          "emoji": "🫷🏻",
+          "description": "leftwards pushing hand: light skin tone",
+          "version": "15.0",
+          "keywords": [
+            "high five",
+            "leftward",
+            "leftwards pushing hand",
+            "light skin tone",
+            "push",
+            "refuse",
+            "stop",
+            "wait"
+          ],
+          "codePoints": [
+            "1FAF7",
+            "1F3FB"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🫷🏼",
+          "description": "leftwards pushing hand: medium-light skin tone",
+          "version": "15.0",
+          "keywords": [
+            "high five",
+            "leftward",
+            "leftwards pushing hand",
+            "medium-light skin tone",
+            "push",
+            "refuse",
+            "stop",
+            "wait"
+          ],
+          "codePoints": [
+            "1FAF7",
+            "1F3FC"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🫷🏽",
+          "description": "leftwards pushing hand: medium skin tone",
+          "version": "15.0",
+          "keywords": [
+            "high five",
+            "leftward",
+            "leftwards pushing hand",
+            "medium skin tone",
+            "push",
+            "refuse",
+            "stop",
+            "wait"
+          ],
+          "codePoints": [
+            "1FAF7",
+            "1F3FD"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🫷🏾",
+          "description": "leftwards pushing hand: medium-dark skin tone",
+          "version": "15.0",
+          "keywords": [
+            "high five",
+            "leftward",
+            "leftwards pushing hand",
+            "medium-dark skin tone",
+            "push",
+            "refuse",
+            "stop",
+            "wait"
+          ],
+          "codePoints": [
+            "1FAF7",
+            "1F3FE"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🫷🏿",
+          "description": "leftwards pushing hand: dark skin tone",
+          "version": "15.0",
+          "keywords": [
+            "dark skin tone",
+            "high five",
+            "leftward",
+            "leftwards pushing hand",
+            "push",
+            "refuse",
+            "stop",
+            "wait"
+          ],
+          "codePoints": [
+            "1FAF7",
+            "1F3FF"
+          ],
+          "components": [
+            "🏿"
+          ]
+        }
+      ]
+    },
+    {
+      "emoji": "🫸",
+      "description": "rightwards pushing hand",
+      "version": "15.0",
+      "keywords": [
+        "high five",
+        "push",
+        "refuse",
+        "rightward",
+        "rightwards pushing hand",
+        "stop",
+        "wait"
+      ],
+      "codePoints": [
+        "1FAF8"
+      ],
+      "category": "face-emotion",
+      "group": "people-body",
+      "subgroup": "hand-fingers-open",
+      "variations": [
+        {
+          "emoji": "🫸🏻",
+          "description": "rightwards pushing hand: light skin tone",
+          "version": "15.0",
+          "keywords": [
+            "high five",
+            "light skin tone",
+            "push",
+            "refuse",
+            "rightward",
+            "rightwards pushing hand",
+            "stop",
+            "wait"
+          ],
+          "codePoints": [
+            "1FAF8",
+            "1F3FB"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🫸🏼",
+          "description": "rightwards pushing hand: medium-light skin tone",
+          "version": "15.0",
+          "keywords": [
+            "high five",
+            "medium-light skin tone",
+            "push",
+            "refuse",
+            "rightward",
+            "rightwards pushing hand",
+            "stop",
+            "wait"
+          ],
+          "codePoints": [
+            "1FAF8",
+            "1F3FC"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🫸🏽",
+          "description": "rightwards pushing hand: medium skin tone",
+          "version": "15.0",
+          "keywords": [
+            "high five",
+            "medium skin tone",
+            "push",
+            "refuse",
+            "rightward",
+            "rightwards pushing hand",
+            "stop",
+            "wait"
+          ],
+          "codePoints": [
+            "1FAF8",
+            "1F3FD"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🫸🏾",
+          "description": "rightwards pushing hand: medium-dark skin tone",
+          "version": "15.0",
+          "keywords": [
+            "high five",
+            "medium-dark skin tone",
+            "push",
+            "refuse",
+            "rightward",
+            "rightwards pushing hand",
+            "stop",
+            "wait"
+          ],
+          "codePoints": [
+            "1FAF8",
+            "1F3FE"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🫸🏿",
+          "description": "rightwards pushing hand: dark skin tone",
+          "version": "15.0",
+          "keywords": [
+            "dark skin tone",
+            "high five",
+            "push",
+            "refuse",
+            "rightward",
+            "rightwards pushing hand",
+            "stop",
+            "wait"
+          ],
+          "codePoints": [
+            "1FAF8",
             "1F3FF"
           ],
           "components": [
@@ -7121,7 +7442,7 @@
         {
           "emoji": "🤝🏻",
           "description": "handshake: light skin tone",
-          "version": "3.0",
+          "version": "14.0",
           "keywords": [
             "agreement",
             "hand",
@@ -7141,7 +7462,7 @@
         {
           "emoji": "🤝🏼",
           "description": "handshake: medium-light skin tone",
-          "version": "3.0",
+          "version": "14.0",
           "keywords": [
             "agreement",
             "hand",
@@ -7161,7 +7482,7 @@
         {
           "emoji": "🤝🏽",
           "description": "handshake: medium skin tone",
-          "version": "3.0",
+          "version": "14.0",
           "keywords": [
             "agreement",
             "hand",
@@ -7181,7 +7502,7 @@
         {
           "emoji": "🤝🏾",
           "description": "handshake: medium-dark skin tone",
-          "version": "3.0",
+          "version": "14.0",
           "keywords": [
             "agreement",
             "hand",
@@ -7201,7 +7522,7 @@
         {
           "emoji": "🤝🏿",
           "description": "handshake: dark skin tone",
-          "version": "3.0",
+          "version": "14.0",
           "keywords": [
             "agreement",
             "dark skin tone",
@@ -48565,6 +48886,44 @@
       "subgroup": "animal-mammal"
     },
     {
+      "emoji": "🫎",
+      "description": "moose",
+      "version": "15.0",
+      "keywords": [
+        "animal",
+        "antlers",
+        "elk",
+        "mammal",
+        "moose"
+      ],
+      "codePoints": [
+        "1FACE"
+      ],
+      "category": "animals-nature",
+      "group": "animals-nature",
+      "subgroup": "animal-mammal"
+    },
+    {
+      "emoji": "🫏",
+      "description": "donkey",
+      "version": "15.0",
+      "keywords": [
+        "animal",
+        "ass",
+        "burro",
+        "donkey",
+        "mammal",
+        "mule",
+        "stubborn"
+      ],
+      "codePoints": [
+        "1FACF"
+      ],
+      "category": "animals-nature",
+      "group": "animals-nature",
+      "subgroup": "animal-mammal"
+    },
+    {
       "emoji": "🐎",
       "description": "horse",
       "version": "0.6",
@@ -49212,7 +49571,6 @@
       "description": "kangaroo",
       "version": "11.0",
       "keywords": [
-        "Australia",
         "joey",
         "jump",
         "kangaroo",
@@ -49550,6 +49908,63 @@
       "subgroup": "animal-bird"
     },
     {
+      "emoji": "🪽",
+      "description": "wing",
+      "version": "15.0",
+      "keywords": [
+        "angelic",
+        "aviation",
+        "bird",
+        "flying",
+        "mythology",
+        "wing"
+      ],
+      "codePoints": [
+        "1FABD"
+      ],
+      "category": "animals-nature",
+      "group": "animals-nature",
+      "subgroup": "animal-bird"
+    },
+    {
+      "emoji": "🐦‍⬛",
+      "description": "black bird",
+      "version": "15.0",
+      "keywords": [
+        "bird",
+        "black",
+        "crow",
+        "raven",
+        "rook"
+      ],
+      "codePoints": [
+        "1F426",
+        "200D",
+        "2B1B"
+      ],
+      "category": "animals-nature",
+      "group": "animals-nature",
+      "subgroup": "animal-bird"
+    },
+    {
+      "emoji": "🪿",
+      "description": "goose",
+      "version": "15.0",
+      "keywords": [
+        "bird",
+        "fowl",
+        "goose",
+        "honk",
+        "silly"
+      ],
+      "codePoints": [
+        "1FABF"
+      ],
+      "category": "animals-nature",
+      "group": "animals-nature",
+      "subgroup": "animal-bird"
+    },
+    {
       "emoji": "🐸",
       "description": "frog",
       "version": "0.6",
@@ -49851,6 +50266,26 @@
       ],
       "codePoints": [
         "1FAB8"
+      ],
+      "category": "animals-nature",
+      "group": "animals-nature",
+      "subgroup": "animal-marine"
+    },
+    {
+      "emoji": "🪼",
+      "description": "jellyfish",
+      "version": "15.0",
+      "keywords": [
+        "burn",
+        "invertebrate",
+        "jelly",
+        "jellyfish",
+        "marine",
+        "ouch",
+        "stinger"
+      ],
+      "codePoints": [
+        "1FABC"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -50172,10 +50607,8 @@
         "Buddhism",
         "flower",
         "Hinduism",
-        "India",
         "lotus",
-        "purity",
-        "Vietnam"
+        "purity"
       ],
       "codePoints": [
         "1FAB7"
@@ -50286,6 +50719,25 @@
       ],
       "codePoints": [
         "1F337"
+      ],
+      "category": "animals-nature",
+      "group": "animals-nature",
+      "subgroup": "plant-flower"
+    },
+    {
+      "emoji": "🪻",
+      "description": "hyacinth",
+      "version": "15.0",
+      "keywords": [
+        "bluebonnet",
+        "flower",
+        "hyacinth",
+        "lavender",
+        "lupine",
+        "snapdragon"
+      ],
+      "codePoints": [
+        "1FABB"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -50528,6 +50980,21 @@
       ],
       "codePoints": [
         "1FABA"
+      ],
+      "category": "animals-nature",
+      "group": "animals-nature",
+      "subgroup": "plant-other"
+    },
+    {
+      "emoji": "🍄",
+      "description": "mushroom",
+      "version": "0.6",
+      "keywords": [
+        "mushroom",
+        "toadstool"
+      ],
+      "codePoints": [
+        "1F344"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -51030,21 +51497,6 @@
       "subgroup": "food-vegetable"
     },
     {
-      "emoji": "🍄",
-      "description": "mushroom",
-      "version": "0.6",
-      "keywords": [
-        "mushroom",
-        "toadstool"
-      ],
-      "codePoints": [
-        "1F344"
-      ],
-      "category": "food-drink",
-      "group": "food-drink",
-      "subgroup": "food-vegetable"
-    },
-    {
       "emoji": "🥜",
       "description": "peanuts",
       "version": "3.0",
@@ -51089,6 +51541,42 @@
       ],
       "codePoints": [
         "1F330"
+      ],
+      "category": "food-drink",
+      "group": "food-drink",
+      "subgroup": "food-vegetable"
+    },
+    {
+      "emoji": "🫚",
+      "description": "ginger root",
+      "version": "15.0",
+      "keywords": [
+        "beer",
+        "ginger root",
+        "root",
+        "spice"
+      ],
+      "codePoints": [
+        "1FADA"
+      ],
+      "category": "food-drink",
+      "group": "food-drink",
+      "subgroup": "food-vegetable"
+    },
+    {
+      "emoji": "🫛",
+      "description": "pea pod",
+      "version": "15.0",
+      "keywords": [
+        "beans",
+        "edamame",
+        "legume",
+        "pea",
+        "pod",
+        "vegetable"
+      ],
+      "codePoints": [
+        "1FADB"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -57287,6 +57775,26 @@
       "subgroup": "game"
     },
     {
+      "emoji": "🔫",
+      "description": "water pistol",
+      "version": "0.6",
+      "keywords": [
+        "gun",
+        "handgun",
+        "pistol",
+        "revolver",
+        "tool",
+        "water",
+        "weapon"
+      ],
+      "codePoints": [
+        "1F52B"
+      ],
+      "category": "activities-events",
+      "group": "activities",
+      "subgroup": "game"
+    },
+    {
       "emoji": "🎱",
       "description": "pool 8 ball",
       "version": "0.6",
@@ -57336,45 +57844,6 @@
       ],
       "codePoints": [
         "1FA84"
-      ],
-      "category": "activities-events",
-      "group": "activities",
-      "subgroup": "game"
-    },
-    {
-      "emoji": "🧿",
-      "description": "nazar amulet",
-      "version": "11.0",
-      "keywords": [
-        "bead",
-        "charm",
-        "evil-eye",
-        "nazar",
-        "nazar amulet",
-        "talisman"
-      ],
-      "codePoints": [
-        "1F9FF"
-      ],
-      "category": "objects",
-      "group": "activities",
-      "subgroup": "game"
-    },
-    {
-      "emoji": "🪬",
-      "description": "hamsa",
-      "version": "14.0",
-      "keywords": [
-        "amulet",
-        "Fatima",
-        "hamsa",
-        "hand",
-        "Mary",
-        "Miriam",
-        "protection"
-      ],
-      "codePoints": [
-        "1FAAC"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -58127,6 +58596,26 @@
       "subgroup": "clothing"
     },
     {
+      "emoji": "🪭",
+      "description": "folding hand fan",
+      "version": "15.0",
+      "keywords": [
+        "cooling",
+        "dance",
+        "fan",
+        "flutter",
+        "folding hand fan",
+        "hot",
+        "shy"
+      ],
+      "codePoints": [
+        "1FAAD"
+      ],
+      "category": "objects",
+      "group": "objects",
+      "subgroup": "clothing"
+    },
+    {
       "emoji": "👛",
       "description": "purse",
       "version": "0.6",
@@ -58365,6 +58854,23 @@
       ],
       "codePoints": [
         "1F462"
+      ],
+      "category": "objects",
+      "group": "objects",
+      "subgroup": "clothing"
+    },
+    {
+      "emoji": "🪮",
+      "description": "hair pick",
+      "version": "15.0",
+      "keywords": [
+        "Afro",
+        "comb",
+        "hair",
+        "pick"
+      ],
+      "codePoints": [
+        "1FAAE"
       ],
       "category": "objects",
       "group": "objects",
@@ -58992,6 +59498,44 @@
       ],
       "codePoints": [
         "1FA98"
+      ],
+      "category": "activities-events",
+      "group": "objects",
+      "subgroup": "musical-instrument"
+    },
+    {
+      "emoji": "🪇",
+      "description": "maracas",
+      "version": "15.0",
+      "keywords": [
+        "instrument",
+        "maracas",
+        "music",
+        "percussion",
+        "rattle",
+        "shake"
+      ],
+      "codePoints": [
+        "1FA87"
+      ],
+      "category": "activities-events",
+      "group": "objects",
+      "subgroup": "musical-instrument"
+    },
+    {
+      "emoji": "🪈",
+      "description": "flute",
+      "version": "15.0",
+      "keywords": [
+        "fife",
+        "flute",
+        "music",
+        "pipe",
+        "recorder",
+        "woodwind"
+      ],
+      "codePoints": [
+        "1FA88"
       ],
       "category": "activities-events",
       "group": "objects",
@@ -60982,22 +61526,17 @@
       "subgroup": "tool"
     },
     {
-      "emoji": "🔫",
-      "description": "water pistol",
+      "emoji": "💣",
+      "description": "bomb",
       "version": "0.6",
       "keywords": [
-        "gun",
-        "handgun",
-        "pistol",
-        "revolver",
-        "tool",
-        "water",
-        "weapon"
+        "bomb",
+        "comic"
       ],
       "codePoints": [
-        "1F52B"
+        "1F4A3"
       ],
-      "category": "activities-events",
+      "category": "objects",
       "group": "objects",
       "subgroup": "tool"
     },
@@ -61006,7 +61545,6 @@
       "description": "boomerang",
       "version": "13.0",
       "keywords": [
-        "australia",
         "boomerang",
         "rebound",
         "repercussion"
@@ -62020,6 +62558,45 @@
       "codePoints": [
         "26B1",
         "FE0F"
+      ],
+      "category": "objects",
+      "group": "objects",
+      "subgroup": "other-object"
+    },
+    {
+      "emoji": "🧿",
+      "description": "nazar amulet",
+      "version": "11.0",
+      "keywords": [
+        "bead",
+        "charm",
+        "evil-eye",
+        "nazar",
+        "nazar amulet",
+        "talisman"
+      ],
+      "codePoints": [
+        "1F9FF"
+      ],
+      "category": "objects",
+      "group": "objects",
+      "subgroup": "other-object"
+    },
+    {
+      "emoji": "🪬",
+      "description": "hamsa",
+      "version": "14.0",
+      "keywords": [
+        "amulet",
+        "Fatima",
+        "hamsa",
+        "hand",
+        "Mary",
+        "Miriam",
+        "protection"
+      ],
+      "codePoints": [
+        "1FAAC"
       ],
       "category": "objects",
       "group": "objects",
@@ -63103,6 +63680,22 @@
       "subgroup": "religion"
     },
     {
+      "emoji": "🪯",
+      "description": "khanda",
+      "version": "15.0",
+      "keywords": [
+        "khanda",
+        "religion",
+        "Sikh"
+      ],
+      "codePoints": [
+        "1FAAF"
+      ],
+      "category": "symbols",
+      "group": "symbols",
+      "subgroup": "religion"
+    },
+    {
       "emoji": "♈",
       "description": "Aries",
       "version": "0.6",
@@ -63504,7 +64097,6 @@
       "keywords": [
         "arrow",
         "button",
-        "red",
         "upwards button"
       ],
       "codePoints": [
@@ -63538,8 +64130,7 @@
         "arrow",
         "button",
         "down",
-        "downwards button",
-        "red"
+        "downwards button"
       ],
       "codePoints": [
         "1F53D"
@@ -63698,6 +64289,23 @@
       ],
       "codePoints": [
         "1F4F6"
+      ],
+      "category": "symbols",
+      "group": "symbols",
+      "subgroup": "av-symbol"
+    },
+    {
+      "emoji": "🛜",
+      "description": "wireless",
+      "version": "15.0",
+      "keywords": [
+        "computer",
+        "internet",
+        "network",
+        "wireless"
+      ],
+      "codePoints": [
+        "1F6DC"
       ],
       "category": "symbols",
       "group": "symbols",
