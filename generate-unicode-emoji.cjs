@@ -299,11 +299,14 @@ function saveResults() {
     }
   }
   for (const baseEmoji of results.emojis) {
+    if (!baseEmoji.description || !baseEmoji.keywords) {
+      process.stdout.write(`Missing annotations for emoji ${baseEmoji.emoji}\n`);
+    }
     csvResult +=
       `${baseEmoji.emoji},` +
-      `"${baseEmoji.description.replace(/"/g, '""')}",` +
+      `"${baseEmoji.description?.replace(/"/g, '""')}",` +
       `${baseEmoji.version},` +
-      `${baseEmoji.keywords.join('|')},` +
+      `${baseEmoji.keywords?.join('|')},` +
       `${baseEmoji.category},` +
       `${baseEmoji.group},` +
       `${baseEmoji.subgroup},,\n`;
