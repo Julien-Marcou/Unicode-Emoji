@@ -5,8 +5,8 @@ const htmlparser2 = require('htmlparser2');
 
 /* ------------- PARAMETERS ------------- */
 
-const unicodeEmojiVersion = '15.0';
-const unicodeCldrVersion = '42';
+const unicodeEmojiVersion = '15.1';
+const unicodeCldrVersion = '44-1';
 const unicodeCldrLocale = 'en';
 
 
@@ -51,6 +51,9 @@ const overrideCategoryForEmojis = {
   'animals-nature': ['🦀', '🦞', '🦐', '🦑', '🦪'],
   'objects': ['🧿', '🌂', '☂️', '💣'],
   'symbols': ['♠️', '♥️', '♦️', '♣️', '🕳️', '💬', '👁️‍🗨️', '🗨️', '🗯️', '💭', '🕛', '🕧', '🕐', '🕜', '🕑', '🕝', '🕒', '🕞', '🕓', '🕟', '🕔', '🕠', '🕕', '🕡', '🕖', '🕢', '🕗', '🕣', '🕘', '🕤', '🕙', '🕥', '🕚', '🕦', '🔇', '🔈', '🔉', '🔊', '🔕', '💹'],
+};
+const overrideSubgroupForEmojis = {
+  '👪': 'family',
 };
 
 
@@ -221,7 +224,7 @@ function processEmojiLine(line) {
       else {
         emoji.category = category;
         emoji.group = emojiGroup;
-        emoji.subgroup = emojiSubgroup;
+        emoji.subgroup = overrideSubgroupForEmojis[renderedEmoji] ?? emojiSubgroup;
         results.emojis.push(emoji);
         baseEmojis.set(description, emoji);
       }
