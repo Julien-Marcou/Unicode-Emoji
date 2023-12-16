@@ -755,6 +755,7 @@
       "keywords": [
         "face",
         "mouth",
+        "zip",
         "zipper",
         "zipper-mouth face"
       ],
@@ -991,6 +992,44 @@
       ],
       "codePoints": [
         "1FAE8"
+      ],
+      "category": "face-emotion",
+      "group": "smileys-emotion",
+      "subgroup": "face-neutral-skeptical"
+    },
+    {
+      "emoji": "🙂‍↔️",
+      "description": "head shaking horizontally",
+      "version": "15.1",
+      "keywords": [
+        "head shaking horizontally",
+        "no",
+        "shake"
+      ],
+      "codePoints": [
+        "1F642",
+        "200D",
+        "2194",
+        "FE0F"
+      ],
+      "category": "face-emotion",
+      "group": "smileys-emotion",
+      "subgroup": "face-neutral-skeptical"
+    },
+    {
+      "emoji": "🙂‍↕️",
+      "description": "head shaking vertically",
+      "version": "15.1",
+      "keywords": [
+        "head shaking vertically",
+        "nod",
+        "yes"
+      ],
+      "codePoints": [
+        "1F642",
+        "200D",
+        "2195",
+        "FE0F"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -17316,6 +17355,7 @@
       "version": "12.1",
       "keywords": [
         "instructor",
+        "lecturer",
         "professor",
         "teacher"
       ],
@@ -17334,6 +17374,7 @@
           "version": "12.1",
           "keywords": [
             "instructor",
+            "lecturer",
             "light skin tone",
             "professor",
             "teacher"
@@ -17354,6 +17395,7 @@
           "version": "12.1",
           "keywords": [
             "instructor",
+            "lecturer",
             "medium-light skin tone",
             "professor",
             "teacher"
@@ -17374,6 +17416,7 @@
           "version": "12.1",
           "keywords": [
             "instructor",
+            "lecturer",
             "medium skin tone",
             "professor",
             "teacher"
@@ -17394,6 +17437,7 @@
           "version": "12.1",
           "keywords": [
             "instructor",
+            "lecturer",
             "medium-dark skin tone",
             "professor",
             "teacher"
@@ -17415,6 +17459,7 @@
           "keywords": [
             "dark skin tone",
             "instructor",
+            "lecturer",
             "professor",
             "teacher"
           ],
@@ -17436,6 +17481,7 @@
       "version": "4.0",
       "keywords": [
         "instructor",
+        "lecturer",
         "man",
         "professor",
         "teacher"
@@ -17455,6 +17501,7 @@
           "version": "4.0",
           "keywords": [
             "instructor",
+            "lecturer",
             "light skin tone",
             "man",
             "professor",
@@ -17476,6 +17523,7 @@
           "version": "4.0",
           "keywords": [
             "instructor",
+            "lecturer",
             "man",
             "medium-light skin tone",
             "professor",
@@ -17497,6 +17545,7 @@
           "version": "4.0",
           "keywords": [
             "instructor",
+            "lecturer",
             "man",
             "medium skin tone",
             "professor",
@@ -17518,6 +17567,7 @@
           "version": "4.0",
           "keywords": [
             "instructor",
+            "lecturer",
             "man",
             "medium-dark skin tone",
             "professor",
@@ -17540,6 +17590,7 @@
           "keywords": [
             "dark skin tone",
             "instructor",
+            "lecturer",
             "man",
             "professor",
             "teacher"
@@ -17562,6 +17613,7 @@
       "version": "4.0",
       "keywords": [
         "instructor",
+        "lecturer",
         "professor",
         "teacher",
         "woman"
@@ -17581,6 +17633,7 @@
           "version": "4.0",
           "keywords": [
             "instructor",
+            "lecturer",
             "light skin tone",
             "professor",
             "teacher",
@@ -17602,6 +17655,7 @@
           "version": "4.0",
           "keywords": [
             "instructor",
+            "lecturer",
             "medium-light skin tone",
             "professor",
             "teacher",
@@ -17623,6 +17677,7 @@
           "version": "4.0",
           "keywords": [
             "instructor",
+            "lecturer",
             "medium skin tone",
             "professor",
             "teacher",
@@ -17644,6 +17699,7 @@
           "version": "4.0",
           "keywords": [
             "instructor",
+            "lecturer",
             "medium-dark skin tone",
             "professor",
             "teacher",
@@ -17666,6 +17722,7 @@
           "keywords": [
             "dark skin tone",
             "instructor",
+            "lecturer",
             "professor",
             "teacher",
             "woman"
@@ -17689,6 +17746,7 @@
       "keywords": [
         "judge",
         "justice",
+        "law",
         "scales"
       ],
       "codePoints": [
@@ -17708,6 +17766,7 @@
           "keywords": [
             "judge",
             "justice",
+            "law",
             "light skin tone",
             "scales"
           ],
@@ -17729,6 +17788,7 @@
           "keywords": [
             "judge",
             "justice",
+            "law",
             "medium-light skin tone",
             "scales"
           ],
@@ -17750,6 +17810,7 @@
           "keywords": [
             "judge",
             "justice",
+            "law",
             "medium skin tone",
             "scales"
           ],
@@ -17771,6 +17832,7 @@
           "keywords": [
             "judge",
             "justice",
+            "law",
             "medium-dark skin tone",
             "scales"
           ],
@@ -17793,6 +17855,7 @@
             "dark skin tone",
             "judge",
             "justice",
+            "law",
             "scales"
           ],
           "codePoints": [
@@ -17815,6 +17878,7 @@
       "keywords": [
         "judge",
         "justice",
+        "law",
         "man",
         "scales"
       ],
@@ -17835,6 +17899,7 @@
           "keywords": [
             "judge",
             "justice",
+            "law",
             "light skin tone",
             "man",
             "scales"
@@ -17857,6 +17922,7 @@
           "keywords": [
             "judge",
             "justice",
+            "law",
             "man",
             "medium-light skin tone",
             "scales"
@@ -17879,6 +17945,7 @@
           "keywords": [
             "judge",
             "justice",
+            "law",
             "man",
             "medium skin tone",
             "scales"
@@ -17901,6 +17968,7 @@
           "keywords": [
             "judge",
             "justice",
+            "law",
             "man",
             "medium-dark skin tone",
             "scales"
@@ -17924,6 +17992,7 @@
             "dark skin tone",
             "judge",
             "justice",
+            "law",
             "man",
             "scales"
           ],
@@ -17947,6 +18016,7 @@
       "keywords": [
         "judge",
         "justice",
+        "law",
         "scales",
         "woman"
       ],
@@ -17967,6 +18037,7 @@
           "keywords": [
             "judge",
             "justice",
+            "law",
             "light skin tone",
             "scales",
             "woman"
@@ -17989,6 +18060,7 @@
           "keywords": [
             "judge",
             "justice",
+            "law",
             "medium-light skin tone",
             "scales",
             "woman"
@@ -18011,6 +18083,7 @@
           "keywords": [
             "judge",
             "justice",
+            "law",
             "medium skin tone",
             "scales",
             "woman"
@@ -18033,6 +18106,7 @@
           "keywords": [
             "judge",
             "justice",
+            "law",
             "medium-dark skin tone",
             "scales",
             "woman"
@@ -18056,6 +18130,7 @@
             "dark skin tone",
             "judge",
             "justice",
+            "law",
             "scales",
             "woman"
           ],
@@ -22295,6 +22370,7 @@
       "description": "firefighter",
       "version": "12.1",
       "keywords": [
+        "fire",
         "firefighter",
         "firetruck"
       ],
@@ -22312,6 +22388,7 @@
           "description": "firefighter: light skin tone",
           "version": "12.1",
           "keywords": [
+            "fire",
             "firefighter",
             "firetruck",
             "light skin tone"
@@ -22331,6 +22408,7 @@
           "description": "firefighter: medium-light skin tone",
           "version": "12.1",
           "keywords": [
+            "fire",
             "firefighter",
             "firetruck",
             "medium-light skin tone"
@@ -22350,6 +22428,7 @@
           "description": "firefighter: medium skin tone",
           "version": "12.1",
           "keywords": [
+            "fire",
             "firefighter",
             "firetruck",
             "medium skin tone"
@@ -22369,6 +22448,7 @@
           "description": "firefighter: medium-dark skin tone",
           "version": "12.1",
           "keywords": [
+            "fire",
             "firefighter",
             "firetruck",
             "medium-dark skin tone"
@@ -22389,6 +22469,7 @@
           "version": "12.1",
           "keywords": [
             "dark skin tone",
+            "fire",
             "firefighter",
             "firetruck"
           ],
@@ -26826,8 +26907,7 @@
         "Christmas",
         "claus",
         "father",
-        "santa",
-        "Santa Claus"
+        "santa"
       ],
       "codePoints": [
         "1F385"
@@ -26952,8 +27032,7 @@
         "Christmas",
         "claus",
         "mother",
-        "Mrs.",
-        "Mrs. Claus"
+        "Mrs."
       ],
       "codePoints": [
         "1F936"
@@ -27075,7 +27154,7 @@
       "version": "13.0",
       "keywords": [
         "christmas",
-        "Claus",
+        "claus",
         "mx claus"
       ],
       "codePoints": [
@@ -27093,7 +27172,7 @@
           "version": "13.0",
           "keywords": [
             "christmas",
-            "Claus",
+            "claus",
             "light skin tone",
             "mx claus"
           ],
@@ -27113,7 +27192,7 @@
           "version": "13.0",
           "keywords": [
             "christmas",
-            "Claus",
+            "claus",
             "medium-light skin tone",
             "mx claus"
           ],
@@ -27133,7 +27212,7 @@
           "version": "13.0",
           "keywords": [
             "christmas",
-            "Claus",
+            "claus",
             "medium skin tone",
             "mx claus"
           ],
@@ -27153,7 +27232,7 @@
           "version": "13.0",
           "keywords": [
             "christmas",
-            "Claus",
+            "claus",
             "medium-dark skin tone",
             "mx claus"
           ],
@@ -27173,7 +27252,7 @@
           "version": "13.0",
           "keywords": [
             "christmas",
-            "Claus",
+            "claus",
             "dark skin tone",
             "mx claus"
           ],
@@ -31032,6 +31111,441 @@
       ]
     },
     {
+      "emoji": "🚶‍➡️",
+      "description": "person walking facing right",
+      "version": "15.1",
+      "keywords": [
+        "hike",
+        "person walking",
+        "person walking facing right",
+        "walk",
+        "walking"
+      ],
+      "codePoints": [
+        "1F6B6",
+        "200D",
+        "27A1",
+        "FE0F"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "🚶🏻‍➡️",
+          "description": "person walking facing right",
+          "version": "15.1",
+          "keywords": [
+            "hike",
+            "person walking",
+            "person walking facing right",
+            "walk",
+            "walking"
+          ],
+          "codePoints": [
+            "1F6B6",
+            "1F3FB",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🚶🏼‍➡️",
+          "description": "person walking facing right",
+          "version": "15.1",
+          "keywords": [
+            "hike",
+            "person walking",
+            "person walking facing right",
+            "walk",
+            "walking"
+          ],
+          "codePoints": [
+            "1F6B6",
+            "1F3FC",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🚶🏽‍➡️",
+          "description": "person walking facing right",
+          "version": "15.1",
+          "keywords": [
+            "hike",
+            "person walking",
+            "person walking facing right",
+            "walk",
+            "walking"
+          ],
+          "codePoints": [
+            "1F6B6",
+            "1F3FD",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🚶🏾‍➡️",
+          "description": "person walking facing right",
+          "version": "15.1",
+          "keywords": [
+            "hike",
+            "person walking",
+            "person walking facing right",
+            "walk",
+            "walking"
+          ],
+          "codePoints": [
+            "1F6B6",
+            "1F3FE",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🚶🏿‍➡️",
+          "description": "person walking facing right",
+          "version": "15.1",
+          "keywords": [
+            "hike",
+            "person walking",
+            "person walking facing right",
+            "walk",
+            "walking"
+          ],
+          "codePoints": [
+            "1F6B6",
+            "1F3FF",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏿"
+          ]
+        }
+      ]
+    },
+    {
+      "emoji": "🚶‍♀️‍➡️",
+      "description": "woman walking facing right",
+      "version": "15.1",
+      "keywords": [
+        "hike",
+        "walk",
+        "woman",
+        "woman walking",
+        "woman walking facing right"
+      ],
+      "codePoints": [
+        "1F6B6",
+        "200D",
+        "2640",
+        "FE0F",
+        "200D",
+        "27A1",
+        "FE0F"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "🚶🏻‍♀️‍➡️",
+          "description": "woman walking facing right",
+          "version": "15.1",
+          "keywords": [
+            "hike",
+            "walk",
+            "woman",
+            "woman walking",
+            "woman walking facing right"
+          ],
+          "codePoints": [
+            "1F6B6",
+            "1F3FB",
+            "200D",
+            "2640",
+            "FE0F",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🚶🏼‍♀️‍➡️",
+          "description": "woman walking facing right",
+          "version": "15.1",
+          "keywords": [
+            "hike",
+            "walk",
+            "woman",
+            "woman walking",
+            "woman walking facing right"
+          ],
+          "codePoints": [
+            "1F6B6",
+            "1F3FC",
+            "200D",
+            "2640",
+            "FE0F",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🚶🏽‍♀️‍➡️",
+          "description": "woman walking facing right",
+          "version": "15.1",
+          "keywords": [
+            "hike",
+            "walk",
+            "woman",
+            "woman walking",
+            "woman walking facing right"
+          ],
+          "codePoints": [
+            "1F6B6",
+            "1F3FD",
+            "200D",
+            "2640",
+            "FE0F",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🚶🏾‍♀️‍➡️",
+          "description": "woman walking facing right",
+          "version": "15.1",
+          "keywords": [
+            "hike",
+            "walk",
+            "woman",
+            "woman walking",
+            "woman walking facing right"
+          ],
+          "codePoints": [
+            "1F6B6",
+            "1F3FE",
+            "200D",
+            "2640",
+            "FE0F",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🚶🏿‍♀️‍➡️",
+          "description": "woman walking facing right",
+          "version": "15.1",
+          "keywords": [
+            "hike",
+            "walk",
+            "woman",
+            "woman walking",
+            "woman walking facing right"
+          ],
+          "codePoints": [
+            "1F6B6",
+            "1F3FF",
+            "200D",
+            "2640",
+            "FE0F",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏿"
+          ]
+        }
+      ]
+    },
+    {
+      "emoji": "🚶‍♂️‍➡️",
+      "description": "man walking facing right",
+      "version": "15.1",
+      "keywords": [
+        "hike",
+        "man",
+        "man walking",
+        "man walking facing right",
+        "walk"
+      ],
+      "codePoints": [
+        "1F6B6",
+        "200D",
+        "2642",
+        "FE0F",
+        "200D",
+        "27A1",
+        "FE0F"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "🚶🏻‍♂️‍➡️",
+          "description": "man walking facing right",
+          "version": "15.1",
+          "keywords": [
+            "hike",
+            "man",
+            "man walking",
+            "man walking facing right",
+            "walk"
+          ],
+          "codePoints": [
+            "1F6B6",
+            "1F3FB",
+            "200D",
+            "2642",
+            "FE0F",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🚶🏼‍♂️‍➡️",
+          "description": "man walking facing right",
+          "version": "15.1",
+          "keywords": [
+            "hike",
+            "man",
+            "man walking",
+            "man walking facing right",
+            "walk"
+          ],
+          "codePoints": [
+            "1F6B6",
+            "1F3FC",
+            "200D",
+            "2642",
+            "FE0F",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🚶🏽‍♂️‍➡️",
+          "description": "man walking facing right",
+          "version": "15.1",
+          "keywords": [
+            "hike",
+            "man",
+            "man walking",
+            "man walking facing right",
+            "walk"
+          ],
+          "codePoints": [
+            "1F6B6",
+            "1F3FD",
+            "200D",
+            "2642",
+            "FE0F",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🚶🏾‍♂️‍➡️",
+          "description": "man walking facing right",
+          "version": "15.1",
+          "keywords": [
+            "hike",
+            "man",
+            "man walking",
+            "man walking facing right",
+            "walk"
+          ],
+          "codePoints": [
+            "1F6B6",
+            "1F3FE",
+            "200D",
+            "2642",
+            "FE0F",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🚶🏿‍♂️‍➡️",
+          "description": "man walking facing right",
+          "version": "15.1",
+          "keywords": [
+            "hike",
+            "man",
+            "man walking",
+            "man walking facing right",
+            "walk"
+          ],
+          "codePoints": [
+            "1F6B6",
+            "1F3FF",
+            "200D",
+            "2642",
+            "FE0F",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏿"
+          ]
+        }
+      ]
+    },
+    {
       "emoji": "🧍",
       "description": "person standing",
       "version": "12.0",
@@ -31728,6 +32242,411 @@
       ]
     },
     {
+      "emoji": "🧎‍➡️",
+      "description": "person kneeling facing right",
+      "version": "15.1",
+      "keywords": [
+        "kneel",
+        "kneeling",
+        "person kneeling",
+        "person kneeling facing right"
+      ],
+      "codePoints": [
+        "1F9CE",
+        "200D",
+        "27A1",
+        "FE0F"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "🧎🏻‍➡️",
+          "description": "person kneeling facing right",
+          "version": "15.1",
+          "keywords": [
+            "kneel",
+            "kneeling",
+            "person kneeling",
+            "person kneeling facing right"
+          ],
+          "codePoints": [
+            "1F9CE",
+            "1F3FB",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🧎🏼‍➡️",
+          "description": "person kneeling facing right",
+          "version": "15.1",
+          "keywords": [
+            "kneel",
+            "kneeling",
+            "person kneeling",
+            "person kneeling facing right"
+          ],
+          "codePoints": [
+            "1F9CE",
+            "1F3FC",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🧎🏽‍➡️",
+          "description": "person kneeling facing right",
+          "version": "15.1",
+          "keywords": [
+            "kneel",
+            "kneeling",
+            "person kneeling",
+            "person kneeling facing right"
+          ],
+          "codePoints": [
+            "1F9CE",
+            "1F3FD",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🧎🏾‍➡️",
+          "description": "person kneeling facing right",
+          "version": "15.1",
+          "keywords": [
+            "kneel",
+            "kneeling",
+            "person kneeling",
+            "person kneeling facing right"
+          ],
+          "codePoints": [
+            "1F9CE",
+            "1F3FE",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🧎🏿‍➡️",
+          "description": "person kneeling facing right",
+          "version": "15.1",
+          "keywords": [
+            "kneel",
+            "kneeling",
+            "person kneeling",
+            "person kneeling facing right"
+          ],
+          "codePoints": [
+            "1F9CE",
+            "1F3FF",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏿"
+          ]
+        }
+      ]
+    },
+    {
+      "emoji": "🧎‍♀️‍➡️",
+      "description": "woman kneeling facing right",
+      "version": "15.1",
+      "keywords": [
+        "kneeling",
+        "woman",
+        "woman kneeling facing right"
+      ],
+      "codePoints": [
+        "1F9CE",
+        "200D",
+        "2640",
+        "FE0F",
+        "200D",
+        "27A1",
+        "FE0F"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "🧎🏻‍♀️‍➡️",
+          "description": "woman kneeling facing right",
+          "version": "15.1",
+          "keywords": [
+            "kneeling",
+            "woman",
+            "woman kneeling facing right"
+          ],
+          "codePoints": [
+            "1F9CE",
+            "1F3FB",
+            "200D",
+            "2640",
+            "FE0F",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🧎🏼‍♀️‍➡️",
+          "description": "woman kneeling facing right",
+          "version": "15.1",
+          "keywords": [
+            "kneeling",
+            "woman",
+            "woman kneeling facing right"
+          ],
+          "codePoints": [
+            "1F9CE",
+            "1F3FC",
+            "200D",
+            "2640",
+            "FE0F",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🧎🏽‍♀️‍➡️",
+          "description": "woman kneeling facing right",
+          "version": "15.1",
+          "keywords": [
+            "kneeling",
+            "woman",
+            "woman kneeling facing right"
+          ],
+          "codePoints": [
+            "1F9CE",
+            "1F3FD",
+            "200D",
+            "2640",
+            "FE0F",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🧎🏾‍♀️‍➡️",
+          "description": "woman kneeling facing right",
+          "version": "15.1",
+          "keywords": [
+            "kneeling",
+            "woman",
+            "woman kneeling facing right"
+          ],
+          "codePoints": [
+            "1F9CE",
+            "1F3FE",
+            "200D",
+            "2640",
+            "FE0F",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🧎🏿‍♀️‍➡️",
+          "description": "woman kneeling facing right",
+          "version": "15.1",
+          "keywords": [
+            "kneeling",
+            "woman",
+            "woman kneeling facing right"
+          ],
+          "codePoints": [
+            "1F9CE",
+            "1F3FF",
+            "200D",
+            "2640",
+            "FE0F",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏿"
+          ]
+        }
+      ]
+    },
+    {
+      "emoji": "🧎‍♂️‍➡️",
+      "description": "man kneeling facing right",
+      "version": "15.1",
+      "keywords": [
+        "kneeling",
+        "man",
+        "man kneeling facing right"
+      ],
+      "codePoints": [
+        "1F9CE",
+        "200D",
+        "2642",
+        "FE0F",
+        "200D",
+        "27A1",
+        "FE0F"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "🧎🏻‍♂️‍➡️",
+          "description": "man kneeling facing right",
+          "version": "15.1",
+          "keywords": [
+            "kneeling",
+            "man",
+            "man kneeling facing right"
+          ],
+          "codePoints": [
+            "1F9CE",
+            "1F3FB",
+            "200D",
+            "2642",
+            "FE0F",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🧎🏼‍♂️‍➡️",
+          "description": "man kneeling facing right",
+          "version": "15.1",
+          "keywords": [
+            "kneeling",
+            "man",
+            "man kneeling facing right"
+          ],
+          "codePoints": [
+            "1F9CE",
+            "1F3FC",
+            "200D",
+            "2642",
+            "FE0F",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🧎🏽‍♂️‍➡️",
+          "description": "man kneeling facing right",
+          "version": "15.1",
+          "keywords": [
+            "kneeling",
+            "man",
+            "man kneeling facing right"
+          ],
+          "codePoints": [
+            "1F9CE",
+            "1F3FD",
+            "200D",
+            "2642",
+            "FE0F",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🧎🏾‍♂️‍➡️",
+          "description": "man kneeling facing right",
+          "version": "15.1",
+          "keywords": [
+            "kneeling",
+            "man",
+            "man kneeling facing right"
+          ],
+          "codePoints": [
+            "1F9CE",
+            "1F3FE",
+            "200D",
+            "2642",
+            "FE0F",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🧎🏿‍♂️‍➡️",
+          "description": "man kneeling facing right",
+          "version": "15.1",
+          "keywords": [
+            "kneeling",
+            "man",
+            "man kneeling facing right"
+          ],
+          "codePoints": [
+            "1F9CE",
+            "1F3FF",
+            "200D",
+            "2642",
+            "FE0F",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏿"
+          ]
+        }
+      ]
+    },
+    {
       "emoji": "🧑‍🦯",
       "description": "person with white cane",
       "version": "12.1",
@@ -31840,6 +32759,145 @@
             "1F3FF",
             "200D",
             "1F9AF"
+          ],
+          "components": [
+            "🏿"
+          ]
+        }
+      ]
+    },
+    {
+      "emoji": "🧑‍🦯‍➡️",
+      "description": "person with white cane facing right",
+      "version": "15.1",
+      "keywords": [
+        "accessibility",
+        "blind",
+        "person with white cane",
+        "person with white cane facing right"
+      ],
+      "codePoints": [
+        "1F9D1",
+        "200D",
+        "1F9AF",
+        "200D",
+        "27A1",
+        "FE0F"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "🧑🏻‍🦯‍➡️",
+          "description": "person with white cane facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "blind",
+            "person with white cane",
+            "person with white cane facing right"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FB",
+            "200D",
+            "1F9AF",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🧑🏼‍🦯‍➡️",
+          "description": "person with white cane facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "blind",
+            "person with white cane",
+            "person with white cane facing right"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FC",
+            "200D",
+            "1F9AF",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🧑🏽‍🦯‍➡️",
+          "description": "person with white cane facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "blind",
+            "person with white cane",
+            "person with white cane facing right"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FD",
+            "200D",
+            "1F9AF",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🧑🏾‍🦯‍➡️",
+          "description": "person with white cane facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "blind",
+            "person with white cane",
+            "person with white cane facing right"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FE",
+            "200D",
+            "1F9AF",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🧑🏿‍🦯‍➡️",
+          "description": "person with white cane facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "blind",
+            "person with white cane",
+            "person with white cane facing right"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FF",
+            "200D",
+            "1F9AF",
+            "200D",
+            "27A1",
+            "FE0F"
           ],
           "components": [
             "🏿"
@@ -31974,6 +33032,151 @@
       ]
     },
     {
+      "emoji": "👨‍🦯‍➡️",
+      "description": "man with white cane facing right",
+      "version": "15.1",
+      "keywords": [
+        "accessibility",
+        "blind",
+        "man",
+        "man with white cane",
+        "man with white cane facing right"
+      ],
+      "codePoints": [
+        "1F468",
+        "200D",
+        "1F9AF",
+        "200D",
+        "27A1",
+        "FE0F"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "👨🏻‍🦯‍➡️",
+          "description": "man with white cane facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "blind",
+            "man",
+            "man with white cane",
+            "man with white cane facing right"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FB",
+            "200D",
+            "1F9AF",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👨🏼‍🦯‍➡️",
+          "description": "man with white cane facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "blind",
+            "man",
+            "man with white cane",
+            "man with white cane facing right"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FC",
+            "200D",
+            "1F9AF",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👨🏽‍🦯‍➡️",
+          "description": "man with white cane facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "blind",
+            "man",
+            "man with white cane",
+            "man with white cane facing right"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FD",
+            "200D",
+            "1F9AF",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👨🏾‍🦯‍➡️",
+          "description": "man with white cane facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "blind",
+            "man",
+            "man with white cane",
+            "man with white cane facing right"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FE",
+            "200D",
+            "1F9AF",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👨🏿‍🦯‍➡️",
+          "description": "man with white cane facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "blind",
+            "man",
+            "man with white cane",
+            "man with white cane facing right"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FF",
+            "200D",
+            "1F9AF",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏿"
+          ]
+        }
+      ]
+    },
+    {
       "emoji": "👩‍🦯",
       "description": "woman with white cane",
       "version": "12.0",
@@ -32100,6 +33303,151 @@
       ]
     },
     {
+      "emoji": "👩‍🦯‍➡️",
+      "description": "woman with white cane facing right",
+      "version": "15.1",
+      "keywords": [
+        "accessibility",
+        "blind",
+        "woman",
+        "woman with white cane",
+        "woman with white cane facing right"
+      ],
+      "codePoints": [
+        "1F469",
+        "200D",
+        "1F9AF",
+        "200D",
+        "27A1",
+        "FE0F"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "👩🏻‍🦯‍➡️",
+          "description": "woman with white cane facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "blind",
+            "woman",
+            "woman with white cane",
+            "woman with white cane facing right"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FB",
+            "200D",
+            "1F9AF",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👩🏼‍🦯‍➡️",
+          "description": "woman with white cane facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "blind",
+            "woman",
+            "woman with white cane",
+            "woman with white cane facing right"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FC",
+            "200D",
+            "1F9AF",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👩🏽‍🦯‍➡️",
+          "description": "woman with white cane facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "blind",
+            "woman",
+            "woman with white cane",
+            "woman with white cane facing right"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FD",
+            "200D",
+            "1F9AF",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👩🏾‍🦯‍➡️",
+          "description": "woman with white cane facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "blind",
+            "woman",
+            "woman with white cane",
+            "woman with white cane facing right"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FE",
+            "200D",
+            "1F9AF",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👩🏿‍🦯‍➡️",
+          "description": "woman with white cane facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "blind",
+            "woman",
+            "woman with white cane",
+            "woman with white cane facing right"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FF",
+            "200D",
+            "1F9AF",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏿"
+          ]
+        }
+      ]
+    },
+    {
       "emoji": "🧑‍🦼",
       "description": "person in motorized wheelchair",
       "version": "12.1",
@@ -32212,6 +33560,145 @@
             "1F3FF",
             "200D",
             "1F9BC"
+          ],
+          "components": [
+            "🏿"
+          ]
+        }
+      ]
+    },
+    {
+      "emoji": "🧑‍🦼‍➡️",
+      "description": "person in motorized wheelchair facing right",
+      "version": "15.1",
+      "keywords": [
+        "accessibility",
+        "person in motorized wheelchair",
+        "person in motorized wheelchair facing right",
+        "wheelchair"
+      ],
+      "codePoints": [
+        "1F9D1",
+        "200D",
+        "1F9BC",
+        "200D",
+        "27A1",
+        "FE0F"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "🧑🏻‍🦼‍➡️",
+          "description": "person in motorized wheelchair facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "person in motorized wheelchair",
+            "person in motorized wheelchair facing right",
+            "wheelchair"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FB",
+            "200D",
+            "1F9BC",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🧑🏼‍🦼‍➡️",
+          "description": "person in motorized wheelchair facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "person in motorized wheelchair",
+            "person in motorized wheelchair facing right",
+            "wheelchair"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FC",
+            "200D",
+            "1F9BC",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🧑🏽‍🦼‍➡️",
+          "description": "person in motorized wheelchair facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "person in motorized wheelchair",
+            "person in motorized wheelchair facing right",
+            "wheelchair"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FD",
+            "200D",
+            "1F9BC",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🧑🏾‍🦼‍➡️",
+          "description": "person in motorized wheelchair facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "person in motorized wheelchair",
+            "person in motorized wheelchair facing right",
+            "wheelchair"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FE",
+            "200D",
+            "1F9BC",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🧑🏿‍🦼‍➡️",
+          "description": "person in motorized wheelchair facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "person in motorized wheelchair",
+            "person in motorized wheelchair facing right",
+            "wheelchair"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FF",
+            "200D",
+            "1F9BC",
+            "200D",
+            "27A1",
+            "FE0F"
           ],
           "components": [
             "🏿"
@@ -32346,6 +33833,151 @@
       ]
     },
     {
+      "emoji": "👨‍🦼‍➡️",
+      "description": "man in motorized wheelchair facing right",
+      "version": "15.1",
+      "keywords": [
+        "accessibility",
+        "man",
+        "man in motorized wheelchair",
+        "man in motorized wheelchair facing right",
+        "wheelchair"
+      ],
+      "codePoints": [
+        "1F468",
+        "200D",
+        "1F9BC",
+        "200D",
+        "27A1",
+        "FE0F"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "👨🏻‍🦼‍➡️",
+          "description": "man in motorized wheelchair facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "man",
+            "man in motorized wheelchair",
+            "man in motorized wheelchair facing right",
+            "wheelchair"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FB",
+            "200D",
+            "1F9BC",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👨🏼‍🦼‍➡️",
+          "description": "man in motorized wheelchair facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "man",
+            "man in motorized wheelchair",
+            "man in motorized wheelchair facing right",
+            "wheelchair"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FC",
+            "200D",
+            "1F9BC",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👨🏽‍🦼‍➡️",
+          "description": "man in motorized wheelchair facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "man",
+            "man in motorized wheelchair",
+            "man in motorized wheelchair facing right",
+            "wheelchair"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FD",
+            "200D",
+            "1F9BC",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👨🏾‍🦼‍➡️",
+          "description": "man in motorized wheelchair facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "man",
+            "man in motorized wheelchair",
+            "man in motorized wheelchair facing right",
+            "wheelchair"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FE",
+            "200D",
+            "1F9BC",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👨🏿‍🦼‍➡️",
+          "description": "man in motorized wheelchair facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "man",
+            "man in motorized wheelchair",
+            "man in motorized wheelchair facing right",
+            "wheelchair"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FF",
+            "200D",
+            "1F9BC",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏿"
+          ]
+        }
+      ]
+    },
+    {
       "emoji": "👩‍🦼",
       "description": "woman in motorized wheelchair",
       "version": "12.0",
@@ -32472,6 +34104,151 @@
       ]
     },
     {
+      "emoji": "👩‍🦼‍➡️",
+      "description": "woman in motorized wheelchair facing right",
+      "version": "15.1",
+      "keywords": [
+        "accessibility",
+        "wheelchair",
+        "woman",
+        "woman in motorized wheelchair",
+        "woman in motorized wheelchair facing right"
+      ],
+      "codePoints": [
+        "1F469",
+        "200D",
+        "1F9BC",
+        "200D",
+        "27A1",
+        "FE0F"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "👩🏻‍🦼‍➡️",
+          "description": "woman in motorized wheelchair facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "wheelchair",
+            "woman",
+            "woman in motorized wheelchair",
+            "woman in motorized wheelchair facing right"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FB",
+            "200D",
+            "1F9BC",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👩🏼‍🦼‍➡️",
+          "description": "woman in motorized wheelchair facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "wheelchair",
+            "woman",
+            "woman in motorized wheelchair",
+            "woman in motorized wheelchair facing right"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FC",
+            "200D",
+            "1F9BC",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👩🏽‍🦼‍➡️",
+          "description": "woman in motorized wheelchair facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "wheelchair",
+            "woman",
+            "woman in motorized wheelchair",
+            "woman in motorized wheelchair facing right"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FD",
+            "200D",
+            "1F9BC",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👩🏾‍🦼‍➡️",
+          "description": "woman in motorized wheelchair facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "wheelchair",
+            "woman",
+            "woman in motorized wheelchair",
+            "woman in motorized wheelchair facing right"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FE",
+            "200D",
+            "1F9BC",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👩🏿‍🦼‍➡️",
+          "description": "woman in motorized wheelchair facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "wheelchair",
+            "woman",
+            "woman in motorized wheelchair",
+            "woman in motorized wheelchair facing right"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FF",
+            "200D",
+            "1F9BC",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏿"
+          ]
+        }
+      ]
+    },
+    {
       "emoji": "🧑‍🦽",
       "description": "person in manual wheelchair",
       "version": "12.1",
@@ -32584,6 +34361,145 @@
             "1F3FF",
             "200D",
             "1F9BD"
+          ],
+          "components": [
+            "🏿"
+          ]
+        }
+      ]
+    },
+    {
+      "emoji": "🧑‍🦽‍➡️",
+      "description": "person in manual wheelchair facing right",
+      "version": "15.1",
+      "keywords": [
+        "accessibility",
+        "person in manual wheelchair",
+        "person in manual wheelchair facing right",
+        "wheelchair"
+      ],
+      "codePoints": [
+        "1F9D1",
+        "200D",
+        "1F9BD",
+        "200D",
+        "27A1",
+        "FE0F"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "🧑🏻‍🦽‍➡️",
+          "description": "person in manual wheelchair facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "person in manual wheelchair",
+            "person in manual wheelchair facing right",
+            "wheelchair"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FB",
+            "200D",
+            "1F9BD",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🧑🏼‍🦽‍➡️",
+          "description": "person in manual wheelchair facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "person in manual wheelchair",
+            "person in manual wheelchair facing right",
+            "wheelchair"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FC",
+            "200D",
+            "1F9BD",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🧑🏽‍🦽‍➡️",
+          "description": "person in manual wheelchair facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "person in manual wheelchair",
+            "person in manual wheelchair facing right",
+            "wheelchair"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FD",
+            "200D",
+            "1F9BD",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🧑🏾‍🦽‍➡️",
+          "description": "person in manual wheelchair facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "person in manual wheelchair",
+            "person in manual wheelchair facing right",
+            "wheelchair"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FE",
+            "200D",
+            "1F9BD",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🧑🏿‍🦽‍➡️",
+          "description": "person in manual wheelchair facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "person in manual wheelchair",
+            "person in manual wheelchair facing right",
+            "wheelchair"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FF",
+            "200D",
+            "1F9BD",
+            "200D",
+            "27A1",
+            "FE0F"
           ],
           "components": [
             "🏿"
@@ -32718,6 +34634,151 @@
       ]
     },
     {
+      "emoji": "👨‍🦽‍➡️",
+      "description": "man in manual wheelchair facing right",
+      "version": "15.1",
+      "keywords": [
+        "accessibility",
+        "man",
+        "man in manual wheelchair",
+        "man in manual wheelchair facing right",
+        "wheelchair"
+      ],
+      "codePoints": [
+        "1F468",
+        "200D",
+        "1F9BD",
+        "200D",
+        "27A1",
+        "FE0F"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "👨🏻‍🦽‍➡️",
+          "description": "man in manual wheelchair facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "man",
+            "man in manual wheelchair",
+            "man in manual wheelchair facing right",
+            "wheelchair"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FB",
+            "200D",
+            "1F9BD",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👨🏼‍🦽‍➡️",
+          "description": "man in manual wheelchair facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "man",
+            "man in manual wheelchair",
+            "man in manual wheelchair facing right",
+            "wheelchair"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FC",
+            "200D",
+            "1F9BD",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👨🏽‍🦽‍➡️",
+          "description": "man in manual wheelchair facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "man",
+            "man in manual wheelchair",
+            "man in manual wheelchair facing right",
+            "wheelchair"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FD",
+            "200D",
+            "1F9BD",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👨🏾‍🦽‍➡️",
+          "description": "man in manual wheelchair facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "man",
+            "man in manual wheelchair",
+            "man in manual wheelchair facing right",
+            "wheelchair"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FE",
+            "200D",
+            "1F9BD",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👨🏿‍🦽‍➡️",
+          "description": "man in manual wheelchair facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "man",
+            "man in manual wheelchair",
+            "man in manual wheelchair facing right",
+            "wheelchair"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FF",
+            "200D",
+            "1F9BD",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏿"
+          ]
+        }
+      ]
+    },
+    {
       "emoji": "👩‍🦽",
       "description": "woman in manual wheelchair",
       "version": "12.0",
@@ -32836,6 +34897,151 @@
             "1F3FF",
             "200D",
             "1F9BD"
+          ],
+          "components": [
+            "🏿"
+          ]
+        }
+      ]
+    },
+    {
+      "emoji": "👩‍🦽‍➡️",
+      "description": "woman in manual wheelchair facing right",
+      "version": "15.1",
+      "keywords": [
+        "accessibility",
+        "wheelchair",
+        "woman",
+        "woman in manual wheelchair",
+        "woman in manual wheelchair facing right"
+      ],
+      "codePoints": [
+        "1F469",
+        "200D",
+        "1F9BD",
+        "200D",
+        "27A1",
+        "FE0F"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "👩🏻‍🦽‍➡️",
+          "description": "woman in manual wheelchair facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "wheelchair",
+            "woman",
+            "woman in manual wheelchair",
+            "woman in manual wheelchair facing right"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FB",
+            "200D",
+            "1F9BD",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👩🏼‍🦽‍➡️",
+          "description": "woman in manual wheelchair facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "wheelchair",
+            "woman",
+            "woman in manual wheelchair",
+            "woman in manual wheelchair facing right"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FC",
+            "200D",
+            "1F9BD",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👩🏽‍🦽‍➡️",
+          "description": "woman in manual wheelchair facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "wheelchair",
+            "woman",
+            "woman in manual wheelchair",
+            "woman in manual wheelchair facing right"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FD",
+            "200D",
+            "1F9BD",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👩🏾‍🦽‍➡️",
+          "description": "woman in manual wheelchair facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "wheelchair",
+            "woman",
+            "woman in manual wheelchair",
+            "woman in manual wheelchair facing right"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FE",
+            "200D",
+            "1F9BD",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👩🏿‍🦽‍➡️",
+          "description": "woman in manual wheelchair facing right",
+          "version": "15.1",
+          "keywords": [
+            "accessibility",
+            "wheelchair",
+            "woman",
+            "woman in manual wheelchair",
+            "woman in manual wheelchair facing right"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FF",
+            "200D",
+            "1F9BD",
+            "200D",
+            "27A1",
+            "FE0F"
           ],
           "components": [
             "🏿"
@@ -33207,6 +35413,435 @@
             "1F3FF",
             "200D",
             "2640",
+            "FE0F"
+          ],
+          "components": [
+            "🏿"
+          ]
+        }
+      ]
+    },
+    {
+      "emoji": "🏃‍➡️",
+      "description": "person running facing right",
+      "version": "15.1",
+      "keywords": [
+        "marathon",
+        "person running",
+        "person running facing right",
+        "running"
+      ],
+      "codePoints": [
+        "1F3C3",
+        "200D",
+        "27A1",
+        "FE0F"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "🏃🏻‍➡️",
+          "description": "person running facing right",
+          "version": "15.1",
+          "keywords": [
+            "marathon",
+            "person running",
+            "person running facing right",
+            "running"
+          ],
+          "codePoints": [
+            "1F3C3",
+            "1F3FB",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🏃🏼‍➡️",
+          "description": "person running facing right",
+          "version": "15.1",
+          "keywords": [
+            "marathon",
+            "person running",
+            "person running facing right",
+            "running"
+          ],
+          "codePoints": [
+            "1F3C3",
+            "1F3FC",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🏃🏽‍➡️",
+          "description": "person running facing right",
+          "version": "15.1",
+          "keywords": [
+            "marathon",
+            "person running",
+            "person running facing right",
+            "running"
+          ],
+          "codePoints": [
+            "1F3C3",
+            "1F3FD",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🏃🏾‍➡️",
+          "description": "person running facing right",
+          "version": "15.1",
+          "keywords": [
+            "marathon",
+            "person running",
+            "person running facing right",
+            "running"
+          ],
+          "codePoints": [
+            "1F3C3",
+            "1F3FE",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🏃🏿‍➡️",
+          "description": "person running facing right",
+          "version": "15.1",
+          "keywords": [
+            "marathon",
+            "person running",
+            "person running facing right",
+            "running"
+          ],
+          "codePoints": [
+            "1F3C3",
+            "1F3FF",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏿"
+          ]
+        }
+      ]
+    },
+    {
+      "emoji": "🏃‍♀️‍➡️",
+      "description": "woman running facing right",
+      "version": "15.1",
+      "keywords": [
+        "marathon",
+        "racing",
+        "running",
+        "woman",
+        "woman running facing right"
+      ],
+      "codePoints": [
+        "1F3C3",
+        "200D",
+        "2640",
+        "FE0F",
+        "200D",
+        "27A1",
+        "FE0F"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "🏃🏻‍♀️‍➡️",
+          "description": "woman running facing right",
+          "version": "15.1",
+          "keywords": [
+            "marathon",
+            "racing",
+            "running",
+            "woman",
+            "woman running facing right"
+          ],
+          "codePoints": [
+            "1F3C3",
+            "1F3FB",
+            "200D",
+            "2640",
+            "FE0F",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🏃🏼‍♀️‍➡️",
+          "description": "woman running facing right",
+          "version": "15.1",
+          "keywords": [
+            "marathon",
+            "racing",
+            "running",
+            "woman",
+            "woman running facing right"
+          ],
+          "codePoints": [
+            "1F3C3",
+            "1F3FC",
+            "200D",
+            "2640",
+            "FE0F",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🏃🏽‍♀️‍➡️",
+          "description": "woman running facing right",
+          "version": "15.1",
+          "keywords": [
+            "marathon",
+            "racing",
+            "running",
+            "woman",
+            "woman running facing right"
+          ],
+          "codePoints": [
+            "1F3C3",
+            "1F3FD",
+            "200D",
+            "2640",
+            "FE0F",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🏃🏾‍♀️‍➡️",
+          "description": "woman running facing right",
+          "version": "15.1",
+          "keywords": [
+            "marathon",
+            "racing",
+            "running",
+            "woman",
+            "woman running facing right"
+          ],
+          "codePoints": [
+            "1F3C3",
+            "1F3FE",
+            "200D",
+            "2640",
+            "FE0F",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🏃🏿‍♀️‍➡️",
+          "description": "woman running facing right",
+          "version": "15.1",
+          "keywords": [
+            "marathon",
+            "racing",
+            "running",
+            "woman",
+            "woman running facing right"
+          ],
+          "codePoints": [
+            "1F3C3",
+            "1F3FF",
+            "200D",
+            "2640",
+            "FE0F",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏿"
+          ]
+        }
+      ]
+    },
+    {
+      "emoji": "🏃‍♂️‍➡️",
+      "description": "man running facing right",
+      "version": "15.1",
+      "keywords": [
+        "man",
+        "man running facing right",
+        "marathon",
+        "racing",
+        "running"
+      ],
+      "codePoints": [
+        "1F3C3",
+        "200D",
+        "2642",
+        "FE0F",
+        "200D",
+        "27A1",
+        "FE0F"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "🏃🏻‍♂️‍➡️",
+          "description": "man running facing right",
+          "version": "15.1",
+          "keywords": [
+            "man",
+            "man running facing right",
+            "marathon",
+            "racing",
+            "running"
+          ],
+          "codePoints": [
+            "1F3C3",
+            "1F3FB",
+            "200D",
+            "2642",
+            "FE0F",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🏃🏼‍♂️‍➡️",
+          "description": "man running facing right",
+          "version": "15.1",
+          "keywords": [
+            "man",
+            "man running facing right",
+            "marathon",
+            "racing",
+            "running"
+          ],
+          "codePoints": [
+            "1F3C3",
+            "1F3FC",
+            "200D",
+            "2642",
+            "FE0F",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🏃🏽‍♂️‍➡️",
+          "description": "man running facing right",
+          "version": "15.1",
+          "keywords": [
+            "man",
+            "man running facing right",
+            "marathon",
+            "racing",
+            "running"
+          ],
+          "codePoints": [
+            "1F3C3",
+            "1F3FD",
+            "200D",
+            "2642",
+            "FE0F",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🏃🏾‍♂️‍➡️",
+          "description": "man running facing right",
+          "version": "15.1",
+          "keywords": [
+            "man",
+            "man running facing right",
+            "marathon",
+            "racing",
+            "running"
+          ],
+          "codePoints": [
+            "1F3C3",
+            "1F3FE",
+            "200D",
+            "2642",
+            "FE0F",
+            "200D",
+            "27A1",
+            "FE0F"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🏃🏿‍♂️‍➡️",
+          "description": "man running facing right",
+          "version": "15.1",
+          "keywords": [
+            "man",
+            "man running facing right",
+            "marathon",
+            "racing",
+            "running"
+          ],
+          "codePoints": [
+            "1F3C3",
+            "1F3FF",
+            "200D",
+            "2642",
+            "FE0F",
+            "200D",
+            "27A1",
             "FE0F"
           ],
           "components": [
@@ -47982,6 +50617,75 @@
       ]
     },
     {
+      "emoji": "🗣️",
+      "description": "speaking head",
+      "version": "0.7",
+      "keywords": [
+        "face",
+        "head",
+        "silhouette",
+        "speak",
+        "speaking"
+      ],
+      "codePoints": [
+        "1F5E3",
+        "FE0F"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-symbol"
+    },
+    {
+      "emoji": "👤",
+      "description": "bust in silhouette",
+      "version": "0.6",
+      "keywords": [
+        "bust",
+        "bust in silhouette",
+        "silhouette"
+      ],
+      "codePoints": [
+        "1F464"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-symbol"
+    },
+    {
+      "emoji": "👥",
+      "description": "busts in silhouette",
+      "version": "1.0",
+      "keywords": [
+        "bust",
+        "busts in silhouette",
+        "silhouette"
+      ],
+      "codePoints": [
+        "1F465"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-symbol"
+    },
+    {
+      "emoji": "🫂",
+      "description": "people hugging",
+      "version": "13.0",
+      "keywords": [
+        "goodbye",
+        "hello",
+        "hug",
+        "people hugging",
+        "thanks"
+      ],
+      "codePoints": [
+        "1FAC2"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-symbol"
+    },
+    {
       "emoji": "👪",
       "description": "family",
       "version": "0.6",
@@ -47995,6 +50699,74 @@
       "group": "people-body",
       "subgroup": "family",
       "variations": [
+        {
+          "emoji": "🧑‍🧑‍🧒",
+          "description": "family: adult, adult, child",
+          "version": "15.1",
+          "keywords": [
+            "adult",
+            "child",
+            "family"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "200D",
+            "1F9D1",
+            "200D",
+            "1F9D2"
+          ]
+        },
+        {
+          "emoji": "🧑‍🧑‍🧒‍🧒",
+          "description": "family: adult, adult, child, child",
+          "version": "15.1",
+          "keywords": [
+            "adult",
+            "child",
+            "family"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "200D",
+            "1F9D1",
+            "200D",
+            "1F9D2",
+            "200D",
+            "1F9D2"
+          ]
+        },
+        {
+          "emoji": "🧑‍🧒",
+          "description": "family: adult, child",
+          "version": "15.1",
+          "keywords": [
+            "adult",
+            "child",
+            "family"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "200D",
+            "1F9D2"
+          ]
+        },
+        {
+          "emoji": "🧑‍🧒‍🧒",
+          "description": "family: adult, child, child",
+          "version": "15.1",
+          "keywords": [
+            "adult",
+            "child",
+            "family"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "200D",
+            "1F9D2",
+            "200D",
+            "1F9D2"
+          ]
+        },
         {
           "emoji": "👨‍👩‍👦",
           "description": "family: man, woman, boy",
@@ -48441,75 +51213,6 @@
           ]
         }
       ]
-    },
-    {
-      "emoji": "🗣️",
-      "description": "speaking head",
-      "version": "0.7",
-      "keywords": [
-        "face",
-        "head",
-        "silhouette",
-        "speak",
-        "speaking"
-      ],
-      "codePoints": [
-        "1F5E3",
-        "FE0F"
-      ],
-      "category": "person-people",
-      "group": "people-body",
-      "subgroup": "person-symbol"
-    },
-    {
-      "emoji": "👤",
-      "description": "bust in silhouette",
-      "version": "0.6",
-      "keywords": [
-        "bust",
-        "bust in silhouette",
-        "silhouette"
-      ],
-      "codePoints": [
-        "1F464"
-      ],
-      "category": "person-people",
-      "group": "people-body",
-      "subgroup": "person-symbol"
-    },
-    {
-      "emoji": "👥",
-      "description": "busts in silhouette",
-      "version": "1.0",
-      "keywords": [
-        "bust",
-        "busts in silhouette",
-        "silhouette"
-      ],
-      "codePoints": [
-        "1F465"
-      ],
-      "category": "person-people",
-      "group": "people-body",
-      "subgroup": "person-symbol"
-    },
-    {
-      "emoji": "🫂",
-      "description": "people hugging",
-      "version": "13.0",
-      "keywords": [
-        "goodbye",
-        "hello",
-        "hug",
-        "people hugging",
-        "thanks"
-      ],
-      "codePoints": [
-        "1FAC2"
-      ],
-      "category": "person-people",
-      "group": "people-body",
-      "subgroup": "person-symbol"
     },
     {
       "emoji": "👣",
@@ -49918,6 +52621,26 @@
       "subgroup": "animal-bird"
     },
     {
+      "emoji": "🐦‍🔥",
+      "description": "phoenix",
+      "version": "15.1",
+      "keywords": [
+        "fantasy",
+        "firebird",
+        "phoenix",
+        "rebirth",
+        "reincarnation"
+      ],
+      "codePoints": [
+        "1F426",
+        "200D",
+        "1F525"
+      ],
+      "category": "animals-nature",
+      "group": "animals-nature",
+      "subgroup": "animal-bird"
+    },
+    {
       "emoji": "🐸",
       "description": "frog",
       "version": "0.6",
@@ -50423,7 +53146,6 @@
       "description": "scorpion",
       "version": "1.0",
       "keywords": [
-        "scorpio",
         "Scorpio",
         "scorpion",
         "zodiac"
@@ -51032,6 +53754,25 @@
       "subgroup": "food-fruit"
     },
     {
+      "emoji": "🍋‍🟩",
+      "description": "lime",
+      "version": "15.1",
+      "keywords": [
+        "citrus",
+        "fruit",
+        "lime",
+        "tropical"
+      ],
+      "codePoints": [
+        "1F34B",
+        "200D",
+        "1F7E9"
+      ],
+      "category": "food-drink",
+      "group": "food-drink",
+      "subgroup": "food-fruit"
+    },
+    {
       "emoji": "🍌",
       "description": "banana",
       "version": "0.6",
@@ -51530,6 +54271,26 @@
       ],
       "codePoints": [
         "1FADB"
+      ],
+      "category": "food-drink",
+      "group": "food-drink",
+      "subgroup": "food-vegetable"
+    },
+    {
+      "emoji": "🍄‍🟫",
+      "description": "brown mushroom",
+      "version": "15.1",
+      "keywords": [
+        "brown mushroom",
+        "food",
+        "fungus",
+        "nature",
+        "vegetable"
+      ],
+      "codePoints": [
+        "1F344",
+        "200D",
+        "1F7EB"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -54165,7 +56926,8 @@
       "keywords": [
         "amusement park",
         "play",
-        "playground slide"
+        "playground slide",
+        "theme park"
       ],
       "codePoints": [
         "1F6DD"
@@ -54181,6 +56943,7 @@
       "keywords": [
         "amusement park",
         "ferris",
+        "theme park",
         "wheel"
       ],
       "codePoints": [
@@ -54197,7 +56960,8 @@
       "keywords": [
         "amusement park",
         "coaster",
-        "roller"
+        "roller",
+        "theme park"
       ],
       "codePoints": [
         "1F3A2"
@@ -59792,7 +62556,6 @@
         "Blu-ray",
         "computer",
         "disk",
-        "dvd",
         "DVD",
         "optical"
       ],
@@ -61691,6 +64454,28 @@
       ],
       "codePoints": [
         "1F517"
+      ],
+      "category": "objects",
+      "group": "objects",
+      "subgroup": "tool"
+    },
+    {
+      "emoji": "⛓️‍💥",
+      "description": "broken chain",
+      "version": "15.1",
+      "keywords": [
+        "break",
+        "breaking",
+        "broken chain",
+        "chain",
+        "cuffs",
+        "freedom"
+      ],
+      "codePoints": [
+        "26D3",
+        "FE0F",
+        "200D",
+        "1F4A5"
       ],
       "category": "objects",
       "group": "objects",
@@ -64255,6 +67040,8 @@
         "computer",
         "internet",
         "network",
+        "wi-fi",
+        "wifi",
         "wireless"
       ],
       "codePoints": [
@@ -64986,6 +67773,7 @@
       "description": "keycap: #",
       "version": "0.6",
       "keywords": [
+        "#",
         "keycap"
       ],
       "codePoints": [
@@ -65002,6 +67790,7 @@
       "description": "keycap: *",
       "version": "2.0",
       "keywords": [
+        "*",
         "keycap"
       ],
       "codePoints": [
@@ -65018,6 +67807,7 @@
       "description": "keycap: 0",
       "version": "0.6",
       "keywords": [
+        "0",
         "keycap"
       ],
       "codePoints": [
@@ -65034,6 +67824,7 @@
       "description": "keycap: 1",
       "version": "0.6",
       "keywords": [
+        "1",
         "keycap"
       ],
       "codePoints": [
@@ -65050,6 +67841,7 @@
       "description": "keycap: 2",
       "version": "0.6",
       "keywords": [
+        "2",
         "keycap"
       ],
       "codePoints": [
@@ -65066,6 +67858,7 @@
       "description": "keycap: 3",
       "version": "0.6",
       "keywords": [
+        "3",
         "keycap"
       ],
       "codePoints": [
@@ -65082,6 +67875,7 @@
       "description": "keycap: 4",
       "version": "0.6",
       "keywords": [
+        "4",
         "keycap"
       ],
       "codePoints": [
@@ -65098,6 +67892,7 @@
       "description": "keycap: 5",
       "version": "0.6",
       "keywords": [
+        "5",
         "keycap"
       ],
       "codePoints": [
@@ -65114,6 +67909,7 @@
       "description": "keycap: 6",
       "version": "0.6",
       "keywords": [
+        "6",
         "keycap"
       ],
       "codePoints": [
@@ -65130,6 +67926,7 @@
       "description": "keycap: 7",
       "version": "0.6",
       "keywords": [
+        "7",
         "keycap"
       ],
       "codePoints": [
@@ -65146,6 +67943,7 @@
       "description": "keycap: 8",
       "version": "0.6",
       "keywords": [
+        "8",
         "keycap"
       ],
       "codePoints": [
@@ -65162,6 +67960,7 @@
       "description": "keycap: 9",
       "version": "0.6",
       "keywords": [
+        "9",
         "keycap"
       ],
       "codePoints": [
@@ -65178,6 +67977,7 @@
       "description": "keycap: 10",
       "version": "0.6",
       "keywords": [
+        "10",
         "keycap"
       ],
       "codePoints": [
@@ -66549,6 +69349,7 @@
       "description": "flag: Ascension Island",
       "version": "2.0",
       "keywords": [
+        "Ascension Island",
         "flag"
       ],
       "codePoints": [
@@ -66564,6 +69365,7 @@
       "description": "flag: Andorra",
       "version": "2.0",
       "keywords": [
+        "Andorra",
         "flag"
       ],
       "codePoints": [
@@ -66579,7 +69381,8 @@
       "description": "flag: United Arab Emirates",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "United Arab Emirates"
       ],
       "codePoints": [
         "1F1E6",
@@ -66594,6 +69397,7 @@
       "description": "flag: Afghanistan",
       "version": "2.0",
       "keywords": [
+        "Afghanistan",
         "flag"
       ],
       "codePoints": [
@@ -66609,6 +69413,7 @@
       "description": "flag: Antigua & Barbuda",
       "version": "2.0",
       "keywords": [
+        "Antigua & Barbuda",
         "flag"
       ],
       "codePoints": [
@@ -66624,6 +69429,7 @@
       "description": "flag: Anguilla",
       "version": "2.0",
       "keywords": [
+        "Anguilla",
         "flag"
       ],
       "codePoints": [
@@ -66639,6 +69445,7 @@
       "description": "flag: Albania",
       "version": "2.0",
       "keywords": [
+        "Albania",
         "flag"
       ],
       "codePoints": [
@@ -66654,6 +69461,7 @@
       "description": "flag: Armenia",
       "version": "2.0",
       "keywords": [
+        "Armenia",
         "flag"
       ],
       "codePoints": [
@@ -66669,6 +69477,7 @@
       "description": "flag: Angola",
       "version": "2.0",
       "keywords": [
+        "Angola",
         "flag"
       ],
       "codePoints": [
@@ -66684,6 +69493,7 @@
       "description": "flag: Antarctica",
       "version": "2.0",
       "keywords": [
+        "Antarctica",
         "flag"
       ],
       "codePoints": [
@@ -66699,6 +69509,7 @@
       "description": "flag: Argentina",
       "version": "2.0",
       "keywords": [
+        "Argentina",
         "flag"
       ],
       "codePoints": [
@@ -66714,6 +69525,7 @@
       "description": "flag: American Samoa",
       "version": "2.0",
       "keywords": [
+        "American Samoa",
         "flag"
       ],
       "codePoints": [
@@ -66729,6 +69541,7 @@
       "description": "flag: Austria",
       "version": "2.0",
       "keywords": [
+        "Austria",
         "flag"
       ],
       "codePoints": [
@@ -66744,6 +69557,7 @@
       "description": "flag: Australia",
       "version": "2.0",
       "keywords": [
+        "Australia",
         "flag"
       ],
       "codePoints": [
@@ -66759,6 +69573,7 @@
       "description": "flag: Aruba",
       "version": "2.0",
       "keywords": [
+        "Aruba",
         "flag"
       ],
       "codePoints": [
@@ -66774,6 +69589,7 @@
       "description": "flag: Åland Islands",
       "version": "2.0",
       "keywords": [
+        "Åland Islands",
         "flag"
       ],
       "codePoints": [
@@ -66789,6 +69605,7 @@
       "description": "flag: Azerbaijan",
       "version": "2.0",
       "keywords": [
+        "Azerbaijan",
         "flag"
       ],
       "codePoints": [
@@ -66804,6 +69621,7 @@
       "description": "flag: Bosnia & Herzegovina",
       "version": "2.0",
       "keywords": [
+        "Bosnia & Herzegovina",
         "flag"
       ],
       "codePoints": [
@@ -66819,6 +69637,7 @@
       "description": "flag: Barbados",
       "version": "2.0",
       "keywords": [
+        "Barbados",
         "flag"
       ],
       "codePoints": [
@@ -66834,6 +69653,7 @@
       "description": "flag: Bangladesh",
       "version": "2.0",
       "keywords": [
+        "Bangladesh",
         "flag"
       ],
       "codePoints": [
@@ -66849,6 +69669,7 @@
       "description": "flag: Belgium",
       "version": "2.0",
       "keywords": [
+        "Belgium",
         "flag"
       ],
       "codePoints": [
@@ -66864,6 +69685,7 @@
       "description": "flag: Burkina Faso",
       "version": "2.0",
       "keywords": [
+        "Burkina Faso",
         "flag"
       ],
       "codePoints": [
@@ -66879,6 +69701,7 @@
       "description": "flag: Bulgaria",
       "version": "2.0",
       "keywords": [
+        "Bulgaria",
         "flag"
       ],
       "codePoints": [
@@ -66894,6 +69717,7 @@
       "description": "flag: Bahrain",
       "version": "2.0",
       "keywords": [
+        "Bahrain",
         "flag"
       ],
       "codePoints": [
@@ -66909,6 +69733,7 @@
       "description": "flag: Burundi",
       "version": "2.0",
       "keywords": [
+        "Burundi",
         "flag"
       ],
       "codePoints": [
@@ -66924,6 +69749,7 @@
       "description": "flag: Benin",
       "version": "2.0",
       "keywords": [
+        "Benin",
         "flag"
       ],
       "codePoints": [
@@ -66939,7 +69765,8 @@
       "description": "flag: St. Barthélemy",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "St. Barthélemy"
       ],
       "codePoints": [
         "1F1E7",
@@ -66954,6 +69781,7 @@
       "description": "flag: Bermuda",
       "version": "2.0",
       "keywords": [
+        "Bermuda",
         "flag"
       ],
       "codePoints": [
@@ -66969,6 +69797,7 @@
       "description": "flag: Brunei",
       "version": "2.0",
       "keywords": [
+        "Brunei",
         "flag"
       ],
       "codePoints": [
@@ -66984,6 +69813,7 @@
       "description": "flag: Bolivia",
       "version": "2.0",
       "keywords": [
+        "Bolivia",
         "flag"
       ],
       "codePoints": [
@@ -66999,6 +69829,7 @@
       "description": "flag: Caribbean Netherlands",
       "version": "2.0",
       "keywords": [
+        "Caribbean Netherlands",
         "flag"
       ],
       "codePoints": [
@@ -67014,6 +69845,7 @@
       "description": "flag: Brazil",
       "version": "2.0",
       "keywords": [
+        "Brazil",
         "flag"
       ],
       "codePoints": [
@@ -67029,6 +69861,7 @@
       "description": "flag: Bahamas",
       "version": "2.0",
       "keywords": [
+        "Bahamas",
         "flag"
       ],
       "codePoints": [
@@ -67044,6 +69877,7 @@
       "description": "flag: Bhutan",
       "version": "2.0",
       "keywords": [
+        "Bhutan",
         "flag"
       ],
       "codePoints": [
@@ -67059,6 +69893,7 @@
       "description": "flag: Bouvet Island",
       "version": "2.0",
       "keywords": [
+        "Bouvet Island",
         "flag"
       ],
       "codePoints": [
@@ -67074,6 +69909,7 @@
       "description": "flag: Botswana",
       "version": "2.0",
       "keywords": [
+        "Botswana",
         "flag"
       ],
       "codePoints": [
@@ -67089,6 +69925,7 @@
       "description": "flag: Belarus",
       "version": "2.0",
       "keywords": [
+        "Belarus",
         "flag"
       ],
       "codePoints": [
@@ -67104,6 +69941,7 @@
       "description": "flag: Belize",
       "version": "2.0",
       "keywords": [
+        "Belize",
         "flag"
       ],
       "codePoints": [
@@ -67119,6 +69957,7 @@
       "description": "flag: Canada",
       "version": "2.0",
       "keywords": [
+        "Canada",
         "flag"
       ],
       "codePoints": [
@@ -67134,6 +69973,7 @@
       "description": "flag: Cocos (Keeling) Islands",
       "version": "2.0",
       "keywords": [
+        "Cocos (Keeling) Islands",
         "flag"
       ],
       "codePoints": [
@@ -67149,6 +69989,7 @@
       "description": "flag: Congo - Kinshasa",
       "version": "2.0",
       "keywords": [
+        "Congo - Kinshasa",
         "flag"
       ],
       "codePoints": [
@@ -67164,6 +70005,7 @@
       "description": "flag: Central African Republic",
       "version": "2.0",
       "keywords": [
+        "Central African Republic",
         "flag"
       ],
       "codePoints": [
@@ -67179,6 +70021,7 @@
       "description": "flag: Congo - Brazzaville",
       "version": "2.0",
       "keywords": [
+        "Congo - Brazzaville",
         "flag"
       ],
       "codePoints": [
@@ -67194,7 +70037,8 @@
       "description": "flag: Switzerland",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Switzerland"
       ],
       "codePoints": [
         "1F1E8",
@@ -67209,6 +70053,7 @@
       "description": "flag: Côte d’Ivoire",
       "version": "2.0",
       "keywords": [
+        "Côte d’Ivoire",
         "flag"
       ],
       "codePoints": [
@@ -67224,6 +70069,7 @@
       "description": "flag: Cook Islands",
       "version": "2.0",
       "keywords": [
+        "Cook Islands",
         "flag"
       ],
       "codePoints": [
@@ -67239,6 +70085,7 @@
       "description": "flag: Chile",
       "version": "2.0",
       "keywords": [
+        "Chile",
         "flag"
       ],
       "codePoints": [
@@ -67254,6 +70101,7 @@
       "description": "flag: Cameroon",
       "version": "2.0",
       "keywords": [
+        "Cameroon",
         "flag"
       ],
       "codePoints": [
@@ -67269,6 +70117,7 @@
       "description": "flag: China",
       "version": "0.6",
       "keywords": [
+        "China",
         "flag"
       ],
       "codePoints": [
@@ -67284,6 +70133,7 @@
       "description": "flag: Colombia",
       "version": "2.0",
       "keywords": [
+        "Colombia",
         "flag"
       ],
       "codePoints": [
@@ -67299,6 +70149,7 @@
       "description": "flag: Clipperton Island",
       "version": "2.0",
       "keywords": [
+        "Clipperton Island",
         "flag"
       ],
       "codePoints": [
@@ -67314,6 +70165,7 @@
       "description": "flag: Costa Rica",
       "version": "2.0",
       "keywords": [
+        "Costa Rica",
         "flag"
       ],
       "codePoints": [
@@ -67329,6 +70181,7 @@
       "description": "flag: Cuba",
       "version": "2.0",
       "keywords": [
+        "Cuba",
         "flag"
       ],
       "codePoints": [
@@ -67344,6 +70197,7 @@
       "description": "flag: Cape Verde",
       "version": "2.0",
       "keywords": [
+        "Cape Verde",
         "flag"
       ],
       "codePoints": [
@@ -67359,6 +70213,7 @@
       "description": "flag: Curaçao",
       "version": "2.0",
       "keywords": [
+        "Curaçao",
         "flag"
       ],
       "codePoints": [
@@ -67374,6 +70229,7 @@
       "description": "flag: Christmas Island",
       "version": "2.0",
       "keywords": [
+        "Christmas Island",
         "flag"
       ],
       "codePoints": [
@@ -67389,6 +70245,7 @@
       "description": "flag: Cyprus",
       "version": "2.0",
       "keywords": [
+        "Cyprus",
         "flag"
       ],
       "codePoints": [
@@ -67404,6 +70261,7 @@
       "description": "flag: Czechia",
       "version": "2.0",
       "keywords": [
+        "Czechia",
         "flag"
       ],
       "codePoints": [
@@ -67419,7 +70277,8 @@
       "description": "flag: Germany",
       "version": "0.6",
       "keywords": [
-        "flag"
+        "flag",
+        "Germany"
       ],
       "codePoints": [
         "1F1E9",
@@ -67434,6 +70293,7 @@
       "description": "flag: Diego Garcia",
       "version": "2.0",
       "keywords": [
+        "Diego Garcia",
         "flag"
       ],
       "codePoints": [
@@ -67449,6 +70309,7 @@
       "description": "flag: Djibouti",
       "version": "2.0",
       "keywords": [
+        "Djibouti",
         "flag"
       ],
       "codePoints": [
@@ -67464,6 +70325,7 @@
       "description": "flag: Denmark",
       "version": "2.0",
       "keywords": [
+        "Denmark",
         "flag"
       ],
       "codePoints": [
@@ -67479,6 +70341,7 @@
       "description": "flag: Dominica",
       "version": "2.0",
       "keywords": [
+        "Dominica",
         "flag"
       ],
       "codePoints": [
@@ -67494,6 +70357,7 @@
       "description": "flag: Dominican Republic",
       "version": "2.0",
       "keywords": [
+        "Dominican Republic",
         "flag"
       ],
       "codePoints": [
@@ -67509,6 +70373,7 @@
       "description": "flag: Algeria",
       "version": "2.0",
       "keywords": [
+        "Algeria",
         "flag"
       ],
       "codePoints": [
@@ -67524,6 +70389,7 @@
       "description": "flag: Ceuta & Melilla",
       "version": "2.0",
       "keywords": [
+        "Ceuta & Melilla",
         "flag"
       ],
       "codePoints": [
@@ -67539,6 +70405,7 @@
       "description": "flag: Ecuador",
       "version": "2.0",
       "keywords": [
+        "Ecuador",
         "flag"
       ],
       "codePoints": [
@@ -67554,6 +70421,7 @@
       "description": "flag: Estonia",
       "version": "2.0",
       "keywords": [
+        "Estonia",
         "flag"
       ],
       "codePoints": [
@@ -67569,6 +70437,7 @@
       "description": "flag: Egypt",
       "version": "2.0",
       "keywords": [
+        "Egypt",
         "flag"
       ],
       "codePoints": [
@@ -67584,7 +70453,8 @@
       "description": "flag: Western Sahara",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Western Sahara"
       ],
       "codePoints": [
         "1F1EA",
@@ -67599,6 +70469,7 @@
       "description": "flag: Eritrea",
       "version": "2.0",
       "keywords": [
+        "Eritrea",
         "flag"
       ],
       "codePoints": [
@@ -67614,7 +70485,8 @@
       "description": "flag: Spain",
       "version": "0.6",
       "keywords": [
-        "flag"
+        "flag",
+        "Spain"
       ],
       "codePoints": [
         "1F1EA",
@@ -67629,6 +70501,7 @@
       "description": "flag: Ethiopia",
       "version": "2.0",
       "keywords": [
+        "Ethiopia",
         "flag"
       ],
       "codePoints": [
@@ -67644,6 +70517,7 @@
       "description": "flag: European Union",
       "version": "2.0",
       "keywords": [
+        "European Union",
         "flag"
       ],
       "codePoints": [
@@ -67659,6 +70533,7 @@
       "description": "flag: Finland",
       "version": "2.0",
       "keywords": [
+        "Finland",
         "flag"
       ],
       "codePoints": [
@@ -67674,6 +70549,7 @@
       "description": "flag: Fiji",
       "version": "2.0",
       "keywords": [
+        "Fiji",
         "flag"
       ],
       "codePoints": [
@@ -67689,6 +70565,7 @@
       "description": "flag: Falkland Islands",
       "version": "2.0",
       "keywords": [
+        "Falkland Islands",
         "flag"
       ],
       "codePoints": [
@@ -67704,7 +70581,8 @@
       "description": "flag: Micronesia",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Micronesia"
       ],
       "codePoints": [
         "1F1EB",
@@ -67719,6 +70597,7 @@
       "description": "flag: Faroe Islands",
       "version": "2.0",
       "keywords": [
+        "Faroe Islands",
         "flag"
       ],
       "codePoints": [
@@ -67734,7 +70613,8 @@
       "description": "flag: France",
       "version": "0.6",
       "keywords": [
-        "flag"
+        "flag",
+        "France"
       ],
       "codePoints": [
         "1F1EB",
@@ -67749,7 +70629,8 @@
       "description": "flag: Gabon",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Gabon"
       ],
       "codePoints": [
         "1F1EC",
@@ -67764,7 +70645,8 @@
       "description": "flag: United Kingdom",
       "version": "0.6",
       "keywords": [
-        "flag"
+        "flag",
+        "United Kingdom"
       ],
       "codePoints": [
         "1F1EC",
@@ -67779,7 +70661,8 @@
       "description": "flag: Grenada",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Grenada"
       ],
       "codePoints": [
         "1F1EC",
@@ -67794,7 +70677,8 @@
       "description": "flag: Georgia",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Georgia"
       ],
       "codePoints": [
         "1F1EC",
@@ -67809,7 +70693,8 @@
       "description": "flag: French Guiana",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "French Guiana"
       ],
       "codePoints": [
         "1F1EC",
@@ -67824,7 +70709,8 @@
       "description": "flag: Guernsey",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Guernsey"
       ],
       "codePoints": [
         "1F1EC",
@@ -67839,7 +70725,8 @@
       "description": "flag: Ghana",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Ghana"
       ],
       "codePoints": [
         "1F1EC",
@@ -67854,7 +70741,8 @@
       "description": "flag: Gibraltar",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Gibraltar"
       ],
       "codePoints": [
         "1F1EC",
@@ -67869,7 +70757,8 @@
       "description": "flag: Greenland",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Greenland"
       ],
       "codePoints": [
         "1F1EC",
@@ -67884,7 +70773,8 @@
       "description": "flag: Gambia",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Gambia"
       ],
       "codePoints": [
         "1F1EC",
@@ -67899,7 +70789,8 @@
       "description": "flag: Guinea",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Guinea"
       ],
       "codePoints": [
         "1F1EC",
@@ -67914,7 +70805,8 @@
       "description": "flag: Guadeloupe",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Guadeloupe"
       ],
       "codePoints": [
         "1F1EC",
@@ -67929,6 +70821,7 @@
       "description": "flag: Equatorial Guinea",
       "version": "2.0",
       "keywords": [
+        "Equatorial Guinea",
         "flag"
       ],
       "codePoints": [
@@ -67944,7 +70837,8 @@
       "description": "flag: Greece",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Greece"
       ],
       "codePoints": [
         "1F1EC",
@@ -67959,7 +70853,8 @@
       "description": "flag: South Georgia & South Sandwich Islands",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "South Georgia & South Sandwich Islands"
       ],
       "codePoints": [
         "1F1EC",
@@ -67974,7 +70869,8 @@
       "description": "flag: Guatemala",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Guatemala"
       ],
       "codePoints": [
         "1F1EC",
@@ -67989,7 +70885,8 @@
       "description": "flag: Guam",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Guam"
       ],
       "codePoints": [
         "1F1EC",
@@ -68004,7 +70901,8 @@
       "description": "flag: Guinea-Bissau",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Guinea-Bissau"
       ],
       "codePoints": [
         "1F1EC",
@@ -68019,7 +70917,8 @@
       "description": "flag: Guyana",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Guyana"
       ],
       "codePoints": [
         "1F1EC",
@@ -68034,7 +70933,8 @@
       "description": "flag: Hong Kong SAR China",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Hong Kong SAR China"
       ],
       "codePoints": [
         "1F1ED",
@@ -68049,7 +70949,8 @@
       "description": "flag: Heard & McDonald Islands",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Heard & McDonald Islands"
       ],
       "codePoints": [
         "1F1ED",
@@ -68064,7 +70965,8 @@
       "description": "flag: Honduras",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Honduras"
       ],
       "codePoints": [
         "1F1ED",
@@ -68079,6 +70981,7 @@
       "description": "flag: Croatia",
       "version": "2.0",
       "keywords": [
+        "Croatia",
         "flag"
       ],
       "codePoints": [
@@ -68094,7 +70997,8 @@
       "description": "flag: Haiti",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Haiti"
       ],
       "codePoints": [
         "1F1ED",
@@ -68109,7 +71013,8 @@
       "description": "flag: Hungary",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Hungary"
       ],
       "codePoints": [
         "1F1ED",
@@ -68124,6 +71029,7 @@
       "description": "flag: Canary Islands",
       "version": "2.0",
       "keywords": [
+        "Canary Islands",
         "flag"
       ],
       "codePoints": [
@@ -68139,7 +71045,8 @@
       "description": "flag: Indonesia",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Indonesia"
       ],
       "codePoints": [
         "1F1EE",
@@ -68154,7 +71061,8 @@
       "description": "flag: Ireland",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Ireland"
       ],
       "codePoints": [
         "1F1EE",
@@ -68169,7 +71077,8 @@
       "description": "flag: Israel",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Israel"
       ],
       "codePoints": [
         "1F1EE",
@@ -68184,7 +71093,8 @@
       "description": "flag: Isle of Man",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Isle of Man"
       ],
       "codePoints": [
         "1F1EE",
@@ -68199,7 +71109,8 @@
       "description": "flag: India",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "India"
       ],
       "codePoints": [
         "1F1EE",
@@ -68214,6 +71125,7 @@
       "description": "flag: British Indian Ocean Territory",
       "version": "2.0",
       "keywords": [
+        "British Indian Ocean Territory",
         "flag"
       ],
       "codePoints": [
@@ -68229,7 +71141,8 @@
       "description": "flag: Iraq",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Iraq"
       ],
       "codePoints": [
         "1F1EE",
@@ -68244,7 +71157,8 @@
       "description": "flag: Iran",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Iran"
       ],
       "codePoints": [
         "1F1EE",
@@ -68259,7 +71173,8 @@
       "description": "flag: Iceland",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Iceland"
       ],
       "codePoints": [
         "1F1EE",
@@ -68274,7 +71189,8 @@
       "description": "flag: Italy",
       "version": "0.6",
       "keywords": [
-        "flag"
+        "flag",
+        "Italy"
       ],
       "codePoints": [
         "1F1EE",
@@ -68289,7 +71205,8 @@
       "description": "flag: Jersey",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Jersey"
       ],
       "codePoints": [
         "1F1EF",
@@ -68304,7 +71221,8 @@
       "description": "flag: Jamaica",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Jamaica"
       ],
       "codePoints": [
         "1F1EF",
@@ -68319,7 +71237,8 @@
       "description": "flag: Jordan",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Jordan"
       ],
       "codePoints": [
         "1F1EF",
@@ -68334,7 +71253,8 @@
       "description": "flag: Japan",
       "version": "0.6",
       "keywords": [
-        "flag"
+        "flag",
+        "Japan"
       ],
       "codePoints": [
         "1F1EF",
@@ -68349,7 +71269,8 @@
       "description": "flag: Kenya",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Kenya"
       ],
       "codePoints": [
         "1F1F0",
@@ -68364,7 +71285,8 @@
       "description": "flag: Kyrgyzstan",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Kyrgyzstan"
       ],
       "codePoints": [
         "1F1F0",
@@ -68379,6 +71301,7 @@
       "description": "flag: Cambodia",
       "version": "2.0",
       "keywords": [
+        "Cambodia",
         "flag"
       ],
       "codePoints": [
@@ -68394,7 +71317,8 @@
       "description": "flag: Kiribati",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Kiribati"
       ],
       "codePoints": [
         "1F1F0",
@@ -68409,6 +71333,7 @@
       "description": "flag: Comoros",
       "version": "2.0",
       "keywords": [
+        "Comoros",
         "flag"
       ],
       "codePoints": [
@@ -68424,7 +71349,8 @@
       "description": "flag: St. Kitts & Nevis",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "St. Kitts & Nevis"
       ],
       "codePoints": [
         "1F1F0",
@@ -68439,7 +71365,8 @@
       "description": "flag: North Korea",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "North Korea"
       ],
       "codePoints": [
         "1F1F0",
@@ -68454,7 +71381,8 @@
       "description": "flag: South Korea",
       "version": "0.6",
       "keywords": [
-        "flag"
+        "flag",
+        "South Korea"
       ],
       "codePoints": [
         "1F1F0",
@@ -68469,7 +71397,8 @@
       "description": "flag: Kuwait",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Kuwait"
       ],
       "codePoints": [
         "1F1F0",
@@ -68484,6 +71413,7 @@
       "description": "flag: Cayman Islands",
       "version": "2.0",
       "keywords": [
+        "Cayman Islands",
         "flag"
       ],
       "codePoints": [
@@ -68499,7 +71429,8 @@
       "description": "flag: Kazakhstan",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Kazakhstan"
       ],
       "codePoints": [
         "1F1F0",
@@ -68514,7 +71445,8 @@
       "description": "flag: Laos",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Laos"
       ],
       "codePoints": [
         "1F1F1",
@@ -68529,7 +71461,8 @@
       "description": "flag: Lebanon",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Lebanon"
       ],
       "codePoints": [
         "1F1F1",
@@ -68544,7 +71477,8 @@
       "description": "flag: St. Lucia",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "St. Lucia"
       ],
       "codePoints": [
         "1F1F1",
@@ -68559,7 +71493,8 @@
       "description": "flag: Liechtenstein",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Liechtenstein"
       ],
       "codePoints": [
         "1F1F1",
@@ -68574,7 +71509,8 @@
       "description": "flag: Sri Lanka",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Sri Lanka"
       ],
       "codePoints": [
         "1F1F1",
@@ -68589,7 +71525,8 @@
       "description": "flag: Liberia",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Liberia"
       ],
       "codePoints": [
         "1F1F1",
@@ -68604,7 +71541,8 @@
       "description": "flag: Lesotho",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Lesotho"
       ],
       "codePoints": [
         "1F1F1",
@@ -68619,7 +71557,8 @@
       "description": "flag: Lithuania",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Lithuania"
       ],
       "codePoints": [
         "1F1F1",
@@ -68634,7 +71573,8 @@
       "description": "flag: Luxembourg",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Luxembourg"
       ],
       "codePoints": [
         "1F1F1",
@@ -68649,7 +71589,8 @@
       "description": "flag: Latvia",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Latvia"
       ],
       "codePoints": [
         "1F1F1",
@@ -68664,7 +71605,8 @@
       "description": "flag: Libya",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Libya"
       ],
       "codePoints": [
         "1F1F1",
@@ -68679,7 +71621,8 @@
       "description": "flag: Morocco",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Morocco"
       ],
       "codePoints": [
         "1F1F2",
@@ -68694,7 +71637,8 @@
       "description": "flag: Monaco",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Monaco"
       ],
       "codePoints": [
         "1F1F2",
@@ -68709,7 +71653,8 @@
       "description": "flag: Moldova",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Moldova"
       ],
       "codePoints": [
         "1F1F2",
@@ -68724,7 +71669,8 @@
       "description": "flag: Montenegro",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Montenegro"
       ],
       "codePoints": [
         "1F1F2",
@@ -68739,7 +71685,8 @@
       "description": "flag: St. Martin",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "St. Martin"
       ],
       "codePoints": [
         "1F1F2",
@@ -68754,7 +71701,8 @@
       "description": "flag: Madagascar",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Madagascar"
       ],
       "codePoints": [
         "1F1F2",
@@ -68769,7 +71717,8 @@
       "description": "flag: Marshall Islands",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Marshall Islands"
       ],
       "codePoints": [
         "1F1F2",
@@ -68784,7 +71733,8 @@
       "description": "flag: North Macedonia",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "North Macedonia"
       ],
       "codePoints": [
         "1F1F2",
@@ -68799,7 +71749,8 @@
       "description": "flag: Mali",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Mali"
       ],
       "codePoints": [
         "1F1F2",
@@ -68814,7 +71765,8 @@
       "description": "flag: Myanmar (Burma)",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Myanmar (Burma)"
       ],
       "codePoints": [
         "1F1F2",
@@ -68829,7 +71781,8 @@
       "description": "flag: Mongolia",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Mongolia"
       ],
       "codePoints": [
         "1F1F2",
@@ -68844,7 +71797,8 @@
       "description": "flag: Macao SAR China",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Macao SAR China"
       ],
       "codePoints": [
         "1F1F2",
@@ -68859,7 +71813,8 @@
       "description": "flag: Northern Mariana Islands",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Northern Mariana Islands"
       ],
       "codePoints": [
         "1F1F2",
@@ -68874,7 +71829,8 @@
       "description": "flag: Martinique",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Martinique"
       ],
       "codePoints": [
         "1F1F2",
@@ -68889,7 +71845,8 @@
       "description": "flag: Mauritania",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Mauritania"
       ],
       "codePoints": [
         "1F1F2",
@@ -68904,7 +71861,8 @@
       "description": "flag: Montserrat",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Montserrat"
       ],
       "codePoints": [
         "1F1F2",
@@ -68919,7 +71877,8 @@
       "description": "flag: Malta",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Malta"
       ],
       "codePoints": [
         "1F1F2",
@@ -68934,7 +71893,8 @@
       "description": "flag: Mauritius",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Mauritius"
       ],
       "codePoints": [
         "1F1F2",
@@ -68949,7 +71909,8 @@
       "description": "flag: Maldives",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Maldives"
       ],
       "codePoints": [
         "1F1F2",
@@ -68964,7 +71925,8 @@
       "description": "flag: Malawi",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Malawi"
       ],
       "codePoints": [
         "1F1F2",
@@ -68979,7 +71941,8 @@
       "description": "flag: Mexico",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Mexico"
       ],
       "codePoints": [
         "1F1F2",
@@ -68994,7 +71957,8 @@
       "description": "flag: Malaysia",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Malaysia"
       ],
       "codePoints": [
         "1F1F2",
@@ -69009,7 +71973,8 @@
       "description": "flag: Mozambique",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Mozambique"
       ],
       "codePoints": [
         "1F1F2",
@@ -69024,7 +71989,8 @@
       "description": "flag: Namibia",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Namibia"
       ],
       "codePoints": [
         "1F1F3",
@@ -69039,7 +72005,8 @@
       "description": "flag: New Caledonia",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "New Caledonia"
       ],
       "codePoints": [
         "1F1F3",
@@ -69054,7 +72021,8 @@
       "description": "flag: Niger",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Niger"
       ],
       "codePoints": [
         "1F1F3",
@@ -69069,7 +72037,8 @@
       "description": "flag: Norfolk Island",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Norfolk Island"
       ],
       "codePoints": [
         "1F1F3",
@@ -69084,7 +72053,8 @@
       "description": "flag: Nigeria",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Nigeria"
       ],
       "codePoints": [
         "1F1F3",
@@ -69099,7 +72069,8 @@
       "description": "flag: Nicaragua",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Nicaragua"
       ],
       "codePoints": [
         "1F1F3",
@@ -69114,7 +72085,8 @@
       "description": "flag: Netherlands",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Netherlands"
       ],
       "codePoints": [
         "1F1F3",
@@ -69129,7 +72101,8 @@
       "description": "flag: Norway",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Norway"
       ],
       "codePoints": [
         "1F1F3",
@@ -69144,7 +72117,8 @@
       "description": "flag: Nepal",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Nepal"
       ],
       "codePoints": [
         "1F1F3",
@@ -69159,7 +72133,8 @@
       "description": "flag: Nauru",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Nauru"
       ],
       "codePoints": [
         "1F1F3",
@@ -69174,7 +72149,8 @@
       "description": "flag: Niue",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Niue"
       ],
       "codePoints": [
         "1F1F3",
@@ -69189,7 +72165,8 @@
       "description": "flag: New Zealand",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "New Zealand"
       ],
       "codePoints": [
         "1F1F3",
@@ -69204,7 +72181,8 @@
       "description": "flag: Oman",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Oman"
       ],
       "codePoints": [
         "1F1F4",
@@ -69219,7 +72197,8 @@
       "description": "flag: Panama",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Panama"
       ],
       "codePoints": [
         "1F1F5",
@@ -69234,7 +72213,8 @@
       "description": "flag: Peru",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Peru"
       ],
       "codePoints": [
         "1F1F5",
@@ -69249,7 +72229,8 @@
       "description": "flag: French Polynesia",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "French Polynesia"
       ],
       "codePoints": [
         "1F1F5",
@@ -69264,7 +72245,8 @@
       "description": "flag: Papua New Guinea",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Papua New Guinea"
       ],
       "codePoints": [
         "1F1F5",
@@ -69279,7 +72261,8 @@
       "description": "flag: Philippines",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Philippines"
       ],
       "codePoints": [
         "1F1F5",
@@ -69294,7 +72277,8 @@
       "description": "flag: Pakistan",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Pakistan"
       ],
       "codePoints": [
         "1F1F5",
@@ -69309,7 +72293,8 @@
       "description": "flag: Poland",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Poland"
       ],
       "codePoints": [
         "1F1F5",
@@ -69324,7 +72309,8 @@
       "description": "flag: St. Pierre & Miquelon",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "St. Pierre & Miquelon"
       ],
       "codePoints": [
         "1F1F5",
@@ -69339,7 +72325,8 @@
       "description": "flag: Pitcairn Islands",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Pitcairn Islands"
       ],
       "codePoints": [
         "1F1F5",
@@ -69354,7 +72341,8 @@
       "description": "flag: Puerto Rico",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Puerto Rico"
       ],
       "codePoints": [
         "1F1F5",
@@ -69369,7 +72357,8 @@
       "description": "flag: Palestinian Territories",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Palestinian Territories"
       ],
       "codePoints": [
         "1F1F5",
@@ -69384,7 +72373,8 @@
       "description": "flag: Portugal",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Portugal"
       ],
       "codePoints": [
         "1F1F5",
@@ -69399,7 +72389,8 @@
       "description": "flag: Palau",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Palau"
       ],
       "codePoints": [
         "1F1F5",
@@ -69414,7 +72405,8 @@
       "description": "flag: Paraguay",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Paraguay"
       ],
       "codePoints": [
         "1F1F5",
@@ -69429,7 +72421,8 @@
       "description": "flag: Qatar",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Qatar"
       ],
       "codePoints": [
         "1F1F6",
@@ -69444,7 +72437,8 @@
       "description": "flag: Réunion",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Réunion"
       ],
       "codePoints": [
         "1F1F7",
@@ -69459,7 +72453,8 @@
       "description": "flag: Romania",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Romania"
       ],
       "codePoints": [
         "1F1F7",
@@ -69474,7 +72469,8 @@
       "description": "flag: Serbia",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Serbia"
       ],
       "codePoints": [
         "1F1F7",
@@ -69489,7 +72485,8 @@
       "description": "flag: Russia",
       "version": "0.6",
       "keywords": [
-        "flag"
+        "flag",
+        "Russia"
       ],
       "codePoints": [
         "1F1F7",
@@ -69504,7 +72501,8 @@
       "description": "flag: Rwanda",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Rwanda"
       ],
       "codePoints": [
         "1F1F7",
@@ -69519,7 +72517,8 @@
       "description": "flag: Saudi Arabia",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Saudi Arabia"
       ],
       "codePoints": [
         "1F1F8",
@@ -69534,7 +72533,8 @@
       "description": "flag: Solomon Islands",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Solomon Islands"
       ],
       "codePoints": [
         "1F1F8",
@@ -69549,7 +72549,8 @@
       "description": "flag: Seychelles",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Seychelles"
       ],
       "codePoints": [
         "1F1F8",
@@ -69564,7 +72565,8 @@
       "description": "flag: Sudan",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Sudan"
       ],
       "codePoints": [
         "1F1F8",
@@ -69579,7 +72581,8 @@
       "description": "flag: Sweden",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Sweden"
       ],
       "codePoints": [
         "1F1F8",
@@ -69594,7 +72597,8 @@
       "description": "flag: Singapore",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Singapore"
       ],
       "codePoints": [
         "1F1F8",
@@ -69609,7 +72613,8 @@
       "description": "flag: St. Helena",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "St. Helena"
       ],
       "codePoints": [
         "1F1F8",
@@ -69624,7 +72629,8 @@
       "description": "flag: Slovenia",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Slovenia"
       ],
       "codePoints": [
         "1F1F8",
@@ -69639,7 +72645,8 @@
       "description": "flag: Svalbard & Jan Mayen",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Svalbard & Jan Mayen"
       ],
       "codePoints": [
         "1F1F8",
@@ -69654,7 +72661,8 @@
       "description": "flag: Slovakia",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Slovakia"
       ],
       "codePoints": [
         "1F1F8",
@@ -69669,7 +72677,8 @@
       "description": "flag: Sierra Leone",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Sierra Leone"
       ],
       "codePoints": [
         "1F1F8",
@@ -69684,7 +72693,8 @@
       "description": "flag: San Marino",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "San Marino"
       ],
       "codePoints": [
         "1F1F8",
@@ -69699,7 +72709,8 @@
       "description": "flag: Senegal",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Senegal"
       ],
       "codePoints": [
         "1F1F8",
@@ -69714,7 +72725,8 @@
       "description": "flag: Somalia",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Somalia"
       ],
       "codePoints": [
         "1F1F8",
@@ -69729,7 +72741,8 @@
       "description": "flag: Suriname",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Suriname"
       ],
       "codePoints": [
         "1F1F8",
@@ -69744,7 +72757,8 @@
       "description": "flag: South Sudan",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "South Sudan"
       ],
       "codePoints": [
         "1F1F8",
@@ -69759,7 +72773,8 @@
       "description": "flag: São Tomé & Príncipe",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "São Tomé & Príncipe"
       ],
       "codePoints": [
         "1F1F8",
@@ -69774,6 +72789,7 @@
       "description": "flag: El Salvador",
       "version": "2.0",
       "keywords": [
+        "El Salvador",
         "flag"
       ],
       "codePoints": [
@@ -69789,7 +72805,8 @@
       "description": "flag: Sint Maarten",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Sint Maarten"
       ],
       "codePoints": [
         "1F1F8",
@@ -69804,7 +72821,8 @@
       "description": "flag: Syria",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Syria"
       ],
       "codePoints": [
         "1F1F8",
@@ -69819,6 +72837,7 @@
       "description": "flag: Eswatini",
       "version": "2.0",
       "keywords": [
+        "Eswatini",
         "flag"
       ],
       "codePoints": [
@@ -69834,7 +72853,8 @@
       "description": "flag: Tristan da Cunha",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Tristan da Cunha"
       ],
       "codePoints": [
         "1F1F9",
@@ -69849,7 +72869,8 @@
       "description": "flag: Turks & Caicos Islands",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Turks & Caicos Islands"
       ],
       "codePoints": [
         "1F1F9",
@@ -69864,6 +72885,7 @@
       "description": "flag: Chad",
       "version": "2.0",
       "keywords": [
+        "Chad",
         "flag"
       ],
       "codePoints": [
@@ -69879,7 +72901,8 @@
       "description": "flag: French Southern Territories",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "French Southern Territories"
       ],
       "codePoints": [
         "1F1F9",
@@ -69894,7 +72917,8 @@
       "description": "flag: Togo",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Togo"
       ],
       "codePoints": [
         "1F1F9",
@@ -69909,7 +72933,8 @@
       "description": "flag: Thailand",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Thailand"
       ],
       "codePoints": [
         "1F1F9",
@@ -69924,7 +72949,8 @@
       "description": "flag: Tajikistan",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Tajikistan"
       ],
       "codePoints": [
         "1F1F9",
@@ -69939,7 +72965,8 @@
       "description": "flag: Tokelau",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Tokelau"
       ],
       "codePoints": [
         "1F1F9",
@@ -69954,7 +72981,8 @@
       "description": "flag: Timor-Leste",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Timor-Leste"
       ],
       "codePoints": [
         "1F1F9",
@@ -69969,7 +72997,8 @@
       "description": "flag: Turkmenistan",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Turkmenistan"
       ],
       "codePoints": [
         "1F1F9",
@@ -69984,7 +73013,8 @@
       "description": "flag: Tunisia",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Tunisia"
       ],
       "codePoints": [
         "1F1F9",
@@ -69999,7 +73029,8 @@
       "description": "flag: Tonga",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Tonga"
       ],
       "codePoints": [
         "1F1F9",
@@ -70011,10 +73042,11 @@
     },
     {
       "emoji": "🇹🇷",
-      "description": "flag: Turkey",
+      "description": "flag: Türkiye",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Türkiye"
       ],
       "codePoints": [
         "1F1F9",
@@ -70029,7 +73061,8 @@
       "description": "flag: Trinidad & Tobago",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Trinidad & Tobago"
       ],
       "codePoints": [
         "1F1F9",
@@ -70044,7 +73077,8 @@
       "description": "flag: Tuvalu",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Tuvalu"
       ],
       "codePoints": [
         "1F1F9",
@@ -70059,7 +73093,8 @@
       "description": "flag: Taiwan",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Taiwan"
       ],
       "codePoints": [
         "1F1F9",
@@ -70074,7 +73109,8 @@
       "description": "flag: Tanzania",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Tanzania"
       ],
       "codePoints": [
         "1F1F9",
@@ -70089,7 +73125,8 @@
       "description": "flag: Ukraine",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Ukraine"
       ],
       "codePoints": [
         "1F1FA",
@@ -70104,7 +73141,8 @@
       "description": "flag: Uganda",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Uganda"
       ],
       "codePoints": [
         "1F1FA",
@@ -70119,7 +73157,8 @@
       "description": "flag: U.S. Outlying Islands",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "U.S. Outlying Islands"
       ],
       "codePoints": [
         "1F1FA",
@@ -70134,7 +73173,8 @@
       "description": "flag: United Nations",
       "version": "4.0",
       "keywords": [
-        "flag"
+        "flag",
+        "United Nations"
       ],
       "codePoints": [
         "1F1FA",
@@ -70149,7 +73189,8 @@
       "description": "flag: United States",
       "version": "0.6",
       "keywords": [
-        "flag"
+        "flag",
+        "United States"
       ],
       "codePoints": [
         "1F1FA",
@@ -70164,7 +73205,8 @@
       "description": "flag: Uruguay",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Uruguay"
       ],
       "codePoints": [
         "1F1FA",
@@ -70179,7 +73221,8 @@
       "description": "flag: Uzbekistan",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Uzbekistan"
       ],
       "codePoints": [
         "1F1FA",
@@ -70194,7 +73237,8 @@
       "description": "flag: Vatican City",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Vatican City"
       ],
       "codePoints": [
         "1F1FB",
@@ -70209,7 +73253,8 @@
       "description": "flag: St. Vincent & Grenadines",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "St. Vincent & Grenadines"
       ],
       "codePoints": [
         "1F1FB",
@@ -70224,7 +73269,8 @@
       "description": "flag: Venezuela",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Venezuela"
       ],
       "codePoints": [
         "1F1FB",
@@ -70239,6 +73285,7 @@
       "description": "flag: British Virgin Islands",
       "version": "2.0",
       "keywords": [
+        "British Virgin Islands",
         "flag"
       ],
       "codePoints": [
@@ -70254,7 +73301,8 @@
       "description": "flag: U.S. Virgin Islands",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "U.S. Virgin Islands"
       ],
       "codePoints": [
         "1F1FB",
@@ -70269,7 +73317,8 @@
       "description": "flag: Vietnam",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Vietnam"
       ],
       "codePoints": [
         "1F1FB",
@@ -70284,7 +73333,8 @@
       "description": "flag: Vanuatu",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Vanuatu"
       ],
       "codePoints": [
         "1F1FB",
@@ -70299,7 +73349,8 @@
       "description": "flag: Wallis & Futuna",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Wallis & Futuna"
       ],
       "codePoints": [
         "1F1FC",
@@ -70314,7 +73365,8 @@
       "description": "flag: Samoa",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Samoa"
       ],
       "codePoints": [
         "1F1FC",
@@ -70329,7 +73381,8 @@
       "description": "flag: Kosovo",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Kosovo"
       ],
       "codePoints": [
         "1F1FD",
@@ -70344,7 +73397,8 @@
       "description": "flag: Yemen",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Yemen"
       ],
       "codePoints": [
         "1F1FE",
@@ -70359,7 +73413,8 @@
       "description": "flag: Mayotte",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Mayotte"
       ],
       "codePoints": [
         "1F1FE",
@@ -70374,7 +73429,8 @@
       "description": "flag: South Africa",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "South Africa"
       ],
       "codePoints": [
         "1F1FF",
@@ -70389,7 +73445,8 @@
       "description": "flag: Zambia",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Zambia"
       ],
       "codePoints": [
         "1F1FF",
@@ -70404,7 +73461,8 @@
       "description": "flag: Zimbabwe",
       "version": "2.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Zimbabwe"
       ],
       "codePoints": [
         "1F1FF",
@@ -70419,6 +73477,7 @@
       "description": "flag: England",
       "version": "5.0",
       "keywords": [
+        "England",
         "flag"
       ],
       "codePoints": [
@@ -70439,7 +73498,8 @@
       "description": "flag: Scotland",
       "version": "5.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Scotland"
       ],
       "codePoints": [
         "1F3F4",
@@ -70459,7 +73519,8 @@
       "description": "flag: Wales",
       "version": "5.0",
       "keywords": [
-        "flag"
+        "flag",
+        "Wales"
       ],
       "codePoints": [
         "1F3F4",
