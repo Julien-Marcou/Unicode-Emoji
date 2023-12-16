@@ -52,9 +52,6 @@ const overrideCategoryForEmojis = {
   'objects': ['🧿', '🌂', '☂️', '💣'],
   'symbols': ['♠️', '♥️', '♦️', '♣️', '🕳️', '💬', '👁️‍🗨️', '🗨️', '🗯️', '💭', '🕛', '🕧', '🕐', '🕜', '🕑', '🕝', '🕒', '🕞', '🕓', '🕟', '🕔', '🕠', '🕕', '🕡', '🕖', '🕢', '🕗', '🕣', '🕘', '🕤', '🕙', '🕥', '🕚', '🕦', '🔇', '🔈', '🔉', '🔊', '🔕', '💹'],
 };
-const missingVariationsForBaseEmojis = {
-  '👩': ['🧔‍♀️', '🧔🏻‍♀️', '🧔🏼‍♀️', '🧔🏽‍♀️', '🧔🏾‍♀️', '🧔🏿‍♀️'],
-};
 
 
 /* ------------- FILES CONFIG ------------- */
@@ -74,7 +71,7 @@ const subgroupPrefix = '# subgroup:';
 const componentStatus = 'component';
 const fullyQualifiedStatus = 'fully-qualified';
 const groupsWithVariations = ['people-body'];
-const codePointsSeparator= ' ';
+const codePointsSeparator = ' ';
 const baseDescriptionSeparator = ':';
 const qualificationCodePoint = 'FE0F';
 
@@ -163,7 +160,7 @@ function processEmojiLine(line) {
 
     const emoji = {
       emoji: renderedEmoji,
-      description: null,
+      description: description,
       version: version,
       keywords: null,
     };
@@ -232,19 +229,42 @@ function processEmojiLine(line) {
   }
 }
 
-function addMissingVariationsForBaseEmojis() {
-  for (const renderedBaseEmoji in missingVariationsForBaseEmojis) {
-    const baseEmoji = emojis.get(renderedBaseEmoji);
-    for (const renderedVariationEmoji of missingVariationsForBaseEmojis[renderedBaseEmoji]) {
-      const variationEmoji = emojis.get(renderedVariationEmoji);
-      baseEmojis.delete(variationEmoji.description)
-      baseEmoji.variations.push(variationEmoji);
-      results.emojis.splice(results.emojis.indexOf(variationEmoji), 1);
+function consolidateEmojiVariations() {
+  // In the Unicode data source, some emoji variations (e.g. woman with beard)
+  // are defined before their base emoji (e.g. woman),
+  // and because we process emojis sequentially,
+  // when an emoji variation is defined before its base emoji,
+  // it will be considered as a base emoji instead of a variation
+  // To fix this, we loop through all the emojis a second time
+  // to check if an emoji cannot be associated with another emoji
+  baseEmojis.forEach((emojiVariation) => {
+    // If the emoji is proven to be a variation
+    const baseDescription = emojiVariation.description.split(baseDescriptionSeparator)[0];
+    if (groupsWithVariations.includes(emojiVariation.group) && baseEmojis.has(baseDescription)) {
+      const baseEmoji = baseEmojis.get(baseDescription);
+      if (baseEmoji === emojiVariation) {
+        return;
+      }
+
+      // Associate it to the correct base emoji
+      if (!baseEmoji.variations) {
+        baseEmoji.variations = [];
+      }
+      baseEmoji.variations.push(emojiVariation);
+
+      // Remove category/group/subgroup from the variation
+      delete emojiVariation.category;
+      delete emojiVariation.group;
+      delete emojiVariation.subgroup;
+
+      // Remove it from the base emojis & results
+      baseEmojis.delete(emojiVariation.description);
+      results.emojis.splice(results.emojis.indexOf(emojiVariation), 1);
     }
-  }
+  });
 }
 
-function addComponentsToEmojiVariations() {
+function consolidateEmojiVariationsWithComponents() {
   for (const baseEmoji of baseEmojis.values()) {
     if (baseEmoji.variations) {
       for (const emojiVariation of baseEmoji.variations) {
@@ -379,10 +399,10 @@ https.get(emojisInput, (emojisResponse) => {
     process.stdout.write('\n');
 
     // Fix emoji variations not being linked to their base emoji
-    addMissingVariationsForBaseEmojis();
+    consolidateEmojiVariations();
 
-    // Data consolidation (skin tone & hair style) for emoji variations
-    addComponentsToEmojiVariations();
+    // Components consolidation (skin tone & hair style) for emoji variations
+    consolidateEmojiVariationsWithComponents();
 
     // Retrieve annotations (text-to-speech & keywords) online
     process.stdout.write(`Retrieving "Common Local Data Repository, Version ${unicodeCldrVersion}" for local "${unicodeCldrLocale}"\n`);
