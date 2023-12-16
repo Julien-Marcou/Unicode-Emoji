@@ -638,7 +638,7 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 👩🏽‍🦲,"woman: medium skin tone, bald",11.0,adult|bald|medium skin tone|woman,person-people,people-body,person,👩,🏽|🦲
 👩🏾‍🦲,"woman: medium-dark skin tone, bald",11.0,adult|bald|medium-dark skin tone|woman,person-people,people-body,person,👩,🏾|🦲
 👩🏿‍🦲,"woman: dark skin tone, bald",11.0,adult|bald|dark skin tone|woman,person-people,people-body,person,👩,🏿|🦲
-👱‍♀️,"woman: blond hair",4.0,blond-haired woman|blonde|hair|woman|blond hair,person-people,people-body,person,👩,
+👱‍♀️,"woman: blond hair",4.0,blond hair|blond-haired woman|blonde|hair|woman,person-people,people-body,person,👩,
 👱🏻‍♀️,"woman: light skin tone, blond hair",4.0,blond hair|blond-haired woman|blonde|hair|light skin tone|woman,person-people,people-body,person,👩,🏻
 👱🏼‍♀️,"woman: medium-light skin tone, blond hair",4.0,blond hair|blond-haired woman|blonde|hair|medium-light skin tone|woman,person-people,people-body,person,👩,🏼
 👱🏽‍♀️,"woman: medium skin tone, blond hair",4.0,blond hair|blond-haired woman|blonde|hair|medium skin tone|woman,person-people,people-body,person,👩,🏽
@@ -1358,12 +1358,12 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🤶🏽,"Mrs. Claus: medium skin tone",3.0,celebration|Christmas|claus|medium skin tone|mother|Mrs.|Mrs. Claus,person-people,people-body,person-fantasy,🤶,🏽
 🤶🏾,"Mrs. Claus: medium-dark skin tone",3.0,celebration|Christmas|claus|medium-dark skin tone|mother|Mrs.|Mrs. Claus,person-people,people-body,person-fantasy,🤶,🏾
 🤶🏿,"Mrs. Claus: dark skin tone",3.0,celebration|Christmas|claus|dark skin tone|mother|Mrs.|Mrs. Claus,person-people,people-body,person-fantasy,🤶,🏿
-🧑‍🎄,"mx claus",13.0,Claus|christmas|mx claus,person-people,people-body,person-fantasy,,
-🧑🏻‍🎄,"mx claus: light skin tone",13.0,Claus|christmas|light skin tone|mx claus,person-people,people-body,person-fantasy,🧑‍🎄,🏻
-🧑🏼‍🎄,"mx claus: medium-light skin tone",13.0,Claus|christmas|medium-light skin tone|mx claus,person-people,people-body,person-fantasy,🧑‍🎄,🏼
-🧑🏽‍🎄,"mx claus: medium skin tone",13.0,Claus|christmas|medium skin tone|mx claus,person-people,people-body,person-fantasy,🧑‍🎄,🏽
-🧑🏾‍🎄,"mx claus: medium-dark skin tone",13.0,Claus|christmas|medium-dark skin tone|mx claus,person-people,people-body,person-fantasy,🧑‍🎄,🏾
-🧑🏿‍🎄,"mx claus: dark skin tone",13.0,Claus|christmas|dark skin tone|mx claus,person-people,people-body,person-fantasy,🧑‍🎄,🏿
+🧑‍🎄,"mx claus",13.0,christmas|Claus|mx claus,person-people,people-body,person-fantasy,,
+🧑🏻‍🎄,"mx claus: light skin tone",13.0,christmas|Claus|light skin tone|mx claus,person-people,people-body,person-fantasy,🧑‍🎄,🏻
+🧑🏼‍🎄,"mx claus: medium-light skin tone",13.0,christmas|Claus|medium-light skin tone|mx claus,person-people,people-body,person-fantasy,🧑‍🎄,🏼
+🧑🏽‍🎄,"mx claus: medium skin tone",13.0,christmas|Claus|medium skin tone|mx claus,person-people,people-body,person-fantasy,🧑‍🎄,🏽
+🧑🏾‍🎄,"mx claus: medium-dark skin tone",13.0,christmas|Claus|medium-dark skin tone|mx claus,person-people,people-body,person-fantasy,🧑‍🎄,🏾
+🧑🏿‍🎄,"mx claus: dark skin tone",13.0,christmas|Claus|dark skin tone|mx claus,person-people,people-body,person-fantasy,🧑‍🎄,🏿
 🦸,"superhero",11.0,good|hero|heroine|superhero|superpower,person-people,people-body,person-fantasy,,
 🦸🏻,"superhero: light skin tone",11.0,good|hero|heroine|light skin tone|superhero|superpower,person-people,people-body,person-fantasy,🦸,🏻
 🦸🏼,"superhero: medium-light skin tone",11.0,good|hero|heroine|medium-light skin tone|superhero|superpower,person-people,people-body,person-fantasy,🦸,🏼
