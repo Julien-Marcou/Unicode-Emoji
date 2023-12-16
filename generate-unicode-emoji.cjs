@@ -83,7 +83,7 @@ const annotationTag = 'annotation';
 const codePointsAttribute = 'cp';
 const typeAttribute = 'type';
 const textToSpeechType = 'tts';
-const keywordsSeparator = /[|,]/g;
+const keywordsSeparator = /[|,]|:\s/g;
 
 
 /* ------------- PROCESS ------------- */
@@ -279,7 +279,19 @@ function processAnnotationTag(attributes, text) {
     process.stdout.write(`Retrieved ${annotationCount} annotations`);
   }
   else {
-    emoji.keywords = text.split(keywordsSeparator).map((value) => value.trim());
+    const keywords = text.split(keywordsSeparator).map((keyword) => keyword.trim());
+    const keywordSet = new Set();
+
+    // Some keywords are sentences where each word of the sentence is already in the list of keywords, so we don't need to keep the sentence
+    for (const keyword of keywords) {
+      const words = keyword.split(' ');
+      if (words.length > 1 && words.every((word) => keywords.includes(word))) {
+        continue;
+      }
+      keywordSet.add(keyword);
+    }
+
+    emoji.keywords = [...keywordSet];
   }
 }
 

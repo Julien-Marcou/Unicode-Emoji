@@ -530,18 +530,18 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🧑🏽,"person: medium skin tone",5.0,adult|gender-neutral|medium skin tone|person|unspecified gender,person-people,people-body,person,🧑,🏽
 🧑🏾,"person: medium-dark skin tone",5.0,adult|gender-neutral|medium-dark skin tone|person|unspecified gender,person-people,people-body,person,🧑,🏾
 🧑🏿,"person: dark skin tone",5.0,adult|dark skin tone|gender-neutral|person|unspecified gender,person-people,people-body,person,🧑,🏿
-👱,"person: blond hair",0.6,blond|blond-haired person|hair|person: blond hair,person-people,people-body,person,🧑,
-👱🏻,"person: light skin tone, blond hair",1.0,blond|blond-haired person|hair|light skin tone|person: blond hair,person-people,people-body,person,🧑,🏻
-👱🏼,"person: medium-light skin tone, blond hair",1.0,blond|blond-haired person|hair|medium-light skin tone|person: blond hair,person-people,people-body,person,🧑,🏼
-👱🏽,"person: medium skin tone, blond hair",1.0,blond|blond-haired person|hair|medium skin tone|person: blond hair,person-people,people-body,person,🧑,🏽
-👱🏾,"person: medium-dark skin tone, blond hair",1.0,blond|blond-haired person|hair|medium-dark skin tone|person: blond hair,person-people,people-body,person,🧑,🏾
-👱🏿,"person: dark skin tone, blond hair",1.0,blond|blond-haired person|dark skin tone|hair|person: blond hair,person-people,people-body,person,🧑,🏿
-🧔,"person: beard",5.0,beard|person|person: beard,person-people,people-body,person,🧑,
-🧔🏻,"person: light skin tone, beard",5.0,beard|light skin tone|person|person: beard,person-people,people-body,person,🧑,🏻
-🧔🏼,"person: medium-light skin tone, beard",5.0,beard|medium-light skin tone|person|person: beard,person-people,people-body,person,🧑,🏼
-🧔🏽,"person: medium skin tone, beard",5.0,beard|medium skin tone|person|person: beard,person-people,people-body,person,🧑,🏽
-🧔🏾,"person: medium-dark skin tone, beard",5.0,beard|medium-dark skin tone|person|person: beard,person-people,people-body,person,🧑,🏾
-🧔🏿,"person: dark skin tone, beard",5.0,beard|dark skin tone|person|person: beard,person-people,people-body,person,🧑,🏿
+👱,"person: blond hair",0.6,blond|blond-haired person|hair|person,person-people,people-body,person,🧑,
+👱🏻,"person: light skin tone, blond hair",1.0,blond|blond-haired person|hair|light skin tone|person,person-people,people-body,person,🧑,🏻
+👱🏼,"person: medium-light skin tone, blond hair",1.0,blond|blond-haired person|hair|medium-light skin tone|person,person-people,people-body,person,🧑,🏼
+👱🏽,"person: medium skin tone, blond hair",1.0,blond|blond-haired person|hair|medium skin tone|person,person-people,people-body,person,🧑,🏽
+👱🏾,"person: medium-dark skin tone, blond hair",1.0,blond|blond-haired person|hair|medium-dark skin tone|person,person-people,people-body,person,🧑,🏾
+👱🏿,"person: dark skin tone, blond hair",1.0,blond|blond-haired person|dark skin tone|hair|person,person-people,people-body,person,🧑,🏿
+🧔,"person: beard",5.0,beard|person,person-people,people-body,person,🧑,
+🧔🏻,"person: light skin tone, beard",5.0,beard|light skin tone|person,person-people,people-body,person,🧑,🏻
+🧔🏼,"person: medium-light skin tone, beard",5.0,beard|medium-light skin tone|person,person-people,people-body,person,🧑,🏼
+🧔🏽,"person: medium skin tone, beard",5.0,beard|medium skin tone|person,person-people,people-body,person,🧑,🏽
+🧔🏾,"person: medium-dark skin tone, beard",5.0,beard|medium-dark skin tone|person,person-people,people-body,person,🧑,🏾
+🧔🏿,"person: dark skin tone, beard",5.0,beard|dark skin tone|person,person-people,people-body,person,🧑,🏿
 🧑‍🦰,"person: red hair",12.1,adult|gender-neutral|person|red hair|unspecified gender,person-people,people-body,person,🧑,🦰
 🧑🏻‍🦰,"person: light skin tone, red hair",12.1,adult|gender-neutral|light skin tone|person|red hair|unspecified gender,person-people,people-body,person,🧑,🏻|🦰
 🧑🏼‍🦰,"person: medium-light skin tone, red hair",12.1,adult|gender-neutral|medium-light skin tone|person|red hair|unspecified gender,person-people,people-body,person,🧑,🏼|🦰
@@ -572,12 +572,12 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 👨🏽,"man: medium skin tone",1.0,adult|man|medium skin tone,person-people,people-body,person,👨,🏽
 👨🏾,"man: medium-dark skin tone",1.0,adult|man|medium-dark skin tone,person-people,people-body,person,👨,🏾
 👨🏿,"man: dark skin tone",1.0,adult|dark skin tone|man,person-people,people-body,person,👨,🏿
-🧔‍♂️,"man: beard",13.1,beard|man|man: beard,person-people,people-body,person,👨,
-🧔🏻‍♂️,"man: light skin tone, beard",13.1,beard|light skin tone|man|man: beard,person-people,people-body,person,👨,🏻
-🧔🏼‍♂️,"man: medium-light skin tone, beard",13.1,beard|man|man: beard|medium-light skin tone,person-people,people-body,person,👨,🏼
-🧔🏽‍♂️,"man: medium skin tone, beard",13.1,beard|man|man: beard|medium skin tone,person-people,people-body,person,👨,🏽
-🧔🏾‍♂️,"man: medium-dark skin tone, beard",13.1,beard|man|man: beard|medium-dark skin tone,person-people,people-body,person,👨,🏾
-🧔🏿‍♂️,"man: dark skin tone, beard",13.1,beard|dark skin tone|man|man: beard,person-people,people-body,person,👨,🏿
+🧔‍♂️,"man: beard",13.1,beard|man,person-people,people-body,person,👨,
+🧔🏻‍♂️,"man: light skin tone, beard",13.1,beard|light skin tone|man,person-people,people-body,person,👨,🏻
+🧔🏼‍♂️,"man: medium-light skin tone, beard",13.1,beard|man|medium-light skin tone,person-people,people-body,person,👨,🏼
+🧔🏽‍♂️,"man: medium skin tone, beard",13.1,beard|man|medium skin tone,person-people,people-body,person,👨,🏽
+🧔🏾‍♂️,"man: medium-dark skin tone, beard",13.1,beard|man|medium-dark skin tone,person-people,people-body,person,👨,🏾
+🧔🏿‍♂️,"man: dark skin tone, beard",13.1,beard|dark skin tone|man,person-people,people-body,person,👨,🏿
 👨‍🦰,"man: red hair",11.0,adult|man|red hair,person-people,people-body,person,👨,🦰
 👨🏻‍🦰,"man: light skin tone, red hair",11.0,adult|light skin tone|man|red hair,person-people,people-body,person,👨,🏻|🦰
 👨🏼‍🦰,"man: medium-light skin tone, red hair",11.0,adult|man|medium-light skin tone|red hair,person-people,people-body,person,👨,🏼|🦰
@@ -602,12 +602,12 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 👨🏽‍🦲,"man: medium skin tone, bald",11.0,adult|bald|man|medium skin tone,person-people,people-body,person,👨,🏽|🦲
 👨🏾‍🦲,"man: medium-dark skin tone, bald",11.0,adult|bald|man|medium-dark skin tone,person-people,people-body,person,👨,🏾|🦲
 👨🏿‍🦲,"man: dark skin tone, bald",11.0,adult|bald|dark skin tone|man,person-people,people-body,person,👨,🏿|🦲
-👱‍♂️,"man: blond hair",4.0,blond|blond-haired man|hair|man|man: blond hair,person-people,people-body,person,👨,
-👱🏻‍♂️,"man: light skin tone, blond hair",4.0,blond|blond-haired man|hair|light skin tone|man|man: blond hair,person-people,people-body,person,👨,🏻
-👱🏼‍♂️,"man: medium-light skin tone, blond hair",4.0,blond|blond-haired man|hair|man|man: blond hair|medium-light skin tone,person-people,people-body,person,👨,🏼
-👱🏽‍♂️,"man: medium skin tone, blond hair",4.0,blond|blond-haired man|hair|man|man: blond hair|medium skin tone,person-people,people-body,person,👨,🏽
-👱🏾‍♂️,"man: medium-dark skin tone, blond hair",4.0,blond|blond-haired man|hair|man|man: blond hair|medium-dark skin tone,person-people,people-body,person,👨,🏾
-👱🏿‍♂️,"man: dark skin tone, blond hair",4.0,blond|blond-haired man|dark skin tone|hair|man|man: blond hair,person-people,people-body,person,👨,🏿
+👱‍♂️,"man: blond hair",4.0,blond|blond-haired man|hair|man,person-people,people-body,person,👨,
+👱🏻‍♂️,"man: light skin tone, blond hair",4.0,blond|blond-haired man|hair|light skin tone|man,person-people,people-body,person,👨,🏻
+👱🏼‍♂️,"man: medium-light skin tone, blond hair",4.0,blond|blond-haired man|hair|man|medium-light skin tone,person-people,people-body,person,👨,🏼
+👱🏽‍♂️,"man: medium skin tone, blond hair",4.0,blond|blond-haired man|hair|man|medium skin tone,person-people,people-body,person,👨,🏽
+👱🏾‍♂️,"man: medium-dark skin tone, blond hair",4.0,blond|blond-haired man|hair|man|medium-dark skin tone,person-people,people-body,person,👨,🏾
+👱🏿‍♂️,"man: dark skin tone, blond hair",4.0,blond|blond-haired man|dark skin tone|hair|man,person-people,people-body,person,👨,🏿
 👩,"woman",0.6,adult|woman,person-people,people-body,person,,
 👩🏻,"woman: light skin tone",1.0,adult|light skin tone|woman,person-people,people-body,person,👩,🏻
 👩🏼,"woman: medium-light skin tone",1.0,adult|medium-light skin tone|woman,person-people,people-body,person,👩,🏼
@@ -638,18 +638,18 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 👩🏽‍🦲,"woman: medium skin tone, bald",11.0,adult|bald|medium skin tone|woman,person-people,people-body,person,👩,🏽|🦲
 👩🏾‍🦲,"woman: medium-dark skin tone, bald",11.0,adult|bald|medium-dark skin tone|woman,person-people,people-body,person,👩,🏾|🦲
 👩🏿‍🦲,"woman: dark skin tone, bald",11.0,adult|bald|dark skin tone|woman,person-people,people-body,person,👩,🏿|🦲
-👱‍♀️,"woman: blond hair",4.0,blond-haired woman|blonde|hair|woman|woman: blond hair,person-people,people-body,person,👩,
-👱🏻‍♀️,"woman: light skin tone, blond hair",4.0,blond hair|blond-haired woman|blonde|hair|light skin tone|woman|woman: blond hair,person-people,people-body,person,👩,🏻
-👱🏼‍♀️,"woman: medium-light skin tone, blond hair",4.0,blond hair|blond-haired woman|blonde|hair|medium-light skin tone|woman|woman: blond hair,person-people,people-body,person,👩,🏼
-👱🏽‍♀️,"woman: medium skin tone, blond hair",4.0,blond hair|blond-haired woman|blonde|hair|medium skin tone|woman|woman: blond hair,person-people,people-body,person,👩,🏽
-👱🏾‍♀️,"woman: medium-dark skin tone, blond hair",4.0,blond hair|blond-haired woman|blonde|hair|medium-dark skin tone|woman|woman: blond hair,person-people,people-body,person,👩,🏾
-👱🏿‍♀️,"woman: dark skin tone, blond hair",4.0,blond hair|blond-haired woman|blonde|dark skin tone|hair|woman|woman: blond hair,person-people,people-body,person,👩,🏿
-🧔‍♀️,"woman: beard",13.1,beard|woman|woman: beard,person-people,people-body,person,👩,
-🧔🏻‍♀️,"woman: light skin tone, beard",13.1,beard|light skin tone|woman|woman: beard,person-people,people-body,person,👩,🏻
-🧔🏼‍♀️,"woman: medium-light skin tone, beard",13.1,beard|medium-light skin tone|woman|woman: beard,person-people,people-body,person,👩,🏼
-🧔🏽‍♀️,"woman: medium skin tone, beard",13.1,beard|medium skin tone|woman|woman: beard,person-people,people-body,person,👩,🏽
-🧔🏾‍♀️,"woman: medium-dark skin tone, beard",13.1,beard|medium-dark skin tone|woman|woman: beard,person-people,people-body,person,👩,🏾
-🧔🏿‍♀️,"woman: dark skin tone, beard",13.1,beard|dark skin tone|woman|woman: beard,person-people,people-body,person,👩,🏿
+👱‍♀️,"woman: blond hair",4.0,blond-haired woman|blonde|hair|woman|blond hair,person-people,people-body,person,👩,
+👱🏻‍♀️,"woman: light skin tone, blond hair",4.0,blond hair|blond-haired woman|blonde|hair|light skin tone|woman,person-people,people-body,person,👩,🏻
+👱🏼‍♀️,"woman: medium-light skin tone, blond hair",4.0,blond hair|blond-haired woman|blonde|hair|medium-light skin tone|woman,person-people,people-body,person,👩,🏼
+👱🏽‍♀️,"woman: medium skin tone, blond hair",4.0,blond hair|blond-haired woman|blonde|hair|medium skin tone|woman,person-people,people-body,person,👩,🏽
+👱🏾‍♀️,"woman: medium-dark skin tone, blond hair",4.0,blond hair|blond-haired woman|blonde|hair|medium-dark skin tone|woman,person-people,people-body,person,👩,🏾
+👱🏿‍♀️,"woman: dark skin tone, blond hair",4.0,blond hair|blond-haired woman|blonde|dark skin tone|hair|woman,person-people,people-body,person,👩,🏿
+🧔‍♀️,"woman: beard",13.1,beard|woman,person-people,people-body,person,👩,
+🧔🏻‍♀️,"woman: light skin tone, beard",13.1,beard|light skin tone|woman,person-people,people-body,person,👩,🏻
+🧔🏼‍♀️,"woman: medium-light skin tone, beard",13.1,beard|medium-light skin tone|woman,person-people,people-body,person,👩,🏼
+🧔🏽‍♀️,"woman: medium skin tone, beard",13.1,beard|medium skin tone|woman,person-people,people-body,person,👩,🏽
+🧔🏾‍♀️,"woman: medium-dark skin tone, beard",13.1,beard|medium-dark skin tone|woman,person-people,people-body,person,👩,🏾
+🧔🏿‍♀️,"woman: dark skin tone, beard",13.1,beard|dark skin tone|woman,person-people,people-body,person,👩,🏿
 🧓,"older person",5.0,adult|gender-neutral|old|older person|unspecified gender,person-people,people-body,person,,
 🧓🏻,"older person: light skin tone",5.0,adult|gender-neutral|light skin tone|old|older person|unspecified gender,person-people,people-body,person,🧓,🏻
 🧓🏼,"older person: medium-light skin tone",5.0,adult|gender-neutral|medium-light skin tone|old|older person|unspecified gender,person-people,people-body,person,🧓,🏼

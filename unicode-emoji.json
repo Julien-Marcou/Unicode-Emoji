@@ -9912,7 +9912,7 @@
             "blond",
             "blond-haired person",
             "hair",
-            "person: blond hair"
+            "person"
           ],
           "codePoints": [
             "1F471"
@@ -9927,7 +9927,7 @@
             "blond-haired person",
             "hair",
             "light skin tone",
-            "person: blond hair"
+            "person"
           ],
           "codePoints": [
             "1F471",
@@ -9946,7 +9946,7 @@
             "blond-haired person",
             "hair",
             "medium-light skin tone",
-            "person: blond hair"
+            "person"
           ],
           "codePoints": [
             "1F471",
@@ -9965,7 +9965,7 @@
             "blond-haired person",
             "hair",
             "medium skin tone",
-            "person: blond hair"
+            "person"
           ],
           "codePoints": [
             "1F471",
@@ -9984,7 +9984,7 @@
             "blond-haired person",
             "hair",
             "medium-dark skin tone",
-            "person: blond hair"
+            "person"
           ],
           "codePoints": [
             "1F471",
@@ -10003,7 +10003,7 @@
             "blond-haired person",
             "dark skin tone",
             "hair",
-            "person: blond hair"
+            "person"
           ],
           "codePoints": [
             "1F471",
@@ -10019,8 +10019,7 @@
           "version": "5.0",
           "keywords": [
             "beard",
-            "person",
-            "person: beard"
+            "person"
           ],
           "codePoints": [
             "1F9D4"
@@ -10033,8 +10032,7 @@
           "keywords": [
             "beard",
             "light skin tone",
-            "person",
-            "person: beard"
+            "person"
           ],
           "codePoints": [
             "1F9D4",
@@ -10051,8 +10049,7 @@
           "keywords": [
             "beard",
             "medium-light skin tone",
-            "person",
-            "person: beard"
+            "person"
           ],
           "codePoints": [
             "1F9D4",
@@ -10069,8 +10066,7 @@
           "keywords": [
             "beard",
             "medium skin tone",
-            "person",
-            "person: beard"
+            "person"
           ],
           "codePoints": [
             "1F9D4",
@@ -10087,8 +10083,7 @@
           "keywords": [
             "beard",
             "medium-dark skin tone",
-            "person",
-            "person: beard"
+            "person"
           ],
           "codePoints": [
             "1F9D4",
@@ -10105,8 +10100,7 @@
           "keywords": [
             "beard",
             "dark skin tone",
-            "person",
-            "person: beard"
+            "person"
           ],
           "codePoints": [
             "1F9D4",
@@ -10764,8 +10758,7 @@
           "version": "13.1",
           "keywords": [
             "beard",
-            "man",
-            "man: beard"
+            "man"
           ],
           "codePoints": [
             "1F9D4",
@@ -10781,8 +10774,7 @@
           "keywords": [
             "beard",
             "light skin tone",
-            "man",
-            "man: beard"
+            "man"
           ],
           "codePoints": [
             "1F9D4",
@@ -10802,7 +10794,6 @@
           "keywords": [
             "beard",
             "man",
-            "man: beard",
             "medium-light skin tone"
           ],
           "codePoints": [
@@ -10823,7 +10814,6 @@
           "keywords": [
             "beard",
             "man",
-            "man: beard",
             "medium skin tone"
           ],
           "codePoints": [
@@ -10844,7 +10834,6 @@
           "keywords": [
             "beard",
             "man",
-            "man: beard",
             "medium-dark skin tone"
           ],
           "codePoints": [
@@ -10865,8 +10854,7 @@
           "keywords": [
             "beard",
             "dark skin tone",
-            "man",
-            "man: beard"
+            "man"
           ],
           "codePoints": [
             "1F9D4",
@@ -11379,8 +11367,7 @@
             "blond",
             "blond-haired man",
             "hair",
-            "man",
-            "man: blond hair"
+            "man"
           ],
           "codePoints": [
             "1F471",
@@ -11398,8 +11385,7 @@
             "blond-haired man",
             "hair",
             "light skin tone",
-            "man",
-            "man: blond hair"
+            "man"
           ],
           "codePoints": [
             "1F471",
@@ -11421,7 +11407,6 @@
             "blond-haired man",
             "hair",
             "man",
-            "man: blond hair",
             "medium-light skin tone"
           ],
           "codePoints": [
@@ -11444,7 +11429,6 @@
             "blond-haired man",
             "hair",
             "man",
-            "man: blond hair",
             "medium skin tone"
           ],
           "codePoints": [
@@ -11467,7 +11451,6 @@
             "blond-haired man",
             "hair",
             "man",
-            "man: blond hair",
             "medium-dark skin tone"
           ],
           "codePoints": [
@@ -11490,8 +11473,7 @@
             "blond-haired man",
             "dark skin tone",
             "hair",
-            "man",
-            "man: blond hair"
+            "man"
           ],
           "codePoints": [
             "1F471",
@@ -12107,7 +12089,7 @@
             "blonde",
             "hair",
             "woman",
-            "woman: blond hair"
+            "blond hair"
           ],
           "codePoints": [
             "1F471",
@@ -12126,8 +12108,7 @@
             "blonde",
             "hair",
             "light skin tone",
-            "woman",
-            "woman: blond hair"
+            "woman"
           ],
           "codePoints": [
             "1F471",
@@ -12150,8 +12131,7 @@
             "blonde",
             "hair",
             "medium-light skin tone",
-            "woman",
-            "woman: blond hair"
+            "woman"
           ],
           "codePoints": [
             "1F471",
@@ -12174,8 +12154,7 @@
             "blonde",
             "hair",
             "medium skin tone",
-            "woman",
-            "woman: blond hair"
+            "woman"
           ],
           "codePoints": [
             "1F471",
@@ -12198,8 +12177,7 @@
             "blonde",
             "hair",
             "medium-dark skin tone",
-            "woman",
-            "woman: blond hair"
+            "woman"
           ],
           "codePoints": [
             "1F471",
@@ -12222,8 +12200,7 @@
             "blonde",
             "dark skin tone",
             "hair",
-            "woman",
-            "woman: blond hair"
+            "woman"
           ],
           "codePoints": [
             "1F471",
@@ -12242,8 +12219,7 @@
           "version": "13.1",
           "keywords": [
             "beard",
-            "woman",
-            "woman: beard"
+            "woman"
           ],
           "codePoints": [
             "1F9D4",
@@ -12262,8 +12238,7 @@
           "keywords": [
             "beard",
             "light skin tone",
-            "woman",
-            "woman: beard"
+            "woman"
           ],
           "codePoints": [
             "1F9D4",
@@ -12286,8 +12261,7 @@
           "keywords": [
             "beard",
             "medium-light skin tone",
-            "woman",
-            "woman: beard"
+            "woman"
           ],
           "codePoints": [
             "1F9D4",
@@ -12310,8 +12284,7 @@
           "keywords": [
             "beard",
             "medium skin tone",
-            "woman",
-            "woman: beard"
+            "woman"
           ],
           "codePoints": [
             "1F9D4",
@@ -12334,8 +12307,7 @@
           "keywords": [
             "beard",
             "medium-dark skin tone",
-            "woman",
-            "woman: beard"
+            "woman"
           ],
           "codePoints": [
             "1F9D4",
@@ -12358,8 +12330,7 @@
           "keywords": [
             "beard",
             "dark skin tone",
-            "woman",
-            "woman: beard"
+            "woman"
           ],
           "codePoints": [
             "1F9D4",
