@@ -291,7 +291,7 @@ function processAnnotationTag(attributes, text) {
       keywordSet.add(keyword);
     }
 
-    emoji.keywords = [...keywordSet];
+    emoji.keywords = [...keywordSet].sort((a, b) => a.localeCompare(b));
   }
 }
 

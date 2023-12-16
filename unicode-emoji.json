@@ -12085,11 +12085,11 @@
           "description": "woman: blond hair",
           "version": "4.0",
           "keywords": [
+            "blond hair",
             "blond-haired woman",
             "blonde",
             "hair",
-            "woman",
-            "blond hair"
+            "woman"
           ],
           "codePoints": [
             "1F471",
@@ -27092,8 +27092,8 @@
       "description": "mx claus",
       "version": "13.0",
       "keywords": [
-        "Claus",
         "christmas",
+        "Claus",
         "mx claus"
       ],
       "codePoints": [
@@ -27110,8 +27110,8 @@
           "description": "mx claus: light skin tone",
           "version": "13.0",
           "keywords": [
-            "Claus",
             "christmas",
+            "Claus",
             "light skin tone",
             "mx claus"
           ],
@@ -27130,8 +27130,8 @@
           "description": "mx claus: medium-light skin tone",
           "version": "13.0",
           "keywords": [
-            "Claus",
             "christmas",
+            "Claus",
             "medium-light skin tone",
             "mx claus"
           ],
@@ -27150,8 +27150,8 @@
           "description": "mx claus: medium skin tone",
           "version": "13.0",
           "keywords": [
-            "Claus",
             "christmas",
+            "Claus",
             "medium skin tone",
             "mx claus"
           ],
@@ -27170,8 +27170,8 @@
           "description": "mx claus: medium-dark skin tone",
           "version": "13.0",
           "keywords": [
-            "Claus",
             "christmas",
+            "Claus",
             "medium-dark skin tone",
             "mx claus"
           ],
@@ -27190,8 +27190,8 @@
           "description": "mx claus: dark skin tone",
           "version": "13.0",
           "keywords": [
-            "Claus",
             "christmas",
+            "Claus",
             "dark skin tone",
             "mx claus"
           ],
