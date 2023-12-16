@@ -12226,10 +12226,7 @@
             "200D",
             "2640",
             "FE0F"
-          ],
-          "category": "person-people",
-          "group": "people-body",
-          "subgroup": "person"
+          ]
         },
         {
           "emoji": "🧔🏻‍♀️",
@@ -12247,9 +12244,6 @@
             "2640",
             "FE0F"
           ],
-          "category": "person-people",
-          "group": "people-body",
-          "subgroup": "person",
           "components": [
             "🏻"
           ]
@@ -12270,9 +12264,6 @@
             "2640",
             "FE0F"
           ],
-          "category": "person-people",
-          "group": "people-body",
-          "subgroup": "person",
           "components": [
             "🏼"
           ]
@@ -12293,9 +12284,6 @@
             "2640",
             "FE0F"
           ],
-          "category": "person-people",
-          "group": "people-body",
-          "subgroup": "person",
           "components": [
             "🏽"
           ]
@@ -12316,9 +12304,6 @@
             "2640",
             "FE0F"
           ],
-          "category": "person-people",
-          "group": "people-body",
-          "subgroup": "person",
           "components": [
             "🏾"
           ]
@@ -12339,9 +12324,6 @@
             "2640",
             "FE0F"
           ],
-          "category": "person-people",
-          "group": "people-body",
-          "subgroup": "person",
           "components": [
             "🏿"
           ]
