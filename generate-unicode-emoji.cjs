@@ -384,7 +384,25 @@ function saveResults() {
       })
     }
   });
-  fs.writeFileSync(jsOutput, `export default ${JSON.stringify(results)};`);
+  fs.writeFileSync(jsOutput, `export default ${stringifyToJs(results)};`);
+}
+
+function stringifyToJs(value) {
+  if (Array.isArray(value)) {
+    const items = value.map((item) => stringifyToJs(item));
+    return `[${items.join(',')}]`;
+  }
+  else if (typeof value === 'object') {
+    const items = Object.entries(value).map(([entryKey, entryValues]) => {
+      entryKey = entryKey.includes('-') ? `"${entryKey}"` : `${entryKey}`;
+      entryValues = stringifyToJs(entryValues);
+      return `${entryKey}:${entryValues}`;
+    })
+    return `{${items.join(',')}}`;
+  }
+  else {
+    return JSON.stringify(value);
+  }
 }
 
 // Retrieve emojis online
