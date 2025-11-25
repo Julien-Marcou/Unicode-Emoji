@@ -2131,6 +2131,25 @@
       "subgroup": "face-concerned"
     },
     {
+      "emoji": "🫪",
+      "description": "distorted face",
+      "version": "17.0",
+      "keywords": [
+        "anxiety",
+        "bloated",
+        "panic",
+        "shocked",
+        "surprised",
+        "vulnerable"
+      ],
+      "codePoints": [
+        "1FAEA"
+      ],
+      "category": "face-emotion",
+      "group": "smileys-emotion",
+      "subgroup": "face-concerned"
+    },
+    {
       "emoji": "🥺",
       "description": "pleading face",
       "version": "11.0",
@@ -3776,6 +3795,26 @@
       ],
       "codePoints": [
         "1F4A2"
+      ],
+      "category": "face-emotion",
+      "group": "smileys-emotion",
+      "subgroup": "emotion"
+    },
+    {
+      "emoji": "🫯",
+      "description": "fight cloud",
+      "version": "17.0",
+      "keywords": [
+        "argument",
+        "brawl",
+        "debate",
+        "disagreement",
+        "fight",
+        "ruckus",
+        "wrestle"
+      ],
+      "codePoints": [
+        "1FAEF"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -35025,6 +35064,27 @@
       "subgroup": "person-fantasy"
     },
     {
+      "emoji": "🫈",
+      "description": "hairy creature",
+      "version": "17.0",
+      "keywords": [
+        "bigfoot",
+        "cryptid",
+        "forest",
+        "giant",
+        "hairy",
+        "sasquatch",
+        "woodwose",
+        "yeti"
+      ],
+      "codePoints": [
+        "1FAC8"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-fantasy"
+    },
+    {
       "emoji": "💆",
       "description": "person getting massage",
       "version": "0.6",
@@ -36598,16 +36658,18 @@
     },
     {
       "emoji": "🚶‍➡️",
-      "description": "person walking facing right",
+      "description": "person walking: facing right",
       "version": "15.1",
       "keywords": [
         "amble",
+        "facing",
         "gait",
         "hike",
         "man",
         "pace",
         "pedestrian",
         "person",
+        "right",
         "stride",
         "stroll",
         "walk",
@@ -36625,16 +36687,19 @@
       "variations": [
         {
           "emoji": "🚶🏻‍➡️",
-          "description": "person walking facing right",
+          "description": "person walking: light skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "amble",
+            "facing",
             "gait",
             "hike",
+            "light skin tone",
             "man",
             "pace",
             "pedestrian",
             "person",
+            "right",
             "stride",
             "stroll",
             "walk",
@@ -36653,16 +36718,19 @@
         },
         {
           "emoji": "🚶🏼‍➡️",
-          "description": "person walking facing right",
+          "description": "person walking: medium-light skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "amble",
+            "facing",
             "gait",
             "hike",
             "man",
+            "medium-light skin tone",
             "pace",
             "pedestrian",
             "person",
+            "right",
             "stride",
             "stroll",
             "walk",
@@ -36681,16 +36749,19 @@
         },
         {
           "emoji": "🚶🏽‍➡️",
-          "description": "person walking facing right",
+          "description": "person walking: medium skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "amble",
+            "facing",
             "gait",
             "hike",
             "man",
+            "medium skin tone",
             "pace",
             "pedestrian",
             "person",
+            "right",
             "stride",
             "stroll",
             "walk",
@@ -36709,16 +36780,19 @@
         },
         {
           "emoji": "🚶🏾‍➡️",
-          "description": "person walking facing right",
+          "description": "person walking: medium-dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "amble",
+            "facing",
             "gait",
             "hike",
             "man",
+            "medium-dark skin tone",
             "pace",
             "pedestrian",
             "person",
+            "right",
             "stride",
             "stroll",
             "walk",
@@ -36737,16 +36811,19 @@
         },
         {
           "emoji": "🚶🏿‍➡️",
-          "description": "person walking facing right",
+          "description": "person walking: dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "amble",
+            "dark skin tone",
+            "facing",
             "gait",
             "hike",
             "man",
             "pace",
             "pedestrian",
             "person",
+            "right",
             "stride",
             "stroll",
             "walk",
@@ -36767,15 +36844,17 @@
     },
     {
       "emoji": "🚶‍♀️‍➡️",
-      "description": "woman walking facing right",
+      "description": "woman walking: facing right",
       "version": "15.1",
       "keywords": [
         "amble",
+        "facing",
         "gait",
         "hike",
         "man",
         "pace",
         "pedestrian",
+        "right",
         "stride",
         "stroll",
         "walk",
@@ -36797,15 +36876,18 @@
       "variations": [
         {
           "emoji": "🚶🏻‍♀️‍➡️",
-          "description": "woman walking facing right",
+          "description": "woman walking: light skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "amble",
+            "facing",
             "gait",
             "hike",
+            "light skin tone",
             "man",
             "pace",
             "pedestrian",
+            "right",
             "stride",
             "stroll",
             "walk",
@@ -36828,15 +36910,18 @@
         },
         {
           "emoji": "🚶🏼‍♀️‍➡️",
-          "description": "woman walking facing right",
+          "description": "woman walking: medium-light skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "amble",
+            "facing",
             "gait",
             "hike",
             "man",
+            "medium-light skin tone",
             "pace",
             "pedestrian",
+            "right",
             "stride",
             "stroll",
             "walk",
@@ -36859,15 +36944,18 @@
         },
         {
           "emoji": "🚶🏽‍♀️‍➡️",
-          "description": "woman walking facing right",
+          "description": "woman walking: medium skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "amble",
+            "facing",
             "gait",
             "hike",
             "man",
+            "medium skin tone",
             "pace",
             "pedestrian",
+            "right",
             "stride",
             "stroll",
             "walk",
@@ -36890,15 +36978,18 @@
         },
         {
           "emoji": "🚶🏾‍♀️‍➡️",
-          "description": "woman walking facing right",
+          "description": "woman walking: medium-dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "amble",
+            "facing",
             "gait",
             "hike",
             "man",
+            "medium-dark skin tone",
             "pace",
             "pedestrian",
+            "right",
             "stride",
             "stroll",
             "walk",
@@ -36921,15 +37012,18 @@
         },
         {
           "emoji": "🚶🏿‍♀️‍➡️",
-          "description": "woman walking facing right",
+          "description": "woman walking: dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "amble",
+            "dark skin tone",
+            "facing",
             "gait",
             "hike",
             "man",
             "pace",
             "pedestrian",
+            "right",
             "stride",
             "stroll",
             "walk",
@@ -36954,15 +37048,17 @@
     },
     {
       "emoji": "🚶‍♂️‍➡️",
-      "description": "man walking facing right",
+      "description": "man walking: facing right",
       "version": "15.1",
       "keywords": [
         "amble",
+        "facing",
         "gait",
         "hike",
         "man",
         "pace",
         "pedestrian",
+        "right",
         "stride",
         "stroll",
         "walk",
@@ -36983,15 +37079,18 @@
       "variations": [
         {
           "emoji": "🚶🏻‍♂️‍➡️",
-          "description": "man walking facing right",
+          "description": "man walking: light skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "amble",
+            "facing",
             "gait",
             "hike",
+            "light skin tone",
             "man",
             "pace",
             "pedestrian",
+            "right",
             "stride",
             "stroll",
             "walk",
@@ -37013,15 +37112,18 @@
         },
         {
           "emoji": "🚶🏼‍♂️‍➡️",
-          "description": "man walking facing right",
+          "description": "man walking: medium-light skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "amble",
+            "facing",
             "gait",
             "hike",
             "man",
+            "medium-light skin tone",
             "pace",
             "pedestrian",
+            "right",
             "stride",
             "stroll",
             "walk",
@@ -37043,15 +37145,18 @@
         },
         {
           "emoji": "🚶🏽‍♂️‍➡️",
-          "description": "man walking facing right",
+          "description": "man walking: medium skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "amble",
+            "facing",
             "gait",
             "hike",
             "man",
+            "medium skin tone",
             "pace",
             "pedestrian",
+            "right",
             "stride",
             "stroll",
             "walk",
@@ -37073,15 +37178,18 @@
         },
         {
           "emoji": "🚶🏾‍♂️‍➡️",
-          "description": "man walking facing right",
+          "description": "man walking: medium-dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "amble",
+            "facing",
             "gait",
             "hike",
             "man",
+            "medium-dark skin tone",
             "pace",
             "pedestrian",
+            "right",
             "stride",
             "stroll",
             "walk",
@@ -37103,15 +37211,18 @@
         },
         {
           "emoji": "🚶🏿‍♂️‍➡️",
-          "description": "man walking facing right",
+          "description": "man walking: dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "amble",
+            "dark skin tone",
+            "facing",
             "gait",
             "hike",
             "man",
             "pace",
             "pedestrian",
+            "right",
             "stride",
             "stroll",
             "walk",
@@ -37873,13 +37984,15 @@
     },
     {
       "emoji": "🧎‍➡️",
-      "description": "person kneeling facing right",
+      "description": "person kneeling: facing right",
       "version": "15.1",
       "keywords": [
+        "facing",
         "kneel",
         "kneeling",
         "knees",
-        "person"
+        "person",
+        "right"
       ],
       "codePoints": [
         "1F9CE",
@@ -37893,13 +38006,16 @@
       "variations": [
         {
           "emoji": "🧎🏻‍➡️",
-          "description": "person kneeling facing right",
+          "description": "person kneeling: light skin tone, facing right",
           "version": "15.1",
           "keywords": [
+            "facing",
             "kneel",
             "kneeling",
             "knees",
-            "person"
+            "light skin tone",
+            "person",
+            "right"
           ],
           "codePoints": [
             "1F9CE",
@@ -37914,13 +38030,16 @@
         },
         {
           "emoji": "🧎🏼‍➡️",
-          "description": "person kneeling facing right",
+          "description": "person kneeling: medium-light skin tone, facing right",
           "version": "15.1",
           "keywords": [
+            "facing",
             "kneel",
             "kneeling",
             "knees",
-            "person"
+            "medium-light skin tone",
+            "person",
+            "right"
           ],
           "codePoints": [
             "1F9CE",
@@ -37935,13 +38054,16 @@
         },
         {
           "emoji": "🧎🏽‍➡️",
-          "description": "person kneeling facing right",
+          "description": "person kneeling: medium skin tone, facing right",
           "version": "15.1",
           "keywords": [
+            "facing",
             "kneel",
             "kneeling",
             "knees",
-            "person"
+            "medium skin tone",
+            "person",
+            "right"
           ],
           "codePoints": [
             "1F9CE",
@@ -37956,13 +38078,16 @@
         },
         {
           "emoji": "🧎🏾‍➡️",
-          "description": "person kneeling facing right",
+          "description": "person kneeling: medium-dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
+            "facing",
             "kneel",
             "kneeling",
             "knees",
-            "person"
+            "medium-dark skin tone",
+            "person",
+            "right"
           ],
           "codePoints": [
             "1F9CE",
@@ -37977,13 +38102,16 @@
         },
         {
           "emoji": "🧎🏿‍➡️",
-          "description": "person kneeling facing right",
+          "description": "person kneeling: dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
+            "dark skin tone",
+            "facing",
             "kneel",
             "kneeling",
             "knees",
-            "person"
+            "person",
+            "right"
           ],
           "codePoints": [
             "1F9CE",
@@ -38000,12 +38128,14 @@
     },
     {
       "emoji": "🧎‍♀️‍➡️",
-      "description": "woman kneeling facing right",
+      "description": "woman kneeling: facing right",
       "version": "15.1",
       "keywords": [
+        "facing",
         "kneel",
         "kneeling",
         "knees",
+        "right",
         "woman"
       ],
       "codePoints": [
@@ -38023,12 +38153,15 @@
       "variations": [
         {
           "emoji": "🧎🏻‍♀️‍➡️",
-          "description": "woman kneeling facing right",
+          "description": "woman kneeling: light skin tone, facing right",
           "version": "15.1",
           "keywords": [
+            "facing",
             "kneel",
             "kneeling",
             "knees",
+            "light skin tone",
+            "right",
             "woman"
           ],
           "codePoints": [
@@ -38047,12 +38180,15 @@
         },
         {
           "emoji": "🧎🏼‍♀️‍➡️",
-          "description": "woman kneeling facing right",
+          "description": "woman kneeling: medium-light skin tone, facing right",
           "version": "15.1",
           "keywords": [
+            "facing",
             "kneel",
             "kneeling",
             "knees",
+            "medium-light skin tone",
+            "right",
             "woman"
           ],
           "codePoints": [
@@ -38071,12 +38207,15 @@
         },
         {
           "emoji": "🧎🏽‍♀️‍➡️",
-          "description": "woman kneeling facing right",
+          "description": "woman kneeling: medium skin tone, facing right",
           "version": "15.1",
           "keywords": [
+            "facing",
             "kneel",
             "kneeling",
             "knees",
+            "medium skin tone",
+            "right",
             "woman"
           ],
           "codePoints": [
@@ -38095,12 +38234,15 @@
         },
         {
           "emoji": "🧎🏾‍♀️‍➡️",
-          "description": "woman kneeling facing right",
+          "description": "woman kneeling: medium-dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
+            "facing",
             "kneel",
             "kneeling",
             "knees",
+            "medium-dark skin tone",
+            "right",
             "woman"
           ],
           "codePoints": [
@@ -38119,12 +38261,15 @@
         },
         {
           "emoji": "🧎🏿‍♀️‍➡️",
-          "description": "woman kneeling facing right",
+          "description": "woman kneeling: dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
+            "dark skin tone",
+            "facing",
             "kneel",
             "kneeling",
             "knees",
+            "right",
             "woman"
           ],
           "codePoints": [
@@ -38145,13 +38290,15 @@
     },
     {
       "emoji": "🧎‍♂️‍➡️",
-      "description": "man kneeling facing right",
+      "description": "man kneeling: facing right",
       "version": "15.1",
       "keywords": [
+        "facing",
         "kneel",
         "kneeling",
         "knees",
-        "man"
+        "man",
+        "right"
       ],
       "codePoints": [
         "1F9CE",
@@ -38168,13 +38315,16 @@
       "variations": [
         {
           "emoji": "🧎🏻‍♂️‍➡️",
-          "description": "man kneeling facing right",
+          "description": "man kneeling: light skin tone, facing right",
           "version": "15.1",
           "keywords": [
+            "facing",
             "kneel",
             "kneeling",
             "knees",
-            "man"
+            "light skin tone",
+            "man",
+            "right"
           ],
           "codePoints": [
             "1F9CE",
@@ -38192,13 +38342,16 @@
         },
         {
           "emoji": "🧎🏼‍♂️‍➡️",
-          "description": "man kneeling facing right",
+          "description": "man kneeling: medium-light skin tone, facing right",
           "version": "15.1",
           "keywords": [
+            "facing",
             "kneel",
             "kneeling",
             "knees",
-            "man"
+            "man",
+            "medium-light skin tone",
+            "right"
           ],
           "codePoints": [
             "1F9CE",
@@ -38216,13 +38369,16 @@
         },
         {
           "emoji": "🧎🏽‍♂️‍➡️",
-          "description": "man kneeling facing right",
+          "description": "man kneeling: medium skin tone, facing right",
           "version": "15.1",
           "keywords": [
+            "facing",
             "kneel",
             "kneeling",
             "knees",
-            "man"
+            "man",
+            "medium skin tone",
+            "right"
           ],
           "codePoints": [
             "1F9CE",
@@ -38240,13 +38396,16 @@
         },
         {
           "emoji": "🧎🏾‍♂️‍➡️",
-          "description": "man kneeling facing right",
+          "description": "man kneeling: medium-dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
+            "facing",
             "kneel",
             "kneeling",
             "knees",
-            "man"
+            "man",
+            "medium-dark skin tone",
+            "right"
           ],
           "codePoints": [
             "1F9CE",
@@ -38264,13 +38423,16 @@
         },
         {
           "emoji": "🧎🏿‍♂️‍➡️",
-          "description": "man kneeling facing right",
+          "description": "man kneeling: dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
+            "dark skin tone",
+            "facing",
             "kneel",
             "kneeling",
             "knees",
-            "man"
+            "man",
+            "right"
           ],
           "codePoints": [
             "1F9CE",
@@ -38428,14 +38590,16 @@
     },
     {
       "emoji": "🧑‍🦯‍➡️",
-      "description": "person with white cane facing right",
+      "description": "person with white cane: facing right",
       "version": "15.1",
       "keywords": [
         "accessibility",
         "blind",
         "cane",
+        "facing",
         "person",
         "probing",
+        "right",
         "white"
       ],
       "codePoints": [
@@ -38452,14 +38616,17 @@
       "variations": [
         {
           "emoji": "🧑🏻‍🦯‍➡️",
-          "description": "person with white cane facing right",
+          "description": "person with white cane: light skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
             "blind",
             "cane",
+            "facing",
+            "light skin tone",
             "person",
             "probing",
+            "right",
             "white"
           ],
           "codePoints": [
@@ -38477,14 +38644,17 @@
         },
         {
           "emoji": "🧑🏼‍🦯‍➡️",
-          "description": "person with white cane facing right",
+          "description": "person with white cane: medium-light skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
             "blind",
             "cane",
+            "facing",
+            "medium-light skin tone",
             "person",
             "probing",
+            "right",
             "white"
           ],
           "codePoints": [
@@ -38502,14 +38672,17 @@
         },
         {
           "emoji": "🧑🏽‍🦯‍➡️",
-          "description": "person with white cane facing right",
+          "description": "person with white cane: medium skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
             "blind",
             "cane",
+            "facing",
+            "medium skin tone",
             "person",
             "probing",
+            "right",
             "white"
           ],
           "codePoints": [
@@ -38527,14 +38700,17 @@
         },
         {
           "emoji": "🧑🏾‍🦯‍➡️",
-          "description": "person with white cane facing right",
+          "description": "person with white cane: medium-dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
             "blind",
             "cane",
+            "facing",
+            "medium-dark skin tone",
             "person",
             "probing",
+            "right",
             "white"
           ],
           "codePoints": [
@@ -38552,14 +38728,17 @@
         },
         {
           "emoji": "🧑🏿‍🦯‍➡️",
-          "description": "person with white cane facing right",
+          "description": "person with white cane: dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
             "blind",
             "cane",
+            "dark skin tone",
+            "facing",
             "person",
             "probing",
+            "right",
             "white"
           ],
           "codePoints": [
@@ -38717,14 +38896,16 @@
     },
     {
       "emoji": "👨‍🦯‍➡️",
-      "description": "man with white cane facing right",
+      "description": "man with white cane: facing right",
       "version": "15.1",
       "keywords": [
         "accessibility",
         "blind",
         "cane",
+        "facing",
         "man",
         "probing",
+        "right",
         "white"
       ],
       "codePoints": [
@@ -38741,14 +38922,17 @@
       "variations": [
         {
           "emoji": "👨🏻‍🦯‍➡️",
-          "description": "man with white cane facing right",
+          "description": "man with white cane: light skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
             "blind",
             "cane",
+            "facing",
+            "light skin tone",
             "man",
             "probing",
+            "right",
             "white"
           ],
           "codePoints": [
@@ -38766,14 +38950,17 @@
         },
         {
           "emoji": "👨🏼‍🦯‍➡️",
-          "description": "man with white cane facing right",
+          "description": "man with white cane: medium-light skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
             "blind",
             "cane",
+            "facing",
             "man",
+            "medium-light skin tone",
             "probing",
+            "right",
             "white"
           ],
           "codePoints": [
@@ -38791,14 +38978,17 @@
         },
         {
           "emoji": "👨🏽‍🦯‍➡️",
-          "description": "man with white cane facing right",
+          "description": "man with white cane: medium skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
             "blind",
             "cane",
+            "facing",
             "man",
+            "medium skin tone",
             "probing",
+            "right",
             "white"
           ],
           "codePoints": [
@@ -38816,14 +39006,17 @@
         },
         {
           "emoji": "👨🏾‍🦯‍➡️",
-          "description": "man with white cane facing right",
+          "description": "man with white cane: medium-dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
             "blind",
             "cane",
+            "facing",
             "man",
+            "medium-dark skin tone",
             "probing",
+            "right",
             "white"
           ],
           "codePoints": [
@@ -38841,14 +39034,17 @@
         },
         {
           "emoji": "👨🏿‍🦯‍➡️",
-          "description": "man with white cane facing right",
+          "description": "man with white cane: dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
             "blind",
             "cane",
+            "dark skin tone",
+            "facing",
             "man",
             "probing",
+            "right",
             "white"
           ],
           "codePoints": [
@@ -39006,13 +39202,15 @@
     },
     {
       "emoji": "👩‍🦯‍➡️",
-      "description": "woman with white cane facing right",
+      "description": "woman with white cane: facing right",
       "version": "15.1",
       "keywords": [
         "accessibility",
         "blind",
         "cane",
+        "facing",
         "probing",
+        "right",
         "white",
         "woman"
       ],
@@ -39030,13 +39228,16 @@
       "variations": [
         {
           "emoji": "👩🏻‍🦯‍➡️",
-          "description": "woman with white cane facing right",
+          "description": "woman with white cane: light skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
             "blind",
             "cane",
+            "facing",
+            "light skin tone",
             "probing",
+            "right",
             "white",
             "woman"
           ],
@@ -39055,13 +39256,16 @@
         },
         {
           "emoji": "👩🏼‍🦯‍➡️",
-          "description": "woman with white cane facing right",
+          "description": "woman with white cane: medium-light skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
             "blind",
             "cane",
+            "facing",
+            "medium-light skin tone",
             "probing",
+            "right",
             "white",
             "woman"
           ],
@@ -39080,13 +39284,16 @@
         },
         {
           "emoji": "👩🏽‍🦯‍➡️",
-          "description": "woman with white cane facing right",
+          "description": "woman with white cane: medium skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
             "blind",
             "cane",
+            "facing",
+            "medium skin tone",
             "probing",
+            "right",
             "white",
             "woman"
           ],
@@ -39105,13 +39312,16 @@
         },
         {
           "emoji": "👩🏾‍🦯‍➡️",
-          "description": "woman with white cane facing right",
+          "description": "woman with white cane: medium-dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
             "blind",
             "cane",
+            "facing",
+            "medium-dark skin tone",
             "probing",
+            "right",
             "white",
             "woman"
           ],
@@ -39130,13 +39340,16 @@
         },
         {
           "emoji": "👩🏿‍🦯‍➡️",
-          "description": "woman with white cane facing right",
+          "description": "woman with white cane: dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
             "blind",
             "cane",
+            "dark skin tone",
+            "facing",
             "probing",
+            "right",
             "white",
             "woman"
           ],
@@ -39283,12 +39496,14 @@
     },
     {
       "emoji": "🧑‍🦼‍➡️",
-      "description": "person in motorized wheelchair facing right",
+      "description": "person in motorized wheelchair: facing right",
       "version": "15.1",
       "keywords": [
         "accessibility",
+        "facing",
         "motorized",
         "person",
+        "right",
         "wheelchair"
       ],
       "codePoints": [
@@ -39305,12 +39520,15 @@
       "variations": [
         {
           "emoji": "🧑🏻‍🦼‍➡️",
-          "description": "person in motorized wheelchair facing right",
+          "description": "person in motorized wheelchair: light skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
+            "facing",
+            "light skin tone",
             "motorized",
             "person",
+            "right",
             "wheelchair"
           ],
           "codePoints": [
@@ -39328,12 +39546,15 @@
         },
         {
           "emoji": "🧑🏼‍🦼‍➡️",
-          "description": "person in motorized wheelchair facing right",
+          "description": "person in motorized wheelchair: medium-light skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
+            "facing",
+            "medium-light skin tone",
             "motorized",
             "person",
+            "right",
             "wheelchair"
           ],
           "codePoints": [
@@ -39351,12 +39572,15 @@
         },
         {
           "emoji": "🧑🏽‍🦼‍➡️",
-          "description": "person in motorized wheelchair facing right",
+          "description": "person in motorized wheelchair: medium skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
+            "facing",
+            "medium skin tone",
             "motorized",
             "person",
+            "right",
             "wheelchair"
           ],
           "codePoints": [
@@ -39374,12 +39598,15 @@
         },
         {
           "emoji": "🧑🏾‍🦼‍➡️",
-          "description": "person in motorized wheelchair facing right",
+          "description": "person in motorized wheelchair: medium-dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
+            "facing",
+            "medium-dark skin tone",
             "motorized",
             "person",
+            "right",
             "wheelchair"
           ],
           "codePoints": [
@@ -39397,12 +39624,15 @@
         },
         {
           "emoji": "🧑🏿‍🦼‍➡️",
-          "description": "person in motorized wheelchair facing right",
+          "description": "person in motorized wheelchair: dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
+            "dark skin tone",
+            "facing",
             "motorized",
             "person",
+            "right",
             "wheelchair"
           ],
           "codePoints": [
@@ -39548,12 +39778,14 @@
     },
     {
       "emoji": "👨‍🦼‍➡️",
-      "description": "man in motorized wheelchair facing right",
+      "description": "man in motorized wheelchair: facing right",
       "version": "15.1",
       "keywords": [
         "accessibility",
+        "facing",
         "man",
         "motorized",
+        "right",
         "wheelchair"
       ],
       "codePoints": [
@@ -39570,12 +39802,15 @@
       "variations": [
         {
           "emoji": "👨🏻‍🦼‍➡️",
-          "description": "man in motorized wheelchair facing right",
+          "description": "man in motorized wheelchair: light skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
+            "facing",
+            "light skin tone",
             "man",
             "motorized",
+            "right",
             "wheelchair"
           ],
           "codePoints": [
@@ -39593,12 +39828,15 @@
         },
         {
           "emoji": "👨🏼‍🦼‍➡️",
-          "description": "man in motorized wheelchair facing right",
+          "description": "man in motorized wheelchair: medium-light skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
+            "facing",
             "man",
+            "medium-light skin tone",
             "motorized",
+            "right",
             "wheelchair"
           ],
           "codePoints": [
@@ -39616,12 +39854,15 @@
         },
         {
           "emoji": "👨🏽‍🦼‍➡️",
-          "description": "man in motorized wheelchair facing right",
+          "description": "man in motorized wheelchair: medium skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
+            "facing",
             "man",
+            "medium skin tone",
             "motorized",
+            "right",
             "wheelchair"
           ],
           "codePoints": [
@@ -39639,12 +39880,15 @@
         },
         {
           "emoji": "👨🏾‍🦼‍➡️",
-          "description": "man in motorized wheelchair facing right",
+          "description": "man in motorized wheelchair: medium-dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
+            "facing",
             "man",
+            "medium-dark skin tone",
             "motorized",
+            "right",
             "wheelchair"
           ],
           "codePoints": [
@@ -39662,12 +39906,15 @@
         },
         {
           "emoji": "👨🏿‍🦼‍➡️",
-          "description": "man in motorized wheelchair facing right",
+          "description": "man in motorized wheelchair: dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
+            "dark skin tone",
+            "facing",
             "man",
             "motorized",
+            "right",
             "wheelchair"
           ],
           "codePoints": [
@@ -39813,11 +40060,13 @@
     },
     {
       "emoji": "👩‍🦼‍➡️",
-      "description": "woman in motorized wheelchair facing right",
+      "description": "woman in motorized wheelchair: facing right",
       "version": "15.1",
       "keywords": [
         "accessibility",
+        "facing",
         "motorized",
+        "right",
         "wheelchair",
         "woman"
       ],
@@ -39835,11 +40084,14 @@
       "variations": [
         {
           "emoji": "👩🏻‍🦼‍➡️",
-          "description": "woman in motorized wheelchair facing right",
+          "description": "woman in motorized wheelchair: light skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
+            "facing",
+            "light skin tone",
             "motorized",
+            "right",
             "wheelchair",
             "woman"
           ],
@@ -39858,11 +40110,14 @@
         },
         {
           "emoji": "👩🏼‍🦼‍➡️",
-          "description": "woman in motorized wheelchair facing right",
+          "description": "woman in motorized wheelchair: medium-light skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
+            "facing",
+            "medium-light skin tone",
             "motorized",
+            "right",
             "wheelchair",
             "woman"
           ],
@@ -39881,11 +40136,14 @@
         },
         {
           "emoji": "👩🏽‍🦼‍➡️",
-          "description": "woman in motorized wheelchair facing right",
+          "description": "woman in motorized wheelchair: medium skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
+            "facing",
+            "medium skin tone",
             "motorized",
+            "right",
             "wheelchair",
             "woman"
           ],
@@ -39904,11 +40162,14 @@
         },
         {
           "emoji": "👩🏾‍🦼‍➡️",
-          "description": "woman in motorized wheelchair facing right",
+          "description": "woman in motorized wheelchair: medium-dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
+            "facing",
+            "medium-dark skin tone",
             "motorized",
+            "right",
             "wheelchair",
             "woman"
           ],
@@ -39927,11 +40188,14 @@
         },
         {
           "emoji": "👩🏿‍🦼‍➡️",
-          "description": "woman in motorized wheelchair facing right",
+          "description": "woman in motorized wheelchair: dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
+            "dark skin tone",
+            "facing",
             "motorized",
+            "right",
             "wheelchair",
             "woman"
           ],
@@ -40078,12 +40342,14 @@
     },
     {
       "emoji": "🧑‍🦽‍➡️",
-      "description": "person in manual wheelchair facing right",
+      "description": "person in manual wheelchair: facing right",
       "version": "15.1",
       "keywords": [
         "accessibility",
+        "facing",
         "manual",
         "person",
+        "right",
         "wheelchair"
       ],
       "codePoints": [
@@ -40100,12 +40366,15 @@
       "variations": [
         {
           "emoji": "🧑🏻‍🦽‍➡️",
-          "description": "person in manual wheelchair facing right",
+          "description": "person in manual wheelchair: light skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
+            "facing",
+            "light skin tone",
             "manual",
             "person",
+            "right",
             "wheelchair"
           ],
           "codePoints": [
@@ -40123,12 +40392,15 @@
         },
         {
           "emoji": "🧑🏼‍🦽‍➡️",
-          "description": "person in manual wheelchair facing right",
+          "description": "person in manual wheelchair: medium-light skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
+            "facing",
             "manual",
+            "medium-light skin tone",
             "person",
+            "right",
             "wheelchair"
           ],
           "codePoints": [
@@ -40146,12 +40418,15 @@
         },
         {
           "emoji": "🧑🏽‍🦽‍➡️",
-          "description": "person in manual wheelchair facing right",
+          "description": "person in manual wheelchair: medium skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
+            "facing",
             "manual",
+            "medium skin tone",
             "person",
+            "right",
             "wheelchair"
           ],
           "codePoints": [
@@ -40169,12 +40444,15 @@
         },
         {
           "emoji": "🧑🏾‍🦽‍➡️",
-          "description": "person in manual wheelchair facing right",
+          "description": "person in manual wheelchair: medium-dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
+            "facing",
             "manual",
+            "medium-dark skin tone",
             "person",
+            "right",
             "wheelchair"
           ],
           "codePoints": [
@@ -40192,12 +40470,15 @@
         },
         {
           "emoji": "🧑🏿‍🦽‍➡️",
-          "description": "person in manual wheelchair facing right",
+          "description": "person in manual wheelchair: dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
+            "dark skin tone",
+            "facing",
             "manual",
             "person",
+            "right",
             "wheelchair"
           ],
           "codePoints": [
@@ -40343,12 +40624,14 @@
     },
     {
       "emoji": "👨‍🦽‍➡️",
-      "description": "man in manual wheelchair facing right",
+      "description": "man in manual wheelchair: facing right",
       "version": "15.1",
       "keywords": [
         "accessibility",
+        "facing",
         "man",
         "manual",
+        "right",
         "wheelchair"
       ],
       "codePoints": [
@@ -40365,12 +40648,15 @@
       "variations": [
         {
           "emoji": "👨🏻‍🦽‍➡️",
-          "description": "man in manual wheelchair facing right",
+          "description": "man in manual wheelchair: light skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
+            "facing",
+            "light skin tone",
             "man",
             "manual",
+            "right",
             "wheelchair"
           ],
           "codePoints": [
@@ -40388,12 +40674,15 @@
         },
         {
           "emoji": "👨🏼‍🦽‍➡️",
-          "description": "man in manual wheelchair facing right",
+          "description": "man in manual wheelchair: medium-light skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
+            "facing",
             "man",
             "manual",
+            "medium-light skin tone",
+            "right",
             "wheelchair"
           ],
           "codePoints": [
@@ -40411,12 +40700,15 @@
         },
         {
           "emoji": "👨🏽‍🦽‍➡️",
-          "description": "man in manual wheelchair facing right",
+          "description": "man in manual wheelchair: medium skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
+            "facing",
             "man",
             "manual",
+            "medium skin tone",
+            "right",
             "wheelchair"
           ],
           "codePoints": [
@@ -40434,12 +40726,15 @@
         },
         {
           "emoji": "👨🏾‍🦽‍➡️",
-          "description": "man in manual wheelchair facing right",
+          "description": "man in manual wheelchair: medium-dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
+            "facing",
             "man",
             "manual",
+            "medium-dark skin tone",
+            "right",
             "wheelchair"
           ],
           "codePoints": [
@@ -40457,12 +40752,15 @@
         },
         {
           "emoji": "👨🏿‍🦽‍➡️",
-          "description": "man in manual wheelchair facing right",
+          "description": "man in manual wheelchair: dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
+            "dark skin tone",
+            "facing",
             "man",
             "manual",
+            "right",
             "wheelchair"
           ],
           "codePoints": [
@@ -40608,11 +40906,13 @@
     },
     {
       "emoji": "👩‍🦽‍➡️",
-      "description": "woman in manual wheelchair facing right",
+      "description": "woman in manual wheelchair: facing right",
       "version": "15.1",
       "keywords": [
         "accessibility",
+        "facing",
         "manual",
+        "right",
         "wheelchair",
         "woman"
       ],
@@ -40630,11 +40930,14 @@
       "variations": [
         {
           "emoji": "👩🏻‍🦽‍➡️",
-          "description": "woman in manual wheelchair facing right",
+          "description": "woman in manual wheelchair: light skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
+            "facing",
+            "light skin tone",
             "manual",
+            "right",
             "wheelchair",
             "woman"
           ],
@@ -40653,11 +40956,14 @@
         },
         {
           "emoji": "👩🏼‍🦽‍➡️",
-          "description": "woman in manual wheelchair facing right",
+          "description": "woman in manual wheelchair: medium-light skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
+            "facing",
             "manual",
+            "medium-light skin tone",
+            "right",
             "wheelchair",
             "woman"
           ],
@@ -40676,11 +40982,14 @@
         },
         {
           "emoji": "👩🏽‍🦽‍➡️",
-          "description": "woman in manual wheelchair facing right",
+          "description": "woman in manual wheelchair: medium skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
+            "facing",
             "manual",
+            "medium skin tone",
+            "right",
             "wheelchair",
             "woman"
           ],
@@ -40699,11 +41008,14 @@
         },
         {
           "emoji": "👩🏾‍🦽‍➡️",
-          "description": "woman in manual wheelchair facing right",
+          "description": "woman in manual wheelchair: medium-dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
+            "facing",
             "manual",
+            "medium-dark skin tone",
+            "right",
             "wheelchair",
             "woman"
           ],
@@ -40722,11 +41034,14 @@
         },
         {
           "emoji": "👩🏿‍🦽‍➡️",
-          "description": "woman in manual wheelchair facing right",
+          "description": "woman in manual wheelchair: dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
             "accessibility",
+            "dark skin tone",
+            "facing",
             "manual",
+            "right",
             "wheelchair",
             "woman"
           ],
@@ -41251,9 +41566,10 @@
     },
     {
       "emoji": "🏃‍➡️",
-      "description": "person running facing right",
+      "description": "person running: facing right",
       "version": "15.1",
       "keywords": [
+        "facing",
         "fast",
         "hurry",
         "marathon",
@@ -41262,6 +41578,7 @@
         "quick",
         "race",
         "racing",
+        "right",
         "run",
         "rush",
         "speed"
@@ -41278,17 +41595,20 @@
       "variations": [
         {
           "emoji": "🏃🏻‍➡️",
-          "description": "person running facing right",
+          "description": "person running: light skin tone, facing right",
           "version": "15.1",
           "keywords": [
+            "facing",
             "fast",
             "hurry",
+            "light skin tone",
             "marathon",
             "move",
             "person",
             "quick",
             "race",
             "racing",
+            "right",
             "run",
             "rush",
             "speed"
@@ -41306,17 +41626,20 @@
         },
         {
           "emoji": "🏃🏼‍➡️",
-          "description": "person running facing right",
+          "description": "person running: medium-light skin tone, facing right",
           "version": "15.1",
           "keywords": [
+            "facing",
             "fast",
             "hurry",
             "marathon",
+            "medium-light skin tone",
             "move",
             "person",
             "quick",
             "race",
             "racing",
+            "right",
             "run",
             "rush",
             "speed"
@@ -41334,17 +41657,20 @@
         },
         {
           "emoji": "🏃🏽‍➡️",
-          "description": "person running facing right",
+          "description": "person running: medium skin tone, facing right",
           "version": "15.1",
           "keywords": [
+            "facing",
             "fast",
             "hurry",
             "marathon",
+            "medium skin tone",
             "move",
             "person",
             "quick",
             "race",
             "racing",
+            "right",
             "run",
             "rush",
             "speed"
@@ -41362,17 +41688,20 @@
         },
         {
           "emoji": "🏃🏾‍➡️",
-          "description": "person running facing right",
+          "description": "person running: medium-dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
+            "facing",
             "fast",
             "hurry",
             "marathon",
+            "medium-dark skin tone",
             "move",
             "person",
             "quick",
             "race",
             "racing",
+            "right",
             "run",
             "rush",
             "speed"
@@ -41390,9 +41719,11 @@
         },
         {
           "emoji": "🏃🏿‍➡️",
-          "description": "person running facing right",
+          "description": "person running: dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
+            "dark skin tone",
+            "facing",
             "fast",
             "hurry",
             "marathon",
@@ -41401,6 +41732,7 @@
             "quick",
             "race",
             "racing",
+            "right",
             "run",
             "rush",
             "speed"
@@ -41420,9 +41752,10 @@
     },
     {
       "emoji": "🏃‍♀️‍➡️",
-      "description": "woman running facing right",
+      "description": "woman running: facing right",
       "version": "15.1",
       "keywords": [
+        "facing",
         "fast",
         "hurry",
         "marathon",
@@ -41430,6 +41763,7 @@
         "quick",
         "race",
         "racing",
+        "right",
         "run",
         "rush",
         "speed",
@@ -41450,16 +41784,19 @@
       "variations": [
         {
           "emoji": "🏃🏻‍♀️‍➡️",
-          "description": "woman running facing right",
+          "description": "woman running: light skin tone, facing right",
           "version": "15.1",
           "keywords": [
+            "facing",
             "fast",
             "hurry",
+            "light skin tone",
             "marathon",
             "move",
             "quick",
             "race",
             "racing",
+            "right",
             "run",
             "rush",
             "speed",
@@ -41481,16 +41818,19 @@
         },
         {
           "emoji": "🏃🏼‍♀️‍➡️",
-          "description": "woman running facing right",
+          "description": "woman running: medium-light skin tone, facing right",
           "version": "15.1",
           "keywords": [
+            "facing",
             "fast",
             "hurry",
             "marathon",
+            "medium-light skin tone",
             "move",
             "quick",
             "race",
             "racing",
+            "right",
             "run",
             "rush",
             "speed",
@@ -41512,16 +41852,19 @@
         },
         {
           "emoji": "🏃🏽‍♀️‍➡️",
-          "description": "woman running facing right",
+          "description": "woman running: medium skin tone, facing right",
           "version": "15.1",
           "keywords": [
+            "facing",
             "fast",
             "hurry",
             "marathon",
+            "medium skin tone",
             "move",
             "quick",
             "race",
             "racing",
+            "right",
             "run",
             "rush",
             "speed",
@@ -41543,16 +41886,19 @@
         },
         {
           "emoji": "🏃🏾‍♀️‍➡️",
-          "description": "woman running facing right",
+          "description": "woman running: medium-dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
+            "facing",
             "fast",
             "hurry",
             "marathon",
+            "medium-dark skin tone",
             "move",
             "quick",
             "race",
             "racing",
+            "right",
             "run",
             "rush",
             "speed",
@@ -41574,9 +41920,11 @@
         },
         {
           "emoji": "🏃🏿‍♀️‍➡️",
-          "description": "woman running facing right",
+          "description": "woman running: dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
+            "dark skin tone",
+            "facing",
             "fast",
             "hurry",
             "marathon",
@@ -41584,6 +41932,7 @@
             "quick",
             "race",
             "racing",
+            "right",
             "run",
             "rush",
             "speed",
@@ -41607,9 +41956,10 @@
     },
     {
       "emoji": "🏃‍♂️‍➡️",
-      "description": "man running facing right",
+      "description": "man running: facing right",
       "version": "15.1",
       "keywords": [
+        "facing",
         "fast",
         "hurry",
         "man",
@@ -41618,6 +41968,7 @@
         "quick",
         "race",
         "racing",
+        "right",
         "run",
         "rush",
         "speed"
@@ -41637,17 +41988,20 @@
       "variations": [
         {
           "emoji": "🏃🏻‍♂️‍➡️",
-          "description": "man running facing right",
+          "description": "man running: light skin tone, facing right",
           "version": "15.1",
           "keywords": [
+            "facing",
             "fast",
             "hurry",
+            "light skin tone",
             "man",
             "marathon",
             "move",
             "quick",
             "race",
             "racing",
+            "right",
             "run",
             "rush",
             "speed"
@@ -41668,17 +42022,20 @@
         },
         {
           "emoji": "🏃🏼‍♂️‍➡️",
-          "description": "man running facing right",
+          "description": "man running: medium-light skin tone, facing right",
           "version": "15.1",
           "keywords": [
+            "facing",
             "fast",
             "hurry",
             "man",
             "marathon",
+            "medium-light skin tone",
             "move",
             "quick",
             "race",
             "racing",
+            "right",
             "run",
             "rush",
             "speed"
@@ -41699,17 +42056,20 @@
         },
         {
           "emoji": "🏃🏽‍♂️‍➡️",
-          "description": "man running facing right",
+          "description": "man running: medium skin tone, facing right",
           "version": "15.1",
           "keywords": [
+            "facing",
             "fast",
             "hurry",
             "man",
             "marathon",
+            "medium skin tone",
             "move",
             "quick",
             "race",
             "racing",
+            "right",
             "run",
             "rush",
             "speed"
@@ -41730,17 +42090,20 @@
         },
         {
           "emoji": "🏃🏾‍♂️‍➡️",
-          "description": "man running facing right",
+          "description": "man running: medium-dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
+            "facing",
             "fast",
             "hurry",
             "man",
             "marathon",
+            "medium-dark skin tone",
             "move",
             "quick",
             "race",
             "racing",
+            "right",
             "run",
             "rush",
             "speed"
@@ -41761,9 +42124,11 @@
         },
         {
           "emoji": "🏃🏿‍♂️‍➡️",
-          "description": "man running facing right",
+          "description": "man running: dark skin tone, facing right",
           "version": "15.1",
           "keywords": [
+            "dark skin tone",
+            "facing",
             "fast",
             "hurry",
             "man",
@@ -41772,6 +42137,7 @@
             "quick",
             "race",
             "racing",
+            "right",
             "run",
             "rush",
             "speed"
@@ -41785,6 +42151,120 @@
             "200D",
             "27A1",
             "FE0F"
+          ],
+          "components": [
+            "🏿"
+          ]
+        }
+      ]
+    },
+    {
+      "emoji": "🧑‍🩰",
+      "description": "ballet dancer",
+      "version": "17.0",
+      "keywords": [
+        "ballet",
+        "dancer"
+      ],
+      "codePoints": [
+        "1F9D1",
+        "200D",
+        "1FA70"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "🧑🏻‍🩰",
+          "description": "ballet dancer: light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "ballet",
+            "dancer",
+            "light skin tone"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FB",
+            "200D",
+            "1FA70"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🧑🏼‍🩰",
+          "description": "ballet dancer: medium-light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "ballet",
+            "dancer",
+            "medium-light skin tone"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FC",
+            "200D",
+            "1FA70"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🧑🏽‍🩰",
+          "description": "ballet dancer: medium skin tone",
+          "version": "17.0",
+          "keywords": [
+            "ballet",
+            "dancer",
+            "medium skin tone"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FD",
+            "200D",
+            "1FA70"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🧑🏾‍🩰",
+          "description": "ballet dancer: medium-dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "ballet",
+            "dancer",
+            "medium-dark skin tone"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FE",
+            "200D",
+            "1FA70"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🧑🏿‍🩰",
+          "description": "ballet dancer: dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "ballet",
+            "dancer",
+            "dark skin tone"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FF",
+            "200D",
+            "1FA70"
           ],
           "components": [
             "🏿"
@@ -42257,7 +42737,899 @@
       ],
       "category": "person-people",
       "group": "people-body",
-      "subgroup": "person-activity"
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "👯🏻",
+          "description": "people with bunny ears: light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "light skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F46F",
+            "1F3FB"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👯🏼",
+          "description": "people with bunny ears: medium-light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "medium-light skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F46F",
+            "1F3FC"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👯🏽",
+          "description": "people with bunny ears: medium skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "medium skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F46F",
+            "1F3FD"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👯🏾",
+          "description": "people with bunny ears: medium-dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "medium-dark skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F46F",
+            "1F3FE"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👯🏿",
+          "description": "people with bunny ears: dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "dark skin tone",
+            "double",
+            "ear",
+            "identical",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F46F",
+            "1F3FF"
+          ],
+          "components": [
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "🧑🏻‍🐰‍🧑🏼",
+          "description": "people with bunny ears: light skin tone, medium-light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "light skin tone",
+            "medium-light skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FB",
+            "200D",
+            "1F430",
+            "200D",
+            "1F9D1",
+            "1F3FC"
+          ],
+          "components": [
+            "🏻",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🧑🏻‍🐰‍🧑🏽",
+          "description": "people with bunny ears: light skin tone, medium skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "light skin tone",
+            "medium skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FB",
+            "200D",
+            "1F430",
+            "200D",
+            "1F9D1",
+            "1F3FD"
+          ],
+          "components": [
+            "🏻",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🧑🏻‍🐰‍🧑🏾",
+          "description": "people with bunny ears: light skin tone, medium-dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "light skin tone",
+            "medium-dark skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FB",
+            "200D",
+            "1F430",
+            "200D",
+            "1F9D1",
+            "1F3FE"
+          ],
+          "components": [
+            "🏻",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🧑🏻‍🐰‍🧑🏿",
+          "description": "people with bunny ears: light skin tone, dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "dark skin tone",
+            "double",
+            "ear",
+            "identical",
+            "light skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FB",
+            "200D",
+            "1F430",
+            "200D",
+            "1F9D1",
+            "1F3FF"
+          ],
+          "components": [
+            "🏻",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "🧑🏼‍🐰‍🧑🏻",
+          "description": "people with bunny ears: medium-light skin tone, light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "light skin tone",
+            "medium-light skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FC",
+            "200D",
+            "1F430",
+            "200D",
+            "1F9D1",
+            "1F3FB"
+          ],
+          "components": [
+            "🏼",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🧑🏼‍🐰‍🧑🏽",
+          "description": "people with bunny ears: medium-light skin tone, medium skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "medium skin tone",
+            "medium-light skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FC",
+            "200D",
+            "1F430",
+            "200D",
+            "1F9D1",
+            "1F3FD"
+          ],
+          "components": [
+            "🏼",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🧑🏼‍🐰‍🧑🏾",
+          "description": "people with bunny ears: medium-light skin tone, medium-dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "medium-dark skin tone",
+            "medium-light skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FC",
+            "200D",
+            "1F430",
+            "200D",
+            "1F9D1",
+            "1F3FE"
+          ],
+          "components": [
+            "🏼",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🧑🏼‍🐰‍🧑🏿",
+          "description": "people with bunny ears: medium-light skin tone, dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "dark skin tone",
+            "double",
+            "ear",
+            "identical",
+            "medium-light skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FC",
+            "200D",
+            "1F430",
+            "200D",
+            "1F9D1",
+            "1F3FF"
+          ],
+          "components": [
+            "🏼",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "🧑🏽‍🐰‍🧑🏻",
+          "description": "people with bunny ears: medium skin tone, light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "light skin tone",
+            "medium skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FD",
+            "200D",
+            "1F430",
+            "200D",
+            "1F9D1",
+            "1F3FB"
+          ],
+          "components": [
+            "🏽",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🧑🏽‍🐰‍🧑🏼",
+          "description": "people with bunny ears: medium skin tone, medium-light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "medium skin tone",
+            "medium-light skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FD",
+            "200D",
+            "1F430",
+            "200D",
+            "1F9D1",
+            "1F3FC"
+          ],
+          "components": [
+            "🏽",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🧑🏽‍🐰‍🧑🏾",
+          "description": "people with bunny ears: medium skin tone, medium-dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "medium skin tone",
+            "medium-dark skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FD",
+            "200D",
+            "1F430",
+            "200D",
+            "1F9D1",
+            "1F3FE"
+          ],
+          "components": [
+            "🏽",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🧑🏽‍🐰‍🧑🏿",
+          "description": "people with bunny ears: medium skin tone, dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "dark skin tone",
+            "double",
+            "ear",
+            "identical",
+            "medium skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FD",
+            "200D",
+            "1F430",
+            "200D",
+            "1F9D1",
+            "1F3FF"
+          ],
+          "components": [
+            "🏽",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "🧑🏾‍🐰‍🧑🏻",
+          "description": "people with bunny ears: medium-dark skin tone, light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "light skin tone",
+            "medium-dark skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FE",
+            "200D",
+            "1F430",
+            "200D",
+            "1F9D1",
+            "1F3FB"
+          ],
+          "components": [
+            "🏾",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🧑🏾‍🐰‍🧑🏼",
+          "description": "people with bunny ears: medium-dark skin tone, medium-light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "medium-dark skin tone",
+            "medium-light skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FE",
+            "200D",
+            "1F430",
+            "200D",
+            "1F9D1",
+            "1F3FC"
+          ],
+          "components": [
+            "🏾",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🧑🏾‍🐰‍🧑🏽",
+          "description": "people with bunny ears: medium-dark skin tone, medium skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "medium skin tone",
+            "medium-dark skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FE",
+            "200D",
+            "1F430",
+            "200D",
+            "1F9D1",
+            "1F3FD"
+          ],
+          "components": [
+            "🏾",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🧑🏾‍🐰‍🧑🏿",
+          "description": "people with bunny ears: medium-dark skin tone, dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "dark skin tone",
+            "double",
+            "ear",
+            "identical",
+            "medium-dark skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FE",
+            "200D",
+            "1F430",
+            "200D",
+            "1F9D1",
+            "1F3FF"
+          ],
+          "components": [
+            "🏾",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "🧑🏿‍🐰‍🧑🏻",
+          "description": "people with bunny ears: dark skin tone, light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "dark skin tone",
+            "double",
+            "ear",
+            "identical",
+            "light skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FF",
+            "200D",
+            "1F430",
+            "200D",
+            "1F9D1",
+            "1F3FB"
+          ],
+          "components": [
+            "🏿",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🧑🏿‍🐰‍🧑🏼",
+          "description": "people with bunny ears: dark skin tone, medium-light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "dark skin tone",
+            "double",
+            "ear",
+            "identical",
+            "medium-light skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FF",
+            "200D",
+            "1F430",
+            "200D",
+            "1F9D1",
+            "1F3FC"
+          ],
+          "components": [
+            "🏿",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🧑🏿‍🐰‍🧑🏽",
+          "description": "people with bunny ears: dark skin tone, medium skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "dark skin tone",
+            "double",
+            "ear",
+            "identical",
+            "medium skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FF",
+            "200D",
+            "1F430",
+            "200D",
+            "1F9D1",
+            "1F3FD"
+          ],
+          "components": [
+            "🏿",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🧑🏿‍🐰‍🧑🏾",
+          "description": "people with bunny ears: dark skin tone, medium-dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "dark skin tone",
+            "double",
+            "ear",
+            "identical",
+            "medium-dark skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FF",
+            "200D",
+            "1F430",
+            "200D",
+            "1F9D1",
+            "1F3FE"
+          ],
+          "components": [
+            "🏿",
+            "🏾"
+          ]
+        }
+      ]
     },
     {
       "emoji": "👯‍♂️",
@@ -42289,7 +43661,939 @@
       ],
       "category": "person-people",
       "group": "people-body",
-      "subgroup": "person-activity"
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "👯🏻‍♂️",
+          "description": "men with bunny ears: light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "light skin tone",
+            "men",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F46F",
+            "1F3FB",
+            "200D",
+            "2642",
+            "FE0F"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👯🏼‍♂️",
+          "description": "men with bunny ears: medium-light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "medium-light skin tone",
+            "men",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F46F",
+            "1F3FC",
+            "200D",
+            "2642",
+            "FE0F"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👯🏽‍♂️",
+          "description": "men with bunny ears: medium skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "medium skin tone",
+            "men",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F46F",
+            "1F3FD",
+            "200D",
+            "2642",
+            "FE0F"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👯🏾‍♂️",
+          "description": "men with bunny ears: medium-dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "medium-dark skin tone",
+            "men",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F46F",
+            "1F3FE",
+            "200D",
+            "2642",
+            "FE0F"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👯🏿‍♂️",
+          "description": "men with bunny ears: dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "dark skin tone",
+            "double",
+            "ear",
+            "identical",
+            "men",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F46F",
+            "1F3FF",
+            "200D",
+            "2642",
+            "FE0F"
+          ],
+          "components": [
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👨🏻‍🐰‍👨🏼",
+          "description": "men with bunny ears: light skin tone, medium-light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "light skin tone",
+            "medium-light skin tone",
+            "men",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FB",
+            "200D",
+            "1F430",
+            "200D",
+            "1F468",
+            "1F3FC"
+          ],
+          "components": [
+            "🏻",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👨🏻‍🐰‍👨🏽",
+          "description": "men with bunny ears: light skin tone, medium skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "light skin tone",
+            "medium skin tone",
+            "men",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FB",
+            "200D",
+            "1F430",
+            "200D",
+            "1F468",
+            "1F3FD"
+          ],
+          "components": [
+            "🏻",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👨🏻‍🐰‍👨🏾",
+          "description": "men with bunny ears: light skin tone, medium-dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "light skin tone",
+            "medium-dark skin tone",
+            "men",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FB",
+            "200D",
+            "1F430",
+            "200D",
+            "1F468",
+            "1F3FE"
+          ],
+          "components": [
+            "🏻",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👨🏻‍🐰‍👨🏿",
+          "description": "men with bunny ears: light skin tone, dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "dark skin tone",
+            "double",
+            "ear",
+            "identical",
+            "light skin tone",
+            "men",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FB",
+            "200D",
+            "1F430",
+            "200D",
+            "1F468",
+            "1F3FF"
+          ],
+          "components": [
+            "🏻",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👨🏼‍🐰‍👨🏻",
+          "description": "men with bunny ears: medium-light skin tone, light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "light skin tone",
+            "medium-light skin tone",
+            "men",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FC",
+            "200D",
+            "1F430",
+            "200D",
+            "1F468",
+            "1F3FB"
+          ],
+          "components": [
+            "🏼",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👨🏼‍🐰‍👨🏽",
+          "description": "men with bunny ears: medium-light skin tone, medium skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "medium skin tone",
+            "medium-light skin tone",
+            "men",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FC",
+            "200D",
+            "1F430",
+            "200D",
+            "1F468",
+            "1F3FD"
+          ],
+          "components": [
+            "🏼",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👨🏼‍🐰‍👨🏾",
+          "description": "men with bunny ears: medium-light skin tone, medium-dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "medium-dark skin tone",
+            "medium-light skin tone",
+            "men",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FC",
+            "200D",
+            "1F430",
+            "200D",
+            "1F468",
+            "1F3FE"
+          ],
+          "components": [
+            "🏼",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👨🏼‍🐰‍👨🏿",
+          "description": "men with bunny ears: medium-light skin tone, dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "dark skin tone",
+            "double",
+            "ear",
+            "identical",
+            "medium-light skin tone",
+            "men",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FC",
+            "200D",
+            "1F430",
+            "200D",
+            "1F468",
+            "1F3FF"
+          ],
+          "components": [
+            "🏼",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👨🏽‍🐰‍👨🏻",
+          "description": "men with bunny ears: medium skin tone, light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "light skin tone",
+            "medium skin tone",
+            "men",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FD",
+            "200D",
+            "1F430",
+            "200D",
+            "1F468",
+            "1F3FB"
+          ],
+          "components": [
+            "🏽",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👨🏽‍🐰‍👨🏼",
+          "description": "men with bunny ears: medium skin tone, medium-light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "medium skin tone",
+            "medium-light skin tone",
+            "men",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FD",
+            "200D",
+            "1F430",
+            "200D",
+            "1F468",
+            "1F3FC"
+          ],
+          "components": [
+            "🏽",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👨🏽‍🐰‍👨🏾",
+          "description": "men with bunny ears: medium skin tone, medium-dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "medium skin tone",
+            "medium-dark skin tone",
+            "men",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FD",
+            "200D",
+            "1F430",
+            "200D",
+            "1F468",
+            "1F3FE"
+          ],
+          "components": [
+            "🏽",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👨🏽‍🐰‍👨🏿",
+          "description": "men with bunny ears: medium skin tone, dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "dark skin tone",
+            "double",
+            "ear",
+            "identical",
+            "medium skin tone",
+            "men",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FD",
+            "200D",
+            "1F430",
+            "200D",
+            "1F468",
+            "1F3FF"
+          ],
+          "components": [
+            "🏽",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👨🏾‍🐰‍👨🏻",
+          "description": "men with bunny ears: medium-dark skin tone, light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "light skin tone",
+            "medium-dark skin tone",
+            "men",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FE",
+            "200D",
+            "1F430",
+            "200D",
+            "1F468",
+            "1F3FB"
+          ],
+          "components": [
+            "🏾",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👨🏾‍🐰‍👨🏼",
+          "description": "men with bunny ears: medium-dark skin tone, medium-light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "medium-dark skin tone",
+            "medium-light skin tone",
+            "men",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FE",
+            "200D",
+            "1F430",
+            "200D",
+            "1F468",
+            "1F3FC"
+          ],
+          "components": [
+            "🏾",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👨🏾‍🐰‍👨🏽",
+          "description": "men with bunny ears: medium-dark skin tone, medium skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "medium skin tone",
+            "medium-dark skin tone",
+            "men",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FE",
+            "200D",
+            "1F430",
+            "200D",
+            "1F468",
+            "1F3FD"
+          ],
+          "components": [
+            "🏾",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👨🏾‍🐰‍👨🏿",
+          "description": "men with bunny ears: medium-dark skin tone, dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "dark skin tone",
+            "double",
+            "ear",
+            "identical",
+            "medium-dark skin tone",
+            "men",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FE",
+            "200D",
+            "1F430",
+            "200D",
+            "1F468",
+            "1F3FF"
+          ],
+          "components": [
+            "🏾",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👨🏿‍🐰‍👨🏻",
+          "description": "men with bunny ears: dark skin tone, light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "dark skin tone",
+            "double",
+            "ear",
+            "identical",
+            "light skin tone",
+            "men",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FF",
+            "200D",
+            "1F430",
+            "200D",
+            "1F468",
+            "1F3FB"
+          ],
+          "components": [
+            "🏿",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👨🏿‍🐰‍👨🏼",
+          "description": "men with bunny ears: dark skin tone, medium-light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "dark skin tone",
+            "double",
+            "ear",
+            "identical",
+            "medium-light skin tone",
+            "men",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FF",
+            "200D",
+            "1F430",
+            "200D",
+            "1F468",
+            "1F3FC"
+          ],
+          "components": [
+            "🏿",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👨🏿‍🐰‍👨🏽",
+          "description": "men with bunny ears: dark skin tone, medium skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "dark skin tone",
+            "double",
+            "ear",
+            "identical",
+            "medium skin tone",
+            "men",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FF",
+            "200D",
+            "1F430",
+            "200D",
+            "1F468",
+            "1F3FD"
+          ],
+          "components": [
+            "🏿",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👨🏿‍🐰‍👨🏾",
+          "description": "men with bunny ears: dark skin tone, medium-dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "dark skin tone",
+            "double",
+            "ear",
+            "identical",
+            "medium-dark skin tone",
+            "men",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FF",
+            "200D",
+            "1F430",
+            "200D",
+            "1F468",
+            "1F3FE"
+          ],
+          "components": [
+            "🏿",
+            "🏾"
+          ]
+        }
+      ]
     },
     {
       "emoji": "👯‍♀️",
@@ -42321,7 +44625,939 @@
       ],
       "category": "person-people",
       "group": "people-body",
-      "subgroup": "person-activity"
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "👯🏻‍♀️",
+          "description": "women with bunny ears: light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "light skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies",
+            "women"
+          ],
+          "codePoints": [
+            "1F46F",
+            "1F3FB",
+            "200D",
+            "2640",
+            "FE0F"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👯🏼‍♀️",
+          "description": "women with bunny ears: medium-light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "medium-light skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies",
+            "women"
+          ],
+          "codePoints": [
+            "1F46F",
+            "1F3FC",
+            "200D",
+            "2640",
+            "FE0F"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👯🏽‍♀️",
+          "description": "women with bunny ears: medium skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "medium skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies",
+            "women"
+          ],
+          "codePoints": [
+            "1F46F",
+            "1F3FD",
+            "200D",
+            "2640",
+            "FE0F"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👯🏾‍♀️",
+          "description": "women with bunny ears: medium-dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "medium-dark skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies",
+            "women"
+          ],
+          "codePoints": [
+            "1F46F",
+            "1F3FE",
+            "200D",
+            "2640",
+            "FE0F"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👯🏿‍♀️",
+          "description": "women with bunny ears: dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "dark skin tone",
+            "double",
+            "ear",
+            "identical",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies",
+            "women"
+          ],
+          "codePoints": [
+            "1F46F",
+            "1F3FF",
+            "200D",
+            "2640",
+            "FE0F"
+          ],
+          "components": [
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👩🏻‍🐰‍👩🏼",
+          "description": "women with bunny ears: light skin tone, medium-light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "light skin tone",
+            "medium-light skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies",
+            "women"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FB",
+            "200D",
+            "1F430",
+            "200D",
+            "1F469",
+            "1F3FC"
+          ],
+          "components": [
+            "🏻",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👩🏻‍🐰‍👩🏽",
+          "description": "women with bunny ears: light skin tone, medium skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "light skin tone",
+            "medium skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies",
+            "women"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FB",
+            "200D",
+            "1F430",
+            "200D",
+            "1F469",
+            "1F3FD"
+          ],
+          "components": [
+            "🏻",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👩🏻‍🐰‍👩🏾",
+          "description": "women with bunny ears: light skin tone, medium-dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "light skin tone",
+            "medium-dark skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies",
+            "women"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FB",
+            "200D",
+            "1F430",
+            "200D",
+            "1F469",
+            "1F3FE"
+          ],
+          "components": [
+            "🏻",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👩🏻‍🐰‍👩🏿",
+          "description": "women with bunny ears: light skin tone, dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "dark skin tone",
+            "double",
+            "ear",
+            "identical",
+            "light skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies",
+            "women"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FB",
+            "200D",
+            "1F430",
+            "200D",
+            "1F469",
+            "1F3FF"
+          ],
+          "components": [
+            "🏻",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👩🏼‍🐰‍👩🏻",
+          "description": "women with bunny ears: medium-light skin tone, light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "light skin tone",
+            "medium-light skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies",
+            "women"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FC",
+            "200D",
+            "1F430",
+            "200D",
+            "1F469",
+            "1F3FB"
+          ],
+          "components": [
+            "🏼",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👩🏼‍🐰‍👩🏽",
+          "description": "women with bunny ears: medium-light skin tone, medium skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "medium skin tone",
+            "medium-light skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies",
+            "women"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FC",
+            "200D",
+            "1F430",
+            "200D",
+            "1F469",
+            "1F3FD"
+          ],
+          "components": [
+            "🏼",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👩🏼‍🐰‍👩🏾",
+          "description": "women with bunny ears: medium-light skin tone, medium-dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "medium-dark skin tone",
+            "medium-light skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies",
+            "women"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FC",
+            "200D",
+            "1F430",
+            "200D",
+            "1F469",
+            "1F3FE"
+          ],
+          "components": [
+            "🏼",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👩🏼‍🐰‍👩🏿",
+          "description": "women with bunny ears: medium-light skin tone, dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "dark skin tone",
+            "double",
+            "ear",
+            "identical",
+            "medium-light skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies",
+            "women"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FC",
+            "200D",
+            "1F430",
+            "200D",
+            "1F469",
+            "1F3FF"
+          ],
+          "components": [
+            "🏼",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👩🏽‍🐰‍👩🏻",
+          "description": "women with bunny ears: medium skin tone, light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "light skin tone",
+            "medium skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies",
+            "women"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FD",
+            "200D",
+            "1F430",
+            "200D",
+            "1F469",
+            "1F3FB"
+          ],
+          "components": [
+            "🏽",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👩🏽‍🐰‍👩🏼",
+          "description": "women with bunny ears: medium skin tone, medium-light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "medium skin tone",
+            "medium-light skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies",
+            "women"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FD",
+            "200D",
+            "1F430",
+            "200D",
+            "1F469",
+            "1F3FC"
+          ],
+          "components": [
+            "🏽",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👩🏽‍🐰‍👩🏾",
+          "description": "women with bunny ears: medium skin tone, medium-dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "medium skin tone",
+            "medium-dark skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies",
+            "women"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FD",
+            "200D",
+            "1F430",
+            "200D",
+            "1F469",
+            "1F3FE"
+          ],
+          "components": [
+            "🏽",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👩🏽‍🐰‍👩🏿",
+          "description": "women with bunny ears: medium skin tone, dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "dark skin tone",
+            "double",
+            "ear",
+            "identical",
+            "medium skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies",
+            "women"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FD",
+            "200D",
+            "1F430",
+            "200D",
+            "1F469",
+            "1F3FF"
+          ],
+          "components": [
+            "🏽",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👩🏾‍🐰‍👩🏻",
+          "description": "women with bunny ears: medium-dark skin tone, light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "light skin tone",
+            "medium-dark skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies",
+            "women"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FE",
+            "200D",
+            "1F430",
+            "200D",
+            "1F469",
+            "1F3FB"
+          ],
+          "components": [
+            "🏾",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👩🏾‍🐰‍👩🏼",
+          "description": "women with bunny ears: medium-dark skin tone, medium-light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "medium-dark skin tone",
+            "medium-light skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies",
+            "women"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FE",
+            "200D",
+            "1F430",
+            "200D",
+            "1F469",
+            "1F3FC"
+          ],
+          "components": [
+            "🏾",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👩🏾‍🐰‍👩🏽",
+          "description": "women with bunny ears: medium-dark skin tone, medium skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "double",
+            "ear",
+            "identical",
+            "medium skin tone",
+            "medium-dark skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies",
+            "women"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FE",
+            "200D",
+            "1F430",
+            "200D",
+            "1F469",
+            "1F3FD"
+          ],
+          "components": [
+            "🏾",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👩🏾‍🐰‍👩🏿",
+          "description": "women with bunny ears: medium-dark skin tone, dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "dark skin tone",
+            "double",
+            "ear",
+            "identical",
+            "medium-dark skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies",
+            "women"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FE",
+            "200D",
+            "1F430",
+            "200D",
+            "1F469",
+            "1F3FF"
+          ],
+          "components": [
+            "🏾",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👩🏿‍🐰‍👩🏻",
+          "description": "women with bunny ears: dark skin tone, light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "dark skin tone",
+            "double",
+            "ear",
+            "identical",
+            "light skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies",
+            "women"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FF",
+            "200D",
+            "1F430",
+            "200D",
+            "1F469",
+            "1F3FB"
+          ],
+          "components": [
+            "🏿",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👩🏿‍🐰‍👩🏼",
+          "description": "women with bunny ears: dark skin tone, medium-light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "dark skin tone",
+            "double",
+            "ear",
+            "identical",
+            "medium-light skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies",
+            "women"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FF",
+            "200D",
+            "1F430",
+            "200D",
+            "1F469",
+            "1F3FC"
+          ],
+          "components": [
+            "🏿",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👩🏿‍🐰‍👩🏽",
+          "description": "women with bunny ears: dark skin tone, medium skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "dark skin tone",
+            "double",
+            "ear",
+            "identical",
+            "medium skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies",
+            "women"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FF",
+            "200D",
+            "1F430",
+            "200D",
+            "1F469",
+            "1F3FD"
+          ],
+          "components": [
+            "🏿",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👩🏿‍🐰‍👩🏾",
+          "description": "women with bunny ears: dark skin tone, medium-dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "bestie",
+            "bff",
+            "bunny",
+            "counterpart",
+            "dancer",
+            "dark skin tone",
+            "double",
+            "ear",
+            "identical",
+            "medium-dark skin tone",
+            "pair",
+            "party",
+            "partying",
+            "people",
+            "soulmate",
+            "twin",
+            "twinsies",
+            "women"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FF",
+            "200D",
+            "1F430",
+            "200D",
+            "1F469",
+            "1F3FE"
+          ],
+          "components": [
+            "🏿",
+            "🏾"
+          ]
+        }
+      ]
     },
     {
       "emoji": "🧖",
@@ -47959,7 +51195,724 @@
       ],
       "category": "person-people",
       "group": "people-body",
-      "subgroup": "person-sport"
+      "subgroup": "person-sport",
+      "variations": [
+        {
+          "emoji": "🤼🏻",
+          "description": "people wrestling: light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "light skin tone",
+            "people",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F93C",
+            "1F3FB"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🤼🏼",
+          "description": "people wrestling: medium-light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "medium-light skin tone",
+            "people",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F93C",
+            "1F3FC"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🤼🏽",
+          "description": "people wrestling: medium skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "medium skin tone",
+            "people",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F93C",
+            "1F3FD"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🤼🏾",
+          "description": "people wrestling: medium-dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "medium-dark skin tone",
+            "people",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F93C",
+            "1F3FE"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🤼🏿",
+          "description": "people wrestling: dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "dark skin tone",
+            "duel",
+            "grapple",
+            "people",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F93C",
+            "1F3FF"
+          ],
+          "components": [
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "🧑🏻‍🫯‍🧑🏼",
+          "description": "people wrestling: light skin tone, medium-light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "light skin tone",
+            "medium-light skin tone",
+            "people",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FB",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F9D1",
+            "1F3FC"
+          ],
+          "components": [
+            "🏻",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🧑🏻‍🫯‍🧑🏽",
+          "description": "people wrestling: light skin tone, medium skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "light skin tone",
+            "medium skin tone",
+            "people",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FB",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F9D1",
+            "1F3FD"
+          ],
+          "components": [
+            "🏻",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🧑🏻‍🫯‍🧑🏾",
+          "description": "people wrestling: light skin tone, medium-dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "light skin tone",
+            "medium-dark skin tone",
+            "people",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FB",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F9D1",
+            "1F3FE"
+          ],
+          "components": [
+            "🏻",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🧑🏻‍🫯‍🧑🏿",
+          "description": "people wrestling: light skin tone, dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "dark skin tone",
+            "duel",
+            "grapple",
+            "light skin tone",
+            "people",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FB",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F9D1",
+            "1F3FF"
+          ],
+          "components": [
+            "🏻",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "🧑🏼‍🫯‍🧑🏻",
+          "description": "people wrestling: medium-light skin tone, light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "light skin tone",
+            "medium-light skin tone",
+            "people",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FC",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F9D1",
+            "1F3FB"
+          ],
+          "components": [
+            "🏼",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🧑🏼‍🫯‍🧑🏽",
+          "description": "people wrestling: medium-light skin tone, medium skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "medium skin tone",
+            "medium-light skin tone",
+            "people",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FC",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F9D1",
+            "1F3FD"
+          ],
+          "components": [
+            "🏼",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🧑🏼‍🫯‍🧑🏾",
+          "description": "people wrestling: medium-light skin tone, medium-dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "medium-dark skin tone",
+            "medium-light skin tone",
+            "people",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FC",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F9D1",
+            "1F3FE"
+          ],
+          "components": [
+            "🏼",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🧑🏼‍🫯‍🧑🏿",
+          "description": "people wrestling: medium-light skin tone, dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "dark skin tone",
+            "duel",
+            "grapple",
+            "medium-light skin tone",
+            "people",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FC",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F9D1",
+            "1F3FF"
+          ],
+          "components": [
+            "🏼",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "🧑🏽‍🫯‍🧑🏻",
+          "description": "people wrestling: medium skin tone, light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "light skin tone",
+            "medium skin tone",
+            "people",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FD",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F9D1",
+            "1F3FB"
+          ],
+          "components": [
+            "🏽",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🧑🏽‍🫯‍🧑🏼",
+          "description": "people wrestling: medium skin tone, medium-light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "medium skin tone",
+            "medium-light skin tone",
+            "people",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FD",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F9D1",
+            "1F3FC"
+          ],
+          "components": [
+            "🏽",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🧑🏽‍🫯‍🧑🏾",
+          "description": "people wrestling: medium skin tone, medium-dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "medium skin tone",
+            "medium-dark skin tone",
+            "people",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FD",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F9D1",
+            "1F3FE"
+          ],
+          "components": [
+            "🏽",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🧑🏽‍🫯‍🧑🏿",
+          "description": "people wrestling: medium skin tone, dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "dark skin tone",
+            "duel",
+            "grapple",
+            "medium skin tone",
+            "people",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FD",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F9D1",
+            "1F3FF"
+          ],
+          "components": [
+            "🏽",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "🧑🏾‍🫯‍🧑🏻",
+          "description": "people wrestling: medium-dark skin tone, light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "light skin tone",
+            "medium-dark skin tone",
+            "people",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FE",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F9D1",
+            "1F3FB"
+          ],
+          "components": [
+            "🏾",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🧑🏾‍🫯‍🧑🏼",
+          "description": "people wrestling: medium-dark skin tone, medium-light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "medium-dark skin tone",
+            "medium-light skin tone",
+            "people",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FE",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F9D1",
+            "1F3FC"
+          ],
+          "components": [
+            "🏾",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🧑🏾‍🫯‍🧑🏽",
+          "description": "people wrestling: medium-dark skin tone, medium skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "medium skin tone",
+            "medium-dark skin tone",
+            "people",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FE",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F9D1",
+            "1F3FD"
+          ],
+          "components": [
+            "🏾",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🧑🏾‍🫯‍🧑🏿",
+          "description": "people wrestling: medium-dark skin tone, dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "dark skin tone",
+            "duel",
+            "grapple",
+            "medium-dark skin tone",
+            "people",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FE",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F9D1",
+            "1F3FF"
+          ],
+          "components": [
+            "🏾",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "🧑🏿‍🫯‍🧑🏻",
+          "description": "people wrestling: dark skin tone, light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "dark skin tone",
+            "duel",
+            "grapple",
+            "light skin tone",
+            "people",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FF",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F9D1",
+            "1F3FB"
+          ],
+          "components": [
+            "🏿",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🧑🏿‍🫯‍🧑🏼",
+          "description": "people wrestling: dark skin tone, medium-light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "dark skin tone",
+            "duel",
+            "grapple",
+            "medium-light skin tone",
+            "people",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FF",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F9D1",
+            "1F3FC"
+          ],
+          "components": [
+            "🏿",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🧑🏿‍🫯‍🧑🏽",
+          "description": "people wrestling: dark skin tone, medium skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "dark skin tone",
+            "duel",
+            "grapple",
+            "medium skin tone",
+            "people",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FF",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F9D1",
+            "1F3FD"
+          ],
+          "components": [
+            "🏿",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🧑🏿‍🫯‍🧑🏾",
+          "description": "people wrestling: dark skin tone, medium-dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "dark skin tone",
+            "duel",
+            "grapple",
+            "medium-dark skin tone",
+            "people",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F9D1",
+            "1F3FF",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F9D1",
+            "1F3FE"
+          ],
+          "components": [
+            "🏿",
+            "🏾"
+          ]
+        }
+      ]
     },
     {
       "emoji": "🤼‍♂️",
@@ -47983,7 +51936,739 @@
       ],
       "category": "person-people",
       "group": "people-body",
-      "subgroup": "person-sport"
+      "subgroup": "person-sport",
+      "variations": [
+        {
+          "emoji": "🤼🏻‍♂️",
+          "description": "men wrestling: light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "light skin tone",
+            "men",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F93C",
+            "1F3FB",
+            "200D",
+            "2642",
+            "FE0F"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🤼🏼‍♂️",
+          "description": "men wrestling: medium-light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "medium-light skin tone",
+            "men",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F93C",
+            "1F3FC",
+            "200D",
+            "2642",
+            "FE0F"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🤼🏽‍♂️",
+          "description": "men wrestling: medium skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "medium skin tone",
+            "men",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F93C",
+            "1F3FD",
+            "200D",
+            "2642",
+            "FE0F"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🤼🏾‍♂️",
+          "description": "men wrestling: medium-dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "medium-dark skin tone",
+            "men",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F93C",
+            "1F3FE",
+            "200D",
+            "2642",
+            "FE0F"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🤼🏿‍♂️",
+          "description": "men wrestling: dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "dark skin tone",
+            "duel",
+            "grapple",
+            "men",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F93C",
+            "1F3FF",
+            "200D",
+            "2642",
+            "FE0F"
+          ],
+          "components": [
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👨🏻‍🫯‍👨🏼",
+          "description": "men wrestling: light skin tone, medium-light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "light skin tone",
+            "medium-light skin tone",
+            "men",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FB",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F468",
+            "1F3FC"
+          ],
+          "components": [
+            "🏻",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👨🏻‍🫯‍👨🏽",
+          "description": "men wrestling: light skin tone, medium skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "light skin tone",
+            "medium skin tone",
+            "men",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FB",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F468",
+            "1F3FD"
+          ],
+          "components": [
+            "🏻",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👨🏻‍🫯‍👨🏾",
+          "description": "men wrestling: light skin tone, medium-dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "light skin tone",
+            "medium-dark skin tone",
+            "men",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FB",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F468",
+            "1F3FE"
+          ],
+          "components": [
+            "🏻",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👨🏻‍🫯‍👨🏿",
+          "description": "men wrestling: light skin tone, dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "dark skin tone",
+            "duel",
+            "grapple",
+            "light skin tone",
+            "men",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FB",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F468",
+            "1F3FF"
+          ],
+          "components": [
+            "🏻",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👨🏼‍🫯‍👨🏻",
+          "description": "men wrestling: medium-light skin tone, light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "light skin tone",
+            "medium-light skin tone",
+            "men",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FC",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F468",
+            "1F3FB"
+          ],
+          "components": [
+            "🏼",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👨🏼‍🫯‍👨🏽",
+          "description": "men wrestling: medium-light skin tone, medium skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "medium skin tone",
+            "medium-light skin tone",
+            "men",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FC",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F468",
+            "1F3FD"
+          ],
+          "components": [
+            "🏼",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👨🏼‍🫯‍👨🏾",
+          "description": "men wrestling: medium-light skin tone, medium-dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "medium-dark skin tone",
+            "medium-light skin tone",
+            "men",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FC",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F468",
+            "1F3FE"
+          ],
+          "components": [
+            "🏼",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👨🏼‍🫯‍👨🏿",
+          "description": "men wrestling: medium-light skin tone, dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "dark skin tone",
+            "duel",
+            "grapple",
+            "medium-light skin tone",
+            "men",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FC",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F468",
+            "1F3FF"
+          ],
+          "components": [
+            "🏼",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👨🏽‍🫯‍👨🏻",
+          "description": "men wrestling: medium skin tone, light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "light skin tone",
+            "medium skin tone",
+            "men",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FD",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F468",
+            "1F3FB"
+          ],
+          "components": [
+            "🏽",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👨🏽‍🫯‍👨🏼",
+          "description": "men wrestling: medium skin tone, medium-light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "medium skin tone",
+            "medium-light skin tone",
+            "men",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FD",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F468",
+            "1F3FC"
+          ],
+          "components": [
+            "🏽",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👨🏽‍🫯‍👨🏾",
+          "description": "men wrestling: medium skin tone, medium-dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "medium skin tone",
+            "medium-dark skin tone",
+            "men",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FD",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F468",
+            "1F3FE"
+          ],
+          "components": [
+            "🏽",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👨🏽‍🫯‍👨🏿",
+          "description": "men wrestling: medium skin tone, dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "dark skin tone",
+            "duel",
+            "grapple",
+            "medium skin tone",
+            "men",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FD",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F468",
+            "1F3FF"
+          ],
+          "components": [
+            "🏽",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👨🏾‍🫯‍👨🏻",
+          "description": "men wrestling: medium-dark skin tone, light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "light skin tone",
+            "medium-dark skin tone",
+            "men",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FE",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F468",
+            "1F3FB"
+          ],
+          "components": [
+            "🏾",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👨🏾‍🫯‍👨🏼",
+          "description": "men wrestling: medium-dark skin tone, medium-light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "medium-dark skin tone",
+            "medium-light skin tone",
+            "men",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FE",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F468",
+            "1F3FC"
+          ],
+          "components": [
+            "🏾",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👨🏾‍🫯‍👨🏽",
+          "description": "men wrestling: medium-dark skin tone, medium skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "medium skin tone",
+            "medium-dark skin tone",
+            "men",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FE",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F468",
+            "1F3FD"
+          ],
+          "components": [
+            "🏾",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👨🏾‍🫯‍👨🏿",
+          "description": "men wrestling: medium-dark skin tone, dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "dark skin tone",
+            "duel",
+            "grapple",
+            "medium-dark skin tone",
+            "men",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FE",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F468",
+            "1F3FF"
+          ],
+          "components": [
+            "🏾",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👨🏿‍🫯‍👨🏻",
+          "description": "men wrestling: dark skin tone, light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "dark skin tone",
+            "duel",
+            "grapple",
+            "light skin tone",
+            "men",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FF",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F468",
+            "1F3FB"
+          ],
+          "components": [
+            "🏿",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👨🏿‍🫯‍👨🏼",
+          "description": "men wrestling: dark skin tone, medium-light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "dark skin tone",
+            "duel",
+            "grapple",
+            "medium-light skin tone",
+            "men",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FF",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F468",
+            "1F3FC"
+          ],
+          "components": [
+            "🏿",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👨🏿‍🫯‍👨🏽",
+          "description": "men wrestling: dark skin tone, medium skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "dark skin tone",
+            "duel",
+            "grapple",
+            "medium skin tone",
+            "men",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FF",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F468",
+            "1F3FD"
+          ],
+          "components": [
+            "🏿",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👨🏿‍🫯‍👨🏾",
+          "description": "men wrestling: dark skin tone, medium-dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "dark skin tone",
+            "duel",
+            "grapple",
+            "medium-dark skin tone",
+            "men",
+            "ring",
+            "tournament",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F468",
+            "1F3FF",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F468",
+            "1F3FE"
+          ],
+          "components": [
+            "🏿",
+            "🏾"
+          ]
+        }
+      ]
     },
     {
       "emoji": "🤼‍♀️",
@@ -48007,7 +52692,739 @@
       ],
       "category": "person-people",
       "group": "people-body",
-      "subgroup": "person-sport"
+      "subgroup": "person-sport",
+      "variations": [
+        {
+          "emoji": "🤼🏻‍♀️",
+          "description": "women wrestling: light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "light skin tone",
+            "ring",
+            "tournament",
+            "women",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F93C",
+            "1F3FB",
+            "200D",
+            "2640",
+            "FE0F"
+          ],
+          "components": [
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "🤼🏼‍♀️",
+          "description": "women wrestling: medium-light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "medium-light skin tone",
+            "ring",
+            "tournament",
+            "women",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F93C",
+            "1F3FC",
+            "200D",
+            "2640",
+            "FE0F"
+          ],
+          "components": [
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "🤼🏽‍♀️",
+          "description": "women wrestling: medium skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "medium skin tone",
+            "ring",
+            "tournament",
+            "women",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F93C",
+            "1F3FD",
+            "200D",
+            "2640",
+            "FE0F"
+          ],
+          "components": [
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "🤼🏾‍♀️",
+          "description": "women wrestling: medium-dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "medium-dark skin tone",
+            "ring",
+            "tournament",
+            "women",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F93C",
+            "1F3FE",
+            "200D",
+            "2640",
+            "FE0F"
+          ],
+          "components": [
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "🤼🏿‍♀️",
+          "description": "women wrestling: dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "dark skin tone",
+            "duel",
+            "grapple",
+            "ring",
+            "tournament",
+            "women",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F93C",
+            "1F3FF",
+            "200D",
+            "2640",
+            "FE0F"
+          ],
+          "components": [
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👩🏻‍🫯‍👩🏼",
+          "description": "women wrestling: light skin tone, medium-light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "light skin tone",
+            "medium-light skin tone",
+            "ring",
+            "tournament",
+            "women",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FB",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F469",
+            "1F3FC"
+          ],
+          "components": [
+            "🏻",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👩🏻‍🫯‍👩🏽",
+          "description": "women wrestling: light skin tone, medium skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "light skin tone",
+            "medium skin tone",
+            "ring",
+            "tournament",
+            "women",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FB",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F469",
+            "1F3FD"
+          ],
+          "components": [
+            "🏻",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👩🏻‍🫯‍👩🏾",
+          "description": "women wrestling: light skin tone, medium-dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "light skin tone",
+            "medium-dark skin tone",
+            "ring",
+            "tournament",
+            "women",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FB",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F469",
+            "1F3FE"
+          ],
+          "components": [
+            "🏻",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👩🏻‍🫯‍👩🏿",
+          "description": "women wrestling: light skin tone, dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "dark skin tone",
+            "duel",
+            "grapple",
+            "light skin tone",
+            "ring",
+            "tournament",
+            "women",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FB",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F469",
+            "1F3FF"
+          ],
+          "components": [
+            "🏻",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👩🏼‍🫯‍👩🏻",
+          "description": "women wrestling: medium-light skin tone, light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "light skin tone",
+            "medium-light skin tone",
+            "ring",
+            "tournament",
+            "women",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FC",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F469",
+            "1F3FB"
+          ],
+          "components": [
+            "🏼",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👩🏼‍🫯‍👩🏽",
+          "description": "women wrestling: medium-light skin tone, medium skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "medium skin tone",
+            "medium-light skin tone",
+            "ring",
+            "tournament",
+            "women",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FC",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F469",
+            "1F3FD"
+          ],
+          "components": [
+            "🏼",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👩🏼‍🫯‍👩🏾",
+          "description": "women wrestling: medium-light skin tone, medium-dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "medium-dark skin tone",
+            "medium-light skin tone",
+            "ring",
+            "tournament",
+            "women",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FC",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F469",
+            "1F3FE"
+          ],
+          "components": [
+            "🏼",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👩🏼‍🫯‍👩🏿",
+          "description": "women wrestling: medium-light skin tone, dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "dark skin tone",
+            "duel",
+            "grapple",
+            "medium-light skin tone",
+            "ring",
+            "tournament",
+            "women",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FC",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F469",
+            "1F3FF"
+          ],
+          "components": [
+            "🏼",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👩🏽‍🫯‍👩🏻",
+          "description": "women wrestling: medium skin tone, light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "light skin tone",
+            "medium skin tone",
+            "ring",
+            "tournament",
+            "women",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FD",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F469",
+            "1F3FB"
+          ],
+          "components": [
+            "🏽",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👩🏽‍🫯‍👩🏼",
+          "description": "women wrestling: medium skin tone, medium-light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "medium skin tone",
+            "medium-light skin tone",
+            "ring",
+            "tournament",
+            "women",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FD",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F469",
+            "1F3FC"
+          ],
+          "components": [
+            "🏽",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👩🏽‍🫯‍👩🏾",
+          "description": "women wrestling: medium skin tone, medium-dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "medium skin tone",
+            "medium-dark skin tone",
+            "ring",
+            "tournament",
+            "women",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FD",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F469",
+            "1F3FE"
+          ],
+          "components": [
+            "🏽",
+            "🏾"
+          ]
+        },
+        {
+          "emoji": "👩🏽‍🫯‍👩🏿",
+          "description": "women wrestling: medium skin tone, dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "dark skin tone",
+            "duel",
+            "grapple",
+            "medium skin tone",
+            "ring",
+            "tournament",
+            "women",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FD",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F469",
+            "1F3FF"
+          ],
+          "components": [
+            "🏽",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👩🏾‍🫯‍👩🏻",
+          "description": "women wrestling: medium-dark skin tone, light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "light skin tone",
+            "medium-dark skin tone",
+            "ring",
+            "tournament",
+            "women",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FE",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F469",
+            "1F3FB"
+          ],
+          "components": [
+            "🏾",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👩🏾‍🫯‍👩🏼",
+          "description": "women wrestling: medium-dark skin tone, medium-light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "medium-dark skin tone",
+            "medium-light skin tone",
+            "ring",
+            "tournament",
+            "women",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FE",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F469",
+            "1F3FC"
+          ],
+          "components": [
+            "🏾",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👩🏾‍🫯‍👩🏽",
+          "description": "women wrestling: medium-dark skin tone, medium skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "duel",
+            "grapple",
+            "medium skin tone",
+            "medium-dark skin tone",
+            "ring",
+            "tournament",
+            "women",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FE",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F469",
+            "1F3FD"
+          ],
+          "components": [
+            "🏾",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👩🏾‍🫯‍👩🏿",
+          "description": "women wrestling: medium-dark skin tone, dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "dark skin tone",
+            "duel",
+            "grapple",
+            "medium-dark skin tone",
+            "ring",
+            "tournament",
+            "women",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FE",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F469",
+            "1F3FF"
+          ],
+          "components": [
+            "🏾",
+            "🏿"
+          ]
+        },
+        {
+          "emoji": "👩🏿‍🫯‍👩🏻",
+          "description": "women wrestling: dark skin tone, light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "dark skin tone",
+            "duel",
+            "grapple",
+            "light skin tone",
+            "ring",
+            "tournament",
+            "women",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FF",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F469",
+            "1F3FB"
+          ],
+          "components": [
+            "🏿",
+            "🏻"
+          ]
+        },
+        {
+          "emoji": "👩🏿‍🫯‍👩🏼",
+          "description": "women wrestling: dark skin tone, medium-light skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "dark skin tone",
+            "duel",
+            "grapple",
+            "medium-light skin tone",
+            "ring",
+            "tournament",
+            "women",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FF",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F469",
+            "1F3FC"
+          ],
+          "components": [
+            "🏿",
+            "🏼"
+          ]
+        },
+        {
+          "emoji": "👩🏿‍🫯‍👩🏽",
+          "description": "women wrestling: dark skin tone, medium skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "dark skin tone",
+            "duel",
+            "grapple",
+            "medium skin tone",
+            "ring",
+            "tournament",
+            "women",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FF",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F469",
+            "1F3FD"
+          ],
+          "components": [
+            "🏿",
+            "🏽"
+          ]
+        },
+        {
+          "emoji": "👩🏿‍🫯‍👩🏾",
+          "description": "women wrestling: dark skin tone, medium-dark skin tone",
+          "version": "17.0",
+          "keywords": [
+            "combat",
+            "dark skin tone",
+            "duel",
+            "grapple",
+            "medium-dark skin tone",
+            "ring",
+            "tournament",
+            "women",
+            "wrestle",
+            "wrestling"
+          ],
+          "codePoints": [
+            "1F469",
+            "1F3FF",
+            "200D",
+            "1FAEF",
+            "200D",
+            "1F469",
+            "1F3FE"
+          ],
+          "components": [
+            "🏿",
+            "🏾"
+          ]
+        }
+      ]
     },
     {
       "emoji": "🤽",
@@ -64011,6 +69428,22 @@
       "subgroup": "animal-marine"
     },
     {
+      "emoji": "🫍",
+      "description": "orca",
+      "version": "17.0",
+      "keywords": [
+        "marine",
+        "ocean",
+        "whale"
+      ],
+      "codePoints": [
+        "1FACD"
+      ],
+      "category": "animals-nature",
+      "group": "animals-nature",
+      "subgroup": "animal-marine"
+    },
+    {
       "emoji": "🦭",
       "description": "seal",
       "version": "13.0",
@@ -67696,6 +73129,26 @@
       "codePoints": [
         "26F0",
         "FE0F"
+      ],
+      "category": "travel-places",
+      "group": "travel-places",
+      "subgroup": "place-geographic"
+    },
+    {
+      "emoji": "🛘",
+      "description": "landslide",
+      "version": "17.0",
+      "keywords": [
+        "avalanche",
+        "danger",
+        "disaster",
+        "earthquake",
+        "mountain",
+        "mudslide",
+        "rocks"
+      ],
+      "codePoints": [
+        "1F6D8"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -74297,6 +79750,41 @@
       "subgroup": "musical-instrument"
     },
     {
+      "emoji": "🎺",
+      "description": "trumpet",
+      "version": "0.6",
+      "keywords": [
+        "instrument",
+        "music",
+        "trumpet"
+      ],
+      "codePoints": [
+        "1F3BA"
+      ],
+      "category": "activities-events",
+      "group": "objects",
+      "subgroup": "musical-instrument"
+    },
+    {
+      "emoji": "🪊",
+      "description": "trombone",
+      "version": "17.0",
+      "keywords": [
+        "brass",
+        "instrument",
+        "jazz",
+        "music",
+        "sad",
+        "slide"
+      ],
+      "codePoints": [
+        "1FA8A"
+      ],
+      "category": "activities-events",
+      "group": "objects",
+      "subgroup": "musical-instrument"
+    },
+    {
       "emoji": "🪗",
       "description": "accordion",
       "version": "13.0",
@@ -74346,22 +79834,6 @@
       ],
       "codePoints": [
         "1F3B9"
-      ],
-      "category": "activities-events",
-      "group": "objects",
-      "subgroup": "musical-instrument"
-    },
-    {
-      "emoji": "🎺",
-      "description": "trumpet",
-      "version": "0.6",
-      "keywords": [
-        "instrument",
-        "music",
-        "trumpet"
-      ],
-      "codePoints": [
-        "1F3BA"
       ],
       "category": "activities-events",
       "group": "objects",
@@ -75439,6 +80911,28 @@
       "subgroup": "book-paper"
     },
     {
+      "emoji": "🪙",
+      "description": "coin",
+      "version": "13.0",
+      "keywords": [
+        "coin",
+        "dollar",
+        "euro",
+        "gold",
+        "metal",
+        "money",
+        "rich",
+        "silver",
+        "treasure"
+      ],
+      "codePoints": [
+        "1FA99"
+      ],
+      "category": "objects",
+      "group": "objects",
+      "subgroup": "money"
+    },
+    {
       "emoji": "💰",
       "description": "money bag",
       "version": "0.6",
@@ -75468,22 +80962,22 @@
       "subgroup": "money"
     },
     {
-      "emoji": "🪙",
-      "description": "coin",
-      "version": "13.0",
+      "emoji": "🪎",
+      "description": "treasure chest",
+      "version": "17.0",
       "keywords": [
-        "coin",
-        "dollar",
-        "euro",
+        "gem",
         "gold",
-        "metal",
+        "jewels",
+        "loot",
         "money",
-        "rich",
+        "prize",
         "silver",
-        "treasure"
+        "valuables",
+        "wealth"
       ],
       "codePoints": [
-        "1FA99"
+        "1FA8E"
       ],
       "category": "objects",
       "group": "objects",
@@ -80506,7 +86000,9 @@
       "description": "keycap: 0",
       "version": "0.6",
       "keywords": [
-        "keycap"
+        "0",
+        "keycap",
+        "zero"
       ],
       "codePoints": [
         "0030",
@@ -80522,7 +86018,9 @@
       "description": "keycap: 1",
       "version": "0.6",
       "keywords": [
-        "keycap"
+        "1",
+        "keycap",
+        "one"
       ],
       "codePoints": [
         "0031",
@@ -80538,7 +86036,9 @@
       "description": "keycap: 2",
       "version": "0.6",
       "keywords": [
-        "keycap"
+        "2",
+        "keycap",
+        "two"
       ],
       "codePoints": [
         "0032",
@@ -80554,7 +86054,9 @@
       "description": "keycap: 3",
       "version": "0.6",
       "keywords": [
-        "keycap"
+        "3",
+        "keycap",
+        "three"
       ],
       "codePoints": [
         "0033",
@@ -80570,6 +86072,8 @@
       "description": "keycap: 4",
       "version": "0.6",
       "keywords": [
+        "4",
+        "four",
         "keycap"
       ],
       "codePoints": [
@@ -80586,6 +86090,8 @@
       "description": "keycap: 5",
       "version": "0.6",
       "keywords": [
+        "5",
+        "five",
         "keycap"
       ],
       "codePoints": [
@@ -80602,7 +86108,9 @@
       "description": "keycap: 6",
       "version": "0.6",
       "keywords": [
-        "keycap"
+        "6",
+        "keycap",
+        "six"
       ],
       "codePoints": [
         "0036",
@@ -80618,7 +86126,9 @@
       "description": "keycap: 7",
       "version": "0.6",
       "keywords": [
-        "keycap"
+        "7",
+        "keycap",
+        "seven"
       ],
       "codePoints": [
         "0037",
@@ -80634,6 +86144,8 @@
       "description": "keycap: 8",
       "version": "0.6",
       "keywords": [
+        "8",
+        "eight",
         "keycap"
       ],
       "codePoints": [
@@ -80650,7 +86162,9 @@
       "description": "keycap: 9",
       "version": "0.6",
       "keywords": [
-        "keycap"
+        "9",
+        "keycap",
+        "nine"
       ],
       "codePoints": [
         "0039",
