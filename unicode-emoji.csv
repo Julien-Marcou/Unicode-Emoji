@@ -93,6 +93,7 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 😯,"hushed face",1.0,epic|face|hushed|omg|stunned|surprised|whoa|woah,face-emotion,smileys-emotion,face-concerned,,
 😲,"astonished face",0.6,astonished|cost|face|no|omg|shocked|totally|way,face-emotion,smileys-emotion,face-concerned,,
 😳,"flushed face",0.6,amazed|awkward|crazy|dazed|dead|disbelief|embarrassed|face|flushed|geez|heat|hot|impressed|jeez|what|wow,face-emotion,smileys-emotion,face-concerned,,
+🫪,"distorted face",17.0,anxiety|bloated|panic|shocked|surprised|vulnerable,face-emotion,smileys-emotion,face-concerned,,
 🥺,"pleading face",11.0,begging|big|eyes|face|mercy|not|pleading|please|pretty|puppy|sad|why,face-emotion,smileys-emotion,face-concerned,,
 🥹,"face holding back tears",14.0,admiration|aww|back|cry|embarrassed|face|feelings|grateful|gratitude|holding|joy|please|proud|resist|sad|tears,face-emotion,smileys-emotion,face-concerned,,
 😦,"frowning face with open mouth",1.0,caught|face|frown|frowning|guard|mouth|open|scared|scary|surprise|what|wow,face-emotion,smileys-emotion,face-concerned,,
@@ -166,6 +167,7 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 💋,"kiss mark",0.6,dating|emotion|heart|kiss|kissing|lips|mark|romance|sexy,face-emotion,smileys-emotion,emotion,,
 💯,"hundred points",0.6,100|a+|agree|clearly|definitely|faithful|fleek|full|hundred|keep|perfect|point|score|TRUE|truth|yup,face-emotion,smileys-emotion,emotion,,
 💢,"anger symbol",0.6,anger|angry|comic|mad|symbol|upset,face-emotion,smileys-emotion,emotion,,
+🫯,"fight cloud",17.0,argument|brawl|debate|disagreement|fight|ruckus|wrestle,face-emotion,smileys-emotion,emotion,,
 💥,"collision",0.6,bomb|boom|collide|collision|comic|explode,face-emotion,smileys-emotion,emotion,,
 💫,"dizzy",0.6,comic|dizzy|shining|shooting|star|stars,face-emotion,smileys-emotion,emotion,,
 💦,"sweat droplets",0.6,comic|drip|droplet|droplets|drops|splashing|squirt|sweat|water|wet|work|workout,face-emotion,smileys-emotion,emotion,,
@@ -1500,6 +1502,7 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🧟‍♂️,"man zombie",5.0,apocalypse|dead|halloween|horror|man|scary|undead|walking|zombie,person-people,people-body,person-fantasy,,
 🧟‍♀️,"woman zombie",5.0,apocalypse|dead|halloween|horror|scary|undead|walking|woman|zombie,person-people,people-body,person-fantasy,,
 🧌,"troll",14.0,fairy|fantasy|monster|tale|troll|trolling,person-people,people-body,person-fantasy,,
+🫈,"hairy creature",17.0,bigfoot|cryptid|forest|giant|hairy|sasquatch|woodwose|yeti,person-people,people-body,person-fantasy,,
 💆,"person getting massage",0.6,face|getting|headache|massage|person|relax|relaxing|salon|soothe|spa|tension|therapy|treatment,person-people,people-body,person-activity,,
 💆🏻,"person getting massage: light skin tone",1.0,face|getting|headache|light skin tone|massage|person|relax|relaxing|salon|soothe|spa|tension|therapy|treatment,person-people,people-body,person-activity,💆,🏻
 💆🏼,"person getting massage: medium-light skin tone",1.0,face|getting|headache|massage|medium-light skin tone|person|relax|relaxing|salon|soothe|spa|tension|therapy|treatment,person-people,people-body,person-activity,💆,🏼
@@ -1554,24 +1557,24 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🚶🏽‍♀️,"woman walking: medium skin tone",4.0,amble|gait|hike|man|medium skin tone|pace|pedestrian|stride|stroll|walk|walking|woman,person-people,people-body,person-activity,🚶‍♀️,🏽
 🚶🏾‍♀️,"woman walking: medium-dark skin tone",4.0,amble|gait|hike|man|medium-dark skin tone|pace|pedestrian|stride|stroll|walk|walking|woman,person-people,people-body,person-activity,🚶‍♀️,🏾
 🚶🏿‍♀️,"woman walking: dark skin tone",4.0,amble|dark skin tone|gait|hike|man|pace|pedestrian|stride|stroll|walk|walking|woman,person-people,people-body,person-activity,🚶‍♀️,🏿
-🚶‍➡️,"person walking facing right",15.1,amble|gait|hike|man|pace|pedestrian|person|stride|stroll|walk|walking,person-people,people-body,person-activity,,
-🚶🏻‍➡️,"person walking facing right",15.1,amble|gait|hike|man|pace|pedestrian|person|stride|stroll|walk|walking,person-people,people-body,person-activity,🚶‍➡️,🏻
-🚶🏼‍➡️,"person walking facing right",15.1,amble|gait|hike|man|pace|pedestrian|person|stride|stroll|walk|walking,person-people,people-body,person-activity,🚶‍➡️,🏼
-🚶🏽‍➡️,"person walking facing right",15.1,amble|gait|hike|man|pace|pedestrian|person|stride|stroll|walk|walking,person-people,people-body,person-activity,🚶‍➡️,🏽
-🚶🏾‍➡️,"person walking facing right",15.1,amble|gait|hike|man|pace|pedestrian|person|stride|stroll|walk|walking,person-people,people-body,person-activity,🚶‍➡️,🏾
-🚶🏿‍➡️,"person walking facing right",15.1,amble|gait|hike|man|pace|pedestrian|person|stride|stroll|walk|walking,person-people,people-body,person-activity,🚶‍➡️,🏿
-🚶‍♀️‍➡️,"woman walking facing right",15.1,amble|gait|hike|man|pace|pedestrian|stride|stroll|walk|walking|woman,person-people,people-body,person-activity,,
-🚶🏻‍♀️‍➡️,"woman walking facing right",15.1,amble|gait|hike|man|pace|pedestrian|stride|stroll|walk|walking|woman,person-people,people-body,person-activity,🚶‍♀️‍➡️,🏻
-🚶🏼‍♀️‍➡️,"woman walking facing right",15.1,amble|gait|hike|man|pace|pedestrian|stride|stroll|walk|walking|woman,person-people,people-body,person-activity,🚶‍♀️‍➡️,🏼
-🚶🏽‍♀️‍➡️,"woman walking facing right",15.1,amble|gait|hike|man|pace|pedestrian|stride|stroll|walk|walking|woman,person-people,people-body,person-activity,🚶‍♀️‍➡️,🏽
-🚶🏾‍♀️‍➡️,"woman walking facing right",15.1,amble|gait|hike|man|pace|pedestrian|stride|stroll|walk|walking|woman,person-people,people-body,person-activity,🚶‍♀️‍➡️,🏾
-🚶🏿‍♀️‍➡️,"woman walking facing right",15.1,amble|gait|hike|man|pace|pedestrian|stride|stroll|walk|walking|woman,person-people,people-body,person-activity,🚶‍♀️‍➡️,🏿
-🚶‍♂️‍➡️,"man walking facing right",15.1,amble|gait|hike|man|pace|pedestrian|stride|stroll|walk|walking,person-people,people-body,person-activity,,
-🚶🏻‍♂️‍➡️,"man walking facing right",15.1,amble|gait|hike|man|pace|pedestrian|stride|stroll|walk|walking,person-people,people-body,person-activity,🚶‍♂️‍➡️,🏻
-🚶🏼‍♂️‍➡️,"man walking facing right",15.1,amble|gait|hike|man|pace|pedestrian|stride|stroll|walk|walking,person-people,people-body,person-activity,🚶‍♂️‍➡️,🏼
-🚶🏽‍♂️‍➡️,"man walking facing right",15.1,amble|gait|hike|man|pace|pedestrian|stride|stroll|walk|walking,person-people,people-body,person-activity,🚶‍♂️‍➡️,🏽
-🚶🏾‍♂️‍➡️,"man walking facing right",15.1,amble|gait|hike|man|pace|pedestrian|stride|stroll|walk|walking,person-people,people-body,person-activity,🚶‍♂️‍➡️,🏾
-🚶🏿‍♂️‍➡️,"man walking facing right",15.1,amble|gait|hike|man|pace|pedestrian|stride|stroll|walk|walking,person-people,people-body,person-activity,🚶‍♂️‍➡️,🏿
+🚶‍➡️,"person walking: facing right",15.1,amble|facing|gait|hike|man|pace|pedestrian|person|right|stride|stroll|walk|walking,person-people,people-body,person-activity,,
+🚶🏻‍➡️,"person walking: light skin tone, facing right",15.1,amble|facing|gait|hike|light skin tone|man|pace|pedestrian|person|right|stride|stroll|walk|walking,person-people,people-body,person-activity,🚶‍➡️,🏻
+🚶🏼‍➡️,"person walking: medium-light skin tone, facing right",15.1,amble|facing|gait|hike|man|medium-light skin tone|pace|pedestrian|person|right|stride|stroll|walk|walking,person-people,people-body,person-activity,🚶‍➡️,🏼
+🚶🏽‍➡️,"person walking: medium skin tone, facing right",15.1,amble|facing|gait|hike|man|medium skin tone|pace|pedestrian|person|right|stride|stroll|walk|walking,person-people,people-body,person-activity,🚶‍➡️,🏽
+🚶🏾‍➡️,"person walking: medium-dark skin tone, facing right",15.1,amble|facing|gait|hike|man|medium-dark skin tone|pace|pedestrian|person|right|stride|stroll|walk|walking,person-people,people-body,person-activity,🚶‍➡️,🏾
+🚶🏿‍➡️,"person walking: dark skin tone, facing right",15.1,amble|dark skin tone|facing|gait|hike|man|pace|pedestrian|person|right|stride|stroll|walk|walking,person-people,people-body,person-activity,🚶‍➡️,🏿
+🚶‍♀️‍➡️,"woman walking: facing right",15.1,amble|facing|gait|hike|man|pace|pedestrian|right|stride|stroll|walk|walking|woman,person-people,people-body,person-activity,,
+🚶🏻‍♀️‍➡️,"woman walking: light skin tone, facing right",15.1,amble|facing|gait|hike|light skin tone|man|pace|pedestrian|right|stride|stroll|walk|walking|woman,person-people,people-body,person-activity,🚶‍♀️‍➡️,🏻
+🚶🏼‍♀️‍➡️,"woman walking: medium-light skin tone, facing right",15.1,amble|facing|gait|hike|man|medium-light skin tone|pace|pedestrian|right|stride|stroll|walk|walking|woman,person-people,people-body,person-activity,🚶‍♀️‍➡️,🏼
+🚶🏽‍♀️‍➡️,"woman walking: medium skin tone, facing right",15.1,amble|facing|gait|hike|man|medium skin tone|pace|pedestrian|right|stride|stroll|walk|walking|woman,person-people,people-body,person-activity,🚶‍♀️‍➡️,🏽
+🚶🏾‍♀️‍➡️,"woman walking: medium-dark skin tone, facing right",15.1,amble|facing|gait|hike|man|medium-dark skin tone|pace|pedestrian|right|stride|stroll|walk|walking|woman,person-people,people-body,person-activity,🚶‍♀️‍➡️,🏾
+🚶🏿‍♀️‍➡️,"woman walking: dark skin tone, facing right",15.1,amble|dark skin tone|facing|gait|hike|man|pace|pedestrian|right|stride|stroll|walk|walking|woman,person-people,people-body,person-activity,🚶‍♀️‍➡️,🏿
+🚶‍♂️‍➡️,"man walking: facing right",15.1,amble|facing|gait|hike|man|pace|pedestrian|right|stride|stroll|walk|walking,person-people,people-body,person-activity,,
+🚶🏻‍♂️‍➡️,"man walking: light skin tone, facing right",15.1,amble|facing|gait|hike|light skin tone|man|pace|pedestrian|right|stride|stroll|walk|walking,person-people,people-body,person-activity,🚶‍♂️‍➡️,🏻
+🚶🏼‍♂️‍➡️,"man walking: medium-light skin tone, facing right",15.1,amble|facing|gait|hike|man|medium-light skin tone|pace|pedestrian|right|stride|stroll|walk|walking,person-people,people-body,person-activity,🚶‍♂️‍➡️,🏼
+🚶🏽‍♂️‍➡️,"man walking: medium skin tone, facing right",15.1,amble|facing|gait|hike|man|medium skin tone|pace|pedestrian|right|stride|stroll|walk|walking,person-people,people-body,person-activity,🚶‍♂️‍➡️,🏽
+🚶🏾‍♂️‍➡️,"man walking: medium-dark skin tone, facing right",15.1,amble|facing|gait|hike|man|medium-dark skin tone|pace|pedestrian|right|stride|stroll|walk|walking,person-people,people-body,person-activity,🚶‍♂️‍➡️,🏾
+🚶🏿‍♂️‍➡️,"man walking: dark skin tone, facing right",15.1,amble|dark skin tone|facing|gait|hike|man|pace|pedestrian|right|stride|stroll|walk|walking,person-people,people-body,person-activity,🚶‍♂️‍➡️,🏿
 🧍,"person standing",12.0,person|stand|standing,person-people,people-body,person-activity,,
 🧍🏻,"person standing: light skin tone",12.0,light skin tone|person|stand|standing,person-people,people-body,person-activity,🧍,🏻
 🧍🏼,"person standing: medium-light skin tone",12.0,medium-light skin tone|person|stand|standing,person-people,people-body,person-activity,🧍,🏼
@@ -1608,132 +1611,132 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🧎🏽‍♀️,"woman kneeling: medium skin tone",12.0,kneel|kneeling|knees|medium skin tone|woman,person-people,people-body,person-activity,🧎‍♀️,🏽
 🧎🏾‍♀️,"woman kneeling: medium-dark skin tone",12.0,kneel|kneeling|knees|medium-dark skin tone|woman,person-people,people-body,person-activity,🧎‍♀️,🏾
 🧎🏿‍♀️,"woman kneeling: dark skin tone",12.0,dark skin tone|kneel|kneeling|knees|woman,person-people,people-body,person-activity,🧎‍♀️,🏿
-🧎‍➡️,"person kneeling facing right",15.1,kneel|kneeling|knees|person,person-people,people-body,person-activity,,
-🧎🏻‍➡️,"person kneeling facing right",15.1,kneel|kneeling|knees|person,person-people,people-body,person-activity,🧎‍➡️,🏻
-🧎🏼‍➡️,"person kneeling facing right",15.1,kneel|kneeling|knees|person,person-people,people-body,person-activity,🧎‍➡️,🏼
-🧎🏽‍➡️,"person kneeling facing right",15.1,kneel|kneeling|knees|person,person-people,people-body,person-activity,🧎‍➡️,🏽
-🧎🏾‍➡️,"person kneeling facing right",15.1,kneel|kneeling|knees|person,person-people,people-body,person-activity,🧎‍➡️,🏾
-🧎🏿‍➡️,"person kneeling facing right",15.1,kneel|kneeling|knees|person,person-people,people-body,person-activity,🧎‍➡️,🏿
-🧎‍♀️‍➡️,"woman kneeling facing right",15.1,kneel|kneeling|knees|woman,person-people,people-body,person-activity,,
-🧎🏻‍♀️‍➡️,"woman kneeling facing right",15.1,kneel|kneeling|knees|woman,person-people,people-body,person-activity,🧎‍♀️‍➡️,🏻
-🧎🏼‍♀️‍➡️,"woman kneeling facing right",15.1,kneel|kneeling|knees|woman,person-people,people-body,person-activity,🧎‍♀️‍➡️,🏼
-🧎🏽‍♀️‍➡️,"woman kneeling facing right",15.1,kneel|kneeling|knees|woman,person-people,people-body,person-activity,🧎‍♀️‍➡️,🏽
-🧎🏾‍♀️‍➡️,"woman kneeling facing right",15.1,kneel|kneeling|knees|woman,person-people,people-body,person-activity,🧎‍♀️‍➡️,🏾
-🧎🏿‍♀️‍➡️,"woman kneeling facing right",15.1,kneel|kneeling|knees|woman,person-people,people-body,person-activity,🧎‍♀️‍➡️,🏿
-🧎‍♂️‍➡️,"man kneeling facing right",15.1,kneel|kneeling|knees|man,person-people,people-body,person-activity,,
-🧎🏻‍♂️‍➡️,"man kneeling facing right",15.1,kneel|kneeling|knees|man,person-people,people-body,person-activity,🧎‍♂️‍➡️,🏻
-🧎🏼‍♂️‍➡️,"man kneeling facing right",15.1,kneel|kneeling|knees|man,person-people,people-body,person-activity,🧎‍♂️‍➡️,🏼
-🧎🏽‍♂️‍➡️,"man kneeling facing right",15.1,kneel|kneeling|knees|man,person-people,people-body,person-activity,🧎‍♂️‍➡️,🏽
-🧎🏾‍♂️‍➡️,"man kneeling facing right",15.1,kneel|kneeling|knees|man,person-people,people-body,person-activity,🧎‍♂️‍➡️,🏾
-🧎🏿‍♂️‍➡️,"man kneeling facing right",15.1,kneel|kneeling|knees|man,person-people,people-body,person-activity,🧎‍♂️‍➡️,🏿
+🧎‍➡️,"person kneeling: facing right",15.1,facing|kneel|kneeling|knees|person|right,person-people,people-body,person-activity,,
+🧎🏻‍➡️,"person kneeling: light skin tone, facing right",15.1,facing|kneel|kneeling|knees|light skin tone|person|right,person-people,people-body,person-activity,🧎‍➡️,🏻
+🧎🏼‍➡️,"person kneeling: medium-light skin tone, facing right",15.1,facing|kneel|kneeling|knees|medium-light skin tone|person|right,person-people,people-body,person-activity,🧎‍➡️,🏼
+🧎🏽‍➡️,"person kneeling: medium skin tone, facing right",15.1,facing|kneel|kneeling|knees|medium skin tone|person|right,person-people,people-body,person-activity,🧎‍➡️,🏽
+🧎🏾‍➡️,"person kneeling: medium-dark skin tone, facing right",15.1,facing|kneel|kneeling|knees|medium-dark skin tone|person|right,person-people,people-body,person-activity,🧎‍➡️,🏾
+🧎🏿‍➡️,"person kneeling: dark skin tone, facing right",15.1,dark skin tone|facing|kneel|kneeling|knees|person|right,person-people,people-body,person-activity,🧎‍➡️,🏿
+🧎‍♀️‍➡️,"woman kneeling: facing right",15.1,facing|kneel|kneeling|knees|right|woman,person-people,people-body,person-activity,,
+🧎🏻‍♀️‍➡️,"woman kneeling: light skin tone, facing right",15.1,facing|kneel|kneeling|knees|light skin tone|right|woman,person-people,people-body,person-activity,🧎‍♀️‍➡️,🏻
+🧎🏼‍♀️‍➡️,"woman kneeling: medium-light skin tone, facing right",15.1,facing|kneel|kneeling|knees|medium-light skin tone|right|woman,person-people,people-body,person-activity,🧎‍♀️‍➡️,🏼
+🧎🏽‍♀️‍➡️,"woman kneeling: medium skin tone, facing right",15.1,facing|kneel|kneeling|knees|medium skin tone|right|woman,person-people,people-body,person-activity,🧎‍♀️‍➡️,🏽
+🧎🏾‍♀️‍➡️,"woman kneeling: medium-dark skin tone, facing right",15.1,facing|kneel|kneeling|knees|medium-dark skin tone|right|woman,person-people,people-body,person-activity,🧎‍♀️‍➡️,🏾
+🧎🏿‍♀️‍➡️,"woman kneeling: dark skin tone, facing right",15.1,dark skin tone|facing|kneel|kneeling|knees|right|woman,person-people,people-body,person-activity,🧎‍♀️‍➡️,🏿
+🧎‍♂️‍➡️,"man kneeling: facing right",15.1,facing|kneel|kneeling|knees|man|right,person-people,people-body,person-activity,,
+🧎🏻‍♂️‍➡️,"man kneeling: light skin tone, facing right",15.1,facing|kneel|kneeling|knees|light skin tone|man|right,person-people,people-body,person-activity,🧎‍♂️‍➡️,🏻
+🧎🏼‍♂️‍➡️,"man kneeling: medium-light skin tone, facing right",15.1,facing|kneel|kneeling|knees|man|medium-light skin tone|right,person-people,people-body,person-activity,🧎‍♂️‍➡️,🏼
+🧎🏽‍♂️‍➡️,"man kneeling: medium skin tone, facing right",15.1,facing|kneel|kneeling|knees|man|medium skin tone|right,person-people,people-body,person-activity,🧎‍♂️‍➡️,🏽
+🧎🏾‍♂️‍➡️,"man kneeling: medium-dark skin tone, facing right",15.1,facing|kneel|kneeling|knees|man|medium-dark skin tone|right,person-people,people-body,person-activity,🧎‍♂️‍➡️,🏾
+🧎🏿‍♂️‍➡️,"man kneeling: dark skin tone, facing right",15.1,dark skin tone|facing|kneel|kneeling|knees|man|right,person-people,people-body,person-activity,🧎‍♂️‍➡️,🏿
 🧑‍🦯,"person with white cane",12.1,accessibility|blind|cane|person|probing|white,person-people,people-body,person-activity,,
 🧑🏻‍🦯,"person with white cane: light skin tone",12.1,accessibility|blind|cane|light skin tone|person|probing|white,person-people,people-body,person-activity,🧑‍🦯,🏻
 🧑🏼‍🦯,"person with white cane: medium-light skin tone",12.1,accessibility|blind|cane|medium-light skin tone|person|probing|white,person-people,people-body,person-activity,🧑‍🦯,🏼
 🧑🏽‍🦯,"person with white cane: medium skin tone",12.1,accessibility|blind|cane|medium skin tone|person|probing|white,person-people,people-body,person-activity,🧑‍🦯,🏽
 🧑🏾‍🦯,"person with white cane: medium-dark skin tone",12.1,accessibility|blind|cane|medium-dark skin tone|person|probing|white,person-people,people-body,person-activity,🧑‍🦯,🏾
 🧑🏿‍🦯,"person with white cane: dark skin tone",12.1,accessibility|blind|cane|dark skin tone|person|probing|white,person-people,people-body,person-activity,🧑‍🦯,🏿
-🧑‍🦯‍➡️,"person with white cane facing right",15.1,accessibility|blind|cane|person|probing|white,person-people,people-body,person-activity,,
-🧑🏻‍🦯‍➡️,"person with white cane facing right",15.1,accessibility|blind|cane|person|probing|white,person-people,people-body,person-activity,🧑‍🦯‍➡️,🏻
-🧑🏼‍🦯‍➡️,"person with white cane facing right",15.1,accessibility|blind|cane|person|probing|white,person-people,people-body,person-activity,🧑‍🦯‍➡️,🏼
-🧑🏽‍🦯‍➡️,"person with white cane facing right",15.1,accessibility|blind|cane|person|probing|white,person-people,people-body,person-activity,🧑‍🦯‍➡️,🏽
-🧑🏾‍🦯‍➡️,"person with white cane facing right",15.1,accessibility|blind|cane|person|probing|white,person-people,people-body,person-activity,🧑‍🦯‍➡️,🏾
-🧑🏿‍🦯‍➡️,"person with white cane facing right",15.1,accessibility|blind|cane|person|probing|white,person-people,people-body,person-activity,🧑‍🦯‍➡️,🏿
+🧑‍🦯‍➡️,"person with white cane: facing right",15.1,accessibility|blind|cane|facing|person|probing|right|white,person-people,people-body,person-activity,,
+🧑🏻‍🦯‍➡️,"person with white cane: light skin tone, facing right",15.1,accessibility|blind|cane|facing|light skin tone|person|probing|right|white,person-people,people-body,person-activity,🧑‍🦯‍➡️,🏻
+🧑🏼‍🦯‍➡️,"person with white cane: medium-light skin tone, facing right",15.1,accessibility|blind|cane|facing|medium-light skin tone|person|probing|right|white,person-people,people-body,person-activity,🧑‍🦯‍➡️,🏼
+🧑🏽‍🦯‍➡️,"person with white cane: medium skin tone, facing right",15.1,accessibility|blind|cane|facing|medium skin tone|person|probing|right|white,person-people,people-body,person-activity,🧑‍🦯‍➡️,🏽
+🧑🏾‍🦯‍➡️,"person with white cane: medium-dark skin tone, facing right",15.1,accessibility|blind|cane|facing|medium-dark skin tone|person|probing|right|white,person-people,people-body,person-activity,🧑‍🦯‍➡️,🏾
+🧑🏿‍🦯‍➡️,"person with white cane: dark skin tone, facing right",15.1,accessibility|blind|cane|dark skin tone|facing|person|probing|right|white,person-people,people-body,person-activity,🧑‍🦯‍➡️,🏿
 👨‍🦯,"man with white cane",12.0,accessibility|blind|cane|man|probing|white,person-people,people-body,person-activity,,
 👨🏻‍🦯,"man with white cane: light skin tone",12.0,accessibility|blind|cane|light skin tone|man|probing|white,person-people,people-body,person-activity,👨‍🦯,🏻
 👨🏼‍🦯,"man with white cane: medium-light skin tone",12.0,accessibility|blind|cane|man|medium-light skin tone|probing|white,person-people,people-body,person-activity,👨‍🦯,🏼
 👨🏽‍🦯,"man with white cane: medium skin tone",12.0,accessibility|blind|cane|man|medium skin tone|probing|white,person-people,people-body,person-activity,👨‍🦯,🏽
 👨🏾‍🦯,"man with white cane: medium-dark skin tone",12.0,accessibility|blind|cane|man|medium-dark skin tone|probing|white,person-people,people-body,person-activity,👨‍🦯,🏾
 👨🏿‍🦯,"man with white cane: dark skin tone",12.0,accessibility|blind|cane|dark skin tone|man|probing|white,person-people,people-body,person-activity,👨‍🦯,🏿
-👨‍🦯‍➡️,"man with white cane facing right",15.1,accessibility|blind|cane|man|probing|white,person-people,people-body,person-activity,,
-👨🏻‍🦯‍➡️,"man with white cane facing right",15.1,accessibility|blind|cane|man|probing|white,person-people,people-body,person-activity,👨‍🦯‍➡️,🏻
-👨🏼‍🦯‍➡️,"man with white cane facing right",15.1,accessibility|blind|cane|man|probing|white,person-people,people-body,person-activity,👨‍🦯‍➡️,🏼
-👨🏽‍🦯‍➡️,"man with white cane facing right",15.1,accessibility|blind|cane|man|probing|white,person-people,people-body,person-activity,👨‍🦯‍➡️,🏽
-👨🏾‍🦯‍➡️,"man with white cane facing right",15.1,accessibility|blind|cane|man|probing|white,person-people,people-body,person-activity,👨‍🦯‍➡️,🏾
-👨🏿‍🦯‍➡️,"man with white cane facing right",15.1,accessibility|blind|cane|man|probing|white,person-people,people-body,person-activity,👨‍🦯‍➡️,🏿
+👨‍🦯‍➡️,"man with white cane: facing right",15.1,accessibility|blind|cane|facing|man|probing|right|white,person-people,people-body,person-activity,,
+👨🏻‍🦯‍➡️,"man with white cane: light skin tone, facing right",15.1,accessibility|blind|cane|facing|light skin tone|man|probing|right|white,person-people,people-body,person-activity,👨‍🦯‍➡️,🏻
+👨🏼‍🦯‍➡️,"man with white cane: medium-light skin tone, facing right",15.1,accessibility|blind|cane|facing|man|medium-light skin tone|probing|right|white,person-people,people-body,person-activity,👨‍🦯‍➡️,🏼
+👨🏽‍🦯‍➡️,"man with white cane: medium skin tone, facing right",15.1,accessibility|blind|cane|facing|man|medium skin tone|probing|right|white,person-people,people-body,person-activity,👨‍🦯‍➡️,🏽
+👨🏾‍🦯‍➡️,"man with white cane: medium-dark skin tone, facing right",15.1,accessibility|blind|cane|facing|man|medium-dark skin tone|probing|right|white,person-people,people-body,person-activity,👨‍🦯‍➡️,🏾
+👨🏿‍🦯‍➡️,"man with white cane: dark skin tone, facing right",15.1,accessibility|blind|cane|dark skin tone|facing|man|probing|right|white,person-people,people-body,person-activity,👨‍🦯‍➡️,🏿
 👩‍🦯,"woman with white cane",12.0,accessibility|blind|cane|probing|white|woman,person-people,people-body,person-activity,,
 👩🏻‍🦯,"woman with white cane: light skin tone",12.0,accessibility|blind|cane|light skin tone|probing|white|woman,person-people,people-body,person-activity,👩‍🦯,🏻
 👩🏼‍🦯,"woman with white cane: medium-light skin tone",12.0,accessibility|blind|cane|medium-light skin tone|probing|white|woman,person-people,people-body,person-activity,👩‍🦯,🏼
 👩🏽‍🦯,"woman with white cane: medium skin tone",12.0,accessibility|blind|cane|medium skin tone|probing|white|woman,person-people,people-body,person-activity,👩‍🦯,🏽
 👩🏾‍🦯,"woman with white cane: medium-dark skin tone",12.0,accessibility|blind|cane|medium-dark skin tone|probing|white|woman,person-people,people-body,person-activity,👩‍🦯,🏾
 👩🏿‍🦯,"woman with white cane: dark skin tone",12.0,accessibility|blind|cane|dark skin tone|probing|white|woman,person-people,people-body,person-activity,👩‍🦯,🏿
-👩‍🦯‍➡️,"woman with white cane facing right",15.1,accessibility|blind|cane|probing|white|woman,person-people,people-body,person-activity,,
-👩🏻‍🦯‍➡️,"woman with white cane facing right",15.1,accessibility|blind|cane|probing|white|woman,person-people,people-body,person-activity,👩‍🦯‍➡️,🏻
-👩🏼‍🦯‍➡️,"woman with white cane facing right",15.1,accessibility|blind|cane|probing|white|woman,person-people,people-body,person-activity,👩‍🦯‍➡️,🏼
-👩🏽‍🦯‍➡️,"woman with white cane facing right",15.1,accessibility|blind|cane|probing|white|woman,person-people,people-body,person-activity,👩‍🦯‍➡️,🏽
-👩🏾‍🦯‍➡️,"woman with white cane facing right",15.1,accessibility|blind|cane|probing|white|woman,person-people,people-body,person-activity,👩‍🦯‍➡️,🏾
-👩🏿‍🦯‍➡️,"woman with white cane facing right",15.1,accessibility|blind|cane|probing|white|woman,person-people,people-body,person-activity,👩‍🦯‍➡️,🏿
+👩‍🦯‍➡️,"woman with white cane: facing right",15.1,accessibility|blind|cane|facing|probing|right|white|woman,person-people,people-body,person-activity,,
+👩🏻‍🦯‍➡️,"woman with white cane: light skin tone, facing right",15.1,accessibility|blind|cane|facing|light skin tone|probing|right|white|woman,person-people,people-body,person-activity,👩‍🦯‍➡️,🏻
+👩🏼‍🦯‍➡️,"woman with white cane: medium-light skin tone, facing right",15.1,accessibility|blind|cane|facing|medium-light skin tone|probing|right|white|woman,person-people,people-body,person-activity,👩‍🦯‍➡️,🏼
+👩🏽‍🦯‍➡️,"woman with white cane: medium skin tone, facing right",15.1,accessibility|blind|cane|facing|medium skin tone|probing|right|white|woman,person-people,people-body,person-activity,👩‍🦯‍➡️,🏽
+👩🏾‍🦯‍➡️,"woman with white cane: medium-dark skin tone, facing right",15.1,accessibility|blind|cane|facing|medium-dark skin tone|probing|right|white|woman,person-people,people-body,person-activity,👩‍🦯‍➡️,🏾
+👩🏿‍🦯‍➡️,"woman with white cane: dark skin tone, facing right",15.1,accessibility|blind|cane|dark skin tone|facing|probing|right|white|woman,person-people,people-body,person-activity,👩‍🦯‍➡️,🏿
 🧑‍🦼,"person in motorized wheelchair",12.1,accessibility|motorized|person|wheelchair,person-people,people-body,person-activity,,
 🧑🏻‍🦼,"person in motorized wheelchair: light skin tone",12.1,accessibility|light skin tone|motorized|person|wheelchair,person-people,people-body,person-activity,🧑‍🦼,🏻
 🧑🏼‍🦼,"person in motorized wheelchair: medium-light skin tone",12.1,accessibility|medium-light skin tone|motorized|person|wheelchair,person-people,people-body,person-activity,🧑‍🦼,🏼
 🧑🏽‍🦼,"person in motorized wheelchair: medium skin tone",12.1,accessibility|medium skin tone|motorized|person|wheelchair,person-people,people-body,person-activity,🧑‍🦼,🏽
 🧑🏾‍🦼,"person in motorized wheelchair: medium-dark skin tone",12.1,accessibility|medium-dark skin tone|motorized|person|wheelchair,person-people,people-body,person-activity,🧑‍🦼,🏾
 🧑🏿‍🦼,"person in motorized wheelchair: dark skin tone",12.1,accessibility|dark skin tone|motorized|person|wheelchair,person-people,people-body,person-activity,🧑‍🦼,🏿
-🧑‍🦼‍➡️,"person in motorized wheelchair facing right",15.1,accessibility|motorized|person|wheelchair,person-people,people-body,person-activity,,
-🧑🏻‍🦼‍➡️,"person in motorized wheelchair facing right",15.1,accessibility|motorized|person|wheelchair,person-people,people-body,person-activity,🧑‍🦼‍➡️,🏻
-🧑🏼‍🦼‍➡️,"person in motorized wheelchair facing right",15.1,accessibility|motorized|person|wheelchair,person-people,people-body,person-activity,🧑‍🦼‍➡️,🏼
-🧑🏽‍🦼‍➡️,"person in motorized wheelchair facing right",15.1,accessibility|motorized|person|wheelchair,person-people,people-body,person-activity,🧑‍🦼‍➡️,🏽
-🧑🏾‍🦼‍➡️,"person in motorized wheelchair facing right",15.1,accessibility|motorized|person|wheelchair,person-people,people-body,person-activity,🧑‍🦼‍➡️,🏾
-🧑🏿‍🦼‍➡️,"person in motorized wheelchair facing right",15.1,accessibility|motorized|person|wheelchair,person-people,people-body,person-activity,🧑‍🦼‍➡️,🏿
+🧑‍🦼‍➡️,"person in motorized wheelchair: facing right",15.1,accessibility|facing|motorized|person|right|wheelchair,person-people,people-body,person-activity,,
+🧑🏻‍🦼‍➡️,"person in motorized wheelchair: light skin tone, facing right",15.1,accessibility|facing|light skin tone|motorized|person|right|wheelchair,person-people,people-body,person-activity,🧑‍🦼‍➡️,🏻
+🧑🏼‍🦼‍➡️,"person in motorized wheelchair: medium-light skin tone, facing right",15.1,accessibility|facing|medium-light skin tone|motorized|person|right|wheelchair,person-people,people-body,person-activity,🧑‍🦼‍➡️,🏼
+🧑🏽‍🦼‍➡️,"person in motorized wheelchair: medium skin tone, facing right",15.1,accessibility|facing|medium skin tone|motorized|person|right|wheelchair,person-people,people-body,person-activity,🧑‍🦼‍➡️,🏽
+🧑🏾‍🦼‍➡️,"person in motorized wheelchair: medium-dark skin tone, facing right",15.1,accessibility|facing|medium-dark skin tone|motorized|person|right|wheelchair,person-people,people-body,person-activity,🧑‍🦼‍➡️,🏾
+🧑🏿‍🦼‍➡️,"person in motorized wheelchair: dark skin tone, facing right",15.1,accessibility|dark skin tone|facing|motorized|person|right|wheelchair,person-people,people-body,person-activity,🧑‍🦼‍➡️,🏿
 👨‍🦼,"man in motorized wheelchair",12.0,accessibility|man|motorized|wheelchair,person-people,people-body,person-activity,,
 👨🏻‍🦼,"man in motorized wheelchair: light skin tone",12.0,accessibility|light skin tone|man|motorized|wheelchair,person-people,people-body,person-activity,👨‍🦼,🏻
 👨🏼‍🦼,"man in motorized wheelchair: medium-light skin tone",12.0,accessibility|man|medium-light skin tone|motorized|wheelchair,person-people,people-body,person-activity,👨‍🦼,🏼
 👨🏽‍🦼,"man in motorized wheelchair: medium skin tone",12.0,accessibility|man|medium skin tone|motorized|wheelchair,person-people,people-body,person-activity,👨‍🦼,🏽
 👨🏾‍🦼,"man in motorized wheelchair: medium-dark skin tone",12.0,accessibility|man|medium-dark skin tone|motorized|wheelchair,person-people,people-body,person-activity,👨‍🦼,🏾
 👨🏿‍🦼,"man in motorized wheelchair: dark skin tone",12.0,accessibility|dark skin tone|man|motorized|wheelchair,person-people,people-body,person-activity,👨‍🦼,🏿
-👨‍🦼‍➡️,"man in motorized wheelchair facing right",15.1,accessibility|man|motorized|wheelchair,person-people,people-body,person-activity,,
-👨🏻‍🦼‍➡️,"man in motorized wheelchair facing right",15.1,accessibility|man|motorized|wheelchair,person-people,people-body,person-activity,👨‍🦼‍➡️,🏻
-👨🏼‍🦼‍➡️,"man in motorized wheelchair facing right",15.1,accessibility|man|motorized|wheelchair,person-people,people-body,person-activity,👨‍🦼‍➡️,🏼
-👨🏽‍🦼‍➡️,"man in motorized wheelchair facing right",15.1,accessibility|man|motorized|wheelchair,person-people,people-body,person-activity,👨‍🦼‍➡️,🏽
-👨🏾‍🦼‍➡️,"man in motorized wheelchair facing right",15.1,accessibility|man|motorized|wheelchair,person-people,people-body,person-activity,👨‍🦼‍➡️,🏾
-👨🏿‍🦼‍➡️,"man in motorized wheelchair facing right",15.1,accessibility|man|motorized|wheelchair,person-people,people-body,person-activity,👨‍🦼‍➡️,🏿
+👨‍🦼‍➡️,"man in motorized wheelchair: facing right",15.1,accessibility|facing|man|motorized|right|wheelchair,person-people,people-body,person-activity,,
+👨🏻‍🦼‍➡️,"man in motorized wheelchair: light skin tone, facing right",15.1,accessibility|facing|light skin tone|man|motorized|right|wheelchair,person-people,people-body,person-activity,👨‍🦼‍➡️,🏻
+👨🏼‍🦼‍➡️,"man in motorized wheelchair: medium-light skin tone, facing right",15.1,accessibility|facing|man|medium-light skin tone|motorized|right|wheelchair,person-people,people-body,person-activity,👨‍🦼‍➡️,🏼
+👨🏽‍🦼‍➡️,"man in motorized wheelchair: medium skin tone, facing right",15.1,accessibility|facing|man|medium skin tone|motorized|right|wheelchair,person-people,people-body,person-activity,👨‍🦼‍➡️,🏽
+👨🏾‍🦼‍➡️,"man in motorized wheelchair: medium-dark skin tone, facing right",15.1,accessibility|facing|man|medium-dark skin tone|motorized|right|wheelchair,person-people,people-body,person-activity,👨‍🦼‍➡️,🏾
+👨🏿‍🦼‍➡️,"man in motorized wheelchair: dark skin tone, facing right",15.1,accessibility|dark skin tone|facing|man|motorized|right|wheelchair,person-people,people-body,person-activity,👨‍🦼‍➡️,🏿
 👩‍🦼,"woman in motorized wheelchair",12.0,accessibility|motorized|wheelchair|woman,person-people,people-body,person-activity,,
 👩🏻‍🦼,"woman in motorized wheelchair: light skin tone",12.0,accessibility|light skin tone|motorized|wheelchair|woman,person-people,people-body,person-activity,👩‍🦼,🏻
 👩🏼‍🦼,"woman in motorized wheelchair: medium-light skin tone",12.0,accessibility|medium-light skin tone|motorized|wheelchair|woman,person-people,people-body,person-activity,👩‍🦼,🏼
 👩🏽‍🦼,"woman in motorized wheelchair: medium skin tone",12.0,accessibility|medium skin tone|motorized|wheelchair|woman,person-people,people-body,person-activity,👩‍🦼,🏽
 👩🏾‍🦼,"woman in motorized wheelchair: medium-dark skin tone",12.0,accessibility|medium-dark skin tone|motorized|wheelchair|woman,person-people,people-body,person-activity,👩‍🦼,🏾
 👩🏿‍🦼,"woman in motorized wheelchair: dark skin tone",12.0,accessibility|dark skin tone|motorized|wheelchair|woman,person-people,people-body,person-activity,👩‍🦼,🏿
-👩‍🦼‍➡️,"woman in motorized wheelchair facing right",15.1,accessibility|motorized|wheelchair|woman,person-people,people-body,person-activity,,
-👩🏻‍🦼‍➡️,"woman in motorized wheelchair facing right",15.1,accessibility|motorized|wheelchair|woman,person-people,people-body,person-activity,👩‍🦼‍➡️,🏻
-👩🏼‍🦼‍➡️,"woman in motorized wheelchair facing right",15.1,accessibility|motorized|wheelchair|woman,person-people,people-body,person-activity,👩‍🦼‍➡️,🏼
-👩🏽‍🦼‍➡️,"woman in motorized wheelchair facing right",15.1,accessibility|motorized|wheelchair|woman,person-people,people-body,person-activity,👩‍🦼‍➡️,🏽
-👩🏾‍🦼‍➡️,"woman in motorized wheelchair facing right",15.1,accessibility|motorized|wheelchair|woman,person-people,people-body,person-activity,👩‍🦼‍➡️,🏾
-👩🏿‍🦼‍➡️,"woman in motorized wheelchair facing right",15.1,accessibility|motorized|wheelchair|woman,person-people,people-body,person-activity,👩‍🦼‍➡️,🏿
+👩‍🦼‍➡️,"woman in motorized wheelchair: facing right",15.1,accessibility|facing|motorized|right|wheelchair|woman,person-people,people-body,person-activity,,
+👩🏻‍🦼‍➡️,"woman in motorized wheelchair: light skin tone, facing right",15.1,accessibility|facing|light skin tone|motorized|right|wheelchair|woman,person-people,people-body,person-activity,👩‍🦼‍➡️,🏻
+👩🏼‍🦼‍➡️,"woman in motorized wheelchair: medium-light skin tone, facing right",15.1,accessibility|facing|medium-light skin tone|motorized|right|wheelchair|woman,person-people,people-body,person-activity,👩‍🦼‍➡️,🏼
+👩🏽‍🦼‍➡️,"woman in motorized wheelchair: medium skin tone, facing right",15.1,accessibility|facing|medium skin tone|motorized|right|wheelchair|woman,person-people,people-body,person-activity,👩‍🦼‍➡️,🏽
+👩🏾‍🦼‍➡️,"woman in motorized wheelchair: medium-dark skin tone, facing right",15.1,accessibility|facing|medium-dark skin tone|motorized|right|wheelchair|woman,person-people,people-body,person-activity,👩‍🦼‍➡️,🏾
+👩🏿‍🦼‍➡️,"woman in motorized wheelchair: dark skin tone, facing right",15.1,accessibility|dark skin tone|facing|motorized|right|wheelchair|woman,person-people,people-body,person-activity,👩‍🦼‍➡️,🏿
 🧑‍🦽,"person in manual wheelchair",12.1,accessibility|manual|person|wheelchair,person-people,people-body,person-activity,,
 🧑🏻‍🦽,"person in manual wheelchair: light skin tone",12.1,accessibility|light skin tone|manual|person|wheelchair,person-people,people-body,person-activity,🧑‍🦽,🏻
 🧑🏼‍🦽,"person in manual wheelchair: medium-light skin tone",12.1,accessibility|manual|medium-light skin tone|person|wheelchair,person-people,people-body,person-activity,🧑‍🦽,🏼
 🧑🏽‍🦽,"person in manual wheelchair: medium skin tone",12.1,accessibility|manual|medium skin tone|person|wheelchair,person-people,people-body,person-activity,🧑‍🦽,🏽
 🧑🏾‍🦽,"person in manual wheelchair: medium-dark skin tone",12.1,accessibility|manual|medium-dark skin tone|person|wheelchair,person-people,people-body,person-activity,🧑‍🦽,🏾
 🧑🏿‍🦽,"person in manual wheelchair: dark skin tone",12.1,accessibility|dark skin tone|manual|person|wheelchair,person-people,people-body,person-activity,🧑‍🦽,🏿
-🧑‍🦽‍➡️,"person in manual wheelchair facing right",15.1,accessibility|manual|person|wheelchair,person-people,people-body,person-activity,,
-🧑🏻‍🦽‍➡️,"person in manual wheelchair facing right",15.1,accessibility|manual|person|wheelchair,person-people,people-body,person-activity,🧑‍🦽‍➡️,🏻
-🧑🏼‍🦽‍➡️,"person in manual wheelchair facing right",15.1,accessibility|manual|person|wheelchair,person-people,people-body,person-activity,🧑‍🦽‍➡️,🏼
-🧑🏽‍🦽‍➡️,"person in manual wheelchair facing right",15.1,accessibility|manual|person|wheelchair,person-people,people-body,person-activity,🧑‍🦽‍➡️,🏽
-🧑🏾‍🦽‍➡️,"person in manual wheelchair facing right",15.1,accessibility|manual|person|wheelchair,person-people,people-body,person-activity,🧑‍🦽‍➡️,🏾
-🧑🏿‍🦽‍➡️,"person in manual wheelchair facing right",15.1,accessibility|manual|person|wheelchair,person-people,people-body,person-activity,🧑‍🦽‍➡️,🏿
+🧑‍🦽‍➡️,"person in manual wheelchair: facing right",15.1,accessibility|facing|manual|person|right|wheelchair,person-people,people-body,person-activity,,
+🧑🏻‍🦽‍➡️,"person in manual wheelchair: light skin tone, facing right",15.1,accessibility|facing|light skin tone|manual|person|right|wheelchair,person-people,people-body,person-activity,🧑‍🦽‍➡️,🏻
+🧑🏼‍🦽‍➡️,"person in manual wheelchair: medium-light skin tone, facing right",15.1,accessibility|facing|manual|medium-light skin tone|person|right|wheelchair,person-people,people-body,person-activity,🧑‍🦽‍➡️,🏼
+🧑🏽‍🦽‍➡️,"person in manual wheelchair: medium skin tone, facing right",15.1,accessibility|facing|manual|medium skin tone|person|right|wheelchair,person-people,people-body,person-activity,🧑‍🦽‍➡️,🏽
+🧑🏾‍🦽‍➡️,"person in manual wheelchair: medium-dark skin tone, facing right",15.1,accessibility|facing|manual|medium-dark skin tone|person|right|wheelchair,person-people,people-body,person-activity,🧑‍🦽‍➡️,🏾
+🧑🏿‍🦽‍➡️,"person in manual wheelchair: dark skin tone, facing right",15.1,accessibility|dark skin tone|facing|manual|person|right|wheelchair,person-people,people-body,person-activity,🧑‍🦽‍➡️,🏿
 👨‍🦽,"man in manual wheelchair",12.0,accessibility|man|manual|wheelchair,person-people,people-body,person-activity,,
 👨🏻‍🦽,"man in manual wheelchair: light skin tone",12.0,accessibility|light skin tone|man|manual|wheelchair,person-people,people-body,person-activity,👨‍🦽,🏻
 👨🏼‍🦽,"man in manual wheelchair: medium-light skin tone",12.0,accessibility|man|manual|medium-light skin tone|wheelchair,person-people,people-body,person-activity,👨‍🦽,🏼
 👨🏽‍🦽,"man in manual wheelchair: medium skin tone",12.0,accessibility|man|manual|medium skin tone|wheelchair,person-people,people-body,person-activity,👨‍🦽,🏽
 👨🏾‍🦽,"man in manual wheelchair: medium-dark skin tone",12.0,accessibility|man|manual|medium-dark skin tone|wheelchair,person-people,people-body,person-activity,👨‍🦽,🏾
 👨🏿‍🦽,"man in manual wheelchair: dark skin tone",12.0,accessibility|dark skin tone|man|manual|wheelchair,person-people,people-body,person-activity,👨‍🦽,🏿
-👨‍🦽‍➡️,"man in manual wheelchair facing right",15.1,accessibility|man|manual|wheelchair,person-people,people-body,person-activity,,
-👨🏻‍🦽‍➡️,"man in manual wheelchair facing right",15.1,accessibility|man|manual|wheelchair,person-people,people-body,person-activity,👨‍🦽‍➡️,🏻
-👨🏼‍🦽‍➡️,"man in manual wheelchair facing right",15.1,accessibility|man|manual|wheelchair,person-people,people-body,person-activity,👨‍🦽‍➡️,🏼
-👨🏽‍🦽‍➡️,"man in manual wheelchair facing right",15.1,accessibility|man|manual|wheelchair,person-people,people-body,person-activity,👨‍🦽‍➡️,🏽
-👨🏾‍🦽‍➡️,"man in manual wheelchair facing right",15.1,accessibility|man|manual|wheelchair,person-people,people-body,person-activity,👨‍🦽‍➡️,🏾
-👨🏿‍🦽‍➡️,"man in manual wheelchair facing right",15.1,accessibility|man|manual|wheelchair,person-people,people-body,person-activity,👨‍🦽‍➡️,🏿
+👨‍🦽‍➡️,"man in manual wheelchair: facing right",15.1,accessibility|facing|man|manual|right|wheelchair,person-people,people-body,person-activity,,
+👨🏻‍🦽‍➡️,"man in manual wheelchair: light skin tone, facing right",15.1,accessibility|facing|light skin tone|man|manual|right|wheelchair,person-people,people-body,person-activity,👨‍🦽‍➡️,🏻
+👨🏼‍🦽‍➡️,"man in manual wheelchair: medium-light skin tone, facing right",15.1,accessibility|facing|man|manual|medium-light skin tone|right|wheelchair,person-people,people-body,person-activity,👨‍🦽‍➡️,🏼
+👨🏽‍🦽‍➡️,"man in manual wheelchair: medium skin tone, facing right",15.1,accessibility|facing|man|manual|medium skin tone|right|wheelchair,person-people,people-body,person-activity,👨‍🦽‍➡️,🏽
+👨🏾‍🦽‍➡️,"man in manual wheelchair: medium-dark skin tone, facing right",15.1,accessibility|facing|man|manual|medium-dark skin tone|right|wheelchair,person-people,people-body,person-activity,👨‍🦽‍➡️,🏾
+👨🏿‍🦽‍➡️,"man in manual wheelchair: dark skin tone, facing right",15.1,accessibility|dark skin tone|facing|man|manual|right|wheelchair,person-people,people-body,person-activity,👨‍🦽‍➡️,🏿
 👩‍🦽,"woman in manual wheelchair",12.0,accessibility|manual|wheelchair|woman,person-people,people-body,person-activity,,
 👩🏻‍🦽,"woman in manual wheelchair: light skin tone",12.0,accessibility|light skin tone|manual|wheelchair|woman,person-people,people-body,person-activity,👩‍🦽,🏻
 👩🏼‍🦽,"woman in manual wheelchair: medium-light skin tone",12.0,accessibility|manual|medium-light skin tone|wheelchair|woman,person-people,people-body,person-activity,👩‍🦽,🏼
 👩🏽‍🦽,"woman in manual wheelchair: medium skin tone",12.0,accessibility|manual|medium skin tone|wheelchair|woman,person-people,people-body,person-activity,👩‍🦽,🏽
 👩🏾‍🦽,"woman in manual wheelchair: medium-dark skin tone",12.0,accessibility|manual|medium-dark skin tone|wheelchair|woman,person-people,people-body,person-activity,👩‍🦽,🏾
 👩🏿‍🦽,"woman in manual wheelchair: dark skin tone",12.0,accessibility|dark skin tone|manual|wheelchair|woman,person-people,people-body,person-activity,👩‍🦽,🏿
-👩‍🦽‍➡️,"woman in manual wheelchair facing right",15.1,accessibility|manual|wheelchair|woman,person-people,people-body,person-activity,,
-👩🏻‍🦽‍➡️,"woman in manual wheelchair facing right",15.1,accessibility|manual|wheelchair|woman,person-people,people-body,person-activity,👩‍🦽‍➡️,🏻
-👩🏼‍🦽‍➡️,"woman in manual wheelchair facing right",15.1,accessibility|manual|wheelchair|woman,person-people,people-body,person-activity,👩‍🦽‍➡️,🏼
-👩🏽‍🦽‍➡️,"woman in manual wheelchair facing right",15.1,accessibility|manual|wheelchair|woman,person-people,people-body,person-activity,👩‍🦽‍➡️,🏽
-👩🏾‍🦽‍➡️,"woman in manual wheelchair facing right",15.1,accessibility|manual|wheelchair|woman,person-people,people-body,person-activity,👩‍🦽‍➡️,🏾
-👩🏿‍🦽‍➡️,"woman in manual wheelchair facing right",15.1,accessibility|manual|wheelchair|woman,person-people,people-body,person-activity,👩‍🦽‍➡️,🏿
+👩‍🦽‍➡️,"woman in manual wheelchair: facing right",15.1,accessibility|facing|manual|right|wheelchair|woman,person-people,people-body,person-activity,,
+👩🏻‍🦽‍➡️,"woman in manual wheelchair: light skin tone, facing right",15.1,accessibility|facing|light skin tone|manual|right|wheelchair|woman,person-people,people-body,person-activity,👩‍🦽‍➡️,🏻
+👩🏼‍🦽‍➡️,"woman in manual wheelchair: medium-light skin tone, facing right",15.1,accessibility|facing|manual|medium-light skin tone|right|wheelchair|woman,person-people,people-body,person-activity,👩‍🦽‍➡️,🏼
+👩🏽‍🦽‍➡️,"woman in manual wheelchair: medium skin tone, facing right",15.1,accessibility|facing|manual|medium skin tone|right|wheelchair|woman,person-people,people-body,person-activity,👩‍🦽‍➡️,🏽
+👩🏾‍🦽‍➡️,"woman in manual wheelchair: medium-dark skin tone, facing right",15.1,accessibility|facing|manual|medium-dark skin tone|right|wheelchair|woman,person-people,people-body,person-activity,👩‍🦽‍➡️,🏾
+👩🏿‍🦽‍➡️,"woman in manual wheelchair: dark skin tone, facing right",15.1,accessibility|dark skin tone|facing|manual|right|wheelchair|woman,person-people,people-body,person-activity,👩‍🦽‍➡️,🏿
 🏃,"person running",0.6,fast|hurry|marathon|move|person|quick|race|racing|run|rush|speed,person-people,people-body,person-activity,,
 🏃🏻,"person running: light skin tone",1.0,fast|hurry|light skin tone|marathon|move|person|quick|race|racing|run|rush|speed,person-people,people-body,person-activity,🏃,🏻
 🏃🏼,"person running: medium-light skin tone",1.0,fast|hurry|marathon|medium-light skin tone|move|person|quick|race|racing|run|rush|speed,person-people,people-body,person-activity,🏃,🏼
@@ -1752,24 +1755,30 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🏃🏽‍♀️,"woman running: medium skin tone",4.0,fast|hurry|marathon|medium skin tone|move|quick|race|racing|run|rush|speed|woman,person-people,people-body,person-activity,🏃‍♀️,🏽
 🏃🏾‍♀️,"woman running: medium-dark skin tone",4.0,fast|hurry|marathon|medium-dark skin tone|move|quick|race|racing|run|rush|speed|woman,person-people,people-body,person-activity,🏃‍♀️,🏾
 🏃🏿‍♀️,"woman running: dark skin tone",4.0,dark skin tone|fast|hurry|marathon|move|quick|race|racing|run|rush|speed|woman,person-people,people-body,person-activity,🏃‍♀️,🏿
-🏃‍➡️,"person running facing right",15.1,fast|hurry|marathon|move|person|quick|race|racing|run|rush|speed,person-people,people-body,person-activity,,
-🏃🏻‍➡️,"person running facing right",15.1,fast|hurry|marathon|move|person|quick|race|racing|run|rush|speed,person-people,people-body,person-activity,🏃‍➡️,🏻
-🏃🏼‍➡️,"person running facing right",15.1,fast|hurry|marathon|move|person|quick|race|racing|run|rush|speed,person-people,people-body,person-activity,🏃‍➡️,🏼
-🏃🏽‍➡️,"person running facing right",15.1,fast|hurry|marathon|move|person|quick|race|racing|run|rush|speed,person-people,people-body,person-activity,🏃‍➡️,🏽
-🏃🏾‍➡️,"person running facing right",15.1,fast|hurry|marathon|move|person|quick|race|racing|run|rush|speed,person-people,people-body,person-activity,🏃‍➡️,🏾
-🏃🏿‍➡️,"person running facing right",15.1,fast|hurry|marathon|move|person|quick|race|racing|run|rush|speed,person-people,people-body,person-activity,🏃‍➡️,🏿
-🏃‍♀️‍➡️,"woman running facing right",15.1,fast|hurry|marathon|move|quick|race|racing|run|rush|speed|woman,person-people,people-body,person-activity,,
-🏃🏻‍♀️‍➡️,"woman running facing right",15.1,fast|hurry|marathon|move|quick|race|racing|run|rush|speed|woman,person-people,people-body,person-activity,🏃‍♀️‍➡️,🏻
-🏃🏼‍♀️‍➡️,"woman running facing right",15.1,fast|hurry|marathon|move|quick|race|racing|run|rush|speed|woman,person-people,people-body,person-activity,🏃‍♀️‍➡️,🏼
-🏃🏽‍♀️‍➡️,"woman running facing right",15.1,fast|hurry|marathon|move|quick|race|racing|run|rush|speed|woman,person-people,people-body,person-activity,🏃‍♀️‍➡️,🏽
-🏃🏾‍♀️‍➡️,"woman running facing right",15.1,fast|hurry|marathon|move|quick|race|racing|run|rush|speed|woman,person-people,people-body,person-activity,🏃‍♀️‍➡️,🏾
-🏃🏿‍♀️‍➡️,"woman running facing right",15.1,fast|hurry|marathon|move|quick|race|racing|run|rush|speed|woman,person-people,people-body,person-activity,🏃‍♀️‍➡️,🏿
-🏃‍♂️‍➡️,"man running facing right",15.1,fast|hurry|man|marathon|move|quick|race|racing|run|rush|speed,person-people,people-body,person-activity,,
-🏃🏻‍♂️‍➡️,"man running facing right",15.1,fast|hurry|man|marathon|move|quick|race|racing|run|rush|speed,person-people,people-body,person-activity,🏃‍♂️‍➡️,🏻
-🏃🏼‍♂️‍➡️,"man running facing right",15.1,fast|hurry|man|marathon|move|quick|race|racing|run|rush|speed,person-people,people-body,person-activity,🏃‍♂️‍➡️,🏼
-🏃🏽‍♂️‍➡️,"man running facing right",15.1,fast|hurry|man|marathon|move|quick|race|racing|run|rush|speed,person-people,people-body,person-activity,🏃‍♂️‍➡️,🏽
-🏃🏾‍♂️‍➡️,"man running facing right",15.1,fast|hurry|man|marathon|move|quick|race|racing|run|rush|speed,person-people,people-body,person-activity,🏃‍♂️‍➡️,🏾
-🏃🏿‍♂️‍➡️,"man running facing right",15.1,fast|hurry|man|marathon|move|quick|race|racing|run|rush|speed,person-people,people-body,person-activity,🏃‍♂️‍➡️,🏿
+🏃‍➡️,"person running: facing right",15.1,facing|fast|hurry|marathon|move|person|quick|race|racing|right|run|rush|speed,person-people,people-body,person-activity,,
+🏃🏻‍➡️,"person running: light skin tone, facing right",15.1,facing|fast|hurry|light skin tone|marathon|move|person|quick|race|racing|right|run|rush|speed,person-people,people-body,person-activity,🏃‍➡️,🏻
+🏃🏼‍➡️,"person running: medium-light skin tone, facing right",15.1,facing|fast|hurry|marathon|medium-light skin tone|move|person|quick|race|racing|right|run|rush|speed,person-people,people-body,person-activity,🏃‍➡️,🏼
+🏃🏽‍➡️,"person running: medium skin tone, facing right",15.1,facing|fast|hurry|marathon|medium skin tone|move|person|quick|race|racing|right|run|rush|speed,person-people,people-body,person-activity,🏃‍➡️,🏽
+🏃🏾‍➡️,"person running: medium-dark skin tone, facing right",15.1,facing|fast|hurry|marathon|medium-dark skin tone|move|person|quick|race|racing|right|run|rush|speed,person-people,people-body,person-activity,🏃‍➡️,🏾
+🏃🏿‍➡️,"person running: dark skin tone, facing right",15.1,dark skin tone|facing|fast|hurry|marathon|move|person|quick|race|racing|right|run|rush|speed,person-people,people-body,person-activity,🏃‍➡️,🏿
+🏃‍♀️‍➡️,"woman running: facing right",15.1,facing|fast|hurry|marathon|move|quick|race|racing|right|run|rush|speed|woman,person-people,people-body,person-activity,,
+🏃🏻‍♀️‍➡️,"woman running: light skin tone, facing right",15.1,facing|fast|hurry|light skin tone|marathon|move|quick|race|racing|right|run|rush|speed|woman,person-people,people-body,person-activity,🏃‍♀️‍➡️,🏻
+🏃🏼‍♀️‍➡️,"woman running: medium-light skin tone, facing right",15.1,facing|fast|hurry|marathon|medium-light skin tone|move|quick|race|racing|right|run|rush|speed|woman,person-people,people-body,person-activity,🏃‍♀️‍➡️,🏼
+🏃🏽‍♀️‍➡️,"woman running: medium skin tone, facing right",15.1,facing|fast|hurry|marathon|medium skin tone|move|quick|race|racing|right|run|rush|speed|woman,person-people,people-body,person-activity,🏃‍♀️‍➡️,🏽
+🏃🏾‍♀️‍➡️,"woman running: medium-dark skin tone, facing right",15.1,facing|fast|hurry|marathon|medium-dark skin tone|move|quick|race|racing|right|run|rush|speed|woman,person-people,people-body,person-activity,🏃‍♀️‍➡️,🏾
+🏃🏿‍♀️‍➡️,"woman running: dark skin tone, facing right",15.1,dark skin tone|facing|fast|hurry|marathon|move|quick|race|racing|right|run|rush|speed|woman,person-people,people-body,person-activity,🏃‍♀️‍➡️,🏿
+🏃‍♂️‍➡️,"man running: facing right",15.1,facing|fast|hurry|man|marathon|move|quick|race|racing|right|run|rush|speed,person-people,people-body,person-activity,,
+🏃🏻‍♂️‍➡️,"man running: light skin tone, facing right",15.1,facing|fast|hurry|light skin tone|man|marathon|move|quick|race|racing|right|run|rush|speed,person-people,people-body,person-activity,🏃‍♂️‍➡️,🏻
+🏃🏼‍♂️‍➡️,"man running: medium-light skin tone, facing right",15.1,facing|fast|hurry|man|marathon|medium-light skin tone|move|quick|race|racing|right|run|rush|speed,person-people,people-body,person-activity,🏃‍♂️‍➡️,🏼
+🏃🏽‍♂️‍➡️,"man running: medium skin tone, facing right",15.1,facing|fast|hurry|man|marathon|medium skin tone|move|quick|race|racing|right|run|rush|speed,person-people,people-body,person-activity,🏃‍♂️‍➡️,🏽
+🏃🏾‍♂️‍➡️,"man running: medium-dark skin tone, facing right",15.1,facing|fast|hurry|man|marathon|medium-dark skin tone|move|quick|race|racing|right|run|rush|speed,person-people,people-body,person-activity,🏃‍♂️‍➡️,🏾
+🏃🏿‍♂️‍➡️,"man running: dark skin tone, facing right",15.1,dark skin tone|facing|fast|hurry|man|marathon|move|quick|race|racing|right|run|rush|speed,person-people,people-body,person-activity,🏃‍♂️‍➡️,🏿
+🧑‍🩰,"ballet dancer",17.0,ballet|dancer,person-people,people-body,person-activity,,
+🧑🏻‍🩰,"ballet dancer: light skin tone",17.0,ballet|dancer|light skin tone,person-people,people-body,person-activity,🧑‍🩰,🏻
+🧑🏼‍🩰,"ballet dancer: medium-light skin tone",17.0,ballet|dancer|medium-light skin tone,person-people,people-body,person-activity,🧑‍🩰,🏼
+🧑🏽‍🩰,"ballet dancer: medium skin tone",17.0,ballet|dancer|medium skin tone,person-people,people-body,person-activity,🧑‍🩰,🏽
+🧑🏾‍🩰,"ballet dancer: medium-dark skin tone",17.0,ballet|dancer|medium-dark skin tone,person-people,people-body,person-activity,🧑‍🩰,🏾
+🧑🏿‍🩰,"ballet dancer: dark skin tone",17.0,ballet|dancer|dark skin tone,person-people,people-body,person-activity,🧑‍🩰,🏿
 💃,"woman dancing",0.6,dance|dancer|dancing|elegant|festive|flair|flamenco|groove|let’s|salsa|tango|woman,person-people,people-body,person-activity,,
 💃🏻,"woman dancing: light skin tone",1.0,dance|dancer|dancing|elegant|festive|flair|flamenco|groove|let’s|light skin tone|salsa|tango|woman,person-people,people-body,person-activity,💃,🏻
 💃🏼,"woman dancing: medium-light skin tone",1.0,dance|dancer|dancing|elegant|festive|flair|flamenco|groove|let’s|medium-light skin tone|salsa|tango|woman,person-people,people-body,person-activity,💃,🏼
@@ -1789,8 +1798,83 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🕴🏾,"person in suit levitating: medium-dark skin tone",4.0,business|levitating|medium-dark skin tone|person|suit,person-people,people-body,person-activity,🕴️,🏾
 🕴🏿,"person in suit levitating: dark skin tone",4.0,business|dark skin tone|levitating|person|suit,person-people,people-body,person-activity,🕴️,🏿
 👯,"people with bunny ears",0.6,bestie|bff|bunny|counterpart|dancer|double|ear|identical|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,,
+👯🏻,"people with bunny ears: light skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|light skin tone|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯,🏻
+👯🏼,"people with bunny ears: medium-light skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|medium-light skin tone|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯,🏼
+👯🏽,"people with bunny ears: medium skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|medium skin tone|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯,🏽
+👯🏾,"people with bunny ears: medium-dark skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|medium-dark skin tone|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯,🏾
+👯🏿,"people with bunny ears: dark skin tone",17.0,bestie|bff|bunny|counterpart|dancer|dark skin tone|double|ear|identical|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯,🏿
+🧑🏻‍🐰‍🧑🏼,"people with bunny ears: light skin tone, medium-light skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|light skin tone|medium-light skin tone|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯,🏻|🏼
+🧑🏻‍🐰‍🧑🏽,"people with bunny ears: light skin tone, medium skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|light skin tone|medium skin tone|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯,🏻|🏽
+🧑🏻‍🐰‍🧑🏾,"people with bunny ears: light skin tone, medium-dark skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|light skin tone|medium-dark skin tone|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯,🏻|🏾
+🧑🏻‍🐰‍🧑🏿,"people with bunny ears: light skin tone, dark skin tone",17.0,bestie|bff|bunny|counterpart|dancer|dark skin tone|double|ear|identical|light skin tone|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯,🏻|🏿
+🧑🏼‍🐰‍🧑🏻,"people with bunny ears: medium-light skin tone, light skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|light skin tone|medium-light skin tone|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯,🏼|🏻
+🧑🏼‍🐰‍🧑🏽,"people with bunny ears: medium-light skin tone, medium skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|medium skin tone|medium-light skin tone|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯,🏼|🏽
+🧑🏼‍🐰‍🧑🏾,"people with bunny ears: medium-light skin tone, medium-dark skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|medium-dark skin tone|medium-light skin tone|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯,🏼|🏾
+🧑🏼‍🐰‍🧑🏿,"people with bunny ears: medium-light skin tone, dark skin tone",17.0,bestie|bff|bunny|counterpart|dancer|dark skin tone|double|ear|identical|medium-light skin tone|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯,🏼|🏿
+🧑🏽‍🐰‍🧑🏻,"people with bunny ears: medium skin tone, light skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|light skin tone|medium skin tone|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯,🏽|🏻
+🧑🏽‍🐰‍🧑🏼,"people with bunny ears: medium skin tone, medium-light skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|medium skin tone|medium-light skin tone|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯,🏽|🏼
+🧑🏽‍🐰‍🧑🏾,"people with bunny ears: medium skin tone, medium-dark skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|medium skin tone|medium-dark skin tone|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯,🏽|🏾
+🧑🏽‍🐰‍🧑🏿,"people with bunny ears: medium skin tone, dark skin tone",17.0,bestie|bff|bunny|counterpart|dancer|dark skin tone|double|ear|identical|medium skin tone|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯,🏽|🏿
+🧑🏾‍🐰‍🧑🏻,"people with bunny ears: medium-dark skin tone, light skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|light skin tone|medium-dark skin tone|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯,🏾|🏻
+🧑🏾‍🐰‍🧑🏼,"people with bunny ears: medium-dark skin tone, medium-light skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|medium-dark skin tone|medium-light skin tone|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯,🏾|🏼
+🧑🏾‍🐰‍🧑🏽,"people with bunny ears: medium-dark skin tone, medium skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|medium skin tone|medium-dark skin tone|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯,🏾|🏽
+🧑🏾‍🐰‍🧑🏿,"people with bunny ears: medium-dark skin tone, dark skin tone",17.0,bestie|bff|bunny|counterpart|dancer|dark skin tone|double|ear|identical|medium-dark skin tone|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯,🏾|🏿
+🧑🏿‍🐰‍🧑🏻,"people with bunny ears: dark skin tone, light skin tone",17.0,bestie|bff|bunny|counterpart|dancer|dark skin tone|double|ear|identical|light skin tone|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯,🏿|🏻
+🧑🏿‍🐰‍🧑🏼,"people with bunny ears: dark skin tone, medium-light skin tone",17.0,bestie|bff|bunny|counterpart|dancer|dark skin tone|double|ear|identical|medium-light skin tone|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯,🏿|🏼
+🧑🏿‍🐰‍🧑🏽,"people with bunny ears: dark skin tone, medium skin tone",17.0,bestie|bff|bunny|counterpart|dancer|dark skin tone|double|ear|identical|medium skin tone|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯,🏿|🏽
+🧑🏿‍🐰‍🧑🏾,"people with bunny ears: dark skin tone, medium-dark skin tone",17.0,bestie|bff|bunny|counterpart|dancer|dark skin tone|double|ear|identical|medium-dark skin tone|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯,🏿|🏾
 👯‍♂️,"men with bunny ears",4.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|men|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,,
+👯🏻‍♂️,"men with bunny ears: light skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|light skin tone|men|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯‍♂️,🏻
+👯🏼‍♂️,"men with bunny ears: medium-light skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|medium-light skin tone|men|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯‍♂️,🏼
+👯🏽‍♂️,"men with bunny ears: medium skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|medium skin tone|men|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯‍♂️,🏽
+👯🏾‍♂️,"men with bunny ears: medium-dark skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|medium-dark skin tone|men|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯‍♂️,🏾
+👯🏿‍♂️,"men with bunny ears: dark skin tone",17.0,bestie|bff|bunny|counterpart|dancer|dark skin tone|double|ear|identical|men|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯‍♂️,🏿
+👨🏻‍🐰‍👨🏼,"men with bunny ears: light skin tone, medium-light skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|light skin tone|medium-light skin tone|men|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯‍♂️,🏻|🏼
+👨🏻‍🐰‍👨🏽,"men with bunny ears: light skin tone, medium skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|light skin tone|medium skin tone|men|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯‍♂️,🏻|🏽
+👨🏻‍🐰‍👨🏾,"men with bunny ears: light skin tone, medium-dark skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|light skin tone|medium-dark skin tone|men|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯‍♂️,🏻|🏾
+👨🏻‍🐰‍👨🏿,"men with bunny ears: light skin tone, dark skin tone",17.0,bestie|bff|bunny|counterpart|dancer|dark skin tone|double|ear|identical|light skin tone|men|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯‍♂️,🏻|🏿
+👨🏼‍🐰‍👨🏻,"men with bunny ears: medium-light skin tone, light skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|light skin tone|medium-light skin tone|men|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯‍♂️,🏼|🏻
+👨🏼‍🐰‍👨🏽,"men with bunny ears: medium-light skin tone, medium skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|medium skin tone|medium-light skin tone|men|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯‍♂️,🏼|🏽
+👨🏼‍🐰‍👨🏾,"men with bunny ears: medium-light skin tone, medium-dark skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|medium-dark skin tone|medium-light skin tone|men|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯‍♂️,🏼|🏾
+👨🏼‍🐰‍👨🏿,"men with bunny ears: medium-light skin tone, dark skin tone",17.0,bestie|bff|bunny|counterpart|dancer|dark skin tone|double|ear|identical|medium-light skin tone|men|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯‍♂️,🏼|🏿
+👨🏽‍🐰‍👨🏻,"men with bunny ears: medium skin tone, light skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|light skin tone|medium skin tone|men|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯‍♂️,🏽|🏻
+👨🏽‍🐰‍👨🏼,"men with bunny ears: medium skin tone, medium-light skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|medium skin tone|medium-light skin tone|men|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯‍♂️,🏽|🏼
+👨🏽‍🐰‍👨🏾,"men with bunny ears: medium skin tone, medium-dark skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|medium skin tone|medium-dark skin tone|men|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯‍♂️,🏽|🏾
+👨🏽‍🐰‍👨🏿,"men with bunny ears: medium skin tone, dark skin tone",17.0,bestie|bff|bunny|counterpart|dancer|dark skin tone|double|ear|identical|medium skin tone|men|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯‍♂️,🏽|🏿
+👨🏾‍🐰‍👨🏻,"men with bunny ears: medium-dark skin tone, light skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|light skin tone|medium-dark skin tone|men|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯‍♂️,🏾|🏻
+👨🏾‍🐰‍👨🏼,"men with bunny ears: medium-dark skin tone, medium-light skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|medium-dark skin tone|medium-light skin tone|men|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯‍♂️,🏾|🏼
+👨🏾‍🐰‍👨🏽,"men with bunny ears: medium-dark skin tone, medium skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|medium skin tone|medium-dark skin tone|men|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯‍♂️,🏾|🏽
+👨🏾‍🐰‍👨🏿,"men with bunny ears: medium-dark skin tone, dark skin tone",17.0,bestie|bff|bunny|counterpart|dancer|dark skin tone|double|ear|identical|medium-dark skin tone|men|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯‍♂️,🏾|🏿
+👨🏿‍🐰‍👨🏻,"men with bunny ears: dark skin tone, light skin tone",17.0,bestie|bff|bunny|counterpart|dancer|dark skin tone|double|ear|identical|light skin tone|men|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯‍♂️,🏿|🏻
+👨🏿‍🐰‍👨🏼,"men with bunny ears: dark skin tone, medium-light skin tone",17.0,bestie|bff|bunny|counterpart|dancer|dark skin tone|double|ear|identical|medium-light skin tone|men|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯‍♂️,🏿|🏼
+👨🏿‍🐰‍👨🏽,"men with bunny ears: dark skin tone, medium skin tone",17.0,bestie|bff|bunny|counterpart|dancer|dark skin tone|double|ear|identical|medium skin tone|men|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯‍♂️,🏿|🏽
+👨🏿‍🐰‍👨🏾,"men with bunny ears: dark skin tone, medium-dark skin tone",17.0,bestie|bff|bunny|counterpart|dancer|dark skin tone|double|ear|identical|medium-dark skin tone|men|pair|party|partying|people|soulmate|twin|twinsies,person-people,people-body,person-activity,👯‍♂️,🏿|🏾
 👯‍♀️,"women with bunny ears",4.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|pair|party|partying|people|soulmate|twin|twinsies|women,person-people,people-body,person-activity,,
+👯🏻‍♀️,"women with bunny ears: light skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|light skin tone|pair|party|partying|people|soulmate|twin|twinsies|women,person-people,people-body,person-activity,👯‍♀️,🏻
+👯🏼‍♀️,"women with bunny ears: medium-light skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|medium-light skin tone|pair|party|partying|people|soulmate|twin|twinsies|women,person-people,people-body,person-activity,👯‍♀️,🏼
+👯🏽‍♀️,"women with bunny ears: medium skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|medium skin tone|pair|party|partying|people|soulmate|twin|twinsies|women,person-people,people-body,person-activity,👯‍♀️,🏽
+👯🏾‍♀️,"women with bunny ears: medium-dark skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|medium-dark skin tone|pair|party|partying|people|soulmate|twin|twinsies|women,person-people,people-body,person-activity,👯‍♀️,🏾
+👯🏿‍♀️,"women with bunny ears: dark skin tone",17.0,bestie|bff|bunny|counterpart|dancer|dark skin tone|double|ear|identical|pair|party|partying|people|soulmate|twin|twinsies|women,person-people,people-body,person-activity,👯‍♀️,🏿
+👩🏻‍🐰‍👩🏼,"women with bunny ears: light skin tone, medium-light skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|light skin tone|medium-light skin tone|pair|party|partying|people|soulmate|twin|twinsies|women,person-people,people-body,person-activity,👯‍♀️,🏻|🏼
+👩🏻‍🐰‍👩🏽,"women with bunny ears: light skin tone, medium skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|light skin tone|medium skin tone|pair|party|partying|people|soulmate|twin|twinsies|women,person-people,people-body,person-activity,👯‍♀️,🏻|🏽
+👩🏻‍🐰‍👩🏾,"women with bunny ears: light skin tone, medium-dark skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|light skin tone|medium-dark skin tone|pair|party|partying|people|soulmate|twin|twinsies|women,person-people,people-body,person-activity,👯‍♀️,🏻|🏾
+👩🏻‍🐰‍👩🏿,"women with bunny ears: light skin tone, dark skin tone",17.0,bestie|bff|bunny|counterpart|dancer|dark skin tone|double|ear|identical|light skin tone|pair|party|partying|people|soulmate|twin|twinsies|women,person-people,people-body,person-activity,👯‍♀️,🏻|🏿
+👩🏼‍🐰‍👩🏻,"women with bunny ears: medium-light skin tone, light skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|light skin tone|medium-light skin tone|pair|party|partying|people|soulmate|twin|twinsies|women,person-people,people-body,person-activity,👯‍♀️,🏼|🏻
+👩🏼‍🐰‍👩🏽,"women with bunny ears: medium-light skin tone, medium skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|medium skin tone|medium-light skin tone|pair|party|partying|people|soulmate|twin|twinsies|women,person-people,people-body,person-activity,👯‍♀️,🏼|🏽
+👩🏼‍🐰‍👩🏾,"women with bunny ears: medium-light skin tone, medium-dark skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|medium-dark skin tone|medium-light skin tone|pair|party|partying|people|soulmate|twin|twinsies|women,person-people,people-body,person-activity,👯‍♀️,🏼|🏾
+👩🏼‍🐰‍👩🏿,"women with bunny ears: medium-light skin tone, dark skin tone",17.0,bestie|bff|bunny|counterpart|dancer|dark skin tone|double|ear|identical|medium-light skin tone|pair|party|partying|people|soulmate|twin|twinsies|women,person-people,people-body,person-activity,👯‍♀️,🏼|🏿
+👩🏽‍🐰‍👩🏻,"women with bunny ears: medium skin tone, light skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|light skin tone|medium skin tone|pair|party|partying|people|soulmate|twin|twinsies|women,person-people,people-body,person-activity,👯‍♀️,🏽|🏻
+👩🏽‍🐰‍👩🏼,"women with bunny ears: medium skin tone, medium-light skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|medium skin tone|medium-light skin tone|pair|party|partying|people|soulmate|twin|twinsies|women,person-people,people-body,person-activity,👯‍♀️,🏽|🏼
+👩🏽‍🐰‍👩🏾,"women with bunny ears: medium skin tone, medium-dark skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|medium skin tone|medium-dark skin tone|pair|party|partying|people|soulmate|twin|twinsies|women,person-people,people-body,person-activity,👯‍♀️,🏽|🏾
+👩🏽‍🐰‍👩🏿,"women with bunny ears: medium skin tone, dark skin tone",17.0,bestie|bff|bunny|counterpart|dancer|dark skin tone|double|ear|identical|medium skin tone|pair|party|partying|people|soulmate|twin|twinsies|women,person-people,people-body,person-activity,👯‍♀️,🏽|🏿
+👩🏾‍🐰‍👩🏻,"women with bunny ears: medium-dark skin tone, light skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|light skin tone|medium-dark skin tone|pair|party|partying|people|soulmate|twin|twinsies|women,person-people,people-body,person-activity,👯‍♀️,🏾|🏻
+👩🏾‍🐰‍👩🏼,"women with bunny ears: medium-dark skin tone, medium-light skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|medium-dark skin tone|medium-light skin tone|pair|party|partying|people|soulmate|twin|twinsies|women,person-people,people-body,person-activity,👯‍♀️,🏾|🏼
+👩🏾‍🐰‍👩🏽,"women with bunny ears: medium-dark skin tone, medium skin tone",17.0,bestie|bff|bunny|counterpart|dancer|double|ear|identical|medium skin tone|medium-dark skin tone|pair|party|partying|people|soulmate|twin|twinsies|women,person-people,people-body,person-activity,👯‍♀️,🏾|🏽
+👩🏾‍🐰‍👩🏿,"women with bunny ears: medium-dark skin tone, dark skin tone",17.0,bestie|bff|bunny|counterpart|dancer|dark skin tone|double|ear|identical|medium-dark skin tone|pair|party|partying|people|soulmate|twin|twinsies|women,person-people,people-body,person-activity,👯‍♀️,🏾|🏿
+👩🏿‍🐰‍👩🏻,"women with bunny ears: dark skin tone, light skin tone",17.0,bestie|bff|bunny|counterpart|dancer|dark skin tone|double|ear|identical|light skin tone|pair|party|partying|people|soulmate|twin|twinsies|women,person-people,people-body,person-activity,👯‍♀️,🏿|🏻
+👩🏿‍🐰‍👩🏼,"women with bunny ears: dark skin tone, medium-light skin tone",17.0,bestie|bff|bunny|counterpart|dancer|dark skin tone|double|ear|identical|medium-light skin tone|pair|party|partying|people|soulmate|twin|twinsies|women,person-people,people-body,person-activity,👯‍♀️,🏿|🏼
+👩🏿‍🐰‍👩🏽,"women with bunny ears: dark skin tone, medium skin tone",17.0,bestie|bff|bunny|counterpart|dancer|dark skin tone|double|ear|identical|medium skin tone|pair|party|partying|people|soulmate|twin|twinsies|women,person-people,people-body,person-activity,👯‍♀️,🏿|🏽
+👩🏿‍🐰‍👩🏾,"women with bunny ears: dark skin tone, medium-dark skin tone",17.0,bestie|bff|bunny|counterpart|dancer|dark skin tone|double|ear|identical|medium-dark skin tone|pair|party|partying|people|soulmate|twin|twinsies|women,person-people,people-body,person-activity,👯‍♀️,🏿|🏾
 🧖,"person in steamy room",5.0,day|luxurious|pamper|person|relax|room|sauna|spa|steam|steambath|unwind,person-people,people-body,person-activity,,
 🧖🏻,"person in steamy room: light skin tone",5.0,day|light skin tone|luxurious|pamper|person|relax|room|sauna|spa|steam|steambath|unwind,person-people,people-body,person-activity,🧖,🏻
 🧖🏼,"person in steamy room: medium-light skin tone",5.0,day|luxurious|medium-light skin tone|pamper|person|relax|room|sauna|spa|steam|steambath|unwind,person-people,people-body,person-activity,🧖,🏼
@@ -2004,8 +2088,83 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🤸🏾‍♀️,"woman cartwheeling: medium-dark skin tone",4.0,active|cartwheel|cartwheeling|excited|flip|gymnastics|happy|medium-dark skin tone|somersault|woman,person-people,people-body,person-sport,🤸‍♀️,🏾
 🤸🏿‍♀️,"woman cartwheeling: dark skin tone",4.0,active|cartwheel|cartwheeling|dark skin tone|excited|flip|gymnastics|happy|somersault|woman,person-people,people-body,person-sport,🤸‍♀️,🏿
 🤼,"people wrestling",3.0,combat|duel|grapple|people|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,,
+🤼🏻,"people wrestling: light skin tone",17.0,combat|duel|grapple|light skin tone|people|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼,🏻
+🤼🏼,"people wrestling: medium-light skin tone",17.0,combat|duel|grapple|medium-light skin tone|people|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼,🏼
+🤼🏽,"people wrestling: medium skin tone",17.0,combat|duel|grapple|medium skin tone|people|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼,🏽
+🤼🏾,"people wrestling: medium-dark skin tone",17.0,combat|duel|grapple|medium-dark skin tone|people|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼,🏾
+🤼🏿,"people wrestling: dark skin tone",17.0,combat|dark skin tone|duel|grapple|people|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼,🏿
+🧑🏻‍🫯‍🧑🏼,"people wrestling: light skin tone, medium-light skin tone",17.0,combat|duel|grapple|light skin tone|medium-light skin tone|people|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼,🏻|🏼
+🧑🏻‍🫯‍🧑🏽,"people wrestling: light skin tone, medium skin tone",17.0,combat|duel|grapple|light skin tone|medium skin tone|people|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼,🏻|🏽
+🧑🏻‍🫯‍🧑🏾,"people wrestling: light skin tone, medium-dark skin tone",17.0,combat|duel|grapple|light skin tone|medium-dark skin tone|people|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼,🏻|🏾
+🧑🏻‍🫯‍🧑🏿,"people wrestling: light skin tone, dark skin tone",17.0,combat|dark skin tone|duel|grapple|light skin tone|people|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼,🏻|🏿
+🧑🏼‍🫯‍🧑🏻,"people wrestling: medium-light skin tone, light skin tone",17.0,combat|duel|grapple|light skin tone|medium-light skin tone|people|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼,🏼|🏻
+🧑🏼‍🫯‍🧑🏽,"people wrestling: medium-light skin tone, medium skin tone",17.0,combat|duel|grapple|medium skin tone|medium-light skin tone|people|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼,🏼|🏽
+🧑🏼‍🫯‍🧑🏾,"people wrestling: medium-light skin tone, medium-dark skin tone",17.0,combat|duel|grapple|medium-dark skin tone|medium-light skin tone|people|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼,🏼|🏾
+🧑🏼‍🫯‍🧑🏿,"people wrestling: medium-light skin tone, dark skin tone",17.0,combat|dark skin tone|duel|grapple|medium-light skin tone|people|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼,🏼|🏿
+🧑🏽‍🫯‍🧑🏻,"people wrestling: medium skin tone, light skin tone",17.0,combat|duel|grapple|light skin tone|medium skin tone|people|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼,🏽|🏻
+🧑🏽‍🫯‍🧑🏼,"people wrestling: medium skin tone, medium-light skin tone",17.0,combat|duel|grapple|medium skin tone|medium-light skin tone|people|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼,🏽|🏼
+🧑🏽‍🫯‍🧑🏾,"people wrestling: medium skin tone, medium-dark skin tone",17.0,combat|duel|grapple|medium skin tone|medium-dark skin tone|people|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼,🏽|🏾
+🧑🏽‍🫯‍🧑🏿,"people wrestling: medium skin tone, dark skin tone",17.0,combat|dark skin tone|duel|grapple|medium skin tone|people|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼,🏽|🏿
+🧑🏾‍🫯‍🧑🏻,"people wrestling: medium-dark skin tone, light skin tone",17.0,combat|duel|grapple|light skin tone|medium-dark skin tone|people|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼,🏾|🏻
+🧑🏾‍🫯‍🧑🏼,"people wrestling: medium-dark skin tone, medium-light skin tone",17.0,combat|duel|grapple|medium-dark skin tone|medium-light skin tone|people|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼,🏾|🏼
+🧑🏾‍🫯‍🧑🏽,"people wrestling: medium-dark skin tone, medium skin tone",17.0,combat|duel|grapple|medium skin tone|medium-dark skin tone|people|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼,🏾|🏽
+🧑🏾‍🫯‍🧑🏿,"people wrestling: medium-dark skin tone, dark skin tone",17.0,combat|dark skin tone|duel|grapple|medium-dark skin tone|people|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼,🏾|🏿
+🧑🏿‍🫯‍🧑🏻,"people wrestling: dark skin tone, light skin tone",17.0,combat|dark skin tone|duel|grapple|light skin tone|people|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼,🏿|🏻
+🧑🏿‍🫯‍🧑🏼,"people wrestling: dark skin tone, medium-light skin tone",17.0,combat|dark skin tone|duel|grapple|medium-light skin tone|people|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼,🏿|🏼
+🧑🏿‍🫯‍🧑🏽,"people wrestling: dark skin tone, medium skin tone",17.0,combat|dark skin tone|duel|grapple|medium skin tone|people|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼,🏿|🏽
+🧑🏿‍🫯‍🧑🏾,"people wrestling: dark skin tone, medium-dark skin tone",17.0,combat|dark skin tone|duel|grapple|medium-dark skin tone|people|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼,🏿|🏾
 🤼‍♂️,"men wrestling",4.0,combat|duel|grapple|men|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,,
+🤼🏻‍♂️,"men wrestling: light skin tone",17.0,combat|duel|grapple|light skin tone|men|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♂️,🏻
+🤼🏼‍♂️,"men wrestling: medium-light skin tone",17.0,combat|duel|grapple|medium-light skin tone|men|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♂️,🏼
+🤼🏽‍♂️,"men wrestling: medium skin tone",17.0,combat|duel|grapple|medium skin tone|men|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♂️,🏽
+🤼🏾‍♂️,"men wrestling: medium-dark skin tone",17.0,combat|duel|grapple|medium-dark skin tone|men|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♂️,🏾
+🤼🏿‍♂️,"men wrestling: dark skin tone",17.0,combat|dark skin tone|duel|grapple|men|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♂️,🏿
+👨🏻‍🫯‍👨🏼,"men wrestling: light skin tone, medium-light skin tone",17.0,combat|duel|grapple|light skin tone|medium-light skin tone|men|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♂️,🏻|🏼
+👨🏻‍🫯‍👨🏽,"men wrestling: light skin tone, medium skin tone",17.0,combat|duel|grapple|light skin tone|medium skin tone|men|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♂️,🏻|🏽
+👨🏻‍🫯‍👨🏾,"men wrestling: light skin tone, medium-dark skin tone",17.0,combat|duel|grapple|light skin tone|medium-dark skin tone|men|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♂️,🏻|🏾
+👨🏻‍🫯‍👨🏿,"men wrestling: light skin tone, dark skin tone",17.0,combat|dark skin tone|duel|grapple|light skin tone|men|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♂️,🏻|🏿
+👨🏼‍🫯‍👨🏻,"men wrestling: medium-light skin tone, light skin tone",17.0,combat|duel|grapple|light skin tone|medium-light skin tone|men|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♂️,🏼|🏻
+👨🏼‍🫯‍👨🏽,"men wrestling: medium-light skin tone, medium skin tone",17.0,combat|duel|grapple|medium skin tone|medium-light skin tone|men|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♂️,🏼|🏽
+👨🏼‍🫯‍👨🏾,"men wrestling: medium-light skin tone, medium-dark skin tone",17.0,combat|duel|grapple|medium-dark skin tone|medium-light skin tone|men|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♂️,🏼|🏾
+👨🏼‍🫯‍👨🏿,"men wrestling: medium-light skin tone, dark skin tone",17.0,combat|dark skin tone|duel|grapple|medium-light skin tone|men|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♂️,🏼|🏿
+👨🏽‍🫯‍👨🏻,"men wrestling: medium skin tone, light skin tone",17.0,combat|duel|grapple|light skin tone|medium skin tone|men|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♂️,🏽|🏻
+👨🏽‍🫯‍👨🏼,"men wrestling: medium skin tone, medium-light skin tone",17.0,combat|duel|grapple|medium skin tone|medium-light skin tone|men|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♂️,🏽|🏼
+👨🏽‍🫯‍👨🏾,"men wrestling: medium skin tone, medium-dark skin tone",17.0,combat|duel|grapple|medium skin tone|medium-dark skin tone|men|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♂️,🏽|🏾
+👨🏽‍🫯‍👨🏿,"men wrestling: medium skin tone, dark skin tone",17.0,combat|dark skin tone|duel|grapple|medium skin tone|men|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♂️,🏽|🏿
+👨🏾‍🫯‍👨🏻,"men wrestling: medium-dark skin tone, light skin tone",17.0,combat|duel|grapple|light skin tone|medium-dark skin tone|men|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♂️,🏾|🏻
+👨🏾‍🫯‍👨🏼,"men wrestling: medium-dark skin tone, medium-light skin tone",17.0,combat|duel|grapple|medium-dark skin tone|medium-light skin tone|men|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♂️,🏾|🏼
+👨🏾‍🫯‍👨🏽,"men wrestling: medium-dark skin tone, medium skin tone",17.0,combat|duel|grapple|medium skin tone|medium-dark skin tone|men|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♂️,🏾|🏽
+👨🏾‍🫯‍👨🏿,"men wrestling: medium-dark skin tone, dark skin tone",17.0,combat|dark skin tone|duel|grapple|medium-dark skin tone|men|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♂️,🏾|🏿
+👨🏿‍🫯‍👨🏻,"men wrestling: dark skin tone, light skin tone",17.0,combat|dark skin tone|duel|grapple|light skin tone|men|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♂️,🏿|🏻
+👨🏿‍🫯‍👨🏼,"men wrestling: dark skin tone, medium-light skin tone",17.0,combat|dark skin tone|duel|grapple|medium-light skin tone|men|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♂️,🏿|🏼
+👨🏿‍🫯‍👨🏽,"men wrestling: dark skin tone, medium skin tone",17.0,combat|dark skin tone|duel|grapple|medium skin tone|men|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♂️,🏿|🏽
+👨🏿‍🫯‍👨🏾,"men wrestling: dark skin tone, medium-dark skin tone",17.0,combat|dark skin tone|duel|grapple|medium-dark skin tone|men|ring|tournament|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♂️,🏿|🏾
 🤼‍♀️,"women wrestling",4.0,combat|duel|grapple|ring|tournament|women|wrestle|wrestling,person-people,people-body,person-sport,,
+🤼🏻‍♀️,"women wrestling: light skin tone",17.0,combat|duel|grapple|light skin tone|ring|tournament|women|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♀️,🏻
+🤼🏼‍♀️,"women wrestling: medium-light skin tone",17.0,combat|duel|grapple|medium-light skin tone|ring|tournament|women|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♀️,🏼
+🤼🏽‍♀️,"women wrestling: medium skin tone",17.0,combat|duel|grapple|medium skin tone|ring|tournament|women|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♀️,🏽
+🤼🏾‍♀️,"women wrestling: medium-dark skin tone",17.0,combat|duel|grapple|medium-dark skin tone|ring|tournament|women|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♀️,🏾
+🤼🏿‍♀️,"women wrestling: dark skin tone",17.0,combat|dark skin tone|duel|grapple|ring|tournament|women|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♀️,🏿
+👩🏻‍🫯‍👩🏼,"women wrestling: light skin tone, medium-light skin tone",17.0,combat|duel|grapple|light skin tone|medium-light skin tone|ring|tournament|women|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♀️,🏻|🏼
+👩🏻‍🫯‍👩🏽,"women wrestling: light skin tone, medium skin tone",17.0,combat|duel|grapple|light skin tone|medium skin tone|ring|tournament|women|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♀️,🏻|🏽
+👩🏻‍🫯‍👩🏾,"women wrestling: light skin tone, medium-dark skin tone",17.0,combat|duel|grapple|light skin tone|medium-dark skin tone|ring|tournament|women|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♀️,🏻|🏾
+👩🏻‍🫯‍👩🏿,"women wrestling: light skin tone, dark skin tone",17.0,combat|dark skin tone|duel|grapple|light skin tone|ring|tournament|women|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♀️,🏻|🏿
+👩🏼‍🫯‍👩🏻,"women wrestling: medium-light skin tone, light skin tone",17.0,combat|duel|grapple|light skin tone|medium-light skin tone|ring|tournament|women|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♀️,🏼|🏻
+👩🏼‍🫯‍👩🏽,"women wrestling: medium-light skin tone, medium skin tone",17.0,combat|duel|grapple|medium skin tone|medium-light skin tone|ring|tournament|women|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♀️,🏼|🏽
+👩🏼‍🫯‍👩🏾,"women wrestling: medium-light skin tone, medium-dark skin tone",17.0,combat|duel|grapple|medium-dark skin tone|medium-light skin tone|ring|tournament|women|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♀️,🏼|🏾
+👩🏼‍🫯‍👩🏿,"women wrestling: medium-light skin tone, dark skin tone",17.0,combat|dark skin tone|duel|grapple|medium-light skin tone|ring|tournament|women|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♀️,🏼|🏿
+👩🏽‍🫯‍👩🏻,"women wrestling: medium skin tone, light skin tone",17.0,combat|duel|grapple|light skin tone|medium skin tone|ring|tournament|women|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♀️,🏽|🏻
+👩🏽‍🫯‍👩🏼,"women wrestling: medium skin tone, medium-light skin tone",17.0,combat|duel|grapple|medium skin tone|medium-light skin tone|ring|tournament|women|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♀️,🏽|🏼
+👩🏽‍🫯‍👩🏾,"women wrestling: medium skin tone, medium-dark skin tone",17.0,combat|duel|grapple|medium skin tone|medium-dark skin tone|ring|tournament|women|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♀️,🏽|🏾
+👩🏽‍🫯‍👩🏿,"women wrestling: medium skin tone, dark skin tone",17.0,combat|dark skin tone|duel|grapple|medium skin tone|ring|tournament|women|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♀️,🏽|🏿
+👩🏾‍🫯‍👩🏻,"women wrestling: medium-dark skin tone, light skin tone",17.0,combat|duel|grapple|light skin tone|medium-dark skin tone|ring|tournament|women|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♀️,🏾|🏻
+👩🏾‍🫯‍👩🏼,"women wrestling: medium-dark skin tone, medium-light skin tone",17.0,combat|duel|grapple|medium-dark skin tone|medium-light skin tone|ring|tournament|women|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♀️,🏾|🏼
+👩🏾‍🫯‍👩🏽,"women wrestling: medium-dark skin tone, medium skin tone",17.0,combat|duel|grapple|medium skin tone|medium-dark skin tone|ring|tournament|women|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♀️,🏾|🏽
+👩🏾‍🫯‍👩🏿,"women wrestling: medium-dark skin tone, dark skin tone",17.0,combat|dark skin tone|duel|grapple|medium-dark skin tone|ring|tournament|women|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♀️,🏾|🏿
+👩🏿‍🫯‍👩🏻,"women wrestling: dark skin tone, light skin tone",17.0,combat|dark skin tone|duel|grapple|light skin tone|ring|tournament|women|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♀️,🏿|🏻
+👩🏿‍🫯‍👩🏼,"women wrestling: dark skin tone, medium-light skin tone",17.0,combat|dark skin tone|duel|grapple|medium-light skin tone|ring|tournament|women|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♀️,🏿|🏼
+👩🏿‍🫯‍👩🏽,"women wrestling: dark skin tone, medium skin tone",17.0,combat|dark skin tone|duel|grapple|medium skin tone|ring|tournament|women|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♀️,🏿|🏽
+👩🏿‍🫯‍👩🏾,"women wrestling: dark skin tone, medium-dark skin tone",17.0,combat|dark skin tone|duel|grapple|medium-dark skin tone|ring|tournament|women|wrestle|wrestling,person-people,people-body,person-sport,🤼‍♀️,🏿|🏾
 🤽,"person playing water polo",3.0,person|playing|polo|sport|swimming|water|waterpolo,person-people,people-body,person-sport,,
 🤽🏻,"person playing water polo: light skin tone",3.0,light skin tone|person|playing|polo|sport|swimming|water|waterpolo,person-people,people-body,person-sport,🤽,🏻
 🤽🏼,"person playing water polo: medium-light skin tone",3.0,medium-light skin tone|person|playing|polo|sport|swimming|water|waterpolo,person-people,people-body,person-sport,🤽,🏼
@@ -2538,6 +2697,7 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🐳,"spouting whale",0.6,animal|beach|face|ocean|spouting|whale,animals-nature,animals-nature,animal-marine,,
 🐋,"whale",1.0,animal|beach|ocean|whale,animals-nature,animals-nature,animal-marine,,
 🐬,"dolphin",0.6,animal|beach|dolphin|flipper|ocean,animals-nature,animals-nature,animal-marine,,
+🫍,"orca",17.0,marine|ocean|whale,animals-nature,animals-nature,animal-marine,,
 🦭,"seal",13.0,animal|lion|ocean|sea|seal,animals-nature,animals-nature,animal-marine,,
 🐟,"fish",0.6,animal|dinner|fish|fishes|fishing|Pisces|zodiac,animals-nature,animals-nature,animal-marine,,
 🐠,"tropical fish",0.6,animal|fish|fishes|tropical,animals-nature,animals-nature,animal-marine,,
@@ -2737,6 +2897,7 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🧭,"compass",11.0,compass|direction|magnetic|navigation|orienteering,travel-places,travel-places,place-map,,
 🏔️,"snow-capped mountain",0.7,cold|mountain|snow|snow-capped,travel-places,travel-places,place-geographic,,
 ⛰️,"mountain",0.7,mountain,travel-places,travel-places,place-geographic,,
+🛘,"landslide",17.0,avalanche|danger|disaster|earthquake|mountain|mudslide|rocks,travel-places,travel-places,place-geographic,,
 🌋,"volcano",0.6,eruption|mountain|nature|volcano,travel-places,travel-places,place-geographic,,
 🗻,"mount fuji",0.6,fuji|mount|mountain|nature,travel-places,travel-places,place-geographic,,
 🏕️,"camping",0.7,camping,travel-places,travel-places,place-geographic,,
@@ -3097,10 +3258,11 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🎧,"headphone",0.6,earbud|headphone|sound,activities-events,objects,music,,
 📻,"radio",0.6,entertainment|radio|tbt|video,activities-events,objects,music,,
 🎷,"saxophone",0.6,instrument|music|sax|saxophone,activities-events,objects,musical-instrument,,
+🎺,"trumpet",0.6,instrument|music|trumpet,activities-events,objects,musical-instrument,,
+🪊,"trombone",17.0,brass|instrument|jazz|music|sad|slide,activities-events,objects,musical-instrument,,
 🪗,"accordion",13.0,accordion|box|concertina|instrument|music|squeeze|squeezebox,activities-events,objects,musical-instrument,,
 🎸,"guitar",0.6,guitar|instrument|music|strat,activities-events,objects,musical-instrument,,
 🎹,"musical keyboard",0.6,instrument|keyboard|music|musical|piano,activities-events,objects,musical-instrument,,
-🎺,"trumpet",0.6,instrument|music|trumpet,activities-events,objects,musical-instrument,,
 🎻,"violin",0.6,instrument|music|violin,activities-events,objects,musical-instrument,,
 🪕,"banjo",12.0,banjo|music|stringed,activities-events,objects,musical-instrument,,
 🥁,"drum",3.0,drum|drumsticks|music,activities-events,objects,musical-instrument,,
@@ -3161,8 +3323,9 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 📑,"bookmark tabs",0.6,bookmark|mark|marker|tabs,objects,objects,book-paper,,
 🔖,"bookmark",0.6,bookmark|mark,objects,objects,book-paper,,
 🏷️,"label",0.7,label|tag,objects,objects,book-paper,,
-💰,"money bag",0.6,bag|bank|bet|billion|cash|cost|dollar|gold|million|money|moneybag|paid|paying|pot|rich|win,objects,objects,money,,
 🪙,"coin",13.0,coin|dollar|euro|gold|metal|money|rich|silver|treasure,objects,objects,money,,
+💰,"money bag",0.6,bag|bank|bet|billion|cash|cost|dollar|gold|million|money|moneybag|paid|paying|pot|rich|win,objects,objects,money,,
+🪎,"treasure chest",17.0,gem|gold|jewels|loot|money|prize|silver|valuables|wealth,objects,objects,money,,
 💴,"yen banknote",0.6,bank|banknote|bill|currency|money|note|yen,objects,objects,money,,
 💵,"dollar banknote",0.6,bank|banknote|bill|currency|dollar|money|note,objects,objects,money,,
 💶,"euro banknote",1.0,100|bank|banknote|bill|currency|euro|money|note|rich,objects,objects,money,,
@@ -3435,16 +3598,16 @@ emoji,description,version,keywords,category,group,subgroup,parent,components
 🫟,"splatter",16.0,drip|holi|ink|liquid|mess|paint|spill|splatter|stain,symbols,symbols,other-symbol,,
 #️⃣,"keycap: #",0.6,keycap,symbols,symbols,keycap,,
 *️⃣,"keycap: *",2.0,keycap,symbols,symbols,keycap,,
-0️⃣,"keycap: 0",0.6,keycap,symbols,symbols,keycap,,
-1️⃣,"keycap: 1",0.6,keycap,symbols,symbols,keycap,,
-2️⃣,"keycap: 2",0.6,keycap,symbols,symbols,keycap,,
-3️⃣,"keycap: 3",0.6,keycap,symbols,symbols,keycap,,
-4️⃣,"keycap: 4",0.6,keycap,symbols,symbols,keycap,,
-5️⃣,"keycap: 5",0.6,keycap,symbols,symbols,keycap,,
-6️⃣,"keycap: 6",0.6,keycap,symbols,symbols,keycap,,
-7️⃣,"keycap: 7",0.6,keycap,symbols,symbols,keycap,,
-8️⃣,"keycap: 8",0.6,keycap,symbols,symbols,keycap,,
-9️⃣,"keycap: 9",0.6,keycap,symbols,symbols,keycap,,
+0️⃣,"keycap: 0",0.6,0|keycap|zero,symbols,symbols,keycap,,
+1️⃣,"keycap: 1",0.6,1|keycap|one,symbols,symbols,keycap,,
+2️⃣,"keycap: 2",0.6,2|keycap|two,symbols,symbols,keycap,,
+3️⃣,"keycap: 3",0.6,3|keycap|three,symbols,symbols,keycap,,
+4️⃣,"keycap: 4",0.6,4|four|keycap,symbols,symbols,keycap,,
+5️⃣,"keycap: 5",0.6,5|five|keycap,symbols,symbols,keycap,,
+6️⃣,"keycap: 6",0.6,6|keycap|six,symbols,symbols,keycap,,
+7️⃣,"keycap: 7",0.6,7|keycap|seven,symbols,symbols,keycap,,
+8️⃣,"keycap: 8",0.6,8|eight|keycap,symbols,symbols,keycap,,
+9️⃣,"keycap: 9",0.6,9|keycap|nine,symbols,symbols,keycap,,
 🔟,"keycap: 10",0.6,keycap,symbols,symbols,keycap,,
 🔠,"input latin uppercase",0.6,ABCD|input|latin|letters|uppercase,symbols,symbols,alphanum,,
 🔡,"input latin lowercase",0.6,abcd|input|latin|letters|lowercase,symbols,symbols,alphanum,,
