@@ -5,7 +5,7 @@
   "homepage": "https://emoji.julien-marcou.fr/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/julien-marcou/unicode-emoji"
+    "url": "git+https://github.com/julien-marcou/unicode-emoji.git"
   },
   "keywords": [
     "unicode",
