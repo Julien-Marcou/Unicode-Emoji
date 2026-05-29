@@ -1,7 +1,7 @@
 # Unicode Emoji
 
 [![NPM Package](https://img.shields.io/npm/v/unicode-emoji?label=release&color=%23cd2620&logo=npm)](https://www.npmjs.com/package/unicode-emoji)
-[![Unicode Emoji v16](https://img.shields.io/badge/emoji-v16-yellow?logo=unicode&logoColor=yellow)](https://unicode.org/Public/emoji/16.0/)
+[![Unicode Emoji v17](https://img.shields.io/badge/emoji-v17-yellow?logo=unicode&logoColor=yellow)](https://unicode.org/Public/emoji/17.0/)
 [![GitHub Repository](https://img.shields.io/github/stars/Julien-Marcou/Unicode-Emoji?color=%23f5f5f5&logo=github)](https://github.com/Julien-Marcou/Unicode-Emoji)
 
 ![Downloads per Month](https://img.shields.io/npm/dm/unicode-emoji)
@@ -12,7 +12,7 @@
 
 Raw data for Unicode Emoji 🙂
 
-The data are generated using the `Unicode Emoji, Version 16.0` from [Unicode](https://home.unicode.org/emoji/about-emoji/).
+The data are generated using the `Unicode Emoji, Version 17.0` from [Unicode](https://home.unicode.org/emoji/about-emoji/).
 
 You can learn more about emojis at [Emojipedia](https://emojipedia.org/) or find some implementation details and trivia on the [Wiki](https://github.com/Julien-Marcou/Unicode-Emoji/wiki).
 
@@ -206,13 +206,13 @@ unicodeEmoji.getEmojisGroupedBy(groupBy, omitWhere);
 Keep in mind that :
 
 ```javascript
-const omitWhere = { versionAbove: '13.0' };
+const omitWhere = { versionAbove: '14.0' };
 ```
 
 Is equivalent to :
 
 ```javascript
-const omitWhere = { version: ['13.1', '14.0', '15.0', '15.1', '16.0'] };
+const omitWhere = { version: ['15.0', '15.1', '16.0', '17.0'] };
 ```
 
 But you should always use the first one, as it will be future-proof for when new versions of `unicode-emoji` are released.
