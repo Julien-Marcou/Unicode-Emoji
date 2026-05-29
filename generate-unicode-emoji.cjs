@@ -5,8 +5,8 @@ const htmlparser2 = require('htmlparser2');
 
 /* ------------- PARAMETERS ------------- */
 
-const unicodeEmojiVersion = '16.0';
-const unicodeCldrVersion = '46';
+const unicodeEmojiVersion = '17.0.0';
+const unicodeCldrVersion = '48-2';
 const unicodeCldrLocale = 'en';
 
 
@@ -59,7 +59,7 @@ const overrideSubgroupForEmojis = {
 /* ------------- FILES CONFIG ------------- */
 
 // File paths
-const emojisInput = `https://unicode.org/Public/emoji/${unicodeEmojiVersion}/emoji-test.txt`;
+const emojisInput = `https://unicode.org/Public/${unicodeEmojiVersion}/emoji/emoji-test.txt`;
 const annotationsInput = `https://raw.githubusercontent.com/unicode-org/cldr/release-${unicodeCldrVersion}/common/annotations/${unicodeCldrLocale}.xml`;
 const derivedAnnotationsInput = `https://raw.githubusercontent.com/unicode-org/cldr/release-${unicodeCldrVersion}/common/annotationsDerived/${unicodeCldrLocale}.xml`;
 const csvOutput = `${__dirname}/unicode-emoji.csv`;
