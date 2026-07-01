@@ -54,6 +54,11 @@ const overrideCategoryForEmojis = {
 const overrideSubgroupForEmojis = {
   '👪': 'family',
 };
+const overrideBaseEmoji = {
+  '👩‍❤️‍💋‍👨': 'kiss: woman, man',
+  '👨‍❤️‍💋‍👨': 'kiss: man, man',
+  '👩‍❤️‍💋‍👩': 'kiss: woman, woman',
+};
 
 
 /* ------------- FILES CONFIG ------------- */
@@ -211,7 +216,7 @@ function processEmojiLine(line) {
       }
 
       // Variation of an emoji
-      const baseDescription = description.split(baseDescriptionSeparator)[0];
+      const baseDescription = getBaseDescription(description);
       if (groupsWithVariations.includes(emojiGroup) && baseEmojis.has(baseDescription)) {
         const baseEmoji = baseEmojis.get(baseDescription);
         if (!baseEmoji.variations) {
@@ -241,7 +246,7 @@ function consolidateEmojiVariations() {
   // to check if an emoji cannot be associated with another emoji
   baseEmojis.forEach((emojiVariation) => {
     // If the emoji is proven to be a variation
-    const baseDescription = emojiVariation.description.split(baseDescriptionSeparator)[0];
+    const baseDescription = getBaseDescription(emojiVariation.description);
     if (groupsWithVariations.includes(emojiVariation.group) && baseEmojis.has(baseDescription)) {
       const baseEmoji = baseEmojis.get(baseDescription);
       if (baseEmoji === emojiVariation) {
@@ -264,6 +269,11 @@ function consolidateEmojiVariations() {
       results.emojis.splice(results.emojis.indexOf(emojiVariation), 1);
     }
   });
+}
+
+function getBaseDescription(description) {
+  const overrideBaseDescription = Object.values(overrideBaseEmoji).find((baseDescription) => description.startsWith(baseDescription));
+  return overrideBaseDescription ?? description.split(baseDescriptionSeparator)[0]
 }
 
 function consolidateEmojiVariationsWithComponents() {
