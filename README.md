@@ -33,66 +33,63 @@ npm install unicode-emoji
 
 ## 🧰 Usage
 
-This NPM package uses the ECMAScript Modules system, so the easiest way to use it, is with a Bundler (like WebPack), so you don't have to worry about how to make it available and import it.
+This NPM package is ESM-only, so the easiest way to use it is with a bundler (e.g. webpack, esbuild, ...), which means you don't have to worry about how to make it available and import it.
 
-### With a Bundler
+### With a bundler
 
-You can simply import it wherever you need it :
-
-```javascript
-import * as unicodeEmoji from 'unicode-emoji';
-```
-
-### With Node.js
-
-ES Modules are only supported since Node.js v14.
-
-#### Targeting CommonJS
-
-When targeting CommonJS, you don't have access to static import, so you'll have to use dynamic import :
+You can simply import it wherever you need it:
 
 ```javascript
-const unicodeEmoji = await import('unicode-emoji');
+import { ... } from 'unicode-emoji';
 ```
 
-Also, you'll need to import it inside an async function, as top-level await is not supported for CommonJS.
+### Without a bundler
 
-#### Targeting ES Module
+#### From Node.js
 
-When setting `"type": "module"` inside your `package.json` or when importing it from a `.mjs` file, you can simply use the ES6 import syntax :
+If you are targeting ESM, you can simply use the import syntax:
 
 ```javascript
-import * as unicodeEmoji from 'unicode-emoji';
+import { ... } from 'unicode-emoji';
 ```
 
-### From a web browser
+But if you are targeting CommonJS, you don't have access to static import, so you'll have to use a dynamic import from an async function, as top-level await is not supported for CommonJS.
 
-If you are not using a bundler, you'll have to expose the `unicode-emoji/index.js` file so it is accessible from the web.
+```javascript
+async function importUnicodeEmoji() {
+  const unicodeEmoji = await import('unicode-emoji');
+  // ... so something
+}
 
-#### Using the full path
+importUnicodeEmoji().catch((error) => console.error(error));
+```
+
+
+#### From a web browser
+
+If you are not using a bundler, you'll have to expose the `/node_modules/unicode-emoji/index.js` file so it is accessible from the web, and import it in your HTML using a `module` script.
+
+The easiest way to import the package is using the exposed full path:
 
 ```html
 <script type="module">
-  import * as unicodeEmoji from '/node_modules/unicode-emoji/index.js';
+  import { ... } from '/node_modules/unicode-emoji/index.js';
 </script>
 ```
-#### Using Import Maps
 
-[Import Maps](https://wicg.github.io/import-maps/) can be very useful when you have several dependencies between different modules, as it allows you to import modules using their names instead of their full path.
-
-But they are not implemented in any browser yet, so you'll have to use a polyfill :
+However, if you plan to re-use or share the package in other modules, I recommend you to use an [Import Map](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/script/type/importmap/), so that you can directly import the package using its name, just like you would with a bundler:
 
 ```html
-<script async src="https://unpkg.com/es-module-shims@0.12.1/dist/es-module-shims.js"></script>
-<script type="importmap-shim">
+<script type="importmap">
   {
     "imports": {
       "unicode-emoji": "/node_modules/unicode-emoji/index.js"
     }
   }
 </script>
-<script type="module-shim">
-  import * as unicodeEmoji from 'unicode-emoji';
+
+<script type="module">
+  import { ... } from 'unicode-emoji';
 </script>
 ```
 
@@ -183,7 +180,8 @@ unicodeEmoji.getComponents();
 
 You can group & filter emojis by category, group, subgroup or version
 
-Here is an example :
+Here is an example:
+
  - grouped by category
  - without emojis from the flags category
  - without emojis from the 0.6 & 0.7 versions
@@ -203,13 +201,13 @@ unicodeEmoji.getEmojisGroupedBy(groupBy);
 unicodeEmoji.getEmojisGroupedBy(groupBy, omitWhere);
 ```
 
-Keep in mind that :
+Keep in mind that:
 
 ```javascript
 const omitWhere = { versionAbove: '14.0' };
 ```
 
-Is equivalent to :
+Is equivalent to:
 
 ```javascript
 const omitWhere = { version: ['15.0', '15.1', '16.0', '17.0'] };
@@ -222,7 +220,8 @@ So that updating your dependencies will not opt you into newer emojis that are n
 
 ## 📋 Details
 
-While complete data are available on GitHub :
+While complete data are available on GitHub:
+
  - `unicode-emoji.csv` provides complete flat data
  - `unicode-emoji.json` provides complete hierarchical data
 
