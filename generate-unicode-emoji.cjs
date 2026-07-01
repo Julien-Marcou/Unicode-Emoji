@@ -58,6 +58,9 @@ const overrideBaseEmoji = {
   '👩‍❤️‍💋‍👨': 'kiss: woman, man',
   '👨‍❤️‍💋‍👨': 'kiss: man, man',
   '👩‍❤️‍💋‍👩': 'kiss: woman, woman',
+  '👩‍❤️‍👨': 'couple with heart: woman, man',
+  '👨‍❤️‍👨': 'couple with heart: man, man',
+  '👩‍❤️‍👩': 'couple with heart: woman, woman',
 };
 
 

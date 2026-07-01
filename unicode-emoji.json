@@ -64069,37 +64069,42 @@
             "🏿",
             "🏾"
           ]
-        },
-        {
-          "emoji": "👩‍❤️‍👨",
-          "description": "couple with heart: woman, man",
-          "version": "2.0",
-          "keywords": [
-            "anniversary",
-            "babe",
-            "bae",
-            "couple",
-            "dating",
-            "heart",
-            "kiss",
-            "love",
-            "man",
-            "person",
-            "relationship",
-            "romance",
-            "together",
-            "woman",
-            "you"
-          ],
-          "codePoints": [
-            "1F469",
-            "200D",
-            "2764",
-            "FE0F",
-            "200D",
-            "1F468"
-          ]
-        },
+        }
+      ]
+    },
+    {
+      "emoji": "👩‍❤️‍👨",
+      "description": "couple with heart: woman, man",
+      "version": "2.0",
+      "keywords": [
+        "anniversary",
+        "babe",
+        "bae",
+        "couple",
+        "dating",
+        "heart",
+        "kiss",
+        "love",
+        "man",
+        "person",
+        "relationship",
+        "romance",
+        "together",
+        "woman",
+        "you"
+      ],
+      "codePoints": [
+        "1F469",
+        "200D",
+        "2764",
+        "FE0F",
+        "200D",
+        "1F468"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "family",
+      "variations": [
         {
           "emoji": "👩🏻‍❤️‍👨🏻",
           "description": "couple with heart: woman, man, light skin tone",
@@ -65039,36 +65044,41 @@
           "components": [
             "🏿"
           ]
-        },
-        {
-          "emoji": "👨‍❤️‍👨",
-          "description": "couple with heart: man, man",
-          "version": "2.0",
-          "keywords": [
-            "anniversary",
-            "babe",
-            "bae",
-            "couple",
-            "dating",
-            "heart",
-            "kiss",
-            "love",
-            "man",
-            "person",
-            "relationship",
-            "romance",
-            "together",
-            "you"
-          ],
-          "codePoints": [
-            "1F468",
-            "200D",
-            "2764",
-            "FE0F",
-            "200D",
-            "1F468"
-          ]
-        },
+        }
+      ]
+    },
+    {
+      "emoji": "👨‍❤️‍👨",
+      "description": "couple with heart: man, man",
+      "version": "2.0",
+      "keywords": [
+        "anniversary",
+        "babe",
+        "bae",
+        "couple",
+        "dating",
+        "heart",
+        "kiss",
+        "love",
+        "man",
+        "person",
+        "relationship",
+        "romance",
+        "together",
+        "you"
+      ],
+      "codePoints": [
+        "1F468",
+        "200D",
+        "2764",
+        "FE0F",
+        "200D",
+        "1F468"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "family",
+      "variations": [
         {
           "emoji": "👨🏻‍❤️‍👨🏻",
           "description": "couple with heart: man, man, light skin tone",
@@ -65983,36 +65993,41 @@
           "components": [
             "🏿"
           ]
-        },
-        {
-          "emoji": "👩‍❤️‍👩",
-          "description": "couple with heart: woman, woman",
-          "version": "2.0",
-          "keywords": [
-            "anniversary",
-            "babe",
-            "bae",
-            "couple",
-            "dating",
-            "heart",
-            "kiss",
-            "love",
-            "person",
-            "relationship",
-            "romance",
-            "together",
-            "woman",
-            "you"
-          ],
-          "codePoints": [
-            "1F469",
-            "200D",
-            "2764",
-            "FE0F",
-            "200D",
-            "1F469"
-          ]
-        },
+        }
+      ]
+    },
+    {
+      "emoji": "👩‍❤️‍👩",
+      "description": "couple with heart: woman, woman",
+      "version": "2.0",
+      "keywords": [
+        "anniversary",
+        "babe",
+        "bae",
+        "couple",
+        "dating",
+        "heart",
+        "kiss",
+        "love",
+        "person",
+        "relationship",
+        "romance",
+        "together",
+        "woman",
+        "you"
+      ],
+      "codePoints": [
+        "1F469",
+        "200D",
+        "2764",
+        "FE0F",
+        "200D",
+        "1F469"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "family",
+      "variations": [
         {
           "emoji": "👩🏻‍❤️‍👩🏻",
           "description": "couple with heart: woman, woman, light skin tone",
