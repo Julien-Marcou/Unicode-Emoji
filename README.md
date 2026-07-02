@@ -33,11 +33,11 @@ npm install unicode-emoji
 
 ## 🧰 Usage
 
-This NPM package is ESM-only, so the easiest way to use it is with a bundler (e.g. webpack, esbuild, ...), which means you don't have to worry about how to make it available and import it.
+This package is ESM-only. The recommended way to use it is with a bundler (e.g. webpack, esbuild, ...), which handles module resolution for you.
 
 ### With a bundler
 
-You can simply import it wherever you need it:
+Simply import it wherever you need it:
 
 ```javascript
 import { ... } from 'unicode-emoji';
@@ -47,29 +47,28 @@ import { ... } from 'unicode-emoji';
 
 #### From Node.js
 
-If you are targeting ESM, you can simply use the import syntax:
+If you are targeting ESM, you can use the import syntax:
 
 ```javascript
 import { ... } from 'unicode-emoji';
 ```
 
-But if you are targeting CommonJS, you don't have access to static import, so you'll have to use a dynamic import from an async function, as top-level await is not supported for CommonJS.
+If you are targeting CommonJS, you don't have access to static import, so you'll need to use a dynamic import from an async function.
 
 ```javascript
 async function importUnicodeEmoji() {
   const unicodeEmoji = await import('unicode-emoji');
-  // ... so something
+  // ... do something
 }
 
 importUnicodeEmoji().catch((error) => console.error(error));
 ```
 
-
 #### From a web browser
 
-If you are not using a bundler, you'll have to expose the `/node_modules/unicode-emoji/index.js` file so it is accessible from the web, and import it in your HTML using a `module` script.
+If you are not using a bundler, you'll need to expose the `/node_modules/unicode-emoji/index.js` file so it is accessible from the web, then import it in your HTML using a `module` script.
 
-The easiest way to import the package is using the exposed full path:
+The simplest approach is to import the file directly:
 
 ```html
 <script type="module">
@@ -77,7 +76,7 @@ The easiest way to import the package is using the exposed full path:
 </script>
 ```
 
-However, if you plan to re-use or share the package in other modules, I recommend you to use an [Import Map](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/script/type/importmap/), so that you can directly import the package using its name, just like you would with a bundler:
+However, if you plan to re-use or share the package in other modules, I recommend you to use an [Import Map](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/script/type/importmap/), so that you can directly import the package using its name, just as you would with a bundler:
 
 ```html
 <script type="importmap">
@@ -99,7 +98,9 @@ However, if you plan to re-use or share the package in other modules, I recommen
 ### Retrieve emojis
 
 ```javascript
-unicodeEmoji.getEmojis();
+import { getEmojis } from 'unicode-emoji';
+
+getEmojis();
 ```
 
 ```javascript
@@ -142,7 +143,9 @@ unicodeEmoji.getEmojis();
 ### Retrieve components
 
 ```javascript
-unicodeEmoji.getComponents();
+import { getComponents } from 'unicode-emoji';
+
+getComponents();
 ```
 
 ```javascript
@@ -188,17 +191,19 @@ Here is an example:
  - without emojis from all versions above version 12.0 (does not exclude emojis from the version 12.0)
 
 ```javascript
+import { getEmojis, getEmojisGroupedBy } from 'unicode-emoji';
+
 const groupBy = 'category';
 const omitWhere = { versionAbove: '12.0', category: ['flags'], version: ['0.6', '0.7'] };
 
 // Only omitting
-unicodeEmoji.getEmojis(omitWhere);
+getEmojis(omitWhere);
 
 // Only grouping
-unicodeEmoji.getEmojisGroupedBy(groupBy);
+getEmojisGroupedBy(groupBy);
 
 // Grouping and omitting
-unicodeEmoji.getEmojisGroupedBy(groupBy, omitWhere);
+getEmojisGroupedBy(groupBy, omitWhere);
 ```
 
 Keep in mind that:
