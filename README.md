@@ -76,7 +76,7 @@ The simplest approach is to import the file directly:
 </script>
 ```
 
-However, if you plan to re-use or share the package in other modules, I recommend you to use an [Import Map](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/script/type/importmap/), so that you can directly import the package using its name, just as you would with a bundler:
+However, if you plan to re-use or share the package in other modules, I recommend using an [Import Map](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/script/type/importmap/), so that you can directly import the package using its name, just as you would with a bundler:
 
 ```html
 <script type="importmap">
@@ -220,7 +220,7 @@ const omitWhere = { version: ['15.0', '15.1', '16.0', '17.0'] };
 
 But you should always use the first one, as it will be future-proof for when new versions of `unicode-emoji` are released.
 
-So that updating your dependencies will not opt you into newer emojis that are not yet supported on every platforms.
+So that updating your dependencies will not opt you into newer emojis that are not yet supported on every platform.
 
 
 ## 📋 Details
